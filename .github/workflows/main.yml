@@ -1,0 +1,32 @@
+---
+name: Scheduled update
+on:
+  schedule:
+    - cron: '* 0,12 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    permissions:
+      id-token: write
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Configure AWS Credentials"
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: us-east-1
+          role-to-assume: ${{ secrets.ROLE_ARN }}
+          mask-aws-account-id: true
+          role-duration-seconds: 1200
+          output-credentials: false
+      - name: "Git check out"
+        uses: actions/checkout@v4
+      - name: "Fetch roles"
+        run: |
+          python3 -m pip install boto3
+          python3 fetch.py
+      - name: "Git commit and push"
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '*'
+          author_name: 'AWS Policy Tracker Bot'
