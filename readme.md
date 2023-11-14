@@ -36,7 +36,7 @@
 | AWSApplicationAutoscalingLambdaConcurrencyPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingLambdaConcurrencyPolicy.json) |
 | AWSApplicationAutoscalingNeptuneClusterPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingNeptuneClusterPolicy.json) |
 | AWSApplicationAutoscalingRDSClusterPolicy | /aws-service-role/ | [v3](./policies/AWSApplicationAutoscalingRDSClusterPolicy.json) |
-| AWSApplicationAutoscalingSageMakerEndpointPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingSageMakerEndpointPolicy.json) |
+| AWSApplicationAutoscalingSageMakerEndpointPolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingSageMakerEndpointPolicy.json) |
 | AWSApplicationDiscoveryAgentAccess | / | [v2](./policies/AWSApplicationDiscoveryAgentAccess.json) |
 | AWSApplicationDiscoveryAgentlessCollectorAccess | / | [v1](./policies/AWSApplicationDiscoveryAgentlessCollectorAccess.json) |
 | AWSApplicationDiscoveryServiceFullAccess | / | [v4](./policies/AWSApplicationDiscoveryServiceFullAccess.json) |
@@ -186,7 +186,7 @@
 | AWSEC2FleetServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSEC2FleetServiceRolePolicy.json) |
 | AWSEC2SpotFleetServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotFleetServiceRolePolicy.json) |
 | AWSEC2SpotServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotServiceRolePolicy.json) |
-| AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
+| AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v2](./policies/AWSElasticBeanstalkMaintenance.json) |
@@ -240,11 +240,11 @@
 | AWSFMAdminFullAccess | / | [v2](./policies/AWSFMAdminFullAccess.json) |
 | AWSFMAdminReadOnlyAccess | / | [v2](./policies/AWSFMAdminReadOnlyAccess.json) |
 | AWSFMMemberReadOnlyAccess | / | [v1](./policies/AWSFMMemberReadOnlyAccess.json) |
-| AWSFaultInjectionSimulatorEC2Access | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorEC2Access.json) |
+| AWSFaultInjectionSimulatorEC2Access | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorEC2Access.json) |
 | AWSFaultInjectionSimulatorECSAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorECSAccess.json) |
-| AWSFaultInjectionSimulatorEKSAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorEKSAccess.json) |
+| AWSFaultInjectionSimulatorEKSAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorEKSAccess.json) |
 | AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v1](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
-| AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v1](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
+| AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
 | AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSForWordPressPluginPolicy | / | [v2](./policies/AWSForWordPressPluginPolicy.json) |
@@ -311,6 +311,7 @@
 | AWSIoTSiteWiseMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIoTSiteWiseMonitorServiceRolePolicy.json) |
 | AWSIoTSiteWiseReadOnlyAccess | / | [v2](./policies/AWSIoTSiteWiseReadOnlyAccess.json) |
 | AWSIoTThingsRegistration | /service-role/ | [v3](./policies/AWSIoTThingsRegistration.json) |
+| AWSIoTTwinMakerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIoTTwinMakerServiceRolePolicy.json) |
 | AWSIoTWirelessDataAccess | / | [v1](./policies/AWSIoTWirelessDataAccess.json) |
 | AWSIoTWirelessFullAccess | / | [v1](./policies/AWSIoTWirelessFullAccess.json) |
 | AWSIoTWirelessFullPublishAccess | / | [v1](./policies/AWSIoTWirelessFullPublishAccess.json) |
@@ -479,7 +480,7 @@
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
 | AWSServiceRoleForImageBuilder | /aws-service-role/ | [v19](./policies/AWSServiceRoleForImageBuilder.json) |
-| AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v7](./policies/AWSServiceRoleForIoTSiteWise.json) |
+| AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForMonitronPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
