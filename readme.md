@@ -439,8 +439,9 @@
 | AWSResourceAccessManagerReadOnlyAccess | / | [v1](./policies/AWSResourceAccessManagerReadOnlyAccess.json) |
 | AWSResourceAccessManagerResourceShareParticipantAccess | / | [v1](./policies/AWSResourceAccessManagerResourceShareParticipantAccess.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerFullAccess | / | [v1](./policies/AWSResourceExplorerFullAccess.json) |
-| AWSResourceExplorerReadOnlyAccess | / | [v1](./policies/AWSResourceExplorerReadOnlyAccess.json) |
+| AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
+| AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
+| AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
 | AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
