@@ -136,7 +136,8 @@
                 "wisdom:ListImportJobs",
                 "wisdom:ListQuickResponses",
                 "wisdom:UpdateQuickResponse",
-                "wisdom:DeleteQuickResponse"
+                "wisdom:DeleteQuickResponse",
+                "wisdom:PutFeedback"
             ],
             "Resource": "*",
             "Condition": {
