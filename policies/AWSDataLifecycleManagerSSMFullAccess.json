@@ -37,7 +37,8 @@
                 "ssm:GetDocument"
             ],
             "Resource": [
-                "arn:aws:ssm:*:*:document/AWSEC2-CreateVssSnapshot"
+                "arn:aws:ssm:*:*:document/AWSEC2-CreateVssSnapshot",
+                "arn:aws:ssm:*:*:document/AWSSystemsManagerSAP-CreateDLMSnapshotForSAPHANA"
             ]
         },
         {

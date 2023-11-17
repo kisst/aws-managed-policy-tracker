@@ -2,6 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
+            "Sid": "redshiftDataScopeDownPermissions",
             "Effect": "Allow",
             "Action": [
                 "redshift-data:BatchExecuteStatement",
@@ -22,11 +23,13 @@
             }
         },
         {
+            "Sid": "listSecretsPermission",
             "Effect": "Allow",
             "Action": "secretsmanager:ListSecrets",
             "Resource": "*"
         },
         {
+            "Sid": "getWorkgroupPermission",
             "Effect": "Allow",
             "Action": "redshift-serverless:GetWorkgroup",
             "Resource": [
@@ -39,6 +42,7 @@
             }
         },
         {
+            "Sid": "getNamespacePermission",
             "Effect": "Allow",
             "Action": "redshift-serverless:GetNamespace",
             "Resource": [
@@ -51,6 +55,7 @@
             }
         },
         {
+            "Sid": "redshiftDataPermissions",
             "Effect": "Allow",
             "Action": [
                 "redshift-data:DescribeStatement",
@@ -60,6 +65,7 @@
             "Resource": "*"
         },
         {
+            "Sid": "dataSharesPermissions",
             "Effect": "Allow",
             "Action": [
                 "redshift:AuthorizeDataShare",
@@ -75,14 +81,10 @@
             }
         },
         {
+            "Sid": "associateDataShareConsumerPermission",
             "Effect": "Allow",
             "Action": "redshift:AssociateDataShareConsumer",
-            "Resource": "arn:aws:redshift:*:*:datashare:*/datazone*",
-            "Condition": {
-                "StringEquals": {
-                    "aws:ResourceOrgID": "${aws:PrincipalOrgID}"
-                }
-            }
+            "Resource": "arn:aws:redshift:*:*:datashare:*/datazone*"
         }
     ]
 }

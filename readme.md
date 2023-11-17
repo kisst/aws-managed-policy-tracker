@@ -144,7 +144,7 @@
 | AWSConfigRole | /service-role/ | [v42](./policies/AWSConfigRole.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v47](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v48](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -156,7 +156,7 @@
 | AWSDataExchangeProviderFullAccess | / | [v11](./policies/AWSDataExchangeProviderFullAccess.json) |
 | AWSDataExchangeReadOnly | / | [v2](./policies/AWSDataExchangeReadOnly.json) |
 | AWSDataExchangeSubscriberFullAccess | / | [v6](./policies/AWSDataExchangeSubscriberFullAccess.json) |
-| AWSDataLifecycleManagerSSMFullAccess | /service-role/ | [v1](./policies/AWSDataLifecycleManagerSSMFullAccess.json) |
+| AWSDataLifecycleManagerSSMFullAccess | /service-role/ | [v2](./policies/AWSDataLifecycleManagerSSMFullAccess.json) |
 | AWSDataLifecycleManagerServiceRole | /service-role/ | [v7](./policies/AWSDataLifecycleManagerServiceRole.json) |
 | AWSDataLifecycleManagerServiceRoleForAMIManagement | /service-role/ | [v2](./policies/AWSDataLifecycleManagerServiceRoleForAMIManagement.json) |
 | AWSDataPipeline_FullAccess | / | [v2](./policies/AWSDataPipeline_FullAccess.json) |
@@ -248,6 +248,7 @@
 | AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSForWordPressPluginPolicy | / | [v2](./policies/AWSForWordPressPluginPolicy.json) |
+| AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSGitSyncServiceRolePolicy.json) |
 | AWSGlobalAcceleratorSLRPolicy | /aws-service-role/ | [v8](./policies/AWSGlobalAcceleratorSLRPolicy.json) |
 | AWSGlueConsoleFullAccess | / | [v14](./policies/AWSGlueConsoleFullAccess.json) |
 | AWSGlueConsoleSageMakerNotebookFullAccess | / | [v3](./policies/AWSGlueConsoleSageMakerNotebookFullAccess.json) |
@@ -461,8 +462,8 @@
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
-| AWSSecurityHubFullAccess | / | [v1](./policies/AWSSecurityHubFullAccess.json) |
-| AWSSecurityHubOrganizationsAccess | / | [v1](./policies/AWSSecurityHubOrganizationsAccess.json) |
+| AWSSecurityHubFullAccess | / | [v2](./policies/AWSSecurityHubFullAccess.json) |
+| AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v3](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
@@ -627,7 +628,7 @@
 | AmazonDataZoneProjectDeploymentPermissionsBoundary | / | [v2](./policies/AmazonDataZoneProjectDeploymentPermissionsBoundary.json) |
 | AmazonDataZoneProjectRolePermissionsBoundary | / | [v1](./policies/AmazonDataZoneProjectRolePermissionsBoundary.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v2](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
-| AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v1](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
+| AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
 | AmazonDetectiveInvestigatorAccess | / | [v2](./policies/AmazonDetectiveInvestigatorAccess.json) |
 | AmazonDetectiveMemberAccess | / | [v1](./policies/AmazonDetectiveMemberAccess.json) |
@@ -739,9 +740,9 @@
 | AmazonGrafanaCloudWatchAccess | /service-role/ | [v1](./policies/AmazonGrafanaCloudWatchAccess.json) |
 | AmazonGrafanaRedshiftAccess | /service-role/ | [v1](./policies/AmazonGrafanaRedshiftAccess.json) |
 | AmazonGrafanaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGrafanaServiceLinkedRolePolicy.json) |
-| AmazonGuardDutyFullAccess | / | [v4](./policies/AmazonGuardDutyFullAccess.json) |
+| AmazonGuardDutyFullAccess | / | [v5](./policies/AmazonGuardDutyFullAccess.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
-| AmazonGuardDutyReadOnlyAccess | / | [v3](./policies/AmazonGuardDutyReadOnlyAccess.json) |
+| AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
 | AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
 | AmazonHealthLakeReadOnlyAccess | / | [v1](./policies/AmazonHealthLakeReadOnlyAccess.json) |
@@ -1040,6 +1041,7 @@
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v7](./policies/DynamoDBReplicationServiceRolePolicy.json) |
 | EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
+| EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
 | EC2InstanceProfileForImageBuilder | / | [v3](./policies/EC2InstanceProfileForImageBuilder.json) |
 | EC2InstanceProfileForImageBuilderECRContainerBuilds | / | [v1](./policies/EC2InstanceProfileForImageBuilderECRContainerBuilds.json) |
