@@ -434,7 +434,7 @@
 | AWSQuicksightAthenaAccess | /service-role/ | [v10](./policies/AWSQuicksightAthenaAccess.json) |
 | AWSQuicksightOpenSearchPolicy | /service-role/ | [v1](./policies/AWSQuicksightOpenSearchPolicy.json) |
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
-| AWSRefactoringToolkitFullAccess | / | [v3](./policies/AWSRefactoringToolkitFullAccess.json) |
+| AWSRefactoringToolkitFullAccess | / | [v4](./policies/AWSRefactoringToolkitFullAccess.json) |
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSResilienceHubAsssessmentExecutionPolicy | / | [v3](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
 | AWSResourceAccessManagerFullAccess | / | [v1](./policies/AWSResourceAccessManagerFullAccess.json) |
