@@ -38,7 +38,8 @@
                 "appsync:StartSchemaCreation",
                 "appsync:UpdateResolver",
                 "appsync:ListFunctions",
-                "appsync:UpdateFunction"
+                "appsync:UpdateFunction",
+                "appsync:UpdateApiKey"
             ],
             "Resource": [
                 "*"
@@ -71,7 +72,12 @@
                 "arn:aws:iam::*:role/cdk-*-file-publishing-role-*-*",
                 "arn:aws:iam::*:role/cdk-*-image-publishing-role-*-*",
                 "arn:aws:iam::*:role/cdk-*-lookup-role-*-*"
-            ]
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
         },
         {
             "Sid": "AmplifySSM",
@@ -83,7 +89,12 @@
             ],
             "Resource": [
                 "arn:aws:ssm:*:*:parameter/amplify/*"
-            ]
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
         },
         {
             "Sid": "AmplifyModifySSMParam",

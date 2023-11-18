@@ -291,6 +291,19 @@
             "Resource": "*"
         },
         {
+            "Sid": "QueryOperationsWithResourceTag",
+            "Effect": "Allow",
+            "Action": [
+                "athena:GetQueryResultsStream"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "Null": {
+                    "aws:ResourceTag/AmazonDataZoneEnvironment": "false"
+                }
+            }
+        },
+        {
             "Sid": "SecretsManagerOperationsWithTagKeys",
             "Effect": "Allow",
             "Action": [
@@ -380,6 +393,7 @@
                 "athena:GetPreparedStatement",
                 "athena:GetQueryExecution",
                 "athena:GetQueryResults",
+                "athena:GetQueryResultsStream",
                 "athena:GetQueryRuntimeStatistics",
                 "athena:GetTableMetadata",
                 "athena:GetWorkGroup",

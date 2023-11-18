@@ -452,7 +452,7 @@
 | AWSRoboMaker_FullAccess | / | [v2](./policies/AWSRoboMaker_FullAccess.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
-| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v4](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
+| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
 | AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
@@ -528,7 +528,7 @@
 | AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
 | AWSVPCS2SVpnServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSVPCS2SVpnServiceRolePolicy.json) |
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
-| AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
+| AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
 | AWSVendorInsightsAssessorReadOnly | / | [v2](./policies/AWSVendorInsightsAssessorReadOnly.json) |
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
@@ -546,7 +546,7 @@
 | AWSXrayFullAccess | / | [v1](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v7](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
-| AWS_ConfigRole | /service-role/ | [v27](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v28](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v9](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
@@ -621,7 +621,7 @@
 | AmazonDMSVPCManagementRole | /service-role/ | [v3](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
-| AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v3](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
+| AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v1](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v3](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
@@ -970,7 +970,7 @@
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
-| AmplifyBackendDeployFullAccess | /service-role/ | [v2](./policies/AmplifyBackendDeployFullAccess.json) |
+| AmplifyBackendDeployFullAccess | /service-role/ | [v3](./policies/AmplifyBackendDeployFullAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
