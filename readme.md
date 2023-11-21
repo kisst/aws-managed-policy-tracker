@@ -753,6 +753,7 @@
 | AmazonHoneycodeTeamAssociationReadOnlyAccess | / | [v1](./policies/AmazonHoneycodeTeamAssociationReadOnlyAccess.json) |
 | AmazonHoneycodeWorkbookFullAccess | / | [v2](./policies/AmazonHoneycodeWorkbookFullAccess.json) |
 | AmazonHoneycodeWorkbookReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeWorkbookReadOnlyAccess.json) |
+| AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
 | AmazonInspector2FullAccess | / | [v3](./policies/AmazonInspector2FullAccess.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v5](./policies/AmazonInspector2ReadOnlyAccess.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonInspector2ServiceRolePolicy.json) |
