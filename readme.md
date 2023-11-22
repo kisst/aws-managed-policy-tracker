@@ -984,7 +984,7 @@
 | AutoScalingReadOnlyAccess | / | [v1](./policies/AutoScalingReadOnlyAccess.json) |
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v7](./policies/AutoScalingServiceRolePolicy.json) |
 | AwsGlueDataBrewFullAccessPolicy | / | [v8](./policies/AwsGlueDataBrewFullAccessPolicy.json) |
-| AwsGlueSessionUserRestrictedNotebookPolicy | / | [v1](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
+| AwsGlueSessionUserRestrictedNotebookPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
 | AwsGlueSessionUserRestrictedPolicy | / | [v1](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
