@@ -62,7 +62,9 @@
                 "glue:DeleteColumnStatisticsForTable",
                 "glue:UpdateColumnStatisticsForPartition",
                 "glue:UpdateColumnStatisticsForTable",
-                "lakeformation:GetDataAccess"
+                "lakeformation:GetDataAccess",
+                "s3:GetAccessGrantsInstanceForPrefix",
+                "s3:GetDataAccess"
             ],
             "Resource": "*"
         }
