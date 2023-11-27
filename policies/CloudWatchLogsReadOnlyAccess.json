@@ -2,6 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
+            "Sid": "CloudWatchLogsReadOnlyAccess",
             "Effect": "Allow",
             "Action": [
                 "logs:Describe*",
@@ -12,7 +13,8 @@
                 "logs:TestMetricFilter",
                 "logs:FilterLogEvents",
                 "logs:StartLiveTail",
-                "logs:StopLiveTail"
+                "logs:StopLiveTail",
+                "cloudwatch:GenerateQuery"
             ],
             "Resource": "*"
         }

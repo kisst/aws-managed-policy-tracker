@@ -436,6 +436,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSRefactoringToolkitFullAccess | / | [v4](./policies/AWSRefactoringToolkitFullAccess.json) |
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
+| AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
 | AWSResilienceHubAsssessmentExecutionPolicy | / | [v3](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
 | AWSResourceAccessManagerFullAccess | / | [v1](./policies/AWSResourceAccessManagerFullAccess.json) |
 | AWSResourceAccessManagerReadOnlyAccess | / | [v1](./policies/AWSResourceAccessManagerReadOnlyAccess.json) |
@@ -678,7 +679,7 @@
 | AmazonEKSServicePolicy | / | [v6](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
-| AmazonEKSWorkerNodePolicy | / | [v2](./policies/AmazonEKSWorkerNodePolicy.json) |
+| AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
 | AmazonEKS_CNI_Policy | / | [v4](./policies/AmazonEKS_CNI_Policy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
 | AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRContainersServiceRolePolicy.json) |
@@ -743,7 +744,7 @@
 | AmazonGuardDutyFullAccess | / | [v5](./policies/AmazonGuardDutyFullAccess.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
-| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonGuardDutyServiceRolePolicy.json) |
+| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
 | AmazonHealthLakeReadOnlyAccess | / | [v1](./policies/AmazonHealthLakeReadOnlyAccess.json) |
 | AmazonHoneycodeFullAccess | / | [v1](./policies/AmazonHoneycodeFullAccess.json) |
@@ -841,9 +842,10 @@
 | AmazonPollyFullAccess | / | [v1](./policies/AmazonPollyFullAccess.json) |
 | AmazonPollyReadOnlyAccess | / | [v2](./policies/AmazonPollyReadOnlyAccess.json) |
 | AmazonPrometheusConsoleFullAccess | / | [v3](./policies/AmazonPrometheusConsoleFullAccess.json) |
-| AmazonPrometheusFullAccess | / | [v1](./policies/AmazonPrometheusFullAccess.json) |
+| AmazonPrometheusFullAccess | / | [v2](./policies/AmazonPrometheusFullAccess.json) |
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
+| AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
@@ -1020,8 +1022,8 @@
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
 | CloudWatchLambdaInsightsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaInsightsExecutionRolePolicy.json) |
 | CloudWatchLogsCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchLogsCrossAccountSharingConfiguration.json) |
-| CloudWatchLogsFullAccess | / | [v1](./policies/CloudWatchLogsFullAccess.json) |
-| CloudWatchLogsReadOnlyAccess | / | [v5](./policies/CloudWatchLogsReadOnlyAccess.json) |
+| CloudWatchLogsFullAccess | / | [v2](./policies/CloudWatchLogsFullAccess.json) |
+| CloudWatchLogsReadOnlyAccess | / | [v6](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchReadOnlyAccess | / | [v7](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v9](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
@@ -1053,7 +1055,7 @@
 | Ec2InstanceConnectEndpoint | /aws-service-role/ | [v1](./policies/Ec2InstanceConnectEndpoint.json) |
 | ElastiCacheServiceRolePolicy | /aws-service-role/ | [v3](./policies/ElastiCacheServiceRolePolicy.json) |
 | ElasticLoadBalancingFullAccess | / | [v7](./policies/ElasticLoadBalancingFullAccess.json) |
-| ElasticLoadBalancingReadOnly | / | [v2](./policies/ElasticLoadBalancingReadOnly.json) |
+| ElasticLoadBalancingReadOnly | / | [v3](./policies/ElasticLoadBalancingReadOnly.json) |
 | ElementalActivationsDownloadSoftwareAccess | / | [v1](./policies/ElementalActivationsDownloadSoftwareAccess.json) |
 | ElementalActivationsFullAccess | / | [v1](./policies/ElementalActivationsFullAccess.json) |
 | ElementalActivationsGenerateLicenses | / | [v1](./policies/ElementalActivationsGenerateLicenses.json) |
