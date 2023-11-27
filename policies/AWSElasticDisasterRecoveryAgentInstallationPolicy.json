@@ -2,6 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
+            "Sid": "DRSAgentInstallationPolicy1",
             "Effect": "Allow",
             "Action": [
                 "drs:GetAgentInstallationAssetsForDrs",
@@ -15,6 +16,7 @@
             "Resource": "*"
         },
         {
+            "Sid": "DRSAgentInstallationPolicy2",
             "Effect": "Allow",
             "Action": "drs:TagResource",
             "Resource": "arn:aws:drs:*:*:source-server/*",
@@ -25,6 +27,7 @@
             }
         },
         {
+            "Sid": "DRSAgentInstallationPolicy3",
             "Effect": "Allow",
             "Action": "drs:TagResource",
             "Resource": "arn:aws:drs:*:*:source-server/*",
@@ -35,6 +38,7 @@
             }
         },
         {
+            "Sid": "DRSAgentInstallationPolicy4",
             "Effect": "Allow",
             "Action": "drs:TagResource",
             "Resource": "arn:aws:drs:*:*:source-network/*",
@@ -45,6 +49,7 @@
             }
         },
         {
+            "Sid": "DRSAgentInstallationPolicy5",
             "Effect": "Allow",
             "Action": "drs:IssueAgentCertificateForDrs",
             "Resource": "arn:aws:drs:*:*:source-server/*"

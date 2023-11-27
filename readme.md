@@ -204,7 +204,7 @@
 | AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
 | AWSElasticBeanstalkWebTier | / | [v7](./policies/AWSElasticBeanstalkWebTier.json) |
 | AWSElasticBeanstalkWorkerTier | / | [v6](./policies/AWSElasticBeanstalkWorkerTier.json) |
-| AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v5](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
+| AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryAgentPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryAgentPolicy.json) |
 | AWSElasticDisasterRecoveryConsoleFullAccess | / | [v5](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
 | AWSElasticDisasterRecoveryConversionServerPolicy | /service-role/ | [v1](./policies/AWSElasticDisasterRecoveryConversionServerPolicy.json) |
