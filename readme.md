@@ -211,7 +211,7 @@
 | AWSElasticDisasterRecoveryCrossAccountReplicationPolicy | /service-role/ | [v1](./policies/AWSElasticDisasterRecoveryCrossAccountReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryEc2InstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryEc2InstancePolicy.json) |
 | AWSElasticDisasterRecoveryFailbackInstallationPolicy | / | [v2](./policies/AWSElasticDisasterRecoveryFailbackInstallationPolicy.json) |
-| AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v1](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
+| AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
 | AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v2](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
 | AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v1](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryReadOnlyAccess | / | [v3](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
