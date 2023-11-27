@@ -1002,7 +1002,7 @@
 | CloudHSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudHSMServiceRolePolicy.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
 | CloudSearchReadOnlyAccess | / | [v1](./policies/CloudSearchReadOnlyAccess.json) |
-| CloudTrailServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudTrailServiceRolePolicy.json) |
+| CloudTrailServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudTrailServiceRolePolicy.json) |
 | CloudWatch-CrossAccountAccess | /aws-service-role/ | [v1](./policies/CloudWatch-CrossAccountAccess.json) |
 | CloudWatchActionsEC2Access | / | [v1](./policies/CloudWatchActionsEC2Access.json) |
 | CloudWatchAgentAdminPolicy | / | [v1](./policies/CloudWatchAgentAdminPolicy.json) |
