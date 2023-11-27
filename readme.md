@@ -466,7 +466,7 @@
 | AWSSecurityHubFullAccess | / | [v2](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v3](./policies/AWSSecurityHubReadOnlyAccess.json) |
-| AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSSecurityHubServiceRolePolicy.json) |
+| AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
 | AWSServiceCatalogAppRegistryFullAccess | / | [v5](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
@@ -631,7 +631,7 @@
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v2](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
-| AmazonDetectiveInvestigatorAccess | / | [v2](./policies/AmazonDetectiveInvestigatorAccess.json) |
+| AmazonDetectiveInvestigatorAccess | / | [v3](./policies/AmazonDetectiveInvestigatorAccess.json) |
 | AmazonDetectiveMemberAccess | / | [v1](./policies/AmazonDetectiveMemberAccess.json) |
 | AmazonDetectiveOrganizationsAccess | / | [v1](./policies/AmazonDetectiveOrganizationsAccess.json) |
 | AmazonDetectiveServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDetectiveServiceLinkedRolePolicy.json) |
@@ -726,9 +726,9 @@
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
 | AmazonFISServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFISServiceRolePolicy.json) |
-| AmazonFSxConsoleFullAccess | / | [v7](./policies/AmazonFSxConsoleFullAccess.json) |
+| AmazonFSxConsoleFullAccess | / | [v9](./policies/AmazonFSxConsoleFullAccess.json) |
 | AmazonFSxConsoleReadOnlyAccess | / | [v4](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
-| AmazonFSxFullAccess | / | [v6](./policies/AmazonFSxFullAccess.json) |
+| AmazonFSxFullAccess | / | [v8](./policies/AmazonFSxFullAccess.json) |
 | AmazonFSxReadOnlyAccess | / | [v1](./policies/AmazonFSxReadOnlyAccess.json) |
 | AmazonFSxServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonFSxServiceRolePolicy.json) |
 | AmazonForecastFullAccess | / | [v1](./policies/AmazonForecastFullAccess.json) |
@@ -1074,7 +1074,7 @@
 | Health_OrganizationsServiceRolePolicy | /aws-service-role/ | [v3](./policies/Health_OrganizationsServiceRolePolicy.json) |
 | IAMAccessAdvisorReadOnly | / | [v1](./policies/IAMAccessAdvisorReadOnly.json) |
 | IAMAccessAnalyzerFullAccess | / | [v1](./policies/IAMAccessAnalyzerFullAccess.json) |
-| IAMAccessAnalyzerReadOnlyAccess | / | [v2](./policies/IAMAccessAnalyzerReadOnlyAccess.json) |
+| IAMAccessAnalyzerReadOnlyAccess | / | [v3](./policies/IAMAccessAnalyzerReadOnlyAccess.json) |
 | IAMFullAccess | / | [v2](./policies/IAMFullAccess.json) |
 | IAMReadOnlyAccess | / | [v4](./policies/IAMReadOnlyAccess.json) |
 | IAMSelfManageServiceSpecificCredentials | / | [v1](./policies/IAMSelfManageServiceSpecificCredentials.json) |

@@ -31,6 +31,7 @@
                 "securityhub:BatchDisableStandards",
                 "securityhub:BatchEnableStandards",
                 "securityhub:BatchUpdateStandardsControlAssociations",
+                "securityhub:BatchGetSecurityControls",
                 "securityhub:BatchGetStandardsControlAssociations",
                 "securityhub:CreateMembers",
                 "securityhub:DeleteMembers",
@@ -38,6 +39,7 @@
                 "securityhub:DescribeOrganizationConfiguration",
                 "securityhub:DescribeStandards",
                 "securityhub:DescribeStandardsControls",
+                "securityhub:DisassociateFromAdministratorAccount",
                 "securityhub:DisassociateMembers",
                 "securityhub:DisableSecurityHub",
                 "securityhub:EnableSecurityHub",
@@ -45,6 +47,7 @@
                 "securityhub:ListStandardsControlAssociations",
                 "securityhub:ListSecurityControlDefinitions",
                 "securityhub:UpdateOrganizationConfiguration",
+                "securityhub:UpdateSecurityControl",
                 "securityhub:UpdateSecurityHubConfiguration",
                 "securityhub:UpdateStandardsControl"
             ],

@@ -2,6 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
+            "Sid": "ViewAWSDSDirectories",
             "Effect": "Allow",
             "Action": [
                 "ds:DescribeDirectories"
@@ -9,12 +10,14 @@
             "Resource": "*"
         },
         {
+            "Sid": "FullAccessToFSx",
             "Effect": "Allow",
             "Action": [
                 "fsx:AssociateFileGateway",
                 "fsx:AssociateFileSystemAliases",
                 "fsx:CancelDataRepositoryTask",
                 "fsx:CopyBackup",
+                "fsx:CopySnapshotAndUpdateVolume",
                 "fsx:CreateBackup",
                 "fsx:CreateDataRepositoryAssociation",
                 "fsx:CreateDataRepositoryTask",
@@ -39,6 +42,7 @@
                 "fsx:DescribeFileCaches",
                 "fsx:DescribeFileSystemAliases",
                 "fsx:DescribeFileSystems",
+                "fsx:DescribeSharedVpcConfiguration",
                 "fsx:DescribeSnapshots",
                 "fsx:DescribeStorageVirtualMachines",
                 "fsx:DescribeVolumes",
@@ -53,6 +57,7 @@
                 "fsx:UpdateDataRepositoryAssociation",
                 "fsx:UpdateFileCache",
                 "fsx:UpdateFileSystem",
+                "fsx:UpdateSharedVpcConfiguration",
                 "fsx:UpdateSnapshot",
                 "fsx:UpdateStorageVirtualMachine",
                 "fsx:UpdateVolume"
@@ -60,6 +65,7 @@
             "Resource": "*"
         },
         {
+            "Sid": "CreateSLRForFSx",
             "Effect": "Allow",
             "Action": "iam:CreateServiceLinkedRole",
             "Resource": "*",
@@ -72,6 +78,7 @@
             }
         },
         {
+            "Sid": "CreateSLRForLustreS3Integration",
             "Effect": "Allow",
             "Action": "iam:CreateServiceLinkedRole",
             "Resource": "*",
@@ -84,6 +91,7 @@
             }
         },
         {
+            "Sid": "CreateLogsForFSxWindowsAuditLogs",
             "Effect": "Allow",
             "Action": [
                 "logs:CreateLogGroup",
@@ -95,6 +103,7 @@
             ]
         },
         {
+            "Sid": "WriteToAmazonKinesisDataFirehose",
             "Effect": "Allow",
             "Action": [
                 "firehose:PutRecord"
@@ -104,6 +113,7 @@
             ]
         },
         {
+            "Sid": "CreateTags",
             "Effect": "Allow",
             "Action": [
                 "ec2:CreateTags"
@@ -123,6 +133,7 @@
             }
         },
         {
+            "Sid": "DescribeEC2VpcResources",
             "Effect": "Allow",
             "Action": [
                 "ec2:DescribeSecurityGroups",
