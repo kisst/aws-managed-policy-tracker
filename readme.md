@@ -691,7 +691,7 @@
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
 | AmazonESReadOnlyAccess | / | [v2](./policies/AmazonESReadOnlyAccess.json) |
-| AmazonElastiCacheFullAccess | / | [v2](./policies/AmazonElastiCacheFullAccess.json) |
+| AmazonElastiCacheFullAccess | / | [v3](./policies/AmazonElastiCacheFullAccess.json) |
 | AmazonElastiCacheReadOnlyAccess | / | [v1](./policies/AmazonElastiCacheReadOnlyAccess.json) |
 | AmazonElasticContainerRegistryPublicFullAccess | / | [v1](./policies/AmazonElasticContainerRegistryPublicFullAccess.json) |
 | AmazonElasticContainerRegistryPublicPowerUser | / | [v1](./policies/AmazonElasticContainerRegistryPublicPowerUser.json) |
@@ -831,6 +831,9 @@
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
+| AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
+| AmazonOneEnterpriseInstallerAccess | / | [v1](./policies/AmazonOneEnterpriseInstallerAccess.json) |
+| AmazonOneEnterpriseReadOnlyAccess | / | [v1](./policies/AmazonOneEnterpriseReadOnlyAccess.json) |
 | AmazonOpenSearchIngestionFullAccess | / | [v1](./policies/AmazonOpenSearchIngestionFullAccess.json) |
 | AmazonOpenSearchIngestionReadOnlyAccess | / | [v1](./policies/AmazonOpenSearchIngestionReadOnlyAccess.json) |
 | AmazonOpenSearchIngestionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonOpenSearchIngestionServiceRolePolicy.json) |
@@ -1054,7 +1057,7 @@
 | EMRDescribeClusterPolicyForEMRWAL | /aws-service-role/ | [v1](./policies/EMRDescribeClusterPolicyForEMRWAL.json) |
 | Ec2ImageBuilderCrossAccountDistributionAccess | / | [v1](./policies/Ec2ImageBuilderCrossAccountDistributionAccess.json) |
 | Ec2InstanceConnectEndpoint | /aws-service-role/ | [v1](./policies/Ec2InstanceConnectEndpoint.json) |
-| ElastiCacheServiceRolePolicy | /aws-service-role/ | [v3](./policies/ElastiCacheServiceRolePolicy.json) |
+| ElastiCacheServiceRolePolicy | /aws-service-role/ | [v4](./policies/ElastiCacheServiceRolePolicy.json) |
 | ElasticLoadBalancingFullAccess | / | [v7](./policies/ElasticLoadBalancingFullAccess.json) |
 | ElasticLoadBalancingReadOnly | / | [v3](./policies/ElasticLoadBalancingReadOnly.json) |
 | ElementalActivationsDownloadSoftwareAccess | / | [v1](./policies/ElementalActivationsDownloadSoftwareAccess.json) |
