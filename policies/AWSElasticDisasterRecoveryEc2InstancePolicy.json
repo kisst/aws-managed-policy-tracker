@@ -2,6 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
+            "Sid": "DRSEc2InstancePolicy1",
             "Effect": "Allow",
             "Action": [
                 "drs:GetAgentInstallationAssetsForDrs",
@@ -13,6 +14,7 @@
             "Resource": "*"
         },
         {
+            "Sid": "DRSEc2InstancePolicy2",
             "Effect": "Allow",
             "Action": [
                 "drs:TagResource"
@@ -25,6 +27,7 @@
             }
         },
         {
+            "Sid": "DRSEc2InstancePolicy3",
             "Effect": "Allow",
             "Action": [
                 "drs:TagResource"
@@ -37,6 +40,7 @@
             }
         },
         {
+            "Sid": "DRSEc2InstancePolicy4",
             "Effect": "Allow",
             "Action": [
                 "drs:SendAgentMetricsForDrs",
@@ -53,6 +57,7 @@
             "Resource": "arn:aws:drs:*:*:source-server/*"
         },
         {
+            "Sid": "DRSEc2InstancePolicy5",
             "Effect": "Allow",
             "Action": [
                 "sts:AssumeRole",

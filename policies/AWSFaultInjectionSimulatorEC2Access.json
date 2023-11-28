@@ -9,8 +9,7 @@
                 "ec2:SendSpotInstanceInterruptions",
                 "ec2:StartInstances",
                 "ec2:StopInstances",
-                "ec2:TerminateInstances",
-                "ec2:DescribeInstances"
+                "ec2:TerminateInstances"
             ],
             "Resource": "arn:aws:ec2:*:*:instance/*"
         },
@@ -50,6 +49,12 @@
                 "ssm:CancelCommand",
                 "ssm:ListCommands"
             ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "DescribeInstances",
+            "Effect": "Allow",
+            "Action": "ec2:DescribeInstances",
             "Resource": "*"
         }
     ]
