@@ -622,10 +622,10 @@
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
 | AmazonDMSVPCManagementRole | /service-role/ | [v3](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
-| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
+| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v1](./policies/AmazonDataZoneFullAccess.json) |
-| AmazonDataZoneFullUserAccess | / | [v3](./policies/AmazonDataZoneFullUserAccess.json) |
+| AmazonDataZoneFullUserAccess | / | [v4](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneProjectDeploymentPermissionsBoundary | / | [v2](./policies/AmazonDataZoneProjectDeploymentPermissionsBoundary.json) |
 | AmazonDataZoneProjectRolePermissionsBoundary | / | [v1](./policies/AmazonDataZoneProjectRolePermissionsBoundary.json) |

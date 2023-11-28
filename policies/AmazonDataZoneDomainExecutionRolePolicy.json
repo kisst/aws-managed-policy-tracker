@@ -96,7 +96,11 @@
                 "datazone:UpdateGlossaryTerm",
                 "datazone:UpdateProject",
                 "datazone:UpdateSubscriptionGrantStatus",
-                "datazone:UpdateSubscriptionRequest"
+                "datazone:UpdateSubscriptionRequest",
+                "datazone:StartMetadataGenerationRun",
+                "datazone:GetMetadataGenerationRun",
+                "datazone:StopMetadataGenerationRun",
+                "datazone:ListMetadataGenerationRuns"
             ],
             "Resource": "*"
         },

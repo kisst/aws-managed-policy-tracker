@@ -97,7 +97,11 @@
                 "datazone:GetSubscriptionGrant",
                 "datazone:ListSubscriptionGrants",
                 "datazone:UpdateSubscriptionGrantStatus",
-                "datazone:ListNotifications"
+                "datazone:ListNotifications",
+                "datazone:StartMetadataGenerationRun",
+                "datazone:GetMetadataGenerationRun",
+                "datazone:StopMetadataGenerationRun",
+                "datazone:ListMetadataGenerationRuns"
             ],
             "Resource": "*"
         },
