@@ -70,6 +70,8 @@
                 "s3:ListAccessPoints",
                 "s3:ListAllMyBuckets",
                 "s3:ListMultiRegionAccessPoints",
+                "s3express:GetBucketPolicy",
+                "s3express:ListAllMyDirectoryBuckets",
                 "sns:GetTopicAttributes",
                 "sns:ListTopics",
                 "secretsmanager:DescribeSecret",

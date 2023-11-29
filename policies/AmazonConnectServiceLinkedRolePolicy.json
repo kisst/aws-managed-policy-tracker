@@ -179,6 +179,20 @@
                     "cloudwatch:namespace": "AWS/Connect"
                 }
             }
+        },
+        {
+            "Sid": "AllowSMSVoiceOperationsForConnect",
+            "Effect": "Allow",
+            "Action": [
+                "sms-voice:SendTextMessage",
+                "sms-voice:DescribePhoneNumbers"
+            ],
+            "Resource": "arn:aws:sms-voice:*:*:phone-number/*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
         }
     ]
 }

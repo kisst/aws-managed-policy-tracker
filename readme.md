@@ -550,7 +550,7 @@
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWS_ConfigRole | /service-role/ | [v28](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
-| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v9](./policies/AccessAnalyzerServiceRolePolicy.json) |
+| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v3](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v11](./policies/AdministratorAccess-Amplify.json) |
@@ -614,7 +614,7 @@
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v3](./policies/AmazonConnectReadOnlyAccess.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v13](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v14](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
@@ -699,7 +699,7 @@
 | AmazonElasticFileSystemClientFullAccess | / | [v1](./policies/AmazonElasticFileSystemClientFullAccess.json) |
 | AmazonElasticFileSystemClientReadOnlyAccess | / | [v1](./policies/AmazonElasticFileSystemClientReadOnlyAccess.json) |
 | AmazonElasticFileSystemClientReadWriteAccess | / | [v1](./policies/AmazonElasticFileSystemClientReadWriteAccess.json) |
-| AmazonElasticFileSystemFullAccess | / | [v8](./policies/AmazonElasticFileSystemFullAccess.json) |
+| AmazonElasticFileSystemFullAccess | / | [v9](./policies/AmazonElasticFileSystemFullAccess.json) |
 | AmazonElasticFileSystemReadOnlyAccess | / | [v7](./policies/AmazonElasticFileSystemReadOnlyAccess.json) |
 | AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
 | AmazonElasticFileSystemsUtils | / | [v1](./policies/AmazonElasticFileSystemsUtils.json) |
@@ -850,6 +850,7 @@
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
 | AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
+| AmazonQFullAccess | / | [v1](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
