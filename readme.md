@@ -1105,8 +1105,9 @@
 | MigrationHubSMSAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/MigrationHubSMSAccessServiceRolePolicy.json) |
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
-| NeptuneConsoleFullAccess | / | [v4](./policies/NeptuneConsoleFullAccess.json) |
+| NeptuneConsoleFullAccess | / | [v5](./policies/NeptuneConsoleFullAccess.json) |
 | NeptuneFullAccess | / | [v6](./policies/NeptuneFullAccess.json) |
+| NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
 | NeptuneReadOnlyAccess | / | [v2](./policies/NeptuneReadOnlyAccess.json) |
 | NetworkAdministrator | /job-function/ | [v11](./policies/NetworkAdministrator.json) |
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
