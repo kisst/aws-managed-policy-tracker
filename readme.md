@@ -93,6 +93,8 @@
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsFullAccess | / | [v1](./policies/AWSCleanRoomsFullAccess.json) |
 | AWSCleanRoomsFullAccessNoQuerying | / | [v3](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
+| AWSCleanRoomsMLFullAccess | / | [v1](./policies/AWSCleanRoomsMLFullAccess.json) |
+| AWSCleanRoomsMLReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
 | AWSCleanRoomsReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsReadOnlyAccess.json) |
 | AWSCloud9Administrator | / | [v4](./policies/AWSCloud9Administrator.json) |
 | AWSCloud9EnvironmentMember | / | [v3](./policies/AWSCloud9EnvironmentMember.json) |
@@ -488,6 +490,7 @@
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForMonitronPolicy.json) |
+| AWSServiceRoleForNeptuneGraphPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForNeptuneGraphPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
 | AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v1](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
@@ -548,6 +551,7 @@
 | AWSXrayFullAccess | / | [v1](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v7](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
+| AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWS_ConfigRole | /service-role/ | [v28](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AccessAnalyzerServiceRolePolicy.json) |
@@ -918,11 +922,12 @@
 | AmazonSSMReadOnlyAccess | / | [v1](./policies/AmazonSSMReadOnlyAccess.json) |
 | AmazonSSMServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonSSMServiceRolePolicy.json) |
 | AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v7](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
-| AmazonSageMakerCanvasAIServicesAccess | / | [v2](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
+| AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
 | AmazonSageMakerCanvasDataPrepFullAccess | / | [v1](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
 | AmazonSageMakerCanvasDirectDeployAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasDirectDeployAccess.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
 | AmazonSageMakerCanvasFullAccess | / | [v7](./policies/AmazonSageMakerCanvasFullAccess.json) |
+| AmazonSageMakerClusterInstanceRolePolicy | / | [v1](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
 | AmazonSageMakerFeatureStoreAccess | / | [v3](./policies/AmazonSageMakerFeatureStoreAccess.json) |
