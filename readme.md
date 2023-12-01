@@ -931,7 +931,7 @@
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
 | AmazonSageMakerFeatureStoreAccess | / | [v3](./policies/AmazonSageMakerFeatureStoreAccess.json) |
-| AmazonSageMakerFullAccess | / | [v24](./policies/AmazonSageMakerFullAccess.json) |
+| AmazonSageMakerFullAccess | / | [v25](./policies/AmazonSageMakerFullAccess.json) |
 | AmazonSageMakerGeospatialExecutionRole | /service-role/ | [v2](./policies/AmazonSageMakerGeospatialExecutionRole.json) |
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
