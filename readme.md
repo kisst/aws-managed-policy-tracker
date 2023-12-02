@@ -249,7 +249,7 @@
 | AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v1](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
 | AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
 | AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
-| AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSFinSpaceServiceRolePolicy.json) |
+| AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSForWordPressPluginPolicy | / | [v2](./policies/AWSForWordPressPluginPolicy.json) |
 | AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSGitSyncServiceRolePolicy.json) |
 | AWSGlobalAcceleratorSLRPolicy | /aws-service-role/ | [v8](./policies/AWSGlobalAcceleratorSLRPolicy.json) |
@@ -1128,7 +1128,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v1](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v1](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v107](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v108](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
