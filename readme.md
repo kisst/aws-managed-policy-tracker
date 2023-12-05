@@ -146,7 +146,7 @@
 | AWSConfigRole | /service-role/ | [v42](./policies/AWSConfigRole.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v48](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v49](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -552,7 +552,7 @@
 | AWSXrayReadOnlyAccess | / | [v7](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v28](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v29](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
@@ -631,8 +631,6 @@
 | AmazonDataZoneFullAccess | / | [v1](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v4](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
-| AmazonDataZoneProjectDeploymentPermissionsBoundary | / | [v2](./policies/AmazonDataZoneProjectDeploymentPermissionsBoundary.json) |
-| AmazonDataZoneProjectRolePermissionsBoundary | / | [v1](./policies/AmazonDataZoneProjectRolePermissionsBoundary.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v2](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
@@ -671,7 +669,7 @@
 | AmazonEC2RoleforSSM | /service-role/ | [v8](./policies/AmazonEC2RoleforSSM.json) |
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
-| AmazonECSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonECSServiceRolePolicy.json) |
+| AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v20](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
