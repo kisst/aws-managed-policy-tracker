@@ -73,7 +73,7 @@
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
 | AWSBatchServiceEventTargetRole | /service-role/ | [v1](./policies/AWSBatchServiceEventTargetRole.json) |
-| AWSBatchServiceRole | /service-role/ | [v12](./policies/AWSBatchServiceRole.json) |
+| AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
 | AWSBillingReadOnlyAccess | / | [v4](./policies/AWSBillingReadOnlyAccess.json) |
@@ -350,6 +350,7 @@
 | AWSLicenseManagerServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSLicenseManagerServiceRolePolicy.json) |
 | AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
 | AWSM2ServicePolicy | /aws-service-role/ | [v1](./policies/AWSM2ServicePolicy.json) |
+| AWSMSKReplicatorExecutionRole | /service-role/ | [v1](./policies/AWSMSKReplicatorExecutionRole.json) |
 | AWSManagedServicesDeploymentToolkitPolicy | /aws-service-role/ | [v3](./policies/AWSManagedServicesDeploymentToolkitPolicy.json) |
 | AWSManagedServices_ContactsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_ContactsServiceRolePolicy.json) |
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
@@ -374,7 +375,7 @@
 | AWSMigrationHubDMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubDMSAccess.json) |
 | AWSMigrationHubDiscoveryAccess | /service-role/ | [v3](./policies/AWSMigrationHubDiscoveryAccess.json) |
 | AWSMigrationHubFullAccess | / | [v4](./policies/AWSMigrationHubFullAccess.json) |
-| AWSMigrationHubOrchestratorConsoleFullAccess | / | [v1](./policies/AWSMigrationHubOrchestratorConsoleFullAccess.json) |
+| AWSMigrationHubOrchestratorConsoleFullAccess | / | [v2](./policies/AWSMigrationHubOrchestratorConsoleFullAccess.json) |
 | AWSMigrationHubOrchestratorInstanceRolePolicy | / | [v1](./policies/AWSMigrationHubOrchestratorInstanceRolePolicy.json) |
 | AWSMigrationHubOrchestratorPlugin | / | [v1](./policies/AWSMigrationHubOrchestratorPlugin.json) |
 | AWSMigrationHubOrchestratorServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSMigrationHubOrchestratorServiceRolePolicy.json) |
@@ -998,7 +999,7 @@
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
 | AwsGlueSessionUserRestrictedPolicy | / | [v1](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
-| BatchServiceRolePolicy | /aws-service-role/ | [v6](./policies/BatchServiceRolePolicy.json) |
+| BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
 | Billing | /job-function/ | [v8](./policies/Billing.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
@@ -1026,13 +1027,13 @@
 | CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchEventsServiceRolePolicy.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v1](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v2](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
 | CloudWatchLambdaInsightsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaInsightsExecutionRolePolicy.json) |
 | CloudWatchLogsCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchLogsCrossAccountSharingConfiguration.json) |
 | CloudWatchLogsFullAccess | / | [v2](./policies/CloudWatchLogsFullAccess.json) |
 | CloudWatchLogsReadOnlyAccess | / | [v6](./policies/CloudWatchLogsReadOnlyAccess.json) |
-| CloudWatchReadOnlyAccess | / | [v7](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v8](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v9](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v24](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
@@ -1088,6 +1089,7 @@
 | IAMSelfManageServiceSpecificCredentials | / | [v1](./policies/IAMSelfManageServiceSpecificCredentials.json) |
 | IAMUserChangePassword | / | [v2](./policies/IAMUserChangePassword.json) |
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
+| IVSReadOnlyAccess | / | [v1](./policies/IVSReadOnlyAccess.json) |
 | IVSRecordToS3 | /aws-service-role/ | [v1](./policies/IVSRecordToS3.json) |
 | KafkaConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/KafkaConnectServiceRolePolicy.json) |
 | KafkaServiceRolePolicy | /aws-service-role/ | [v4](./policies/KafkaServiceRolePolicy.json) |

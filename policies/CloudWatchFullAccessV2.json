@@ -18,9 +18,23 @@
                 "iam:GetPolicy",
                 "iam:GetPolicyVersion",
                 "iam:GetRole",
-                "oam:ListSinks"
+                "oam:ListSinks",
+                "rum:*",
+                "synthetics:*",
+                "xray:*"
             ],
             "Resource": "*"
+        },
+        {
+            "Sid": "CloudWatchApplicationSignalsServiceLinkedRolePermissions",
+            "Effect": "Allow",
+            "Action": "iam:CreateServiceLinkedRole",
+            "Resource": "arn:aws:iam::*:role/aws-service-role/application-signals.cloudwatch.amazonaws.com/AWSServiceRoleForCloudWatchApplicationSignals",
+            "Condition": {
+                "StringLike": {
+                    "iam:AWSServiceName": "application-signals.cloudwatch.amazonaws.com"
+                }
+            }
         },
         {
             "Sid": "EventsServicePermissions",
