@@ -56,7 +56,7 @@
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v2](./policies/AWSAuditManagerAdministratorAccess.json) |
-| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSAuditManagerServiceRolePolicy.json) |
+| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSAuditManagerServiceRolePolicy.json) |
 | AWSAutoScalingPlansEC2AutoScalingPolicy | /aws-service-role/ | [v1](./policies/AWSAutoScalingPlansEC2AutoScalingPolicy.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
@@ -579,6 +579,8 @@
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
+| AmazonBedrockFullAccess | / | [v1](./policies/AmazonBedrockFullAccess.json) |
+| AmazonBedrockReadOnly | / | [v1](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBraketFullAccess | / | [v6](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v2](./policies/AmazonBraketJobsExecutionPolicy.json) |
 | AmazonBraketServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonBraketServiceRolePolicy.json) |

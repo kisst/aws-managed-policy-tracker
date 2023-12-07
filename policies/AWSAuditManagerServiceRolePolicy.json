@@ -132,7 +132,22 @@
                 "waf:ListActivatedRulesInRuleGroup"
             ],
             "Resource": "*",
-            "Sid": "s2sAPIsAccess"
+            "Sid": "AuditManagerAPICallAccess"
+        },
+        {
+            "Sid": "AuditManagerS3GetBucketPolicyAccess",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetBucketPolicy"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": [
+                        "${aws:PrincipalAccount}"
+                    ]
+                }
+            }
         },
         {
             "Sid": "CreateEventsAccess",
