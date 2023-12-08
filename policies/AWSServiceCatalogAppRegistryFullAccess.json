@@ -2,10 +2,11 @@
     "Version": "2012-10-17",
     "Statement": [
         {
-            "Sid": "AppRegistryUpdateStack",
+            "Sid": "AppRegistryUpdateStackAndResourceGroupTagging",
             "Effect": "Allow",
             "Action": [
-                "cloudformation:UpdateStack"
+                "cloudformation:UpdateStack",
+                "tag:GetResources"
             ],
             "Resource": "*",
             "Condition": {

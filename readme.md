@@ -473,7 +473,7 @@
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
-| AWSServiceCatalogAppRegistryFullAccess | / | [v5](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
+| AWSServiceCatalogAppRegistryFullAccess | / | [v6](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
 | AWSServiceCatalogAppRegistryReadOnlyAccess | / | [v4](./policies/AWSServiceCatalogAppRegistryReadOnlyAccess.json) |
 | AWSServiceCatalogAppRegistryServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSServiceCatalogAppRegistryServiceRolePolicy.json) |
 | AWSServiceCatalogEndUserFullAccess | / | [v7](./policies/AWSServiceCatalogEndUserFullAccess.json) |
