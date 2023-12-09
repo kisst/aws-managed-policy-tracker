@@ -62,7 +62,9 @@
             "Action": [
                 "sagemaker:DeleteEndpointConfig",
                 "sagemaker:DeleteModel",
-                "sagemaker:InvokeEndpoint"
+                "sagemaker:InvokeEndpoint",
+                "sagemaker:UpdateEndpointWeightsAndCapacities",
+                "sagemaker:InvokeEndpointAsync"
             ],
             "Resource": [
                 "arn:aws:sagemaker:*:*:*Canvas*",
@@ -294,6 +296,42 @@
                 "StringEquals": {
                     "application-autoscaling:service-namespace": "sagemaker",
                     "application-autoscaling:scalable-dimension": "sagemaker:variant:DesiredInstanceCount"
+                }
+            }
+        },
+        {
+            "Sid": "AsyncEndpointOperations",
+            "Effect": "Allow",
+            "Action": [
+                "cloudwatch:DescribeAlarms",
+                "sagemaker:DescribeEndpointConfig"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "SageMakerCloudWatchUpdate",
+            "Effect": "Allow",
+            "Action": [
+                "cloudwatch:PutMetricAlarm",
+                "cloudwatch:DeleteAlarms"
+            ],
+            "Resource": [
+                "arn:aws:cloudwatch:*:*:alarm:TargetTracking*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:CalledViaLast": "application-autoscaling.amazonaws.com"
+                }
+            }
+        },
+        {
+            "Sid": "AutoscalingSageMakerEndpointOperation",
+            "Action": "iam:CreateServiceLinkedRole",
+            "Effect": "Allow",
+            "Resource": "arn:aws:iam::*:role/aws-service-role/sagemaker.application-autoscaling.amazonaws.com/AWSServiceRoleForApplicationAutoScaling_SageMakerEndpoint",
+            "Condition": {
+                "StringLike": {
+                    "iam:AWSServiceName": "sagemaker.application-autoscaling.amazonaws.com"
                 }
             }
         }
