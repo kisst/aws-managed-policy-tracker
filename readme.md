@@ -587,7 +587,7 @@
 | AmazonChimeFullAccess | / | [v3](./policies/AmazonChimeFullAccess.json) |
 | AmazonChimeReadOnly | / | [v10](./policies/AmazonChimeReadOnly.json) |
 | AmazonChimeSDK | / | [v5](./policies/AmazonChimeSDK.json) |
-| AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy.json) |
+| AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy.json) |
 | AmazonChimeSDKMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeSDKMessagingServiceRolePolicy.json) |
 | AmazonChimeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeServiceRolePolicy.json) |
 | AmazonChimeTranscriptionServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeTranscriptionServiceLinkedRolePolicy.json) |
@@ -1130,7 +1130,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v1](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v1](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v108](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v109](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
