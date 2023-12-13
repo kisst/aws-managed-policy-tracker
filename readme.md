@@ -1121,7 +1121,7 @@
 | ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v1](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v2](./policies/ROSAControlPlaneOperatorPolicy.json) |
-| ROSAImageRegistryOperatorPolicy | /service-role/ | [v1](./policies/ROSAImageRegistryOperatorPolicy.json) |
+| ROSAImageRegistryOperatorPolicy | /service-role/ | [v2](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v1](./policies/ROSAIngressOperatorPolicy.json) |
 | ROSAInstallerPolicy | /service-role/ | [v1](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
