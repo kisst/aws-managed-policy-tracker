@@ -1046,6 +1046,7 @@
 | ComputeOptimizerReadOnlyAccess | / | [v7](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v3](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
+| CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v1](./policies/CostOptimizationHubServiceRolePolicy.json) |
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
@@ -1091,6 +1092,7 @@
 | IAMSelfManageServiceSpecificCredentials | / | [v1](./policies/IAMSelfManageServiceSpecificCredentials.json) |
 | IAMUserChangePassword | / | [v2](./policies/IAMUserChangePassword.json) |
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
+| IVSFullAccess | / | [v1](./policies/IVSFullAccess.json) |
 | IVSReadOnlyAccess | / | [v1](./policies/IVSReadOnlyAccess.json) |
 | IVSRecordToS3 | /aws-service-role/ | [v1](./policies/IVSRecordToS3.json) |
 | KafkaConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/KafkaConnectServiceRolePolicy.json) |
