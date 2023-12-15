@@ -27,10 +27,13 @@
             "Action": [
                 "lakeformation:BatchGrantPermissions",
                 "lakeformation:BatchRevokePermissions",
+                "lakeformation:CreateLakeFormationOptIn",
+                "lakeformation:DeleteLakeFormationOptIn",
                 "lakeformation:GrantPermissions",
-                "lakeformation:RevokePermissions",
-                "lakeformation:ListPermissions",
                 "lakeformation:GetResourceLFTags",
+                "lakeformation:ListLakeFormationOptIns",
+                "lakeformation:ListPermissions",
+                "lakeformation:RevokePermissions",
                 "glue:GetDatabase",
                 "glue:GetTable",
                 "organizations:DescribeOrganization",
@@ -97,6 +100,7 @@
                 "ram:DeleteResourceShare",
                 "ram:DisassociateResourceShare",
                 "ram:GetResourceShares",
+                "ram:ListResourceSharePermissions",
                 "ram:UpdateResourceShare"
             ],
             "Resource": "*",
@@ -105,6 +109,22 @@
                     "ram:ResourceShareName": [
                         "LakeFormation*"
                     ]
+                },
+                "ForAnyValue:StringEquals": {
+                    "aws:CalledVia": [
+                        "lakeformation.amazonaws.com"
+                    ]
+                }
+            }
+        },
+        {
+            "Sid": "CrossAccountRAMResourceSharingViaLakeFormationHybrid",
+            "Effect": "Allow",
+            "Action": "ram:AssociateResourceSharePermission",
+            "Resource": "*",
+            "Condition": {
+                "StringLike": {
+                    "ram:PermissionArn": "arn:aws:ram::aws:permission/AWSRAMLFEnabled*"
                 },
                 "ForAnyValue:StringEquals": {
                     "aws:CalledVia": [
