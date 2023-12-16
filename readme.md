@@ -65,10 +65,10 @@
 | AWSBackupOperatorAccess | / | [v15](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
-| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v14](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
+| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v15](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
-| AWSBackupServiceRolePolicyForBackup | /service-role/ | [v17](./policies/AWSBackupServiceRolePolicyForBackup.json) |
-| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v19](./policies/AWSBackupServiceRolePolicyForRestores.json) |
+| AWSBackupServiceRolePolicyForBackup | /service-role/ | [v18](./policies/AWSBackupServiceRolePolicyForBackup.json) |
+| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForRestores.json) |
 | AWSBackupServiceRolePolicyForS3Backup | / | [v3](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
@@ -575,7 +575,7 @@
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
 | AmazonAppStreamReadOnlyAccess | / | [v2](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v8](./policies/AmazonAppStreamServiceAccess.json) |
-| AmazonAthenaFullAccess | / | [v9](./policies/AmazonAthenaFullAccess.json) |
+| AmazonAthenaFullAccess | / | [v10](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
