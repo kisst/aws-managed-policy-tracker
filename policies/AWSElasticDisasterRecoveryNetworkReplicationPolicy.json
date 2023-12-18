@@ -14,7 +14,9 @@
                 "ec2:DescribeRouteTables",
                 "ec2:DescribeAvailabilityZones",
                 "ec2:DescribeDhcpOptions",
-                "ec2:DescribeInstances"
+                "ec2:DescribeInstances",
+                "ec2:DescribeManagedPrefixLists",
+                "ec2:GetManagedPrefixListEntries"
             ],
             "Resource": "*"
         }

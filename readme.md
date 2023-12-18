@@ -216,11 +216,11 @@
 | AWSElasticDisasterRecoveryFailbackInstallationPolicy | / | [v3](./policies/AWSElasticDisasterRecoveryFailbackInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
 | AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v2](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
-| AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
+| AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryReadOnlyAccess | / | [v4](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
 | AWSElasticDisasterRecoveryRecoveryInstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryRecoveryInstancePolicy.json) |
 | AWSElasticDisasterRecoveryReplicationServerPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryReplicationServerPolicy.json) |
-| AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
+| AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
