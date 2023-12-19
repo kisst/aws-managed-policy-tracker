@@ -174,7 +174,7 @@
 | AWSDeepRacerFullAccess | / | [v1](./policies/AWSDeepRacerFullAccess.json) |
 | AWSDeepRacerRoboMakerAccessPolicy | / | [v1](./policies/AWSDeepRacerRoboMakerAccessPolicy.json) |
 | AWSDeepRacerServiceRolePolicy | /service-role/ | [v3](./policies/AWSDeepRacerServiceRolePolicy.json) |
-| AWSDenyAll | / | [v1](./policies/AWSDenyAll.json) |
+| AWSDenyAll | / | [v2](./policies/AWSDenyAll.json) |
 | AWSDeviceFarmFullAccess | / | [v1](./policies/AWSDeviceFarmFullAccess.json) |
 | AWSDeviceFarmServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDeviceFarmServiceRolePolicy.json) |
 | AWSDeviceFarmTestGridServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDeviceFarmTestGridServiceRolePolicy.json) |
@@ -1046,6 +1046,7 @@
 | ComputeOptimizerReadOnlyAccess | / | [v7](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v3](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
+| CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v1](./policies/CostOptimizationHubServiceRolePolicy.json) |
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
