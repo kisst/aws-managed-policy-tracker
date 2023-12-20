@@ -120,6 +120,23 @@
                     ]
                 }
             }
+        },
+        {
+            "Sid": "ManageCrossAccountDataReplication",
+            "Effect": "Allow",
+            "Action": [
+                "fsx:PutResourcePolicy",
+                "fsx:GetResourcePolicy",
+                "fsx:DeleteResourcePolicy"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "ForAnyValue:StringEquals": {
+                    "aws:CalledVia": [
+                        "ram.amazonaws.com"
+                    ]
+                }
+            }
         }
     ]
 }

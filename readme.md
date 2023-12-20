@@ -732,9 +732,9 @@
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
 | AmazonFISServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFISServiceRolePolicy.json) |
-| AmazonFSxConsoleFullAccess | / | [v9](./policies/AmazonFSxConsoleFullAccess.json) |
+| AmazonFSxConsoleFullAccess | / | [v10](./policies/AmazonFSxConsoleFullAccess.json) |
 | AmazonFSxConsoleReadOnlyAccess | / | [v4](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
-| AmazonFSxFullAccess | / | [v8](./policies/AmazonFSxFullAccess.json) |
+| AmazonFSxFullAccess | / | [v9](./policies/AmazonFSxFullAccess.json) |
 | AmazonFSxReadOnlyAccess | / | [v1](./policies/AmazonFSxReadOnlyAccess.json) |
 | AmazonFSxServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonFSxServiceRolePolicy.json) |
 | AmazonForecastFullAccess | / | [v1](./policies/AmazonForecastFullAccess.json) |
