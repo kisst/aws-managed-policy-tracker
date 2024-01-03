@@ -46,6 +46,22 @@
             ]
         },
         {
+            "Sid": "AmplifyHotSwappableSchemaResource",
+            "Effect": "Allow",
+            "Action": [
+                "lambda:InvokeFunction",
+                "lambda:UpdateFunctionCode"
+            ],
+            "Resource": [
+                "arn:aws:lambda:*:*:function:amplify-*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
             "Sid": "AmplifySchema",
             "Effect": "Allow",
             "Action": [

@@ -64,7 +64,8 @@
                 "ec2:DescribeRouteTables",
                 "ec2:DescribeDhcpOptions",
                 "ec2:DescribeManagedPrefixLists",
-                "ec2:GetManagedPrefixListEntries"
+                "ec2:GetManagedPrefixListEntries",
+                "ec2:GetManagedPrefixListAssociations"
             ],
             "Resource": "*"
         },

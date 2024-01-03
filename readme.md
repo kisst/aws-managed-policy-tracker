@@ -54,6 +54,7 @@
 | AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
 | AWSApplicationMigrationVCenterClientPolicy | / | [v1](./policies/AWSApplicationMigrationVCenterClientPolicy.json) |
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
+| AWSArtifactReportsReadOnlyAccess | / | [v1](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v2](./policies/AWSAuditManagerAdministratorAccess.json) |
 | AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSAuditManagerServiceRolePolicy.json) |
@@ -216,11 +217,11 @@
 | AWSElasticDisasterRecoveryFailbackInstallationPolicy | / | [v3](./policies/AWSElasticDisasterRecoveryFailbackInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
 | AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v2](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
-| AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
+| AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryReadOnlyAccess | / | [v4](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
 | AWSElasticDisasterRecoveryRecoveryInstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryRecoveryInstancePolicy.json) |
 | AWSElasticDisasterRecoveryReplicationServerPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryReplicationServerPolicy.json) |
-| AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
+| AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
@@ -985,7 +986,7 @@
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
-| AmplifyBackendDeployFullAccess | /service-role/ | [v3](./policies/AmplifyBackendDeployFullAccess.json) |
+| AmplifyBackendDeployFullAccess | /service-role/ | [v4](./policies/AmplifyBackendDeployFullAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
