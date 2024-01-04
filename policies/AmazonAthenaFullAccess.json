@@ -118,6 +118,18 @@
             ]
         },
         {
+            "Sid": "BaseDataZonePermissions",
+            "Effect": "Allow",
+            "Action": [
+                "datazone:ListDomains",
+                "datazone:ListProjects",
+                "datazone:ListAccountEnvironments"
+            ],
+            "Resource": [
+                "*"
+            ]
+        },
+        {
             "Sid": "BasePricingPermissions",
             "Effect": "Allow",
             "Action": [

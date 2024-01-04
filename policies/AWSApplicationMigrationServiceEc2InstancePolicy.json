@@ -2,6 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
+            "Sid": "MgnAgentInstallation",
             "Effect": "Allow",
             "Action": [
                 "mgn:SendClientLogsForMgn",
@@ -11,6 +12,7 @@
             "Resource": "*"
         },
         {
+            "Sid": "MgnAgentReplication",
             "Effect": "Allow",
             "Action": [
                 "mgn:SendAgentMetricsForMgn",
@@ -27,6 +29,7 @@
             "Resource": "arn:aws:mgn:*:*:source-server/*"
         },
         {
+            "Sid": "MgnSourceServerTagResource",
             "Effect": "Allow",
             "Action": "mgn:TagResource",
             "Resource": "arn:aws:mgn:*:*:source-server/*",
