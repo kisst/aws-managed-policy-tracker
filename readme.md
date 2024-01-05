@@ -481,7 +481,7 @@
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
-| AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v6](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
+| AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v7](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
 | AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy.json) |
 | AWSServiceRoleForCodeGuru-Profiler | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCodeGuru-Profiler.json) |
@@ -1010,8 +1010,8 @@
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
 | CloudFormationStackSetsOrgAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgAdminServiceRolePolicy.json) |
 | CloudFormationStackSetsOrgMemberServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgMemberServiceRolePolicy.json) |
-| CloudFrontFullAccess | / | [v6](./policies/CloudFrontFullAccess.json) |
-| CloudFrontReadOnlyAccess | / | [v5](./policies/CloudFrontReadOnlyAccess.json) |
+| CloudFrontFullAccess | / | [v7](./policies/CloudFrontFullAccess.json) |
+| CloudFrontReadOnlyAccess | / | [v6](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudHSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudHSMServiceRolePolicy.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
 | CloudSearchReadOnlyAccess | / | [v1](./policies/CloudSearchReadOnlyAccess.json) |
