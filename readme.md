@@ -264,6 +264,7 @@
 | AWSGrafanaAccountAdministrator | / | [v3](./policies/AWSGrafanaAccountAdministrator.json) |
 | AWSGrafanaConsoleReadOnlyAccess | / | [v3](./policies/AWSGrafanaConsoleReadOnlyAccess.json) |
 | AWSGrafanaWorkspacePermissionManagement | / | [v4](./policies/AWSGrafanaWorkspacePermissionManagement.json) |
+| AWSGrafanaWorkspacePermissionManagementV2 | / | [v1](./policies/AWSGrafanaWorkspacePermissionManagementV2.json) |
 | AWSGreengrassFullAccess | / | [v1](./policies/AWSGreengrassFullAccess.json) |
 | AWSGreengrassReadOnlyAccess | / | [v1](./policies/AWSGreengrassReadOnlyAccess.json) |
 | AWSGreengrassResourceAccessRolePolicy | /service-role/ | [v5](./policies/AWSGreengrassResourceAccessRolePolicy.json) |
@@ -341,7 +342,7 @@
 | AWSLambdaReplicator | /aws-service-role/ | [v3](./policies/AWSLambdaReplicator.json) |
 | AWSLambdaRole | /service-role/ | [v1](./policies/AWSLambdaRole.json) |
 | AWSLambdaSQSQueueExecutionRole | /service-role/ | [v1](./policies/AWSLambdaSQSQueueExecutionRole.json) |
-| AWSLambdaVPCAccessExecutionRole | /service-role/ | [v2](./policies/AWSLambdaVPCAccessExecutionRole.json) |
+| AWSLambdaVPCAccessExecutionRole | /service-role/ | [v3](./policies/AWSLambdaVPCAccessExecutionRole.json) |
 | AWSLambda_FullAccess | / | [v1](./policies/AWSLambda_FullAccess.json) |
 | AWSLambda_ReadOnlyAccess | / | [v2](./policies/AWSLambda_ReadOnlyAccess.json) |
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
