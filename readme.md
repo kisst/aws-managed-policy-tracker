@@ -1059,7 +1059,7 @@
 | DatabaseAdministrator | /job-function/ | [v2](./policies/DatabaseAdministrator.json) |
 | DynamoDBCloudWatchContributorInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBCloudWatchContributorInsightsServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
-| DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v7](./policies/DynamoDBReplicationServiceRolePolicy.json) |
+| DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
 | EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
