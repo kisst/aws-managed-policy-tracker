@@ -2,6 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
+            "Sid": "CreateFileSystem",
             "Effect": "Allow",
             "Action": [
                 "ds:AuthorizeApplication",
@@ -18,11 +19,13 @@
                 "ec2:DescribeSubnets",
                 "ec2:DescribeVpcs",
                 "ec2:DisassociateAddress",
+                "ec2:GetSecurityGroupsForVpc",
                 "route53:AssociateVPCWithHostedZone"
             ],
             "Resource": "*"
         },
         {
+            "Sid": "PutMetrics",
             "Effect": "Allow",
             "Action": [
                 "cloudwatch:PutMetricData"
@@ -37,6 +40,7 @@
             }
         },
         {
+            "Sid": "TagResourceNetworkInterface",
             "Effect": "Allow",
             "Action": [
                 "ec2:CreateTags"
@@ -54,6 +58,7 @@
             }
         },
         {
+            "Sid": "ManageNetworkInterface",
             "Effect": "Allow",
             "Action": [
                 "ec2:AssignPrivateIpAddresses",
@@ -70,6 +75,7 @@
             }
         },
         {
+            "Sid": "ManageRouteTable",
             "Effect": "Allow",
             "Action": [
                 "ec2:CreateRoute",
@@ -86,6 +92,7 @@
             }
         },
         {
+            "Sid": "PutCloudWatchLogs",
             "Effect": "Allow",
             "Action": [
                 "logs:DescribeLogGroups",
@@ -95,6 +102,7 @@
             "Resource": "arn:aws:logs:*:*:log-group:/aws/fsx/*"
         },
         {
+            "Sid": "ManageAuditLogs",
             "Effect": "Allow",
             "Action": [
                 "firehose:DescribeDeliveryStream",

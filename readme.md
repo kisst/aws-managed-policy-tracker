@@ -674,6 +674,7 @@
 | AmazonEC2RoleforSSM | /service-role/ | [v8](./policies/AmazonEC2RoleforSSM.json) |
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
+| AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v20](./policies/AmazonECS_FullAccess.json) |
@@ -734,11 +735,11 @@
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
 | AmazonFISServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFISServiceRolePolicy.json) |
-| AmazonFSxConsoleFullAccess | / | [v10](./policies/AmazonFSxConsoleFullAccess.json) |
-| AmazonFSxConsoleReadOnlyAccess | / | [v4](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
-| AmazonFSxFullAccess | / | [v9](./policies/AmazonFSxFullAccess.json) |
+| AmazonFSxConsoleFullAccess | / | [v11](./policies/AmazonFSxConsoleFullAccess.json) |
+| AmazonFSxConsoleReadOnlyAccess | / | [v5](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
+| AmazonFSxFullAccess | / | [v10](./policies/AmazonFSxFullAccess.json) |
 | AmazonFSxReadOnlyAccess | / | [v1](./policies/AmazonFSxReadOnlyAccess.json) |
-| AmazonFSxServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonFSxServiceRolePolicy.json) |
+| AmazonFSxServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFSxServiceRolePolicy.json) |
 | AmazonForecastFullAccess | / | [v1](./policies/AmazonForecastFullAccess.json) |
 | AmazonFraudDetectorFullAccessPolicy | / | [v1](./policies/AmazonFraudDetectorFullAccessPolicy.json) |
 | AmazonFreeRTOSFullAccess | / | [v1](./policies/AmazonFreeRTOSFullAccess.json) |

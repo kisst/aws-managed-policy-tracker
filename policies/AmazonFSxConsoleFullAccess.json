@@ -11,6 +11,7 @@
                 "ec2:DescribeNetworkInterfaceAttribute",
                 "ec2:DescribeRouteTables",
                 "ec2:DescribeSecurityGroups",
+                "ec2:GetSecurityGroupsForVpc",
                 "ec2:DescribeSubnets",
                 "ec2:DescribeVpcs",
                 "firehose:ListDeliveryStreams",
