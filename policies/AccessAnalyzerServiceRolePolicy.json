@@ -5,6 +5,9 @@
             "Sid": "AccessAnalyzerServiceRolePolicy",
             "Effect": "Allow",
             "Action": [
+                "dynamodb:GetResourcePolicy",
+                "dynamodb:ListTables",
+                "dynamodb:ListStreams",
                 "ec2:DescribeAddresses",
                 "ec2:DescribeByoipCidrs",
                 "ec2:DescribeSnapshotAttribute",

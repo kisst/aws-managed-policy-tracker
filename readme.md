@@ -557,7 +557,7 @@
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWS_ConfigRole | /service-role/ | [v29](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
-| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AccessAnalyzerServiceRolePolicy.json) |
+| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v11](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v3](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v11](./policies/AdministratorAccess-Amplify.json) |
