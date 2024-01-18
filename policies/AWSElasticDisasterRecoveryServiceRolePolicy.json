@@ -55,6 +55,7 @@
                 "ec2:DescribeSnapshots",
                 "ec2:DescribeSubnets",
                 "ec2:DescribeVolumes",
+                "ec2:DescribeVolumeAttribute",
                 "ec2:GetEbsDefaultKmsKeyId",
                 "ec2:GetEbsEncryptionByDefault",
                 "ec2:DescribeVpcAttribute",
