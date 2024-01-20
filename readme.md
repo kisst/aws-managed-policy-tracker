@@ -674,6 +674,7 @@
 | AmazonEC2RoleforSSM | /service-role/ | [v8](./policies/AmazonEC2RoleforSSM.json) |
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
+| AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
@@ -874,7 +875,7 @@
 | AmazonRDSPerformanceInsightsReadOnly | / | [v3](./policies/AmazonRDSPerformanceInsightsReadOnly.json) |
 | AmazonRDSPreviewServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSPreviewServiceRolePolicy.json) |
 | AmazonRDSReadOnlyAccess | / | [v7](./policies/AmazonRDSReadOnlyAccess.json) |
-| AmazonRDSServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonRDSServiceRolePolicy.json) |
+| AmazonRDSServiceRolePolicy | /aws-service-role/ | [v13](./policies/AmazonRDSServiceRolePolicy.json) |
 | AmazonRedshiftAllCommandsFullAccess | / | [v2](./policies/AmazonRedshiftAllCommandsFullAccess.json) |
 | AmazonRedshiftDataFullAccess | / | [v5](./policies/AmazonRedshiftDataFullAccess.json) |
 | AmazonRedshiftFullAccess | / | [v5](./policies/AmazonRedshiftFullAccess.json) |
