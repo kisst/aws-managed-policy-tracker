@@ -107,11 +107,11 @@
                 "ssm:UpdateAssociation"
             ],
             "Resource": [
-                "arn:*:ec2:*:*:instance/*",
-                "arn:*:ssm:*:*:document/AmazonInspector2-*",
-                "arn:*:ssm:*:*:document/AWS-GatherSoftwareInventory",
-                "arn:*:ssm:*:*:managed-instance/*",
-                "arn:*:ssm:*:*:association/*"
+                "arn:aws:ec2:*:*:instance/*",
+                "arn:aws:ssm:*:*:document/AmazonInspector2-*",
+                "arn:aws:ssm:*:*:document/AWS-GatherSoftwareInventory",
+                "arn:aws:ssm:*:*:managed-instance/*",
+                "arn:aws:ssm:*:*:association/*"
             ]
         },
         {
@@ -122,7 +122,7 @@
                 "ssm:DeleteResourceDataSync"
             ],
             "Resource": [
-                "arn:*:ssm:*:*:resource-data-sync/InspectorResourceDataSync-do-not-delete"
+                "arn:aws:ssm:*:*:resource-data-sync/InspectorResourceDataSync-do-not-delete"
             ]
         },
         {
@@ -137,7 +137,7 @@
                 "events:RemoveTargets"
             ],
             "Resource": [
-                "arn:*:events:*:*:rule/DO-NOT-DELETE-AmazonInspector*ManagedRule"
+                "arn:aws:events:*:*:rule/DO-NOT-DELETE-AmazonInspector*ManagedRule"
             ]
         },
         {
@@ -190,7 +190,7 @@
                 "ssm:DeleteParameter"
             ],
             "Resource": [
-                "arn:*:ssm:*:*:parameter/inspector-aws/service/inspector-linux-application-paths"
+                "arn:aws:ssm:*:*:parameter/inspector-aws/service/inspector-linux-application-paths"
             ],
             "Condition": {
                 "StringEquals": {
@@ -206,7 +206,7 @@
                 "cloudtrail:DeleteServiceLinkedChannel"
             ],
             "Resource": [
-                "arn:*:cloudtrail:*:*:channel/aws-service-channel/inspector2/*"
+                "arn:aws:cloudtrail:*:*:channel/aws-service-channel/inspector2/*"
             ],
             "Condition": {
                 "StringEquals": {
@@ -226,6 +226,47 @@
             "Condition": {
                 "StringEquals": {
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "AllowToRunInvokeCisSpecificDocuments",
+            "Effect": "Allow",
+            "Action": [
+                "ssm:SendCommand",
+                "ssm:GetCommandInvocation"
+            ],
+            "Resource": [
+                "arn:aws:ssm:*:*:document/AmazonInspector2-InvokeInspectorSsmPluginCIS"
+            ]
+        },
+        {
+            "Sid": "AllowToRunCisCommandsToSpecificResources",
+            "Effect": "Allow",
+            "Action": [
+                "ssm:SendCommand"
+            ],
+            "Resource": [
+                "arn:aws:ec2:*:*:instance/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "AllowToPutCloudwatchMetricData",
+            "Effect": "Allow",
+            "Action": [
+                "cloudwatch:PutMetricData"
+            ],
+            "Resource": [
+                "*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "cloudwatch:namespace": "AWS/Inspector2"
                 }
             }
         }
