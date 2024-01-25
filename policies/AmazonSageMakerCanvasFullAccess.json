@@ -9,7 +9,8 @@
                 "sagemaker:DescribeUserProfile",
                 "sagemaker:ListTags",
                 "sagemaker:ListModelPackages",
-                "sagemaker:ListModelPackageGroups"
+                "sagemaker:ListModelPackageGroups",
+                "sagemaker:ListEndpoints"
             ],
             "Resource": "*"
         },

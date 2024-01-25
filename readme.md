@@ -766,6 +766,7 @@
 | AmazonHoneycodeWorkbookReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeWorkbookReadOnlyAccess.json) |
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
 | AmazonInspector2FullAccess | / | [v3](./policies/AmazonInspector2FullAccess.json) |
+| AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v5](./policies/AmazonInspector2ReadOnlyAccess.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonInspector2ServiceRolePolicy.json) |
 | AmazonInspectorFullAccess | / | [v5](./policies/AmazonInspectorFullAccess.json) |
@@ -932,7 +933,7 @@
 | AmazonSageMakerCanvasDataPrepFullAccess | / | [v2](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
 | AmazonSageMakerCanvasDirectDeployAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasDirectDeployAccess.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
-| AmazonSageMakerCanvasFullAccess | / | [v8](./policies/AmazonSageMakerCanvasFullAccess.json) |
+| AmazonSageMakerCanvasFullAccess | / | [v9](./policies/AmazonSageMakerCanvasFullAccess.json) |
 | AmazonSageMakerClusterInstanceRolePolicy | / | [v1](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
