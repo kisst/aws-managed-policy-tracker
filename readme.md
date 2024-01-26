@@ -245,9 +245,9 @@
 | AWSFMAdminReadOnlyAccess | / | [v2](./policies/AWSFMAdminReadOnlyAccess.json) |
 | AWSFMMemberReadOnlyAccess | / | [v1](./policies/AWSFMMemberReadOnlyAccess.json) |
 | AWSFaultInjectionSimulatorEC2Access | /service-role/ | [v4](./policies/AWSFaultInjectionSimulatorEC2Access.json) |
-| AWSFaultInjectionSimulatorECSAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorECSAccess.json) |
+| AWSFaultInjectionSimulatorECSAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorECSAccess.json) |
 | AWSFaultInjectionSimulatorEKSAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorEKSAccess.json) |
-| AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v1](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
+| AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
 | AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
 | AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
@@ -695,7 +695,7 @@
 | AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRFullAccessPolicy_v2 | / | [v4](./policies/AmazonEMRFullAccessPolicy_v2.json) |
 | AmazonEMRReadOnlyAccessPolicy_v2 | / | [v3](./policies/AmazonEMRReadOnlyAccessPolicy_v2.json) |
-| AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
+| AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
 | AmazonEMRServicePolicy_v2 | /service-role/ | [v2](./policies/AmazonEMRServicePolicy_v2.json) |
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
@@ -752,7 +752,7 @@
 | AmazonGrafanaRedshiftAccess | /service-role/ | [v1](./policies/AmazonGrafanaRedshiftAccess.json) |
 | AmazonGrafanaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGrafanaServiceLinkedRolePolicy.json) |
 | AmazonGuardDutyFullAccess | / | [v5](./policies/AmazonGuardDutyFullAccess.json) |
-| AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
+| AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
 | AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
