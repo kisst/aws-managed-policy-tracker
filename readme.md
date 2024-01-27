@@ -1134,7 +1134,7 @@
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v2](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v2](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v1](./policies/ROSAIngressOperatorPolicy.json) |
-| ROSAInstallerPolicy | /service-role/ | [v1](./policies/ROSAInstallerPolicy.json) |
+| ROSAInstallerPolicy | /service-role/ | [v2](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v3](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
