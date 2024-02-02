@@ -66,6 +66,7 @@
                 "datazone:ListDataSourceRuns",
                 "datazone:ListDataSources",
                 "datazone:ListEnvironmentBlueprintConfigurations",
+                "datazone:ListEnvironmentBlueprintConfigurationSummaries",
                 "datazone:ListEnvironmentBlueprints",
                 "datazone:ListEnvironmentProfiles",
                 "datazone:ListEnvironments",

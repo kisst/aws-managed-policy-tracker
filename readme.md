@@ -631,7 +631,7 @@
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
 | AmazonDMSVPCManagementRole | /service-role/ | [v3](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
-| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
+| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v3](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v1](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v4](./policies/AmazonDataZoneFullUserAccess.json) |
