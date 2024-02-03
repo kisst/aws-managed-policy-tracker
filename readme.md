@@ -930,6 +930,7 @@
 | AmazonSSMServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonSSMServiceRolePolicy.json) |
 | AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v7](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
 | AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
+| AmazonSageMakerCanvasBedrockAccess | / | [v1](./policies/AmazonSageMakerCanvasBedrockAccess.json) |
 | AmazonSageMakerCanvasDataPrepFullAccess | / | [v2](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
 | AmazonSageMakerCanvasDirectDeployAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasDirectDeployAccess.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
