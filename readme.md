@@ -386,7 +386,7 @@
 | AWSMigrationHubRefactorSpacesFullAccess | / | [v5](./policies/AWSMigrationHubRefactorSpacesFullAccess.json) |
 | AWSMigrationHubRefactorSpacesServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSMigrationHubRefactorSpacesServiceRolePolicy.json) |
 | AWSMigrationHubSMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubSMSAccess.json) |
-| AWSMigrationHubStrategyCollector | / | [v4](./policies/AWSMigrationHubStrategyCollector.json) |
+| AWSMigrationHubStrategyCollector | / | [v5](./policies/AWSMigrationHubStrategyCollector.json) |
 | AWSMigrationHubStrategyConsoleFullAccess | / | [v2](./policies/AWSMigrationHubStrategyConsoleFullAccess.json) |
 | AWSMigrationHubStrategyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMigrationHubStrategyServiceRolePolicy.json) |
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
@@ -1024,7 +1024,7 @@
 | CloudTrailServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudTrailServiceRolePolicy.json) |
 | CloudWatch-CrossAccountAccess | /aws-service-role/ | [v1](./policies/CloudWatch-CrossAccountAccess.json) |
 | CloudWatchActionsEC2Access | / | [v1](./policies/CloudWatchActionsEC2Access.json) |
-| CloudWatchAgentAdminPolicy | / | [v1](./policies/CloudWatchAgentAdminPolicy.json) |
+| CloudWatchAgentAdminPolicy | / | [v2](./policies/CloudWatchAgentAdminPolicy.json) |
 | CloudWatchAgentServerPolicy | / | [v2](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
@@ -1142,7 +1142,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v1](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v2](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v110](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v111](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
