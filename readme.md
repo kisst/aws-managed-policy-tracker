@@ -401,8 +401,8 @@
 | AWSOpsWorksRegisterCLI_EC2 | / | [v1](./policies/AWSOpsWorksRegisterCLI_EC2.json) |
 | AWSOpsWorksRegisterCLI_OnPremises | / | [v1](./policies/AWSOpsWorksRegisterCLI_OnPremises.json) |
 | AWSOpsWorks_FullAccess | / | [v1](./policies/AWSOpsWorks_FullAccess.json) |
-| AWSOrganizationsFullAccess | / | [v5](./policies/AWSOrganizationsFullAccess.json) |
-| AWSOrganizationsReadOnlyAccess | / | [v4](./policies/AWSOrganizationsReadOnlyAccess.json) |
+| AWSOrganizationsFullAccess | / | [v6](./policies/AWSOrganizationsFullAccess.json) |
+| AWSOrganizationsReadOnlyAccess | / | [v5](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSOutpostsServiceRolePolicy.json) |
@@ -1025,7 +1025,7 @@
 | CloudWatch-CrossAccountAccess | /aws-service-role/ | [v1](./policies/CloudWatch-CrossAccountAccess.json) |
 | CloudWatchActionsEC2Access | / | [v1](./policies/CloudWatchActionsEC2Access.json) |
 | CloudWatchAgentAdminPolicy | / | [v2](./policies/CloudWatchAgentAdminPolicy.json) |
-| CloudWatchAgentServerPolicy | / | [v2](./policies/CloudWatchAgentServerPolicy.json) |
+| CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
 | CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
@@ -1093,7 +1093,7 @@
 | GreengrassOTAUpdateArtifactAccess | /service-role/ | [v2](./policies/GreengrassOTAUpdateArtifactAccess.json) |
 | GroundTruthSyntheticConsoleFullAccess | / | [v1](./policies/GroundTruthSyntheticConsoleFullAccess.json) |
 | GroundTruthSyntheticConsoleReadOnlyAccess | / | [v1](./policies/GroundTruthSyntheticConsoleReadOnlyAccess.json) |
-| Health_OrganizationsServiceRolePolicy | /aws-service-role/ | [v3](./policies/Health_OrganizationsServiceRolePolicy.json) |
+| Health_OrganizationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/Health_OrganizationsServiceRolePolicy.json) |
 | IAMAccessAdvisorReadOnly | / | [v1](./policies/IAMAccessAdvisorReadOnly.json) |
 | IAMAccessAnalyzerFullAccess | / | [v1](./policies/IAMAccessAnalyzerFullAccess.json) |
 | IAMAccessAnalyzerReadOnlyAccess | / | [v3](./policies/IAMAccessAnalyzerReadOnlyAccess.json) |
@@ -1108,7 +1108,7 @@
 | KafkaConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/KafkaConnectServiceRolePolicy.json) |
 | KafkaServiceRolePolicy | /aws-service-role/ | [v4](./policies/KafkaServiceRolePolicy.json) |
 | KeyspacesReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/KeyspacesReplicationServiceRolePolicy.json) |
-| LakeFormationDataAccessServiceRolePolicy | /aws-service-role/ | [v1](./policies/LakeFormationDataAccessServiceRolePolicy.json) |
+| LakeFormationDataAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/LakeFormationDataAccessServiceRolePolicy.json) |
 | LexBotPolicy | /aws-service-role/ | [v2](./policies/LexBotPolicy.json) |
 | LexChannelPolicy | /aws-service-role/ | [v1](./policies/LexChannelPolicy.json) |
 | LightsailExportAccess | /aws-service-role/ | [v2](./policies/LightsailExportAccess.json) |
