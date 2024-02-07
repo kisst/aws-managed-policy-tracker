@@ -787,7 +787,7 @@
 | AmazonKinesisVideoStreamsReadOnlyAccess | / | [v1](./policies/AmazonKinesisVideoStreamsReadOnlyAccess.json) |
 | AmazonLaunchWizardFullAccessV2 | / | [v1](./policies/AmazonLaunchWizardFullAccessV2.json) |
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
-| AmazonLexFullAccess | / | [v7](./policies/AmazonLexFullAccess.json) |
+| AmazonLexFullAccess | / | [v8](./policies/AmazonLexFullAccess.json) |
 | AmazonLexReadOnly | / | [v4](./policies/AmazonLexReadOnly.json) |
 | AmazonLexReplicationPolicy | /aws-service-role/ | [v1](./policies/AmazonLexReplicationPolicy.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
