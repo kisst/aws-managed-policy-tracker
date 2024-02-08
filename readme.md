@@ -885,7 +885,7 @@
 | AmazonRedshiftQueryEditorV2NoSharing | / | [v8](./policies/AmazonRedshiftQueryEditorV2NoSharing.json) |
 | AmazonRedshiftQueryEditorV2ReadSharing | / | [v8](./policies/AmazonRedshiftQueryEditorV2ReadSharing.json) |
 | AmazonRedshiftQueryEditorV2ReadWriteSharing | / | [v8](./policies/AmazonRedshiftQueryEditorV2ReadWriteSharing.json) |
-| AmazonRedshiftReadOnlyAccess | / | [v1](./policies/AmazonRedshiftReadOnlyAccess.json) |
+| AmazonRedshiftReadOnlyAccess | / | [v2](./policies/AmazonRedshiftReadOnlyAccess.json) |
 | AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v12](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
 | AmazonRekognitionCustomLabelsFullAccess | / | [v4](./policies/AmazonRekognitionCustomLabelsFullAccess.json) |
 | AmazonRekognitionFullAccess | / | [v1](./policies/AmazonRekognitionFullAccess.json) |
