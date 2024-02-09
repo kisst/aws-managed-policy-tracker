@@ -369,7 +369,7 @@
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v1](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v4](./policies/AWSMarketplaceRead-only.json) |
-| AWSMarketplaceSellerFullAccess | / | [v9](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v10](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v7](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v3](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMediaConnectServicePolicy | /aws-service-role/ | [v1](./policies/AWSMediaConnectServicePolicy.json) |
@@ -971,11 +971,11 @@
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
 | AmazonTranscribeReadOnlyAccess | / | [v1](./policies/AmazonTranscribeReadOnlyAccess.json) |
 | AmazonVPCCrossAccountNetworkInterfaceOperations | / | [v5](./policies/AmazonVPCCrossAccountNetworkInterfaceOperations.json) |
-| AmazonVPCFullAccess | / | [v9](./policies/AmazonVPCFullAccess.json) |
+| AmazonVPCFullAccess | / | [v10](./policies/AmazonVPCFullAccess.json) |
 | AmazonVPCNetworkAccessAnalyzerFullAccessPolicy | / | [v2](./policies/AmazonVPCNetworkAccessAnalyzerFullAccessPolicy.json) |
 | AmazonVPCReachabilityAnalyzerFullAccessPolicy | / | [v2](./policies/AmazonVPCReachabilityAnalyzerFullAccessPolicy.json) |
 | AmazonVPCReachabilityAnalyzerPathComponentReadPolicy | / | [v1](./policies/AmazonVPCReachabilityAnalyzerPathComponentReadPolicy.json) |
-| AmazonVPCReadOnlyAccess | / | [v8](./policies/AmazonVPCReadOnlyAccess.json) |
+| AmazonVPCReadOnlyAccess | / | [v9](./policies/AmazonVPCReadOnlyAccess.json) |
 | AmazonWorkDocsFullAccess | / | [v1](./policies/AmazonWorkDocsFullAccess.json) |
 | AmazonWorkDocsReadOnlyAccess | / | [v1](./policies/AmazonWorkDocsReadOnlyAccess.json) |
 | AmazonWorkMailEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkMailEventsServiceRolePolicy.json) |
