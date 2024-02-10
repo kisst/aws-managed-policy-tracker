@@ -754,7 +754,7 @@
 | AmazonGuardDutyFullAccess | / | [v5](./policies/AmazonGuardDutyFullAccess.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
-| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonGuardDutyServiceRolePolicy.json) |
+| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
 | AmazonHealthLakeReadOnlyAccess | / | [v1](./policies/AmazonHealthLakeReadOnlyAccess.json) |
 | AmazonHoneycodeFullAccess | / | [v1](./policies/AmazonHoneycodeFullAccess.json) |

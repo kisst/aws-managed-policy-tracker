@@ -13,6 +13,7 @@
                 "ec2:DescribeTransitGatewayAttachments",
                 "organizations:ListAccounts",
                 "organizations:DescribeAccount",
+                "organizations:DescribeOrganization",
                 "s3:GetBucketPublicAccessBlock",
                 "s3:GetEncryptionConfiguration",
                 "s3:GetBucketTagging",
