@@ -552,7 +552,7 @@
 | AWSXRayDaemonWriteAccess | / | [v2](./policies/AWSXRayDaemonWriteAccess.json) |
 | AWSXrayCrossAccountSharingConfiguration | / | [v1](./policies/AWSXrayCrossAccountSharingConfiguration.json) |
 | AWSXrayFullAccess | / | [v1](./policies/AWSXrayFullAccess.json) |
-| AWSXrayReadOnlyAccess | / | [v7](./policies/AWSXrayReadOnlyAccess.json) |
+| AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWS_ConfigRole | /service-role/ | [v29](./policies/AWS_ConfigRole.json) |
