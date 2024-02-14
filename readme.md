@@ -549,7 +549,7 @@
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
 | AWSWellArchitectedOrganizationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedOrganizationsServiceRolePolicy.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
-| AWSXRayDaemonWriteAccess | / | [v1](./policies/AWSXRayDaemonWriteAccess.json) |
+| AWSXRayDaemonWriteAccess | / | [v2](./policies/AWSXRayDaemonWriteAccess.json) |
 | AWSXrayCrossAccountSharingConfiguration | / | [v1](./policies/AWSXrayCrossAccountSharingConfiguration.json) |
 | AWSXrayFullAccess | / | [v1](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v7](./policies/AWSXrayReadOnlyAccess.json) |
