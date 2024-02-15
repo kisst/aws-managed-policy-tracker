@@ -419,7 +419,7 @@
 | AWSPrivateCAPrivilegedUser | / | [v1](./policies/AWSPrivateCAPrivilegedUser.json) |
 | AWSPrivateCAReadOnly | / | [v1](./policies/AWSPrivateCAReadOnly.json) |
 | AWSPrivateCAUser | / | [v1](./policies/AWSPrivateCAUser.json) |
-| AWSPrivateMarketplaceAdminFullAccess | / | [v5](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
+| AWSPrivateMarketplaceAdminFullAccess | / | [v6](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
 | AWSPrivateMarketplaceRequests | / | [v1](./policies/AWSPrivateMarketplaceRequests.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
 | AWSProtonCodeBuildProvisioningBasicAccess | / | [v1](./policies/AWSProtonCodeBuildProvisioningBasicAccess.json) |
@@ -494,9 +494,10 @@
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForMonitronPolicy.json) |
 | AWSServiceRoleForNeptuneGraphPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForNeptuneGraphPolicy.json) |
+| AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
-| AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v1](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
+| AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
 | AWSShieldDRTAccessPolicy | /service-role/ | [v6](./policies/AWSShieldDRTAccessPolicy.json) |
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSStepFunctionsConsoleFullAccess | / | [v2](./policies/AWSStepFunctionsConsoleFullAccess.json) |
