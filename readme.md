@@ -165,7 +165,7 @@
 | AWSDataPipeline_FullAccess | / | [v2](./policies/AWSDataPipeline_FullAccess.json) |
 | AWSDataPipeline_PowerUser | / | [v2](./policies/AWSDataPipeline_PowerUser.json) |
 | AWSDataSyncDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncDiscoveryServiceRolePolicy.json) |
-| AWSDataSyncFullAccess | / | [v4](./policies/AWSDataSyncFullAccess.json) |
+| AWSDataSyncFullAccess | / | [v5](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDeepLensLambdaFunctionAccessPolicy | / | [v4](./policies/AWSDeepLensLambdaFunctionAccessPolicy.json) |
 | AWSDeepLensServiceRolePolicy | /service-role/ | [v6](./policies/AWSDeepLensServiceRolePolicy.json) |
@@ -1104,7 +1104,7 @@
 | IAMUserChangePassword | / | [v2](./policies/IAMUserChangePassword.json) |
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
 | IVSFullAccess | / | [v1](./policies/IVSFullAccess.json) |
-| IVSReadOnlyAccess | / | [v1](./policies/IVSReadOnlyAccess.json) |
+| IVSReadOnlyAccess | / | [v2](./policies/IVSReadOnlyAccess.json) |
 | IVSRecordToS3 | /aws-service-role/ | [v1](./policies/IVSRecordToS3.json) |
 | KafkaConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/KafkaConnectServiceRolePolicy.json) |
 | KafkaServiceRolePolicy | /aws-service-role/ | [v4](./policies/KafkaServiceRolePolicy.json) |
