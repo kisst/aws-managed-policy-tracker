@@ -284,7 +284,7 @@
 | AWSImageBuilderReadOnlyAccess | / | [v1](./policies/AWSImageBuilderReadOnlyAccess.json) |
 | AWSImportExportFullAccess | / | [v1](./policies/AWSImportExportFullAccess.json) |
 | AWSImportExportReadOnlyAccess | / | [v1](./policies/AWSImportExportReadOnlyAccess.json) |
-| AWSIncidentManagerIncidentAccessServiceRolePolicy | / | [v1](./policies/AWSIncidentManagerIncidentAccessServiceRolePolicy.json) |
+| AWSIncidentManagerIncidentAccessServiceRolePolicy | / | [v2](./policies/AWSIncidentManagerIncidentAccessServiceRolePolicy.json) |
 | AWSIncidentManagerResolverAccess | / | [v1](./policies/AWSIncidentManagerResolverAccess.json) |
 | AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIncidentManagerServiceRolePolicy.json) |
 | AWSIoT1ClickFullAccess | / | [v1](./policies/AWSIoT1ClickFullAccess.json) |
