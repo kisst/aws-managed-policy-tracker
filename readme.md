@@ -882,10 +882,10 @@
 | AmazonRedshiftDataFullAccess | / | [v5](./policies/AmazonRedshiftDataFullAccess.json) |
 | AmazonRedshiftFullAccess | / | [v5](./policies/AmazonRedshiftFullAccess.json) |
 | AmazonRedshiftQueryEditor | / | [v4](./policies/AmazonRedshiftQueryEditor.json) |
-| AmazonRedshiftQueryEditorV2FullAccess | / | [v2](./policies/AmazonRedshiftQueryEditorV2FullAccess.json) |
-| AmazonRedshiftQueryEditorV2NoSharing | / | [v8](./policies/AmazonRedshiftQueryEditorV2NoSharing.json) |
-| AmazonRedshiftQueryEditorV2ReadSharing | / | [v8](./policies/AmazonRedshiftQueryEditorV2ReadSharing.json) |
-| AmazonRedshiftQueryEditorV2ReadWriteSharing | / | [v8](./policies/AmazonRedshiftQueryEditorV2ReadWriteSharing.json) |
+| AmazonRedshiftQueryEditorV2FullAccess | / | [v3](./policies/AmazonRedshiftQueryEditorV2FullAccess.json) |
+| AmazonRedshiftQueryEditorV2NoSharing | / | [v9](./policies/AmazonRedshiftQueryEditorV2NoSharing.json) |
+| AmazonRedshiftQueryEditorV2ReadSharing | / | [v9](./policies/AmazonRedshiftQueryEditorV2ReadSharing.json) |
+| AmazonRedshiftQueryEditorV2ReadWriteSharing | / | [v9](./policies/AmazonRedshiftQueryEditorV2ReadWriteSharing.json) |
 | AmazonRedshiftReadOnlyAccess | / | [v2](./policies/AmazonRedshiftReadOnlyAccess.json) |
 | AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v12](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
 | AmazonRekognitionCustomLabelsFullAccess | / | [v4](./policies/AmazonRekognitionCustomLabelsFullAccess.json) |
