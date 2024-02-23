@@ -147,7 +147,7 @@
 | AWSConfigRole | /service-role/ | [v42](./policies/AWSConfigRole.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v49](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v50](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -471,7 +471,7 @@
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecurityHubFullAccess | / | [v2](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
-| AWSSecurityHubReadOnlyAccess | / | [v3](./policies/AWSSecurityHubReadOnlyAccess.json) |
+| AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
@@ -556,7 +556,7 @@
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v29](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v30](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v12](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
@@ -1150,7 +1150,7 @@
 | Route53RecoveryReadinessServiceRolePolicy | /aws-service-role/ | [v5](./policies/Route53RecoveryReadinessServiceRolePolicy.json) |
 | Route53ResolverServiceRolePolicy | /aws-service-role/ | [v1](./policies/Route53ResolverServiceRolePolicy.json) |
 | S3StorageLensServiceRolePolicy | /aws-service-role/ | [v1](./policies/S3StorageLensServiceRolePolicy.json) |
-| SecretsManagerReadWrite | / | [v4](./policies/SecretsManagerReadWrite.json) |
+| SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v41](./policies/SecurityAudit.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v1](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
