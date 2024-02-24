@@ -518,7 +518,7 @@
 | AWSSystemsManagerForSAPFullAccess | / | [v2](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
-| AWSThinkboxAWSPortalAdminPolicy | / | [v6](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
+| AWSThinkboxAWSPortalAdminPolicy | / | [v7](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
 | AWSThinkboxAWSPortalGatewayPolicy | / | [v2](./policies/AWSThinkboxAWSPortalGatewayPolicy.json) |
 | AWSThinkboxAWSPortalWorkerPolicy | / | [v4](./policies/AWSThinkboxAWSPortalWorkerPolicy.json) |
 | AWSThinkboxAssetServerPolicy | / | [v1](./policies/AWSThinkboxAssetServerPolicy.json) |
@@ -961,7 +961,7 @@
 | AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
-| AmazonSecurityLakeAdministrator | / | [v1](./policies/AmazonSecurityLakeAdministrator.json) |
+| AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
 | AmazonSecurityLakeMetastoreManager | /service-role/ | [v1](./policies/AmazonSecurityLakeMetastoreManager.json) |
 | AmazonSecurityLakePermissionsBoundary | / | [v1](./policies/AmazonSecurityLakePermissionsBoundary.json) |
 | AmazonTextractFullAccess | / | [v1](./policies/AmazonTextractFullAccess.json) |
