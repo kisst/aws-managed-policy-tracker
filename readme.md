@@ -867,6 +867,7 @@
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSBetaServiceRolePolicy.json) |
+| AmazonRDSCustomInstanceProfileRolePolicy | / | [v1](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
 | AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
 | AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
