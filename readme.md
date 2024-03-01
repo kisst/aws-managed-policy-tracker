@@ -1005,7 +1005,7 @@
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
 | AutoScalingNotificationAccessRole | /service-role/ | [v1](./policies/AutoScalingNotificationAccessRole.json) |
 | AutoScalingReadOnlyAccess | / | [v1](./policies/AutoScalingReadOnlyAccess.json) |
-| AutoScalingServiceRolePolicy | /aws-service-role/ | [v7](./policies/AutoScalingServiceRolePolicy.json) |
+| AutoScalingServiceRolePolicy | /aws-service-role/ | [v8](./policies/AutoScalingServiceRolePolicy.json) |
 | AwsGlueDataBrewFullAccessPolicy | / | [v8](./policies/AwsGlueDataBrewFullAccessPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
@@ -1153,7 +1153,7 @@
 | S3StorageLensServiceRolePolicy | /aws-service-role/ | [v1](./policies/S3StorageLensServiceRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v41](./policies/SecurityAudit.json) |
-| SecurityLakeServiceLinkedRole | /aws-service-role/ | [v1](./policies/SecurityLakeServiceLinkedRole.json) |
+| SecurityLakeServiceLinkedRole | /aws-service-role/ | [v2](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
