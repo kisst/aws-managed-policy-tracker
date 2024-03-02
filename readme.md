@@ -486,7 +486,7 @@
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
 | AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy.json) |
 | AWSServiceRoleForCodeGuru-Profiler | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCodeGuru-Profiler.json) |
-| AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
+| AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
 | AWSServiceRoleForImageBuilder | /aws-service-role/ | [v19](./policies/AWSServiceRoleForImageBuilder.json) |
