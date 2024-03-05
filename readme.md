@@ -380,7 +380,7 @@
 | AWSMigrationHubOrchestratorConsoleFullAccess | / | [v2](./policies/AWSMigrationHubOrchestratorConsoleFullAccess.json) |
 | AWSMigrationHubOrchestratorInstanceRolePolicy | / | [v1](./policies/AWSMigrationHubOrchestratorInstanceRolePolicy.json) |
 | AWSMigrationHubOrchestratorPlugin | / | [v1](./policies/AWSMigrationHubOrchestratorPlugin.json) |
-| AWSMigrationHubOrchestratorServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSMigrationHubOrchestratorServiceRolePolicy.json) |
+| AWSMigrationHubOrchestratorServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSMigrationHubOrchestratorServiceRolePolicy.json) |
 | AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess | / | [v2](./policies/AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess.json) |
 | AWSMigrationHubRefactorSpaces-SSMAutomationPolicy | /service-role/ | [v1](./policies/AWSMigrationHubRefactorSpaces-SSMAutomationPolicy.json) |
 | AWSMigrationHubRefactorSpacesFullAccess | / | [v5](./policies/AWSMigrationHubRefactorSpacesFullAccess.json) |
@@ -691,7 +691,7 @@
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
-| AmazonEKS_CNI_Policy | / | [v4](./policies/AmazonEKS_CNI_Policy.json) |
+| AmazonEKS_CNI_Policy | / | [v5](./policies/AmazonEKS_CNI_Policy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
 | AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRFullAccessPolicy_v2 | / | [v4](./policies/AmazonEMRFullAccessPolicy_v2.json) |
