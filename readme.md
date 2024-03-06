@@ -369,6 +369,7 @@
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v1](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v4](./policies/AWSMarketplaceRead-only.json) |
+| AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
 | AWSMarketplaceSellerFullAccess | / | [v10](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v7](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v3](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
