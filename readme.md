@@ -1031,7 +1031,7 @@
 | CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
-| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
+| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
 | CloudWatchEventsBuiltInTargetExecutionAccess | /service-role/ | [v1](./policies/CloudWatchEventsBuiltInTargetExecutionAccess.json) |
