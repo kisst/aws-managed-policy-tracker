@@ -791,7 +791,7 @@
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
 | AmazonLexFullAccess | / | [v8](./policies/AmazonLexFullAccess.json) |
 | AmazonLexReadOnly | / | [v4](./policies/AmazonLexReadOnly.json) |
-| AmazonLexReplicationPolicy | /aws-service-role/ | [v1](./policies/AmazonLexReplicationPolicy.json) |
+| AmazonLexReplicationPolicy | /aws-service-role/ | [v2](./policies/AmazonLexReplicationPolicy.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
 | AmazonLexV2BotPolicy | /aws-service-role/ | [v1](./policies/AmazonLexV2BotPolicy.json) |
 | AmazonLookoutEquipmentFullAccess | / | [v3](./policies/AmazonLookoutEquipmentFullAccess.json) |
