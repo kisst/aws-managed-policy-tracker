@@ -144,7 +144,6 @@
 | AWSCompromisedKeyQuarantineV2 | / | [v4](./policies/AWSCompromisedKeyQuarantineV2.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
-| AWSConfigRole | /service-role/ | [v42](./policies/AWSConfigRole.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
 | AWSConfigServiceRolePolicy | /aws-service-role/ | [v50](./policies/AWSConfigServiceRolePolicy.json) |
