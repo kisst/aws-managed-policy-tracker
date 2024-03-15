@@ -135,7 +135,7 @@
 | AWSCodeDeployRoleForLambdaLimited | /service-role/ | [v1](./policies/AWSCodeDeployRoleForLambdaLimited.json) |
 | AWSCodePipelineApproverAccess | / | [v3](./policies/AWSCodePipelineApproverAccess.json) |
 | AWSCodePipelineCustomActionAccess | / | [v1](./policies/AWSCodePipelineCustomActionAccess.json) |
-| AWSCodePipeline_FullAccess | / | [v2](./policies/AWSCodePipeline_FullAccess.json) |
+| AWSCodePipeline_FullAccess | / | [v3](./policies/AWSCodePipeline_FullAccess.json) |
 | AWSCodePipeline_ReadOnlyAccess | / | [v1](./policies/AWSCodePipeline_ReadOnlyAccess.json) |
 | AWSCodeStarFullAccess | / | [v3](./policies/AWSCodeStarFullAccess.json) |
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
@@ -969,6 +969,8 @@
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
 | AmazonTimestreamConsoleFullAccess | / | [v4](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
+| AmazonTimestreamInfluxDBFullAccess | / | [v1](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
+| AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonTimestreamReadOnlyAccess | / | [v3](./policies/AmazonTimestreamReadOnlyAccess.json) |
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
 | AmazonTranscribeReadOnlyAccess | / | [v1](./policies/AmazonTranscribeReadOnlyAccess.json) |
