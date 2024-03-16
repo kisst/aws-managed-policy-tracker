@@ -369,7 +369,7 @@
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v4](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
-| AWSMarketplaceSellerFullAccess | / | [v10](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v11](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v7](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v3](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMediaConnectServicePolicy | /aws-service-role/ | [v1](./policies/AWSMediaConnectServicePolicy.json) |
@@ -888,7 +888,7 @@
 | AmazonRedshiftQueryEditorV2ReadSharing | / | [v9](./policies/AmazonRedshiftQueryEditorV2ReadSharing.json) |
 | AmazonRedshiftQueryEditorV2ReadWriteSharing | / | [v9](./policies/AmazonRedshiftQueryEditorV2ReadWriteSharing.json) |
 | AmazonRedshiftReadOnlyAccess | / | [v2](./policies/AmazonRedshiftReadOnlyAccess.json) |
-| AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v12](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
+| AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v13](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
 | AmazonRekognitionCustomLabelsFullAccess | / | [v4](./policies/AmazonRekognitionCustomLabelsFullAccess.json) |
 | AmazonRekognitionFullAccess | / | [v1](./policies/AmazonRekognitionFullAccess.json) |
 | AmazonRekognitionReadOnlyAccess | / | [v10](./policies/AmazonRekognitionReadOnlyAccess.json) |
