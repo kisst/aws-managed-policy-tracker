@@ -255,7 +255,7 @@
 | AWSGlobalAcceleratorSLRPolicy | /aws-service-role/ | [v8](./policies/AWSGlobalAcceleratorSLRPolicy.json) |
 | AWSGlueConsoleFullAccess | / | [v14](./policies/AWSGlueConsoleFullAccess.json) |
 | AWSGlueConsoleSageMakerNotebookFullAccess | / | [v3](./policies/AWSGlueConsoleSageMakerNotebookFullAccess.json) |
-| AWSGlueDataBrewServiceRole | /service-role/ | [v3](./policies/AWSGlueDataBrewServiceRole.json) |
+| AWSGlueDataBrewServiceRole | /service-role/ | [v4](./policies/AWSGlueDataBrewServiceRole.json) |
 | AWSGlueSchemaRegistryFullAccess | / | [v1](./policies/AWSGlueSchemaRegistryFullAccess.json) |
 | AWSGlueSchemaRegistryReadonlyAccess | / | [v1](./policies/AWSGlueSchemaRegistryReadonlyAccess.json) |
 | AWSGlueServiceNotebookRole | /service-role/ | [v4](./policies/AWSGlueServiceNotebookRole.json) |
@@ -657,7 +657,7 @@
 | AmazonDocDBReadOnlyAccess | / | [v1](./policies/AmazonDocDBReadOnlyAccess.json) |
 | AmazonDynamoDBFullAccess | / | [v15](./policies/AmazonDynamoDBFullAccess.json) |
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
-| AmazonDynamoDBReadOnlyAccess | / | [v13](./policies/AmazonDynamoDBReadOnlyAccess.json) |
+| AmazonDynamoDBReadOnlyAccess | / | [v14](./policies/AmazonDynamoDBReadOnlyAccess.json) |
 | AmazonEBSCSIDriverPolicy | /service-role/ | [v2](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
 | AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
