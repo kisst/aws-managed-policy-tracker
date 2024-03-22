@@ -92,7 +92,7 @@
 | AWSCertificateManagerPrivateCAUser | / | [v4](./policies/AWSCertificateManagerPrivateCAUser.json) |
 | AWSCertificateManagerReadOnly | / | [v4](./policies/AWSCertificateManagerReadOnly.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
-| AWSCleanRoomsFullAccess | / | [v1](./policies/AWSCleanRoomsFullAccess.json) |
+| AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
 | AWSCleanRoomsFullAccessNoQuerying | / | [v3](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
 | AWSCleanRoomsMLFullAccess | / | [v1](./policies/AWSCleanRoomsMLFullAccess.json) |
 | AWSCleanRoomsMLReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
