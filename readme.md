@@ -329,8 +329,8 @@
 | AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy.json) |
 | AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy.json) |
 | AWSKeyManagementServicePowerUser | / | [v2](./policies/AWSKeyManagementServicePowerUser.json) |
-| AWSLakeFormationCrossAccountManager | / | [v5](./policies/AWSLakeFormationCrossAccountManager.json) |
-| AWSLakeFormationDataAdmin | / | [v2](./policies/AWSLakeFormationDataAdmin.json) |
+| AWSLakeFormationCrossAccountManager | / | [v6](./policies/AWSLakeFormationCrossAccountManager.json) |
+| AWSLakeFormationDataAdmin | / | [v3](./policies/AWSLakeFormationDataAdmin.json) |
 | AWSLambdaBasicExecutionRole | /service-role/ | [v1](./policies/AWSLambdaBasicExecutionRole.json) |
 | AWSLambdaDynamoDBExecutionRole | /service-role/ | [v1](./policies/AWSLambdaDynamoDBExecutionRole.json) |
 | AWSLambdaENIManagementAccess | /service-role/ | [v2](./policies/AWSLambdaENIManagementAccess.json) |
