@@ -351,7 +351,7 @@
 | AWSLicenseManagerServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSLicenseManagerServiceRolePolicy.json) |
 | AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
 | AWSM2ServicePolicy | /aws-service-role/ | [v1](./policies/AWSM2ServicePolicy.json) |
-| AWSMSKReplicatorExecutionRole | /service-role/ | [v1](./policies/AWSMSKReplicatorExecutionRole.json) |
+| AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
 | AWSManagedServicesDeploymentToolkitPolicy | /aws-service-role/ | [v3](./policies/AWSManagedServicesDeploymentToolkitPolicy.json) |
 | AWSManagedServices_ContactsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_ContactsServiceRolePolicy.json) |
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
@@ -440,7 +440,7 @@
 | AWSQuicksightAthenaAccess | /service-role/ | [v10](./policies/AWSQuicksightAthenaAccess.json) |
 | AWSQuicksightOpenSearchPolicy | /service-role/ | [v1](./policies/AWSQuicksightOpenSearchPolicy.json) |
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
-| AWSRefactoringToolkitFullAccess | / | [v4](./policies/AWSRefactoringToolkitFullAccess.json) |
+| AWSRefactoringToolkitFullAccess | / | [v5](./policies/AWSRefactoringToolkitFullAccess.json) |
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
 | AWSResilienceHubAsssessmentExecutionPolicy | / | [v4](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
@@ -512,7 +512,7 @@
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v2](./policies/AWSSupportPlansFullAccess.json) |
 | AWSSupportPlansReadOnlyAccess | / | [v1](./policies/AWSSupportPlansReadOnlyAccess.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v34](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v35](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerForSAPFullAccess | / | [v2](./policies/AWSSystemsManagerForSAPFullAccess.json) |
