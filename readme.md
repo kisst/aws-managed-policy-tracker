@@ -188,6 +188,7 @@
 | AWSEC2FleetServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSEC2FleetServiceRolePolicy.json) |
 | AWSEC2SpotFleetServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotFleetServiceRolePolicy.json) |
 | AWSEC2SpotServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotServiceRolePolicy.json) |
+| AWSEC2VssSnapshotPolicy | / | [v1](./policies/AWSEC2VssSnapshotPolicy.json) |
 | AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
@@ -430,6 +431,8 @@
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonSyncServiceRolePolicy.json) |
 | AWSPurchaseOrdersServiceRolePolicy | / | [v5](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
+| AWSQuickSightAssetBundleExportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleExportPolicy.json) |
+| AWSQuickSightAssetBundleImportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleImportPolicy.json) |
 | AWSQuickSightDescribeRDS | /service-role/ | [v1](./policies/AWSQuickSightDescribeRDS.json) |
 | AWSQuickSightDescribeRedshift | /service-role/ | [v1](./policies/AWSQuickSightDescribeRedshift.json) |
 | AWSQuickSightElasticsearchPolicy | /service-role/ | [v3](./policies/AWSQuickSightElasticsearchPolicy.json) |
