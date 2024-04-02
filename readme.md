@@ -166,6 +166,12 @@
 | AWSDataSyncDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncDiscoveryServiceRolePolicy.json) |
 | AWSDataSyncFullAccess | / | [v5](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
+| AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
+| AWSDeadlineCloud-UserAccessFarms | / | [v1](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
+| AWSDeadlineCloud-UserAccessFleets | / | [v1](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
+| AWSDeadlineCloud-UserAccessJobs | / | [v1](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
+| AWSDeadlineCloud-UserAccessQueues | / | [v1](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
+| AWSDeadlineCloud-WorkerHost | / | [v1](./policies/AWSDeadlineCloud-WorkerHost.json) |
 | AWSDeepLensLambdaFunctionAccessPolicy | / | [v4](./policies/AWSDeepLensLambdaFunctionAccessPolicy.json) |
 | AWSDeepLensServiceRolePolicy | /service-role/ | [v6](./policies/AWSDeepLensServiceRolePolicy.json) |
 | AWSDeepRacerAccountAdminAccess | / | [v1](./policies/AWSDeepRacerAccountAdminAccess.json) |
@@ -387,7 +393,7 @@
 | AWSMigrationHubRefactorSpacesFullAccess | / | [v5](./policies/AWSMigrationHubRefactorSpacesFullAccess.json) |
 | AWSMigrationHubRefactorSpacesServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSMigrationHubRefactorSpacesServiceRolePolicy.json) |
 | AWSMigrationHubSMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubSMSAccess.json) |
-| AWSMigrationHubStrategyCollector | / | [v5](./policies/AWSMigrationHubStrategyCollector.json) |
+| AWSMigrationHubStrategyCollector | / | [v6](./policies/AWSMigrationHubStrategyCollector.json) |
 | AWSMigrationHubStrategyConsoleFullAccess | / | [v2](./policies/AWSMigrationHubStrategyConsoleFullAccess.json) |
 | AWSMigrationHubStrategyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMigrationHubStrategyServiceRolePolicy.json) |
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
@@ -635,11 +641,11 @@
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
 | AmazonDMSVPCManagementRole | /service-role/ | [v3](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
-| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v4](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
+| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v2](./policies/AmazonDataZoneFullAccess.json) |
-| AmazonDataZoneFullUserAccess | / | [v5](./policies/AmazonDataZoneFullUserAccess.json) |
-| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v3](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
+| AmazonDataZoneFullUserAccess | / | [v6](./policies/AmazonDataZoneFullUserAccess.json) |
+| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v4](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v3](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
@@ -966,7 +972,7 @@
 | AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
 | AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
-| AmazonSecurityLakeMetastoreManager | /service-role/ | [v1](./policies/AmazonSecurityLakeMetastoreManager.json) |
+| AmazonSecurityLakeMetastoreManager | /service-role/ | [v2](./policies/AmazonSecurityLakeMetastoreManager.json) |
 | AmazonSecurityLakePermissionsBoundary | / | [v1](./policies/AmazonSecurityLakePermissionsBoundary.json) |
 | AmazonTextractFullAccess | / | [v1](./policies/AmazonTextractFullAccess.json) |
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
