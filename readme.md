@@ -187,7 +187,7 @@
 | AWSDirectConnectFullAccess | / | [v3](./policies/AWSDirectConnectFullAccess.json) |
 | AWSDirectConnectReadOnlyAccess | / | [v4](./policies/AWSDirectConnectReadOnlyAccess.json) |
 | AWSDirectConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDirectConnectServiceRolePolicy.json) |
-| AWSDirectoryServiceFullAccess | / | [v5](./policies/AWSDirectoryServiceFullAccess.json) |
+| AWSDirectoryServiceFullAccess | / | [v6](./policies/AWSDirectoryServiceFullAccess.json) |
 | AWSDirectoryServiceReadOnlyAccess | / | [v4](./policies/AWSDirectoryServiceReadOnlyAccess.json) |
 | AWSDiscoveryContinuousExportFirehosePolicy | / | [v2](./policies/AWSDiscoveryContinuousExportFirehosePolicy.json) |
 | AWSEC2CapacityReservationFleetRolePolicy | /aws-service-role/ | [v1](./policies/AWSEC2CapacityReservationFleetRolePolicy.json) |
