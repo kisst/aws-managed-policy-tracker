@@ -366,7 +366,7 @@
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
 | AWSMarketplaceFullAccess | / | [v4](./policies/AWSMarketplaceFullAccess.json) |
-| AWSMarketplaceGetEntitlements | / | [v1](./policies/AWSMarketplaceGetEntitlements.json) |
+| AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
 | AWSMarketplaceImageBuildFullAccess | / | [v3](./policies/AWSMarketplaceImageBuildFullAccess.json) |
 | AWSMarketplaceLicenseManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceLicenseManagementServiceRolePolicy.json) |
 | AWSMarketplaceManageSubscriptions | / | [v3](./policies/AWSMarketplaceManageSubscriptions.json) |
