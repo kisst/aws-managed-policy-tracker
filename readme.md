@@ -359,7 +359,7 @@
 | AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
 | AWSM2ServicePolicy | /aws-service-role/ | [v1](./policies/AWSM2ServicePolicy.json) |
 | AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
-| AWSManagedServicesDeploymentToolkitPolicy | /aws-service-role/ | [v3](./policies/AWSManagedServicesDeploymentToolkitPolicy.json) |
+| AWSManagedServicesDeploymentToolkitPolicy | /aws-service-role/ | [v4](./policies/AWSManagedServicesDeploymentToolkitPolicy.json) |
 | AWSManagedServices_ContactsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_ContactsServiceRolePolicy.json) |
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
 | AWSManagedServices_EventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_EventsServiceRolePolicy.json) |
@@ -570,7 +570,7 @@
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v12](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v3](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
-| AdministratorAccess-Amplify | / | [v11](./policies/AdministratorAccess-Amplify.json) |
+| AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
 | AlexaForBusinessDeviceSetup | / | [v2](./policies/AlexaForBusinessDeviceSetup.json) |
 | AlexaForBusinessFullAccess | / | [v5](./policies/AlexaForBusinessFullAccess.json) |
 | AlexaForBusinessGatewayExecution | / | [v1](./policies/AlexaForBusinessGatewayExecution.json) |
