@@ -878,7 +878,7 @@
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v1](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
 | AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
-| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonRDSCustomServiceRolePolicy.json) |
+| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
@@ -1041,7 +1041,7 @@
 | CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
-| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
+| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
 | CloudWatchEventsBuiltInTargetExecutionAccess | /service-role/ | [v1](./policies/CloudWatchEventsBuiltInTargetExecutionAccess.json) |
