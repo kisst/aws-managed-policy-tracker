@@ -330,9 +330,6 @@
 | AWSIoTWirelessGatewayCertManager | / | [v1](./policies/AWSIoTWirelessGatewayCertManager.json) |
 | AWSIoTWirelessLogging | / | [v1](./policies/AWSIoTWirelessLogging.json) |
 | AWSIoTWirelessReadOnlyAccess | / | [v1](./policies/AWSIoTWirelessReadOnlyAccess.json) |
-| AWSIotRoboRunnerFullAccess | / | [v2](./policies/AWSIotRoboRunnerFullAccess.json) |
-| AWSIotRoboRunnerReadOnly | / | [v2](./policies/AWSIotRoboRunnerReadOnly.json) |
-| AWSIotRoboRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIotRoboRunnerServiceRolePolicy.json) |
 | AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy.json) |
 | AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy.json) |
 | AWSKeyManagementServicePowerUser | / | [v2](./policies/AWSKeyManagementServicePowerUser.json) |
@@ -1148,12 +1145,12 @@
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v2](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v2](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v1](./policies/ROSAIngressOperatorPolicy.json) |
-| ROSAInstallerPolicy | /service-role/ | [v2](./policies/ROSAInstallerPolicy.json) |
+| ROSAInstallerPolicy | /service-role/ | [v3](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v3](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
 | ROSANodePoolManagementPolicy | /service-role/ | [v1](./policies/ROSANodePoolManagementPolicy.json) |
-| ROSASRESupportPolicy | /service-role/ | [v2](./policies/ROSASRESupportPolicy.json) |
+| ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
 | ReadOnlyAccess | / | [v111](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
