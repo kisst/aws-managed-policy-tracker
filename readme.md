@@ -279,7 +279,7 @@
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
-| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v2](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
+| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v3](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
@@ -385,9 +385,9 @@
 | AWSMigrationHubOrchestratorInstanceRolePolicy | / | [v1](./policies/AWSMigrationHubOrchestratorInstanceRolePolicy.json) |
 | AWSMigrationHubOrchestratorPlugin | / | [v1](./policies/AWSMigrationHubOrchestratorPlugin.json) |
 | AWSMigrationHubOrchestratorServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSMigrationHubOrchestratorServiceRolePolicy.json) |
-| AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess | / | [v2](./policies/AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess.json) |
+| AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess | / | [v3](./policies/AWSMigrationHubRefactorSpaces-EnvironmentsWithoutBridgesFullAccess.json) |
 | AWSMigrationHubRefactorSpaces-SSMAutomationPolicy | /service-role/ | [v1](./policies/AWSMigrationHubRefactorSpaces-SSMAutomationPolicy.json) |
-| AWSMigrationHubRefactorSpacesFullAccess | / | [v5](./policies/AWSMigrationHubRefactorSpacesFullAccess.json) |
+| AWSMigrationHubRefactorSpacesFullAccess | / | [v6](./policies/AWSMigrationHubRefactorSpacesFullAccess.json) |
 | AWSMigrationHubRefactorSpacesServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSMigrationHubRefactorSpacesServiceRolePolicy.json) |
 | AWSMigrationHubSMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubSMSAccess.json) |
 | AWSMigrationHubStrategyCollector | / | [v6](./policies/AWSMigrationHubStrategyCollector.json) |
@@ -465,7 +465,7 @@
 | AWSRoboMaker_FullAccess | / | [v2](./policies/AWSRoboMaker_FullAccess.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
-| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
+| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v7](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
 | AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
@@ -558,7 +558,7 @@
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
 | AWSXRayDaemonWriteAccess | / | [v2](./policies/AWSXRayDaemonWriteAccess.json) |
 | AWSXrayCrossAccountSharingConfiguration | / | [v1](./policies/AWSXrayCrossAccountSharingConfiguration.json) |
-| AWSXrayFullAccess | / | [v1](./policies/AWSXrayFullAccess.json) |
+| AWSXrayFullAccess | / | [v2](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
