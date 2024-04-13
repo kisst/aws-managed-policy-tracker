@@ -524,12 +524,12 @@
 | AWSSystemsManagerForSAPFullAccess | / | [v2](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
-| AWSThinkboxAWSPortalAdminPolicy | / | [v7](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
+| AWSThinkboxAWSPortalAdminPolicy | / | [v8](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
 | AWSThinkboxAWSPortalGatewayPolicy | / | [v2](./policies/AWSThinkboxAWSPortalGatewayPolicy.json) |
 | AWSThinkboxAWSPortalWorkerPolicy | / | [v4](./policies/AWSThinkboxAWSPortalWorkerPolicy.json) |
 | AWSThinkboxAssetServerPolicy | / | [v1](./policies/AWSThinkboxAssetServerPolicy.json) |
 | AWSThinkboxDeadlineResourceTrackerAccessPolicy | / | [v1](./policies/AWSThinkboxDeadlineResourceTrackerAccessPolicy.json) |
-| AWSThinkboxDeadlineResourceTrackerAdminPolicy | / | [v6](./policies/AWSThinkboxDeadlineResourceTrackerAdminPolicy.json) |
+| AWSThinkboxDeadlineResourceTrackerAdminPolicy | / | [v7](./policies/AWSThinkboxDeadlineResourceTrackerAdminPolicy.json) |
 | AWSThinkboxDeadlineSpotEventPluginAdminPolicy | / | [v1](./policies/AWSThinkboxDeadlineSpotEventPluginAdminPolicy.json) |
 | AWSThinkboxDeadlineSpotEventPluginWorkerPolicy | / | [v2](./policies/AWSThinkboxDeadlineSpotEventPluginWorkerPolicy.json) |
 | AWSTransferConsoleFullAccess | / | [v1](./policies/AWSTransferConsoleFullAccess.json) |
