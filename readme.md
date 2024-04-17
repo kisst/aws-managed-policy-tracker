@@ -508,7 +508,7 @@
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSStepFunctionsConsoleFullAccess | / | [v2](./policies/AWSStepFunctionsConsoleFullAccess.json) |
 | AWSStepFunctionsFullAccess | / | [v1](./policies/AWSStepFunctionsFullAccess.json) |
-| AWSStepFunctionsReadOnlyAccess | / | [v2](./policies/AWSStepFunctionsReadOnlyAccess.json) |
+| AWSStepFunctionsReadOnlyAccess | / | [v3](./policies/AWSStepFunctionsReadOnlyAccess.json) |
 | AWSStorageGatewayFullAccess | / | [v2](./policies/AWSStorageGatewayFullAccess.json) |
 | AWSStorageGatewayReadOnlyAccess | / | [v2](./policies/AWSStorageGatewayReadOnlyAccess.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
@@ -794,7 +794,7 @@
 | AmazonKinesisVideoStreamsReadOnlyAccess | / | [v1](./policies/AmazonKinesisVideoStreamsReadOnlyAccess.json) |
 | AmazonLaunchWizardFullAccessV2 | / | [v1](./policies/AmazonLaunchWizardFullAccessV2.json) |
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
-| AmazonLexFullAccess | / | [v8](./policies/AmazonLexFullAccess.json) |
+| AmazonLexFullAccess | / | [v9](./policies/AmazonLexFullAccess.json) |
 | AmazonLexReadOnly | / | [v4](./policies/AmazonLexReadOnly.json) |
 | AmazonLexReplicationPolicy | /aws-service-role/ | [v2](./policies/AmazonLexReplicationPolicy.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
@@ -1171,6 +1171,7 @@
 | ServiceQuotasReadOnlyAccess | / | [v2](./policies/ServiceQuotasReadOnlyAccess.json) |
 | ServiceQuotasServiceRolePolicy | /aws-service-role/ | [v2](./policies/ServiceQuotasServiceRolePolicy.json) |
 | SimpleWorkflowFullAccess | / | [v1](./policies/SimpleWorkflowFullAccess.json) |
+| SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
 | SupportUser | /job-function/ | [v8](./policies/SupportUser.json) |
 | SystemAdministrator | /job-function/ | [v6](./policies/SystemAdministrator.json) |
 | TranslateFullAccess | / | [v2](./policies/TranslateFullAccess.json) |
