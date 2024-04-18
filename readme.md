@@ -1002,7 +1002,7 @@
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
-| AmplifyBackendDeployFullAccess | /service-role/ | [v5](./policies/AmplifyBackendDeployFullAccess.json) |
+| AmplifyBackendDeployFullAccess | /service-role/ | [v6](./policies/AmplifyBackendDeployFullAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
@@ -1152,7 +1152,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v1](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v111](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v112](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
