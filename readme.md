@@ -279,7 +279,7 @@
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
-| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v3](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
+| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v4](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
@@ -875,7 +875,7 @@
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v1](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
 | AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
-| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSCustomServiceRolePolicy.json) |
+| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
@@ -1161,7 +1161,7 @@
 | S3StorageLensServiceRolePolicy | /aws-service-role/ | [v1](./policies/S3StorageLensServiceRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v42](./policies/SecurityAudit.json) |
-| SecurityLakeServiceLinkedRole | /aws-service-role/ | [v2](./policies/SecurityLakeServiceLinkedRole.json) |
+| SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
