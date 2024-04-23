@@ -1095,7 +1095,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FMSServiceRolePolicy | /aws-service-role/ | [v28](./policies/FMSServiceRolePolicy.json) |
+| FMSServiceRolePolicy | /aws-service-role/ | [v29](./policies/FMSServiceRolePolicy.json) |
 | FSxDeleteServiceLinkedRoleAccess | /aws-service-role/ | [v1](./policies/FSxDeleteServiceLinkedRoleAccess.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
 | GlobalAcceleratorFullAccess | / | [v6](./policies/GlobalAcceleratorFullAccess.json) |
