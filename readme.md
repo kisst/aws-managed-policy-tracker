@@ -475,7 +475,7 @@
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
-| AWSSecurityHubFullAccess | / | [v2](./policies/AWSSecurityHubFullAccess.json) |
+| AWSSecurityHubFullAccess | / | [v3](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
@@ -640,11 +640,14 @@
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
-| AmazonDataZoneFullAccess | / | [v2](./policies/AmazonDataZoneFullAccess.json) |
+| AmazonDataZoneFullAccess | / | [v3](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v6](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v4](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v3](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
+| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v1](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
+| AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
+| AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
 | AmazonDetectiveInvestigatorAccess | / | [v3](./policies/AmazonDetectiveInvestigatorAccess.json) |
 | AmazonDetectiveMemberAccess | / | [v1](./policies/AmazonDetectiveMemberAccess.json) |
