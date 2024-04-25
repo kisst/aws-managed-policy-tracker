@@ -489,6 +489,7 @@
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v7](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
+| AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
 | AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy.json) |
 | AWSServiceRoleForCodeGuru-Profiler | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCodeGuru-Profiler.json) |
