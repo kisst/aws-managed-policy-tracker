@@ -279,7 +279,7 @@
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
-| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v4](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
+| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v5](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
@@ -1148,7 +1148,7 @@
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v2](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v2](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v1](./policies/ROSAIngressOperatorPolicy.json) |
-| ROSAInstallerPolicy | /service-role/ | [v3](./policies/ROSAInstallerPolicy.json) |
+| ROSAInstallerPolicy | /service-role/ | [v4](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v3](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
