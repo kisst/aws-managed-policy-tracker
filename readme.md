@@ -469,9 +469,9 @@
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
 | AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
-| AWSSSOMasterAccountAdministrator | / | [v8](./policies/AWSSSOMasterAccountAdministrator.json) |
-| AWSSSOMemberAccountAdministrator | / | [v7](./policies/AWSSSOMemberAccountAdministrator.json) |
-| AWSSSOReadOnly | / | [v8](./policies/AWSSSOReadOnly.json) |
+| AWSSSOMasterAccountAdministrator | / | [v9](./policies/AWSSSOMasterAccountAdministrator.json) |
+| AWSSSOMemberAccountAdministrator | / | [v8](./policies/AWSSSOMemberAccountAdministrator.json) |
+| AWSSSOReadOnly | / | [v9](./policies/AWSSSOReadOnly.json) |
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
