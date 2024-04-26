@@ -503,6 +503,7 @@
 | AWSServiceRoleForNeptuneGraphPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForNeptuneGraphPolicy.json) |
 | AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
+| AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v1](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
 | AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
 | AWSShieldDRTAccessPolicy | /service-role/ | [v6](./policies/AWSShieldDRTAccessPolicy.json) |
@@ -776,7 +777,7 @@
 | AmazonHoneycodeWorkbookFullAccess | / | [v2](./policies/AmazonHoneycodeWorkbookFullAccess.json) |
 | AmazonHoneycodeWorkbookReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeWorkbookReadOnlyAccess.json) |
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
-| AmazonInspector2FullAccess | / | [v3](./policies/AmazonInspector2FullAccess.json) |
+| AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v5](./policies/AmazonInspector2ReadOnlyAccess.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonInspector2ServiceRolePolicy.json) |
