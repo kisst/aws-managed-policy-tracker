@@ -258,7 +258,7 @@
 | AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSForWordPressPluginPolicy | / | [v2](./policies/AWSForWordPressPluginPolicy.json) |
-| AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSGitSyncServiceRolePolicy.json) |
+| AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSGitSyncServiceRolePolicy.json) |
 | AWSGlobalAcceleratorSLRPolicy | /aws-service-role/ | [v8](./policies/AWSGlobalAcceleratorSLRPolicy.json) |
 | AWSGlueConsoleFullAccess | / | [v14](./policies/AWSGlueConsoleFullAccess.json) |
 | AWSGlueConsoleSageMakerNotebookFullAccess | / | [v3](./policies/AWSGlueConsoleSageMakerNotebookFullAccess.json) |
@@ -279,7 +279,7 @@
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
-| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v5](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
+| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v6](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
@@ -510,7 +510,7 @@
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSStepFunctionsConsoleFullAccess | / | [v2](./policies/AWSStepFunctionsConsoleFullAccess.json) |
 | AWSStepFunctionsFullAccess | / | [v1](./policies/AWSStepFunctionsFullAccess.json) |
-| AWSStepFunctionsReadOnlyAccess | / | [v3](./policies/AWSStepFunctionsReadOnlyAccess.json) |
+| AWSStepFunctionsReadOnlyAccess | / | [v4](./policies/AWSStepFunctionsReadOnlyAccess.json) |
 | AWSStorageGatewayFullAccess | / | [v2](./policies/AWSStorageGatewayFullAccess.json) |
 | AWSStorageGatewayReadOnlyAccess | / | [v2](./policies/AWSStorageGatewayReadOnlyAccess.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
@@ -872,7 +872,7 @@
 | AmazonPrometheusFullAccess | / | [v2](./policies/AmazonPrometheusFullAccess.json) |
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
-| AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
+| AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
 | AmazonQFullAccess | / | [v1](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
@@ -1043,7 +1043,7 @@
 | CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
-| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v4](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
+| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v5](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
 | CloudWatchEventsBuiltInTargetExecutionAccess | /service-role/ | [v1](./policies/CloudWatchEventsBuiltInTargetExecutionAccess.json) |
