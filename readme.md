@@ -198,13 +198,13 @@
 | AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
-| AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v2](./policies/AWSElasticBeanstalkMaintenance.json) |
+| AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
 | AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v6](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
-| AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
+| AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
 | AWSElasticBeanstalkMulticontainerDocker | / | [v3](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
 | AWSElasticBeanstalkReadOnly | / | [v1](./policies/AWSElasticBeanstalkReadOnly.json) |
 | AWSElasticBeanstalkRoleCWL | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleCWL.json) |
-| AWSElasticBeanstalkRoleCore | /service-role/ | [v2](./policies/AWSElasticBeanstalkRoleCore.json) |
+| AWSElasticBeanstalkRoleCore | /service-role/ | [v3](./policies/AWSElasticBeanstalkRoleCore.json) |
 | AWSElasticBeanstalkRoleECS | /service-role/ | [v2](./policies/AWSElasticBeanstalkRoleECS.json) |
 | AWSElasticBeanstalkRoleRDS | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleRDS.json) |
 | AWSElasticBeanstalkRoleSNS | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleSNS.json) |
@@ -647,7 +647,7 @@
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v4](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v3](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
-| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v1](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
+| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v2](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
@@ -873,7 +873,7 @@
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
 | AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
-| AmazonQFullAccess | / | [v1](./policies/AmazonQFullAccess.json) |
+| AmazonQFullAccess | / | [v2](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
@@ -1022,8 +1022,8 @@
 | AwsGlueDataBrewFullAccessPolicy | / | [v8](./policies/AwsGlueDataBrewFullAccessPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
-| AwsGlueSessionUserRestrictedPolicy | / | [v1](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
-| AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
+| AwsGlueSessionUserRestrictedPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
+| AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
 | Billing | /job-function/ | [v9](./policies/Billing.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
@@ -1143,6 +1143,7 @@
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
 | PowerUserAccess | / | [v5](./policies/PowerUserAccess.json) |
+| QBusinessServiceRolePolicy | /aws-service-role/ | [v1](./policies/QBusinessServiceRolePolicy.json) |
 | QuickSightAccessForS3StorageManagementAnalyticsReadOnly | /service-role/ | [v4](./policies/QuickSightAccessForS3StorageManagementAnalyticsReadOnly.json) |
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
 | ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v1](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
