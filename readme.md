@@ -279,7 +279,7 @@
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
-| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v6](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
+| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v7](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
