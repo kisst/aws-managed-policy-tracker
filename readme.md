@@ -910,6 +910,8 @@
 | AmazonRoute53DomainsFullAccess | / | [v1](./policies/AmazonRoute53DomainsFullAccess.json) |
 | AmazonRoute53DomainsReadOnlyAccess | / | [v1](./policies/AmazonRoute53DomainsReadOnlyAccess.json) |
 | AmazonRoute53FullAccess | / | [v4](./policies/AmazonRoute53FullAccess.json) |
+| AmazonRoute53ProfilesFullAccess | / | [v1](./policies/AmazonRoute53ProfilesFullAccess.json) |
+| AmazonRoute53ProfilesReadOnlyAccess | / | [v1](./policies/AmazonRoute53ProfilesReadOnlyAccess.json) |
 | AmazonRoute53ReadOnlyAccess | / | [v2](./policies/AmazonRoute53ReadOnlyAccess.json) |
 | AmazonRoute53RecoveryClusterFullAccess | / | [v1](./policies/AmazonRoute53RecoveryClusterFullAccess.json) |
 | AmazonRoute53RecoveryClusterReadOnlyAccess | / | [v2](./policies/AmazonRoute53RecoveryClusterReadOnlyAccess.json) |
