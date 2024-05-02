@@ -118,8 +118,8 @@
 | AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy.json) |
 | AWSCodeArtifactAdminAccess | / | [v1](./policies/AWSCodeArtifactAdminAccess.json) |
 | AWSCodeArtifactReadOnlyAccess | / | [v1](./policies/AWSCodeArtifactReadOnlyAccess.json) |
-| AWSCodeBuildAdminAccess | / | [v13](./policies/AWSCodeBuildAdminAccess.json) |
-| AWSCodeBuildDeveloperAccess | / | [v14](./policies/AWSCodeBuildDeveloperAccess.json) |
+| AWSCodeBuildAdminAccess | / | [v14](./policies/AWSCodeBuildAdminAccess.json) |
+| AWSCodeBuildDeveloperAccess | / | [v15](./policies/AWSCodeBuildDeveloperAccess.json) |
 | AWSCodeBuildReadOnlyAccess | / | [v12](./policies/AWSCodeBuildReadOnlyAccess.json) |
 | AWSCodeCommitFullAccess | / | [v10](./policies/AWSCodeCommitFullAccess.json) |
 | AWSCodeCommitPowerUser | / | [v15](./policies/AWSCodeCommitPowerUser.json) |
@@ -520,7 +520,7 @@
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v2](./policies/AWSSupportPlansFullAccess.json) |
 | AWSSupportPlansReadOnlyAccess | / | [v1](./policies/AWSSupportPlansReadOnlyAccess.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v35](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v36](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerForSAPFullAccess | / | [v2](./policies/AWSSystemsManagerForSAPFullAccess.json) |
