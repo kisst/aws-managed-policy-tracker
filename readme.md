@@ -120,7 +120,7 @@
 | AWSCodeArtifactReadOnlyAccess | / | [v1](./policies/AWSCodeArtifactReadOnlyAccess.json) |
 | AWSCodeBuildAdminAccess | / | [v13](./policies/AWSCodeBuildAdminAccess.json) |
 | AWSCodeBuildDeveloperAccess | / | [v14](./policies/AWSCodeBuildDeveloperAccess.json) |
-| AWSCodeBuildReadOnlyAccess | / | [v11](./policies/AWSCodeBuildReadOnlyAccess.json) |
+| AWSCodeBuildReadOnlyAccess | / | [v12](./policies/AWSCodeBuildReadOnlyAccess.json) |
 | AWSCodeCommitFullAccess | / | [v10](./policies/AWSCodeCommitFullAccess.json) |
 | AWSCodeCommitPowerUser | / | [v15](./policies/AWSCodeCommitPowerUser.json) |
 | AWSCodeCommitReadOnly | / | [v11](./policies/AWSCodeCommitReadOnly.json) |
