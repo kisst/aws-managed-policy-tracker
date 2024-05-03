@@ -708,7 +708,7 @@
 | AmazonEMRFullAccessPolicy_v2 | / | [v4](./policies/AmazonEMRFullAccessPolicy_v2.json) |
 | AmazonEMRReadOnlyAccessPolicy_v2 | / | [v3](./policies/AmazonEMRReadOnlyAccessPolicy_v2.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
-| AmazonEMRServicePolicy_v2 | /service-role/ | [v2](./policies/AmazonEMRServicePolicy_v2.json) |
+| AmazonEMRServicePolicy_v2 | /service-role/ | [v3](./policies/AmazonEMRServicePolicy_v2.json) |
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
 | AmazonESReadOnlyAccess | / | [v2](./policies/AmazonESReadOnlyAccess.json) |
@@ -1157,7 +1157,7 @@
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v3](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
-| ROSANodePoolManagementPolicy | /service-role/ | [v1](./policies/ROSANodePoolManagementPolicy.json) |
+| ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
 | ReadOnlyAccess | / | [v112](./policies/ReadOnlyAccess.json) |
