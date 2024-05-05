@@ -432,7 +432,7 @@
 | AWSProtonFullAccess | / | [v2](./policies/AWSProtonFullAccess.json) |
 | AWSProtonReadOnlyAccess | / | [v3](./policies/AWSProtonReadOnlyAccess.json) |
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
-| AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonSyncServiceRolePolicy.json) |
+| AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
 | AWSPurchaseOrdersServiceRolePolicy | / | [v5](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
 | AWSQuickSightAssetBundleExportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleExportPolicy.json) |
 | AWSQuickSightAssetBundleImportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleImportPolicy.json) |
