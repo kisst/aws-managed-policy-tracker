@@ -857,6 +857,7 @@
 | AmazonOneEnterpriseInstallerAccess | / | [v1](./policies/AmazonOneEnterpriseInstallerAccess.json) |
 | AmazonOneEnterpriseReadOnlyAccess | / | [v1](./policies/AmazonOneEnterpriseReadOnlyAccess.json) |
 | AmazonOpenSearchDashboardsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonOpenSearchDashboardsServiceRolePolicy.json) |
+| AmazonOpenSearchDirectQueryGlueCreateAccess | / | [v1](./policies/AmazonOpenSearchDirectQueryGlueCreateAccess.json) |
 | AmazonOpenSearchIngestionFullAccess | / | [v1](./policies/AmazonOpenSearchIngestionFullAccess.json) |
 | AmazonOpenSearchIngestionReadOnlyAccess | / | [v1](./policies/AmazonOpenSearchIngestionReadOnlyAccess.json) |
 | AmazonOpenSearchIngestionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonOpenSearchIngestionServiceRolePolicy.json) |
