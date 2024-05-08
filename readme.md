@@ -647,7 +647,7 @@
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v4](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v3](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
-| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v3](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
+| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
