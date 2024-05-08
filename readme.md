@@ -154,7 +154,7 @@
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSServerlessServiceRolePolicy.json) |
-| AWSDataExchangeFullAccess | / | [v6](./policies/AWSDataExchangeFullAccess.json) |
+| AWSDataExchangeFullAccess | / | [v7](./policies/AWSDataExchangeFullAccess.json) |
 | AWSDataExchangeProviderFullAccess | / | [v11](./policies/AWSDataExchangeProviderFullAccess.json) |
 | AWSDataExchangeReadOnly | / | [v2](./policies/AWSDataExchangeReadOnly.json) |
 | AWSDataExchangeSubscriberFullAccess | / | [v6](./policies/AWSDataExchangeSubscriberFullAccess.json) |
