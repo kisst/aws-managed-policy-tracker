@@ -57,7 +57,7 @@
 | AWSArtifactReportsReadOnlyAccess | / | [v1](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v2](./policies/AWSAuditManagerAdministratorAccess.json) |
-| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSAuditManagerServiceRolePolicy.json) |
+| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSAuditManagerServiceRolePolicy.json) |
 | AWSAutoScalingPlansEC2AutoScalingPolicy | /aws-service-role/ | [v1](./policies/AWSAutoScalingPlansEC2AutoScalingPolicy.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
