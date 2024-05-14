@@ -928,7 +928,7 @@
 | AmazonS3OutpostsReadOnlyAccess | / | [v1](./policies/AmazonS3OutpostsReadOnlyAccess.json) |
 | AmazonS3ReadOnlyAccess | / | [v3](./policies/AmazonS3ReadOnlyAccess.json) |
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
-| AmazonSESReadOnlyAccess | / | [v1](./policies/AmazonSESReadOnlyAccess.json) |
+| AmazonSESReadOnlyAccess | / | [v2](./policies/AmazonSESReadOnlyAccess.json) |
 | AmazonSNSFullAccess | / | [v1](./policies/AmazonSNSFullAccess.json) |
 | AmazonSNSReadOnlyAccess | / | [v1](./policies/AmazonSNSReadOnlyAccess.json) |
 | AmazonSNSRole | /service-role/ | [v1](./policies/AmazonSNSRole.json) |
