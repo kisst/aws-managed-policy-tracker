@@ -800,7 +800,7 @@
 | AmazonLaunchWizardFullAccessV2 | / | [v1](./policies/AmazonLaunchWizardFullAccessV2.json) |
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
 | AmazonLexFullAccess | / | [v9](./policies/AmazonLexFullAccess.json) |
-| AmazonLexReadOnly | / | [v4](./policies/AmazonLexReadOnly.json) |
+| AmazonLexReadOnly | / | [v5](./policies/AmazonLexReadOnly.json) |
 | AmazonLexReplicationPolicy | /aws-service-role/ | [v2](./policies/AmazonLexReplicationPolicy.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
 | AmazonLexV2BotPolicy | /aws-service-role/ | [v1](./policies/AmazonLexV2BotPolicy.json) |
@@ -1083,6 +1083,7 @@
 | DynamoDBCloudWatchContributorInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBCloudWatchContributorInsightsServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
+| EC2FastLaunchFullAccess | / | [v1](./policies/EC2FastLaunchFullAccess.json) |
 | EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
