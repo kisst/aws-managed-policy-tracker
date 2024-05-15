@@ -93,7 +93,7 @@
 | AWSCertificateManagerReadOnly | / | [v4](./policies/AWSCertificateManagerReadOnly.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
-| AWSCleanRoomsFullAccessNoQuerying | / | [v3](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
+| AWSCleanRoomsFullAccessNoQuerying | / | [v4](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
 | AWSCleanRoomsMLFullAccess | / | [v1](./policies/AWSCleanRoomsMLFullAccess.json) |
 | AWSCleanRoomsMLReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
 | AWSCleanRoomsReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsReadOnlyAccess.json) |
@@ -978,7 +978,7 @@
 | AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
 | AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
 | AmazonSecurityLakeMetastoreManager | /service-role/ | [v2](./policies/AmazonSecurityLakeMetastoreManager.json) |
-| AmazonSecurityLakePermissionsBoundary | / | [v1](./policies/AmazonSecurityLakePermissionsBoundary.json) |
+| AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
 | AmazonTextractFullAccess | / | [v1](./policies/AmazonTextractFullAccess.json) |
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
 | AmazonTimestreamConsoleFullAccess | / | [v4](./policies/AmazonTimestreamConsoleFullAccess.json) |
