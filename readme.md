@@ -56,7 +56,7 @@
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactReportsReadOnlyAccess | / | [v1](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
-| AWSAuditManagerAdministratorAccess | / | [v2](./policies/AWSAuditManagerAdministratorAccess.json) |
+| AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
 | AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSAuditManagerServiceRolePolicy.json) |
 | AWSAutoScalingPlansEC2AutoScalingPolicy | /aws-service-role/ | [v1](./policies/AWSAutoScalingPlansEC2AutoScalingPolicy.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
@@ -445,7 +445,7 @@
 | AWSQuickSightTimestreamPolicy | /service-role/ | [v1](./policies/AWSQuickSightTimestreamPolicy.json) |
 | AWSQuicksightAthenaAccess | /service-role/ | [v10](./policies/AWSQuicksightAthenaAccess.json) |
 | AWSQuicksightOpenSearchPolicy | /service-role/ | [v1](./policies/AWSQuicksightOpenSearchPolicy.json) |
-| AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
+| AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSRefactoringToolkitFullAccess | / | [v5](./policies/AWSRefactoringToolkitFullAccess.json) |
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
@@ -990,8 +990,8 @@
 | AmazonTranscribeReadOnlyAccess | / | [v1](./policies/AmazonTranscribeReadOnlyAccess.json) |
 | AmazonVPCCrossAccountNetworkInterfaceOperations | / | [v5](./policies/AmazonVPCCrossAccountNetworkInterfaceOperations.json) |
 | AmazonVPCFullAccess | / | [v10](./policies/AmazonVPCFullAccess.json) |
-| AmazonVPCNetworkAccessAnalyzerFullAccessPolicy | / | [v2](./policies/AmazonVPCNetworkAccessAnalyzerFullAccessPolicy.json) |
-| AmazonVPCReachabilityAnalyzerFullAccessPolicy | / | [v2](./policies/AmazonVPCReachabilityAnalyzerFullAccessPolicy.json) |
+| AmazonVPCNetworkAccessAnalyzerFullAccessPolicy | / | [v3](./policies/AmazonVPCNetworkAccessAnalyzerFullAccessPolicy.json) |
+| AmazonVPCReachabilityAnalyzerFullAccessPolicy | / | [v3](./policies/AmazonVPCReachabilityAnalyzerFullAccessPolicy.json) |
 | AmazonVPCReachabilityAnalyzerPathComponentReadPolicy | / | [v1](./policies/AmazonVPCReachabilityAnalyzerPathComponentReadPolicy.json) |
 | AmazonVPCReadOnlyAccess | / | [v9](./policies/AmazonVPCReadOnlyAccess.json) |
 | AmazonWorkDocsFullAccess | / | [v1](./policies/AmazonWorkDocsFullAccess.json) |
