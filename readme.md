@@ -45,7 +45,7 @@
 | AWSApplicationMigrationAgentPolicy_v2 | /service-role/ | [v1](./policies/AWSApplicationMigrationAgentPolicy_v2.json) |
 | AWSApplicationMigrationConversionServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationConversionServerPolicy.json) |
 | AWSApplicationMigrationEC2Access | / | [v4](./policies/AWSApplicationMigrationEC2Access.json) |
-| AWSApplicationMigrationFullAccess | / | [v7](./policies/AWSApplicationMigrationFullAccess.json) |
+| AWSApplicationMigrationFullAccess | / | [v8](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationReadOnlyAccess | / | [v5](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
 | AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
@@ -216,13 +216,13 @@
 | AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryAgentPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryAgentPolicy.json) |
 | AWSElasticDisasterRecoveryConsoleFullAccess | / | [v5](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
-| AWSElasticDisasterRecoveryConsoleFullAccess_v2 | / | [v1](./policies/AWSElasticDisasterRecoveryConsoleFullAccess_v2.json) |
+| AWSElasticDisasterRecoveryConsoleFullAccess_v2 | / | [v2](./policies/AWSElasticDisasterRecoveryConsoleFullAccess_v2.json) |
 | AWSElasticDisasterRecoveryConversionServerPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryConversionServerPolicy.json) |
 | AWSElasticDisasterRecoveryCrossAccountReplicationPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryCrossAccountReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryEc2InstancePolicy | /service-role/ | [v5](./policies/AWSElasticDisasterRecoveryEc2InstancePolicy.json) |
 | AWSElasticDisasterRecoveryFailbackInstallationPolicy | / | [v3](./policies/AWSElasticDisasterRecoveryFailbackInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
-| AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v2](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
+| AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v3](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
 | AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryReadOnlyAccess | / | [v4](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
 | AWSElasticDisasterRecoveryRecoveryInstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryRecoveryInstancePolicy.json) |
