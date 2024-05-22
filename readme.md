@@ -77,7 +77,7 @@
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v5](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v6](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v1](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -157,7 +157,7 @@
 | AWSDataExchangeFullAccess | / | [v7](./policies/AWSDataExchangeFullAccess.json) |
 | AWSDataExchangeProviderFullAccess | / | [v11](./policies/AWSDataExchangeProviderFullAccess.json) |
 | AWSDataExchangeReadOnly | / | [v2](./policies/AWSDataExchangeReadOnly.json) |
-| AWSDataExchangeSubscriberFullAccess | / | [v6](./policies/AWSDataExchangeSubscriberFullAccess.json) |
+| AWSDataExchangeSubscriberFullAccess | / | [v7](./policies/AWSDataExchangeSubscriberFullAccess.json) |
 | AWSDataLifecycleManagerSSMFullAccess | /service-role/ | [v2](./policies/AWSDataLifecycleManagerSSMFullAccess.json) |
 | AWSDataLifecycleManagerServiceRole | /service-role/ | [v7](./policies/AWSDataLifecycleManagerServiceRole.json) |
 | AWSDataLifecycleManagerServiceRoleForAMIManagement | /service-role/ | [v2](./policies/AWSDataLifecycleManagerServiceRoleForAMIManagement.json) |
@@ -929,6 +929,7 @@
 | AmazonS3ReadOnlyAccess | / | [v3](./policies/AmazonS3ReadOnlyAccess.json) |
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
 | AmazonSESReadOnlyAccess | / | [v2](./policies/AmazonSESReadOnlyAccess.json) |
+| AmazonSESServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSESServiceRolePolicy.json) |
 | AmazonSNSFullAccess | / | [v1](./policies/AmazonSNSFullAccess.json) |
 | AmazonSNSReadOnlyAccess | / | [v1](./policies/AmazonSNSReadOnlyAccess.json) |
 | AmazonSNSRole | /service-role/ | [v1](./policies/AmazonSNSRole.json) |
@@ -1028,7 +1029,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
-| Billing | /job-function/ | [v9](./policies/Billing.json) |
+| Billing | /job-function/ | [v10](./policies/Billing.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
