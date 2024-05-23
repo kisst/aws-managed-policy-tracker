@@ -963,7 +963,7 @@
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v2](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v1](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
-| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
+| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy.json) |
