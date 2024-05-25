@@ -934,7 +934,7 @@
 | AmazonSNSReadOnlyAccess | / | [v1](./policies/AmazonSNSReadOnlyAccess.json) |
 | AmazonSNSRole | /service-role/ | [v1](./policies/AmazonSNSRole.json) |
 | AmazonSQSFullAccess | / | [v1](./policies/AmazonSQSFullAccess.json) |
-| AmazonSQSReadOnlyAccess | / | [v3](./policies/AmazonSQSReadOnlyAccess.json) |
+| AmazonSQSReadOnlyAccess | / | [v4](./policies/AmazonSQSReadOnlyAccess.json) |
 | AmazonSSMAutomationApproverAccess | / | [v1](./policies/AmazonSSMAutomationApproverAccess.json) |
 | AmazonSSMAutomationRole | /service-role/ | [v5](./policies/AmazonSSMAutomationRole.json) |
 | AmazonSSMDirectoryServiceAccess | / | [v1](./policies/AmazonSSMDirectoryServiceAccess.json) |
