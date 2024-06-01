@@ -1011,7 +1011,7 @@
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
-| AmplifyBackendDeployFullAccess | /service-role/ | [v6](./policies/AmplifyBackendDeployFullAccess.json) |
+| AmplifyBackendDeployFullAccess | /service-role/ | [v7](./policies/AmplifyBackendDeployFullAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
