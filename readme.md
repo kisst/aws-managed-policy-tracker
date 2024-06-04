@@ -644,7 +644,7 @@
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v3](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v6](./policies/AmazonDataZoneFullUserAccess.json) |
-| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v4](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
+| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v3](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
@@ -1194,7 +1194,7 @@
 | ViewOnlyAccess | /job-function/ | [v18](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
-| WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v2](./policies/WAFV2LoggingServiceRolePolicy.json) |
+| WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
 | WellArchitectedConsoleFullAccess | / | [v1](./policies/WellArchitectedConsoleFullAccess.json) |
 | WellArchitectedConsoleReadOnlyAccess | / | [v2](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
