@@ -961,7 +961,7 @@
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
-| AmazonSageMakerModelGovernanceUseAccess | / | [v2](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
+| AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v1](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
 | AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
