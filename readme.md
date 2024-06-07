@@ -428,8 +428,8 @@
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
 | AWSProtonCodeBuildProvisioningBasicAccess | / | [v1](./policies/AWSProtonCodeBuildProvisioningBasicAccess.json) |
 | AWSProtonCodeBuildProvisioningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonCodeBuildProvisioningServiceRolePolicy.json) |
-| AWSProtonDeveloperAccess | / | [v3](./policies/AWSProtonDeveloperAccess.json) |
-| AWSProtonFullAccess | / | [v2](./policies/AWSProtonFullAccess.json) |
+| AWSProtonDeveloperAccess | / | [v4](./policies/AWSProtonDeveloperAccess.json) |
+| AWSProtonFullAccess | / | [v3](./policies/AWSProtonFullAccess.json) |
 | AWSProtonReadOnlyAccess | / | [v3](./policies/AWSProtonReadOnlyAccess.json) |
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
@@ -962,7 +962,7 @@
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
-| AmazonSageMakerModelRegistryFullAccess | / | [v1](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
+| AmazonSageMakerModelRegistryFullAccess | / | [v2](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
 | AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy.json) |
@@ -1047,6 +1047,8 @@
 | CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
+| CloudWatchApplicationSignalsFullAccess | / | [v1](./policies/CloudWatchApplicationSignalsFullAccess.json) |
+| CloudWatchApplicationSignalsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationSignalsReadOnlyAccess.json) |
 | CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v5](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
