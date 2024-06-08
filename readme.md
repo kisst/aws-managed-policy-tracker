@@ -406,7 +406,7 @@
 | AWSOpsWorksRegisterCLI_OnPremises | / | [v1](./policies/AWSOpsWorksRegisterCLI_OnPremises.json) |
 | AWSOpsWorks_FullAccess | / | [v1](./policies/AWSOpsWorks_FullAccess.json) |
 | AWSOrganizationsFullAccess | / | [v6](./policies/AWSOrganizationsFullAccess.json) |
-| AWSOrganizationsReadOnlyAccess | / | [v5](./policies/AWSOrganizationsReadOnlyAccess.json) |
+| AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSOutpostsServiceRolePolicy.json) |
