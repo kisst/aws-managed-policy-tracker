@@ -57,8 +57,9 @@
 | AWSArtifactReportsReadOnlyAccess | / | [v1](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
-| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSAuditManagerServiceRolePolicy.json) |
+| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSAuditManagerServiceRolePolicy.json) |
 | AWSAutoScalingPlansEC2AutoScalingPolicy | /aws-service-role/ | [v1](./policies/AWSAutoScalingPlansEC2AutoScalingPolicy.json) |
+| AWSBCMDataExportsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBCMDataExportsServiceRolePolicy.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
 | AWSBackupFullAccess | / | [v17](./policies/AWSBackupFullAccess.json) |
@@ -763,7 +764,7 @@
 | AmazonGrafanaCloudWatchAccess | /service-role/ | [v1](./policies/AmazonGrafanaCloudWatchAccess.json) |
 | AmazonGrafanaRedshiftAccess | /service-role/ | [v1](./policies/AmazonGrafanaRedshiftAccess.json) |
 | AmazonGrafanaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGrafanaServiceLinkedRolePolicy.json) |
-| AmazonGuardDutyFullAccess | / | [v5](./policies/AmazonGuardDutyFullAccess.json) |
+| AmazonGuardDutyFullAccess | / | [v6](./policies/AmazonGuardDutyFullAccess.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
 | AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonGuardDutyServiceRolePolicy.json) |
@@ -1148,6 +1149,7 @@
 | NetworkAdministrator | /job-function/ | [v11](./policies/NetworkAdministrator.json) |
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
+| OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
 | PowerUserAccess | / | [v5](./policies/PowerUserAccess.json) |
 | QBusinessServiceRolePolicy | /aws-service-role/ | [v1](./policies/QBusinessServiceRolePolicy.json) |
@@ -1193,7 +1195,7 @@
 | VPCLatticeFullAccess | / | [v1](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v1](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v18](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v19](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
