@@ -542,7 +542,7 @@
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
-| AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
+| AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
 | AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
 | AWSVPCS2SVpnServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSVPCS2SVpnServiceRolePolicy.json) |
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
@@ -946,7 +946,7 @@
 | AmazonSSMPatchAssociation | / | [v1](./policies/AmazonSSMPatchAssociation.json) |
 | AmazonSSMReadOnlyAccess | / | [v1](./policies/AmazonSSMReadOnlyAccess.json) |
 | AmazonSSMServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonSSMServiceRolePolicy.json) |
-| AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v7](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
+| AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v8](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
 | AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
 | AmazonSageMakerCanvasBedrockAccess | / | [v1](./policies/AmazonSageMakerCanvasBedrockAccess.json) |
 | AmazonSageMakerCanvasDataPrepFullAccess | / | [v2](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
@@ -972,12 +972,12 @@
 | AmazonSageMakerReadOnly | / | [v11](./policies/AmazonSageMakerReadOnly.json) |
 | AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy.json) |
-| AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy | / | [v1](./policies/AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy.json) |
-| AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy.json) |
+| AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy | / | [v2](./policies/AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy.json) |
+| AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy.json) |
-| AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
+| AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
 | AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
 | AmazonSecurityLakeMetastoreManager | /service-role/ | [v2](./policies/AmazonSecurityLakeMetastoreManager.json) |
 | AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
