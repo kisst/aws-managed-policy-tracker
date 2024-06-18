@@ -37,6 +37,7 @@
 | AWSApplicationAutoscalingNeptuneClusterPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingNeptuneClusterPolicy.json) |
 | AWSApplicationAutoscalingRDSClusterPolicy | /aws-service-role/ | [v3](./policies/AWSApplicationAutoscalingRDSClusterPolicy.json) |
 | AWSApplicationAutoscalingSageMakerEndpointPolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingSageMakerEndpointPolicy.json) |
+| AWSApplicationAutoscalingWorkSpacesPoolPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingWorkSpacesPoolPolicy.json) |
 | AWSApplicationDiscoveryAgentAccess | / | [v2](./policies/AWSApplicationDiscoveryAgentAccess.json) |
 | AWSApplicationDiscoveryAgentlessCollectorAccess | / | [v1](./policies/AWSApplicationDiscoveryAgentlessCollectorAccess.json) |
 | AWSApplicationDiscoveryServiceFullAccess | / | [v4](./policies/AWSApplicationDiscoveryServiceFullAccess.json) |
@@ -81,7 +82,7 @@
 | AWSBillingReadOnlyAccess | / | [v7](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
-| AWSBudgetsReadOnlyAccess | / | [v1](./policies/AWSBudgetsReadOnlyAccess.json) |
+| AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
 | AWSBugBustFullAccess | / | [v2](./policies/AWSBugBustFullAccess.json) |
 | AWSBugBustPlayerAccess | / | [v1](./policies/AWSBugBustPlayerAccess.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
@@ -147,7 +148,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v50](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v51](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -565,7 +566,7 @@
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v30](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v31](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v13](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
