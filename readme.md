@@ -633,7 +633,7 @@
 | AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v1](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
-| AmazonConnectReadOnlyAccess | / | [v3](./policies/AmazonConnectReadOnlyAccess.json) |
+| AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v16](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
@@ -1096,6 +1096,7 @@
 | EC2InstanceProfileForImageBuilder | / | [v3](./policies/EC2InstanceProfileForImageBuilder.json) |
 | EC2InstanceProfileForImageBuilderECRContainerBuilds | / | [v1](./policies/EC2InstanceProfileForImageBuilderECRContainerBuilds.json) |
 | ECRReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRReplicationServiceRolePolicy.json) |
+| ECRTemplateServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRTemplateServiceRolePolicy.json) |
 | EMRDescribeClusterPolicyForEMRWAL | /aws-service-role/ | [v1](./policies/EMRDescribeClusterPolicyForEMRWAL.json) |
 | Ec2ImageBuilderCrossAccountDistributionAccess | / | [v1](./policies/Ec2ImageBuilderCrossAccountDistributionAccess.json) |
 | Ec2InstanceConnectEndpoint | /aws-service-role/ | [v1](./policies/Ec2InstanceConnectEndpoint.json) |
