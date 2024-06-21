@@ -588,7 +588,7 @@
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
 | AmazonAppStreamReadOnlyAccess | / | [v2](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v8](./policies/AmazonAppStreamServiceAccess.json) |
-| AmazonAthenaFullAccess | / | [v11](./policies/AmazonAthenaFullAccess.json) |
+| AmazonAthenaFullAccess | / | [v12](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
@@ -1075,7 +1075,7 @@
 | ComprehendFullAccess | / | [v2](./policies/ComprehendFullAccess.json) |
 | ComprehendMedicalFullAccess | / | [v1](./policies/ComprehendMedicalFullAccess.json) |
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
-| ComputeOptimizerReadOnlyAccess | / | [v7](./policies/ComputeOptimizerReadOnlyAccess.json) |
+| ComputeOptimizerReadOnlyAccess | / | [v8](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v3](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
