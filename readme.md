@@ -156,7 +156,7 @@
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSServerlessServiceRolePolicy.json) |
-| AWSDataExchangeFullAccess | / | [v7](./policies/AWSDataExchangeFullAccess.json) |
+| AWSDataExchangeFullAccess | / | [v8](./policies/AWSDataExchangeFullAccess.json) |
 | AWSDataExchangeProviderFullAccess | / | [v11](./policies/AWSDataExchangeProviderFullAccess.json) |
 | AWSDataExchangeReadOnly | / | [v2](./policies/AWSDataExchangeReadOnly.json) |
 | AWSDataExchangeSubscriberFullAccess | / | [v7](./policies/AWSDataExchangeSubscriberFullAccess.json) |
@@ -1006,6 +1006,7 @@
 | AmazonWorkMailReadOnlyAccess | / | [v4](./policies/AmazonWorkMailReadOnlyAccess.json) |
 | AmazonWorkSpacesAdmin | / | [v5](./policies/AmazonWorkSpacesAdmin.json) |
 | AmazonWorkSpacesApplicationManagerAdminAccess | / | [v1](./policies/AmazonWorkSpacesApplicationManagerAdminAccess.json) |
+| AmazonWorkSpacesSecureBrowserReadOnly | / | [v1](./policies/AmazonWorkSpacesSecureBrowserReadOnly.json) |
 | AmazonWorkSpacesSelfServiceAccess | / | [v1](./policies/AmazonWorkSpacesSelfServiceAccess.json) |
 | AmazonWorkSpacesServiceAccess | / | [v2](./policies/AmazonWorkSpacesServiceAccess.json) |
 | AmazonWorkSpacesWebReadOnly | / | [v2](./policies/AmazonWorkSpacesWebReadOnly.json) |
