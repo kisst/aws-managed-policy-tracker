@@ -1160,7 +1160,7 @@
 | NeptuneFullAccess | / | [v7](./policies/NeptuneFullAccess.json) |
 | NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
 | NeptuneReadOnlyAccess | / | [v3](./policies/NeptuneReadOnlyAccess.json) |
-| NetworkAdministrator | /job-function/ | [v11](./policies/NetworkAdministrator.json) |
+| NetworkAdministrator | /job-function/ | [v12](./policies/NetworkAdministrator.json) |
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
