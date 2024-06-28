@@ -281,7 +281,7 @@
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
-| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v8](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
+| AWSIAMIdentityCenterAllowListForIdentityContext | / | [v9](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
@@ -499,7 +499,7 @@
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
-| AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v7](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
+| AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v8](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
 | AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy.json) |
@@ -653,10 +653,10 @@
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
 | AmazonDMSVPCManagementRole | /service-role/ | [v3](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
-| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v6](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
+| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v7](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v4](./policies/AmazonDataZoneFullAccess.json) |
-| AmazonDataZoneFullUserAccess | / | [v6](./policies/AmazonDataZoneFullUserAccess.json) |
+| AmazonDataZoneFullUserAccess | / | [v7](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v3](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
@@ -1015,8 +1015,9 @@
 | AmazonWorkMailMessageFlowFullAccess | / | [v1](./policies/AmazonWorkMailMessageFlowFullAccess.json) |
 | AmazonWorkMailMessageFlowReadOnlyAccess | / | [v1](./policies/AmazonWorkMailMessageFlowReadOnlyAccess.json) |
 | AmazonWorkMailReadOnlyAccess | / | [v4](./policies/AmazonWorkMailReadOnlyAccess.json) |
-| AmazonWorkSpacesAdmin | / | [v5](./policies/AmazonWorkSpacesAdmin.json) |
+| AmazonWorkSpacesAdmin | / | [v6](./policies/AmazonWorkSpacesAdmin.json) |
 | AmazonWorkSpacesApplicationManagerAdminAccess | / | [v1](./policies/AmazonWorkSpacesApplicationManagerAdminAccess.json) |
+| AmazonWorkSpacesPoolServiceAccess | / | [v1](./policies/AmazonWorkSpacesPoolServiceAccess.json) |
 | AmazonWorkSpacesSecureBrowserReadOnly | / | [v1](./policies/AmazonWorkSpacesSecureBrowserReadOnly.json) |
 | AmazonWorkSpacesSelfServiceAccess | / | [v1](./policies/AmazonWorkSpacesSelfServiceAccess.json) |
 | AmazonWorkSpacesServiceAccess | / | [v2](./policies/AmazonWorkSpacesServiceAccess.json) |
