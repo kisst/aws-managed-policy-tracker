@@ -657,7 +657,7 @@
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v4](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v7](./policies/AmazonDataZoneFullUserAccess.json) |
-| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
+| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v6](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v3](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
