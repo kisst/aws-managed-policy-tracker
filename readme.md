@@ -903,7 +903,7 @@
 | AmazonRDSPerformanceInsightsReadOnly | / | [v3](./policies/AmazonRDSPerformanceInsightsReadOnly.json) |
 | AmazonRDSPreviewServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSPreviewServiceRolePolicy.json) |
 | AmazonRDSReadOnlyAccess | / | [v7](./policies/AmazonRDSReadOnlyAccess.json) |
-| AmazonRDSServiceRolePolicy | /aws-service-role/ | [v13](./policies/AmazonRDSServiceRolePolicy.json) |
+| AmazonRDSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonRDSServiceRolePolicy.json) |
 | AmazonRedshiftAllCommandsFullAccess | / | [v2](./policies/AmazonRedshiftAllCommandsFullAccess.json) |
 | AmazonRedshiftDataFullAccess | / | [v5](./policies/AmazonRedshiftDataFullAccess.json) |
 | AmazonRedshiftFullAccess | / | [v5](./policies/AmazonRedshiftFullAccess.json) |
