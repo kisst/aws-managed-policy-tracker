@@ -419,7 +419,7 @@
 | AWSPanoramaSageMakerRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaSageMakerRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
-| AWSPriceListServiceFullAccess | / | [v1](./policies/AWSPriceListServiceFullAccess.json) |
+| AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
 | AWSPrivateCAAuditor | / | [v1](./policies/AWSPrivateCAAuditor.json) |
 | AWSPrivateCAFullAccess | / | [v1](./policies/AWSPrivateCAFullAccess.json) |
 | AWSPrivateCAPrivilegedUser | / | [v1](./policies/AWSPrivateCAPrivilegedUser.json) |
