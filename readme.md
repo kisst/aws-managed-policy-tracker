@@ -1093,7 +1093,7 @@
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
-| CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v1](./policies/CostOptimizationHubServiceRolePolicy.json) |
+| CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/CostOptimizationHubServiceRolePolicy.json) |
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
