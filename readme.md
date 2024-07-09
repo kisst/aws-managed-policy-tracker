@@ -351,7 +351,7 @@
 | AWSLambda_FullAccess | / | [v1](./policies/AWSLambda_FullAccess.json) |
 | AWSLambda_ReadOnlyAccess | / | [v2](./policies/AWSLambda_ReadOnlyAccess.json) |
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
-| AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy.json) |
+| AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy.json) |
 | AWSLicenseManagerMasterAccountRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerMasterAccountRolePolicy.json) |
 | AWSLicenseManagerMemberAccountRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerMemberAccountRolePolicy.json) |
 | AWSLicenseManagerServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSLicenseManagerServiceRolePolicy.json) |
