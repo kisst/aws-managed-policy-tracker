@@ -1031,6 +1031,7 @@
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
+| AppStudioServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppStudioServiceRolePolicy.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
