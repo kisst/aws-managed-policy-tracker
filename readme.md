@@ -965,7 +965,7 @@
 | AmazonSageMakerCanvasDataPrepFullAccess | / | [v2](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
 | AmazonSageMakerCanvasDirectDeployAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasDirectDeployAccess.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
-| AmazonSageMakerCanvasFullAccess | / | [v9](./policies/AmazonSageMakerCanvasFullAccess.json) |
+| AmazonSageMakerCanvasFullAccess | / | [v10](./policies/AmazonSageMakerCanvasFullAccess.json) |
 | AmazonSageMakerClusterInstanceRolePolicy | / | [v1](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
