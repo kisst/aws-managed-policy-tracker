@@ -536,7 +536,7 @@
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
 | AWSSystemsManagerEnableExplorerExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableExplorerExecutionPolicy.json) |
-| AWSSystemsManagerForSAPFullAccess | / | [v2](./policies/AWSSystemsManagerForSAPFullAccess.json) |
+| AWSSystemsManagerForSAPFullAccess | / | [v3](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
 | AWSThinkboxAWSPortalAdminPolicy | / | [v8](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
