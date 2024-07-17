@@ -954,7 +954,7 @@
 | AmazonSSMDirectoryServiceAccess | / | [v1](./policies/AmazonSSMDirectoryServiceAccess.json) |
 | AmazonSSMFullAccess | / | [v4](./policies/AmazonSSMFullAccess.json) |
 | AmazonSSMMaintenanceWindowRole | /service-role/ | [v3](./policies/AmazonSSMMaintenanceWindowRole.json) |
-| AmazonSSMManagedEC2InstanceDefaultPolicy | / | [v1](./policies/AmazonSSMManagedEC2InstanceDefaultPolicy.json) |
+| AmazonSSMManagedEC2InstanceDefaultPolicy | / | [v2](./policies/AmazonSSMManagedEC2InstanceDefaultPolicy.json) |
 | AmazonSSMManagedInstanceCore | / | [v2](./policies/AmazonSSMManagedInstanceCore.json) |
 | AmazonSSMPatchAssociation | / | [v1](./policies/AmazonSSMPatchAssociation.json) |
 | AmazonSSMReadOnlyAccess | / | [v1](./policies/AmazonSSMReadOnlyAccess.json) |
