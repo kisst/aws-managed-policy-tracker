@@ -895,7 +895,7 @@
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v1](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
 | AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
-| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSCustomServiceRolePolicy.json) |
+| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
@@ -962,7 +962,7 @@
 | AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v9](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
 | AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
 | AmazonSageMakerCanvasBedrockAccess | / | [v1](./policies/AmazonSageMakerCanvasBedrockAccess.json) |
-| AmazonSageMakerCanvasDataPrepFullAccess | / | [v2](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
+| AmazonSageMakerCanvasDataPrepFullAccess | / | [v3](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
 | AmazonSageMakerCanvasDirectDeployAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasDirectDeployAccess.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
 | AmazonSageMakerCanvasFullAccess | / | [v10](./policies/AmazonSageMakerCanvasFullAccess.json) |
@@ -1027,7 +1027,7 @@
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
-| AmplifyBackendDeployFullAccess | /service-role/ | [v7](./policies/AmplifyBackendDeployFullAccess.json) |
+| AmplifyBackendDeployFullAccess | /service-role/ | [v8](./policies/AmplifyBackendDeployFullAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
@@ -1136,7 +1136,7 @@
 | Health_OrganizationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/Health_OrganizationsServiceRolePolicy.json) |
 | IAMAccessAdvisorReadOnly | / | [v1](./policies/IAMAccessAdvisorReadOnly.json) |
 | IAMAccessAnalyzerFullAccess | / | [v1](./policies/IAMAccessAnalyzerFullAccess.json) |
-| IAMAccessAnalyzerReadOnlyAccess | / | [v3](./policies/IAMAccessAnalyzerReadOnlyAccess.json) |
+| IAMAccessAnalyzerReadOnlyAccess | / | [v4](./policies/IAMAccessAnalyzerReadOnlyAccess.json) |
 | IAMFullAccess | / | [v2](./policies/IAMFullAccess.json) |
 | IAMReadOnlyAccess | / | [v4](./policies/IAMReadOnlyAccess.json) |
 | IAMSelfManageServiceSpecificCredentials | / | [v1](./policies/IAMSelfManageServiceSpecificCredentials.json) |
@@ -1184,7 +1184,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v114](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v115](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
