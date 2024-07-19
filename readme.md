@@ -1022,6 +1022,7 @@
 | AmazonWorkSpacesSecureBrowserReadOnly | / | [v1](./policies/AmazonWorkSpacesSecureBrowserReadOnly.json) |
 | AmazonWorkSpacesSelfServiceAccess | / | [v1](./policies/AmazonWorkSpacesSelfServiceAccess.json) |
 | AmazonWorkSpacesServiceAccess | / | [v2](./policies/AmazonWorkSpacesServiceAccess.json) |
+| AmazonWorkSpacesThinClientReadOnlyAccess | / | [v1](./policies/AmazonWorkSpacesThinClientReadOnlyAccess.json) |
 | AmazonWorkSpacesWebReadOnly | / | [v2](./policies/AmazonWorkSpacesWebReadOnly.json) |
 | AmazonWorkSpacesWebServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonWorkSpacesWebServiceRolePolicy.json) |
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
