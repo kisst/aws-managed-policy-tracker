@@ -158,7 +158,7 @@
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSServerlessServiceRolePolicy.json) |
 | AWSDataExchangeFullAccess | / | [v8](./policies/AWSDataExchangeFullAccess.json) |
 | AWSDataExchangeProviderFullAccess | / | [v11](./policies/AWSDataExchangeProviderFullAccess.json) |
-| AWSDataExchangeReadOnly | / | [v2](./policies/AWSDataExchangeReadOnly.json) |
+| AWSDataExchangeReadOnly | / | [v3](./policies/AWSDataExchangeReadOnly.json) |
 | AWSDataExchangeSubscriberFullAccess | / | [v7](./policies/AWSDataExchangeSubscriberFullAccess.json) |
 | AWSDataLifecycleManagerSSMFullAccess | /service-role/ | [v2](./policies/AWSDataLifecycleManagerSSMFullAccess.json) |
 | AWSDataLifecycleManagerServiceRole | /service-role/ | [v7](./policies/AWSDataLifecycleManagerServiceRole.json) |
@@ -166,7 +166,7 @@
 | AWSDataPipeline_FullAccess | / | [v2](./policies/AWSDataPipeline_FullAccess.json) |
 | AWSDataPipeline_PowerUser | / | [v2](./policies/AWSDataPipeline_PowerUser.json) |
 | AWSDataSyncDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncDiscoveryServiceRolePolicy.json) |
-| AWSDataSyncFullAccess | / | [v5](./policies/AWSDataSyncFullAccess.json) |
+| AWSDataSyncFullAccess | / | [v6](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
 | AWSDeadlineCloud-UserAccessFarms | / | [v1](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
@@ -237,7 +237,7 @@
 | AWSElementalMediaConvertFullAccess | / | [v2](./policies/AWSElementalMediaConvertFullAccess.json) |
 | AWSElementalMediaConvertReadOnly | / | [v2](./policies/AWSElementalMediaConvertReadOnly.json) |
 | AWSElementalMediaLiveFullAccess | / | [v1](./policies/AWSElementalMediaLiveFullAccess.json) |
-| AWSElementalMediaLiveReadOnly | / | [v1](./policies/AWSElementalMediaLiveReadOnly.json) |
+| AWSElementalMediaLiveReadOnly | / | [v2](./policies/AWSElementalMediaLiveReadOnly.json) |
 | AWSElementalMediaPackageFullAccess | / | [v1](./policies/AWSElementalMediaPackageFullAccess.json) |
 | AWSElementalMediaPackageReadOnly | / | [v1](./policies/AWSElementalMediaPackageReadOnly.json) |
 | AWSElementalMediaPackageV2FullAccess | / | [v1](./policies/AWSElementalMediaPackageV2FullAccess.json) |
@@ -1126,7 +1126,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FMSServiceRolePolicy | /aws-service-role/ | [v29](./policies/FMSServiceRolePolicy.json) |
+| FMSServiceRolePolicy | /aws-service-role/ | [v30](./policies/FMSServiceRolePolicy.json) |
 | FSxDeleteServiceLinkedRoleAccess | /aws-service-role/ | [v1](./policies/FSxDeleteServiceLinkedRoleAccess.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
 | GlobalAcceleratorFullAccess | / | [v6](./policies/GlobalAcceleratorFullAccess.json) |
