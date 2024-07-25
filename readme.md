@@ -460,7 +460,7 @@
 | AWSRefactoringToolkitFullAccess | / | [v5](./policies/AWSRefactoringToolkitFullAccess.json) |
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
-| AWSResilienceHubAsssessmentExecutionPolicy | / | [v4](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
+| AWSResilienceHubAsssessmentExecutionPolicy | / | [v5](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
 | AWSResourceAccessManagerFullAccess | / | [v1](./policies/AWSResourceAccessManagerFullAccess.json) |
 | AWSResourceAccessManagerReadOnlyAccess | / | [v1](./policies/AWSResourceAccessManagerReadOnlyAccess.json) |
 | AWSResourceAccessManagerResourceShareParticipantAccess | / | [v1](./policies/AWSResourceAccessManagerResourceShareParticipantAccess.json) |
