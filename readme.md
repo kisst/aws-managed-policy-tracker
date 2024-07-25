@@ -65,7 +65,7 @@
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
 | AWSBackupFullAccess | / | [v17](./policies/AWSBackupFullAccess.json) |
 | AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync | /service-role/ | [v1](./policies/AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync.json) |
-| AWSBackupOperatorAccess | / | [v15](./policies/AWSBackupOperatorAccess.json) |
+| AWSBackupOperatorAccess | / | [v16](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
 | AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v16](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
@@ -646,7 +646,7 @@
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v16](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
-| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
+| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
 | AmazonDMSCloudWatchLogsRole | /service-role/ | [v2](./policies/AmazonDMSCloudWatchLogsRole.json) |
@@ -977,7 +977,7 @@
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v2](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
-| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
+| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy.json) |
