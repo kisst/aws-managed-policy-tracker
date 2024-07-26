@@ -375,7 +375,7 @@
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v4](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
-| AWSMarketplaceSellerFullAccess | / | [v11](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v12](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v7](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v3](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMediaConnectServicePolicy | /aws-service-role/ | [v1](./policies/AWSMediaConnectServicePolicy.json) |
@@ -651,7 +651,7 @@
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
 | AmazonDMSCloudWatchLogsRole | /service-role/ | [v2](./policies/AmazonDMSCloudWatchLogsRole.json) |
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
-| AmazonDMSVPCManagementRole | /service-role/ | [v3](./policies/AmazonDMSVPCManagementRole.json) |
+| AmazonDMSVPCManagementRole | /service-role/ | [v4](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v7](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
@@ -874,7 +874,7 @@
 | AmazonOpenSearchIngestionFullAccess | / | [v1](./policies/AmazonOpenSearchIngestionFullAccess.json) |
 | AmazonOpenSearchIngestionReadOnlyAccess | / | [v1](./policies/AmazonOpenSearchIngestionReadOnlyAccess.json) |
 | AmazonOpenSearchIngestionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonOpenSearchIngestionServiceRolePolicy.json) |
-| AmazonOpenSearchServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonOpenSearchServerlessServiceRolePolicy.json) |
+| AmazonOpenSearchServerlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonOpenSearchServerlessServiceRolePolicy.json) |
 | AmazonOpenSearchServiceCognitoAccess | / | [v2](./policies/AmazonOpenSearchServiceCognitoAccess.json) |
 | AmazonOpenSearchServiceFullAccess | / | [v1](./policies/AmazonOpenSearchServiceFullAccess.json) |
 | AmazonOpenSearchServiceReadOnlyAccess | / | [v1](./policies/AmazonOpenSearchServiceReadOnlyAccess.json) |
@@ -1086,7 +1086,7 @@
 | CloudWatchReadOnlyAccess | / | [v9](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v9](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
-| CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v24](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
+| CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
 | ComprehendFullAccess | / | [v2](./policies/ComprehendFullAccess.json) |
 | ComprehendMedicalFullAccess | / | [v1](./policies/ComprehendMedicalFullAccess.json) |
