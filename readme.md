@@ -218,7 +218,7 @@
 | AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryAgentPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryAgentPolicy.json) |
 | AWSElasticDisasterRecoveryConsoleFullAccess | / | [v5](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
-| AWSElasticDisasterRecoveryConsoleFullAccess_v2 | / | [v2](./policies/AWSElasticDisasterRecoveryConsoleFullAccess_v2.json) |
+| AWSElasticDisasterRecoveryConsoleFullAccess_v2 | / | [v3](./policies/AWSElasticDisasterRecoveryConsoleFullAccess_v2.json) |
 | AWSElasticDisasterRecoveryConversionServerPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryConversionServerPolicy.json) |
 | AWSElasticDisasterRecoveryCrossAccountReplicationPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryCrossAccountReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryEc2InstancePolicy | /service-role/ | [v5](./policies/AWSElasticDisasterRecoveryEc2InstancePolicy.json) |
@@ -226,7 +226,7 @@
 | AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
 | AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v3](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
 | AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
-| AWSElasticDisasterRecoveryReadOnlyAccess | / | [v4](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
+| AWSElasticDisasterRecoveryReadOnlyAccess | / | [v5](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
 | AWSElasticDisasterRecoveryRecoveryInstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryRecoveryInstancePolicy.json) |
 | AWSElasticDisasterRecoveryReplicationServerPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryReplicationServerPolicy.json) |
 | AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
@@ -1186,7 +1186,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v115](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v116](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
