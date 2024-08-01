@@ -605,6 +605,7 @@
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
 | AmazonBedrockFullAccess | / | [v1](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockReadOnly | / | [v1](./policies/AmazonBedrockReadOnly.json) |
+| AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
 | AmazonBraketFullAccess | / | [v6](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v2](./policies/AmazonBraketJobsExecutionPolicy.json) |
 | AmazonBraketServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonBraketServiceRolePolicy.json) |
