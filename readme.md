@@ -476,7 +476,7 @@
 | AWSRoboMaker_FullAccess | / | [v2](./policies/AWSRoboMaker_FullAccess.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
-| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v7](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
+| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v8](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
 | AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
@@ -531,7 +531,7 @@
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v2](./policies/AWSSupportPlansFullAccess.json) |
 | AWSSupportPlansReadOnlyAccess | / | [v1](./policies/AWSSupportPlansReadOnlyAccess.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v36](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v37](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
@@ -935,8 +935,8 @@
 | AmazonRoute53RecoveryControlConfigReadOnlyAccess | / | [v3](./policies/AmazonRoute53RecoveryControlConfigReadOnlyAccess.json) |
 | AmazonRoute53RecoveryReadinessFullAccess | / | [v1](./policies/AmazonRoute53RecoveryReadinessFullAccess.json) |
 | AmazonRoute53RecoveryReadinessReadOnlyAccess | / | [v2](./policies/AmazonRoute53RecoveryReadinessReadOnlyAccess.json) |
-| AmazonRoute53ResolverFullAccess | / | [v2](./policies/AmazonRoute53ResolverFullAccess.json) |
-| AmazonRoute53ResolverReadOnlyAccess | / | [v2](./policies/AmazonRoute53ResolverReadOnlyAccess.json) |
+| AmazonRoute53ResolverFullAccess | / | [v3](./policies/AmazonRoute53ResolverFullAccess.json) |
+| AmazonRoute53ResolverReadOnlyAccess | / | [v3](./policies/AmazonRoute53ResolverReadOnlyAccess.json) |
 | AmazonS3FullAccess | / | [v2](./policies/AmazonS3FullAccess.json) |
 | AmazonS3ObjectLambdaExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonS3ObjectLambdaExecutionRolePolicy.json) |
 | AmazonS3OutpostsFullAccess | / | [v1](./policies/AmazonS3OutpostsFullAccess.json) |
@@ -1046,8 +1046,8 @@
 | AwsGlueDataBrewFullAccessPolicy | / | [v8](./policies/AwsGlueDataBrewFullAccessPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
-| AwsGlueSessionUserRestrictedPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
-| AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
+| AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
+| AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
 | Billing | /job-function/ | [v11](./policies/Billing.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
