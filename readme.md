@@ -893,7 +893,7 @@
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
-| AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSBetaServiceRolePolicy.json) |
+| AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v1](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
 | AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
 | AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonRDSCustomServiceRolePolicy.json) |
@@ -903,7 +903,7 @@
 | AmazonRDSFullAccess | / | [v14](./policies/AmazonRDSFullAccess.json) |
 | AmazonRDSPerformanceInsightsFullAccess | / | [v2](./policies/AmazonRDSPerformanceInsightsFullAccess.json) |
 | AmazonRDSPerformanceInsightsReadOnly | / | [v3](./policies/AmazonRDSPerformanceInsightsReadOnly.json) |
-| AmazonRDSPreviewServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSPreviewServiceRolePolicy.json) |
+| AmazonRDSPreviewServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSPreviewServiceRolePolicy.json) |
 | AmazonRDSReadOnlyAccess | / | [v7](./policies/AmazonRDSReadOnlyAccess.json) |
 | AmazonRDSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonRDSServiceRolePolicy.json) |
 | AmazonRedshiftAllCommandsFullAccess | / | [v2](./policies/AmazonRedshiftAllCommandsFullAccess.json) |
