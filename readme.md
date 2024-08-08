@@ -735,7 +735,7 @@
 | AmazonElasticFileSystemClientReadOnlyAccess | / | [v1](./policies/AmazonElasticFileSystemClientReadOnlyAccess.json) |
 | AmazonElasticFileSystemClientReadWriteAccess | / | [v1](./policies/AmazonElasticFileSystemClientReadWriteAccess.json) |
 | AmazonElasticFileSystemFullAccess | / | [v9](./policies/AmazonElasticFileSystemFullAccess.json) |
-| AmazonElasticFileSystemReadOnlyAccess | / | [v7](./policies/AmazonElasticFileSystemReadOnlyAccess.json) |
+| AmazonElasticFileSystemReadOnlyAccess | / | [v8](./policies/AmazonElasticFileSystemReadOnlyAccess.json) |
 | AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
 | AmazonElasticFileSystemsUtils | / | [v1](./policies/AmazonElasticFileSystemsUtils.json) |
 | AmazonElasticMapReduceEditorsRole | /service-role/ | [v2](./policies/AmazonElasticMapReduceEditorsRole.json) |
