@@ -642,7 +642,7 @@
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
 | AmazonCognitoPowerUser | / | [v6](./policies/AmazonCognitoPowerUser.json) |
 | AmazonCognitoReadOnly | / | [v4](./policies/AmazonCognitoReadOnly.json) |
-| AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v1](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
+| AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v2](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
