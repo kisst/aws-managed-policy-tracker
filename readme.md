@@ -780,7 +780,7 @@
 | AmazonGuardDutyFullAccess | / | [v6](./policies/AmazonGuardDutyFullAccess.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
-| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonGuardDutyServiceRolePolicy.json) |
+| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
 | AmazonHealthLakeReadOnlyAccess | / | [v1](./policies/AmazonHealthLakeReadOnlyAccess.json) |
 | AmazonHoneycodeFullAccess | / | [v1](./policies/AmazonHoneycodeFullAccess.json) |
@@ -1195,7 +1195,7 @@
 | Route53RecoveryReadinessServiceRolePolicy | /aws-service-role/ | [v5](./policies/Route53RecoveryReadinessServiceRolePolicy.json) |
 | Route53ResolverServiceRolePolicy | /aws-service-role/ | [v1](./policies/Route53ResolverServiceRolePolicy.json) |
 | S3StorageLensServiceRolePolicy | /aws-service-role/ | [v1](./policies/S3StorageLensServiceRolePolicy.json) |
-| SSMQuickSetupRolePolicy | /aws-service-role/ | [v1](./policies/SSMQuickSetupRolePolicy.json) |
+| SSMQuickSetupRolePolicy | /aws-service-role/ | [v2](./policies/SSMQuickSetupRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v42](./policies/SecurityAudit.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
