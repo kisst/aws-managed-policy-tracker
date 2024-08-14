@@ -704,7 +704,7 @@
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
-| AmazonECS_FullAccess | / | [v20](./policies/AmazonECS_FullAccess.json) |
+| AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
 | AmazonEKSClusterPolicy | / | [v6](./policies/AmazonEKSClusterPolicy.json) |
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
