@@ -157,7 +157,7 @@
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSServerlessServiceRolePolicy.json) |
 | AWSDataExchangeFullAccess | / | [v8](./policies/AWSDataExchangeFullAccess.json) |
-| AWSDataExchangeProviderFullAccess | / | [v11](./policies/AWSDataExchangeProviderFullAccess.json) |
+| AWSDataExchangeProviderFullAccess | / | [v12](./policies/AWSDataExchangeProviderFullAccess.json) |
 | AWSDataExchangeReadOnly | / | [v3](./policies/AWSDataExchangeReadOnly.json) |
 | AWSDataExchangeSubscriberFullAccess | / | [v7](./policies/AWSDataExchangeSubscriberFullAccess.json) |
 | AWSDataLifecycleManagerSSMFullAccess | /service-role/ | [v2](./policies/AWSDataLifecycleManagerSSMFullAccess.json) |
@@ -1045,8 +1045,8 @@
 | AutoScalingReadOnlyAccess | / | [v1](./policies/AutoScalingReadOnlyAccess.json) |
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v8](./policies/AutoScalingServiceRolePolicy.json) |
 | AwsGlueDataBrewFullAccessPolicy | / | [v8](./policies/AwsGlueDataBrewFullAccessPolicy.json) |
-| AwsGlueSessionUserRestrictedNotebookPolicy | / | [v2](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
-| AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v1](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
+| AwsGlueSessionUserRestrictedNotebookPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
+| AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
@@ -1188,7 +1188,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v116](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v117](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
