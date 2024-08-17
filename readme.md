@@ -963,7 +963,7 @@
 | AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v9](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
 | AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
 | AmazonSageMakerCanvasBedrockAccess | / | [v1](./policies/AmazonSageMakerCanvasBedrockAccess.json) |
-| AmazonSageMakerCanvasDataPrepFullAccess | / | [v3](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
+| AmazonSageMakerCanvasDataPrepFullAccess | / | [v4](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
 | AmazonSageMakerCanvasDirectDeployAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasDirectDeployAccess.json) |
 | AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy | / | [v1](./policies/AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
