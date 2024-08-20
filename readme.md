@@ -468,7 +468,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
@@ -1172,7 +1172,7 @@
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
-| PowerUserAccess | / | [v5](./policies/PowerUserAccess.json) |
+| PowerUserAccess | / | [v6](./policies/PowerUserAccess.json) |
 | QBusinessServiceRolePolicy | /aws-service-role/ | [v1](./policies/QBusinessServiceRolePolicy.json) |
 | QuickSightAccessForS3StorageManagementAnalyticsReadOnly | /service-role/ | [v4](./policies/QuickSightAccessForS3StorageManagementAnalyticsReadOnly.json) |
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
