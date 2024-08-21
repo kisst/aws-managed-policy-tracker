@@ -879,7 +879,7 @@
 | AmazonOpenSearchServiceCognitoAccess | / | [v2](./policies/AmazonOpenSearchServiceCognitoAccess.json) |
 | AmazonOpenSearchServiceFullAccess | / | [v1](./policies/AmazonOpenSearchServiceFullAccess.json) |
 | AmazonOpenSearchServiceReadOnlyAccess | / | [v1](./policies/AmazonOpenSearchServiceReadOnlyAccess.json) |
-| AmazonOpenSearchServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonOpenSearchServiceRolePolicy.json) |
+| AmazonOpenSearchServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonOpenSearchServiceRolePolicy.json) |
 | AmazonPersonalizeFullAccess | /service-role/ | [v2](./policies/AmazonPersonalizeFullAccess.json) |
 | AmazonPollyFullAccess | / | [v1](./policies/AmazonPollyFullAccess.json) |
 | AmazonPollyReadOnlyAccess | / | [v2](./policies/AmazonPollyReadOnlyAccess.json) |
