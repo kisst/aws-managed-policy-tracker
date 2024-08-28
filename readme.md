@@ -413,6 +413,7 @@
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSOutpostsServiceRolePolicy.json) |
+| AWSPCSServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaApplianceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaApplianceRolePolicy.json) |
 | AWSPanoramaApplianceServiceRolePolicy | /service-role/ | [v2](./policies/AWSPanoramaApplianceServiceRolePolicy.json) |
 | AWSPanoramaFullAccess | / | [v4](./policies/AWSPanoramaFullAccess.json) |
@@ -927,8 +928,8 @@
 | AmazonRoute53DomainsFullAccess | / | [v1](./policies/AmazonRoute53DomainsFullAccess.json) |
 | AmazonRoute53DomainsReadOnlyAccess | / | [v1](./policies/AmazonRoute53DomainsReadOnlyAccess.json) |
 | AmazonRoute53FullAccess | / | [v4](./policies/AmazonRoute53FullAccess.json) |
-| AmazonRoute53ProfilesFullAccess | / | [v1](./policies/AmazonRoute53ProfilesFullAccess.json) |
-| AmazonRoute53ProfilesReadOnlyAccess | / | [v1](./policies/AmazonRoute53ProfilesReadOnlyAccess.json) |
+| AmazonRoute53ProfilesFullAccess | / | [v2](./policies/AmazonRoute53ProfilesFullAccess.json) |
+| AmazonRoute53ProfilesReadOnlyAccess | / | [v2](./policies/AmazonRoute53ProfilesReadOnlyAccess.json) |
 | AmazonRoute53ReadOnlyAccess | / | [v2](./policies/AmazonRoute53ReadOnlyAccess.json) |
 | AmazonRoute53RecoveryClusterFullAccess | / | [v1](./policies/AmazonRoute53RecoveryClusterFullAccess.json) |
 | AmazonRoute53RecoveryClusterReadOnlyAccess | / | [v2](./policies/AmazonRoute53RecoveryClusterReadOnlyAccess.json) |
@@ -1189,7 +1190,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v117](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v118](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
