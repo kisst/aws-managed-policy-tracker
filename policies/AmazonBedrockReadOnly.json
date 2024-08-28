@@ -21,7 +21,9 @@
                 "bedrock:GetEvaluationJob",
                 "bedrock:ListEvaluationJobs",
                 "bedrock:GetModelInvocationJob",
-                "bedrock:ListModelInvocationJobs"
+                "bedrock:ListModelInvocationJobs",
+                "bedrock:GetInferenceProfile",
+                "bedrock:ListInferenceProfiles"
             ],
             "Resource": "*"
         }
