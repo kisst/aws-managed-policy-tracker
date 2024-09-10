@@ -531,8 +531,8 @@
 | AWSSupportAccess | / | [v1](./policies/AWSSupportAccess.json) |
 | AWSSupportAppFullAccess | / | [v1](./policies/AWSSupportAppFullAccess.json) |
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
-| AWSSupportPlansFullAccess | / | [v2](./policies/AWSSupportPlansFullAccess.json) |
-| AWSSupportPlansReadOnlyAccess | / | [v1](./policies/AWSSupportPlansReadOnlyAccess.json) |
+| AWSSupportPlansFullAccess | / | [v3](./policies/AWSSupportPlansFullAccess.json) |
+| AWSSupportPlansReadOnlyAccess | / | [v2](./policies/AWSSupportPlansReadOnlyAccess.json) |
 | AWSSupportServiceRolePolicy | /aws-service-role/ | [v37](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
