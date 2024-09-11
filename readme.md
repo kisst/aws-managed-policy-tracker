@@ -458,7 +458,7 @@
 | AWSQuickSightTimestreamPolicy | /service-role/ | [v1](./policies/AWSQuickSightTimestreamPolicy.json) |
 | AWSQuicksightAthenaAccess | /service-role/ | [v10](./policies/AWSQuicksightAthenaAccess.json) |
 | AWSQuicksightOpenSearchPolicy | /service-role/ | [v1](./policies/AWSQuicksightOpenSearchPolicy.json) |
-| AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
+| AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSRefactoringToolkitFullAccess | / | [v5](./policies/AWSRefactoringToolkitFullAccess.json) |
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
