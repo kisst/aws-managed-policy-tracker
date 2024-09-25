@@ -58,7 +58,7 @@
 | AWSArtifactReportsReadOnlyAccess | / | [v1](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
-| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSAuditManagerServiceRolePolicy.json) |
+| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSAuditManagerServiceRolePolicy.json) |
 | AWSAutoScalingPlansEC2AutoScalingPolicy | /aws-service-role/ | [v1](./policies/AWSAutoScalingPlansEC2AutoScalingPolicy.json) |
 | AWSBCMDataExportsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBCMDataExportsServiceRolePolicy.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
@@ -949,8 +949,8 @@
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
 | AmazonSESReadOnlyAccess | / | [v2](./policies/AmazonSESReadOnlyAccess.json) |
 | AmazonSESServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSESServiceRolePolicy.json) |
-| AmazonSNSFullAccess | / | [v1](./policies/AmazonSNSFullAccess.json) |
-| AmazonSNSReadOnlyAccess | / | [v1](./policies/AmazonSNSReadOnlyAccess.json) |
+| AmazonSNSFullAccess | / | [v2](./policies/AmazonSNSFullAccess.json) |
+| AmazonSNSReadOnlyAccess | / | [v2](./policies/AmazonSNSReadOnlyAccess.json) |
 | AmazonSNSRole | /service-role/ | [v1](./policies/AmazonSNSRole.json) |
 | AmazonSQSFullAccess | / | [v1](./policies/AmazonSQSFullAccess.json) |
 | AmazonSQSReadOnlyAccess | / | [v4](./policies/AmazonSQSReadOnlyAccess.json) |
