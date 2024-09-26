@@ -651,7 +651,7 @@
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v17](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
-| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
+| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
 | AmazonDMSCloudWatchLogsRole | /service-role/ | [v2](./policies/AmazonDMSCloudWatchLogsRole.json) |
@@ -697,7 +697,7 @@
 | AmazonEC2ContainerServiceforEC2Role | /service-role/ | [v7](./policies/AmazonEC2ContainerServiceforEC2Role.json) |
 | AmazonEC2FullAccess | / | [v5](./policies/AmazonEC2FullAccess.json) |
 | AmazonEC2ReadOnlyAccess | / | [v1](./policies/AmazonEC2ReadOnlyAccess.json) |
-| AmazonEC2RolePolicyForLaunchWizard | / | [v10](./policies/AmazonEC2RolePolicyForLaunchWizard.json) |
+| AmazonEC2RolePolicyForLaunchWizard | / | [v11](./policies/AmazonEC2RolePolicyForLaunchWizard.json) |
 | AmazonEC2RoleforAWSCodeDeploy | /service-role/ | [v2](./policies/AmazonEC2RoleforAWSCodeDeploy.json) |
 | AmazonEC2RoleforAWSCodeDeployLimited | /service-role/ | [v2](./policies/AmazonEC2RoleforAWSCodeDeployLimited.json) |
 | AmazonEC2RoleforDataPipelineRole | /service-role/ | [v3](./policies/AmazonEC2RoleforDataPipelineRole.json) |
