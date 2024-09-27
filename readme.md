@@ -63,7 +63,7 @@
 | AWSBCMDataExportsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBCMDataExportsServiceRolePolicy.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
-| AWSBackupFullAccess | / | [v17](./policies/AWSBackupFullAccess.json) |
+| AWSBackupFullAccess | / | [v18](./policies/AWSBackupFullAccess.json) |
 | AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync | /service-role/ | [v1](./policies/AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync.json) |
 | AWSBackupOperatorAccess | / | [v16](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
@@ -484,7 +484,7 @@
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
 | AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
-| AWSSSOMasterAccountAdministrator | / | [v9](./policies/AWSSSOMasterAccountAdministrator.json) |
+| AWSSSOMasterAccountAdministrator | / | [v10](./policies/AWSSSOMasterAccountAdministrator.json) |
 | AWSSSOMemberAccountAdministrator | / | [v8](./policies/AWSSSOMemberAccountAdministrator.json) |
 | AWSSSOReadOnly | / | [v9](./policies/AWSSSOReadOnly.json) |
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSSSOServiceRolePolicy.json) |
@@ -1178,6 +1178,7 @@
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
 | PowerUserAccess | / | [v6](./policies/PowerUserAccess.json) |
+| QAppsServiceRolePolicy | /aws-service-role/ | [v1](./policies/QAppsServiceRolePolicy.json) |
 | QBusinessServiceRolePolicy | /aws-service-role/ | [v1](./policies/QBusinessServiceRolePolicy.json) |
 | QuickSightAccessForS3StorageManagementAnalyticsReadOnly | /service-role/ | [v4](./policies/QuickSightAccessForS3StorageManagementAnalyticsReadOnly.json) |
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
