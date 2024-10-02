@@ -115,6 +115,8 @@
                 "qapps:GetQAppSessionMetadata",
                 "qapps:UpdateQAppSessionMetadata",
                 "qapps:TagResource",
+                "qapps:ListQAppSessionData",
+                "qapps:ExportQAppSessionData",
                 "qbusiness:Chat",
                 "qbusiness:ChatSync",
                 "qbusiness:ListConversations",
