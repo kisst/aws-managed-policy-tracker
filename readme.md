@@ -514,7 +514,7 @@
 | AWSServiceRoleForImageBuilder | /aws-service-role/ | [v19](./policies/AWSServiceRoleForImageBuilder.json) |
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
-| AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForMonitronPolicy.json) |
+| AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForMonitronPolicy.json) |
 | AWSServiceRoleForNeptuneGraphPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForNeptuneGraphPolicy.json) |
 | AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
