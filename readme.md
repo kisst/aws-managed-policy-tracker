@@ -143,8 +143,8 @@
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSCodeStarServiceRole | /service-role/ | [v11](./policies/AWSCodeStarServiceRole.json) |
 | AWSCompromisedKeyQuarantine | / | [v1](./policies/AWSCompromisedKeyQuarantine.json) |
-| AWSCompromisedKeyQuarantineV2 | / | [v4](./policies/AWSCompromisedKeyQuarantineV2.json) |
-| AWSCompromisedKeyQuarantineV3 | / | [v1](./policies/AWSCompromisedKeyQuarantineV3.json) |
+| AWSCompromisedKeyQuarantineV2 | / | [v5](./policies/AWSCompromisedKeyQuarantineV2.json) |
+| AWSCompromisedKeyQuarantineV3 | / | [v2](./policies/AWSCompromisedKeyQuarantineV3.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
@@ -719,6 +719,7 @@
 | AmazonEKSServicePolicy | / | [v6](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
+| AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
 | AmazonEKS_CNI_Policy | / | [v5](./policies/AmazonEKS_CNI_Policy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
