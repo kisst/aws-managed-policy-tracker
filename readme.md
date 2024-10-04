@@ -517,6 +517,7 @@
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForMonitronPolicy.json) |
 | AWSServiceRoleForNeptuneGraphPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForNeptuneGraphPolicy.json) |
 | AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
+| AWSServiceRoleForProcurementInsightsPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForProcurementInsightsPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
 | AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v1](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
@@ -648,7 +649,7 @@
 | AmazonCognitoReadOnly | / | [v4](./policies/AmazonCognitoReadOnly.json) |
 | AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v2](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
-| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
+| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v17](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
