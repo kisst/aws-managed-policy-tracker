@@ -691,6 +691,7 @@
 | AmazonEBSCSIDriverPolicy | /service-role/ | [v2](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
 | AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
+| AmazonEC2ContainerRegistryPullOnly | / | [v1](./policies/AmazonEC2ContainerRegistryPullOnly.json) |
 | AmazonEC2ContainerRegistryReadOnly | / | [v3](./policies/AmazonEC2ContainerRegistryReadOnly.json) |
 | AmazonEC2ContainerServiceAutoscaleRole | /service-role/ | [v2](./policies/AmazonEC2ContainerServiceAutoscaleRole.json) |
 | AmazonEC2ContainerServiceEventsRole | /service-role/ | [v3](./policies/AmazonEC2ContainerServiceEventsRole.json) |
