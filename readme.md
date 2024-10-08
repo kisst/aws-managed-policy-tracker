@@ -170,10 +170,10 @@
 | AWSDataSyncFullAccess | / | [v6](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
-| AWSDeadlineCloud-UserAccessFarms | / | [v1](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
+| AWSDeadlineCloud-UserAccessFarms | / | [v2](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
 | AWSDeadlineCloud-UserAccessFleets | / | [v1](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
-| AWSDeadlineCloud-UserAccessJobs | / | [v1](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
-| AWSDeadlineCloud-UserAccessQueues | / | [v1](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
+| AWSDeadlineCloud-UserAccessJobs | / | [v2](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
+| AWSDeadlineCloud-UserAccessQueues | / | [v2](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
 | AWSDeadlineCloud-WorkerHost | / | [v1](./policies/AWSDeadlineCloud-WorkerHost.json) |
 | AWSDeepLensLambdaFunctionAccessPolicy | / | [v4](./policies/AWSDeepLensLambdaFunctionAccessPolicy.json) |
 | AWSDeepLensServiceRolePolicy | /service-role/ | [v6](./policies/AWSDeepLensServiceRolePolicy.json) |
@@ -1206,7 +1206,7 @@
 | S3StorageLensServiceRolePolicy | /aws-service-role/ | [v1](./policies/S3StorageLensServiceRolePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v2](./policies/SSMQuickSetupRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v42](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v43](./policies/SecurityAudit.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
