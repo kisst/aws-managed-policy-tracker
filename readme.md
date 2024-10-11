@@ -1203,6 +1203,7 @@
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
 | ReadOnlyAccess | / | [v119](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
+| ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v1](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
 | Route53RecoveryReadinessServiceRolePolicy | /aws-service-role/ | [v5](./policies/Route53RecoveryReadinessServiceRolePolicy.json) |
