@@ -160,6 +160,8 @@
 | AWSDataExchangeFullAccess | / | [v8](./policies/AWSDataExchangeFullAccess.json) |
 | AWSDataExchangeProviderFullAccess | / | [v12](./policies/AWSDataExchangeProviderFullAccess.json) |
 | AWSDataExchangeReadOnly | / | [v3](./policies/AWSDataExchangeReadOnly.json) |
+| AWSDataExchangeServiceRolePolicyForLicenseManagement | /aws-service-role/ | [v1](./policies/AWSDataExchangeServiceRolePolicyForLicenseManagement.json) |
+| AWSDataExchangeServiceRolePolicyForOrganizationDiscovery | /aws-service-role/ | [v1](./policies/AWSDataExchangeServiceRolePolicyForOrganizationDiscovery.json) |
 | AWSDataExchangeSubscriberFullAccess | / | [v7](./policies/AWSDataExchangeSubscriberFullAccess.json) |
 | AWSDataLifecycleManagerSSMFullAccess | /service-role/ | [v2](./policies/AWSDataLifecycleManagerSSMFullAccess.json) |
 | AWSDataLifecycleManagerServiceRole | /service-role/ | [v7](./policies/AWSDataLifecycleManagerServiceRole.json) |
@@ -525,6 +527,7 @@
 | AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
 | AWSShieldDRTAccessPolicy | /service-role/ | [v6](./policies/AWSShieldDRTAccessPolicy.json) |
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
+| AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
 | AWSStepFunctionsConsoleFullAccess | / | [v2](./policies/AWSStepFunctionsConsoleFullAccess.json) |
 | AWSStepFunctionsFullAccess | / | [v1](./policies/AWSStepFunctionsFullAccess.json) |
 | AWSStepFunctionsReadOnlyAccess | / | [v4](./policies/AWSStepFunctionsReadOnlyAccess.json) |
@@ -537,7 +540,7 @@
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v3](./policies/AWSSupportPlansFullAccess.json) |
 | AWSSupportPlansReadOnlyAccess | / | [v2](./policies/AWSSupportPlansReadOnlyAccess.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v37](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v38](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
@@ -708,7 +711,7 @@
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
-| AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
+| AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
