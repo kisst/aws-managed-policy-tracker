@@ -1023,6 +1023,8 @@
 | AmazonVPCReachabilityAnalyzerFullAccessPolicy | / | [v3](./policies/AmazonVPCReachabilityAnalyzerFullAccessPolicy.json) |
 | AmazonVPCReachabilityAnalyzerPathComponentReadPolicy | / | [v1](./policies/AmazonVPCReachabilityAnalyzerPathComponentReadPolicy.json) |
 | AmazonVPCReadOnlyAccess | / | [v9](./policies/AmazonVPCReadOnlyAccess.json) |
+| AmazonVerifiedPermissionsFullAccess | / | [v1](./policies/AmazonVerifiedPermissionsFullAccess.json) |
+| AmazonVerifiedPermissionsReadOnlyAccess | / | [v1](./policies/AmazonVerifiedPermissionsReadOnlyAccess.json) |
 | AmazonWorkDocsFullAccess | / | [v1](./policies/AmazonWorkDocsFullAccess.json) |
 | AmazonWorkDocsReadOnlyAccess | / | [v1](./policies/AmazonWorkDocsReadOnlyAccess.json) |
 | AmazonWorkMailEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkMailEventsServiceRolePolicy.json) |
@@ -1099,7 +1101,7 @@
 | CloudWatchLogsReadOnlyAccess | / | [v6](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudWatchReadOnlyAccess | / | [v9](./policies/CloudWatchReadOnlyAccess.json) |
-| CloudWatchSyntheticsFullAccess | / | [v9](./policies/CloudWatchSyntheticsFullAccess.json) |
+| CloudWatchSyntheticsFullAccess | / | [v10](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
