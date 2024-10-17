@@ -1095,6 +1095,7 @@
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
 | CloudWatchFullAccessV2 | / | [v3](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
+| CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
 | CloudWatchLambdaInsightsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaInsightsExecutionRolePolicy.json) |
 | CloudWatchLogsCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchLogsCrossAccountSharingConfiguration.json) |
 | CloudWatchLogsFullAccess | / | [v2](./policies/CloudWatchLogsFullAccess.json) |
