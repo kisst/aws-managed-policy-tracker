@@ -23,7 +23,11 @@
                 "bedrock:GetModelInvocationJob",
                 "bedrock:ListModelInvocationJobs",
                 "bedrock:GetInferenceProfile",
-                "bedrock:ListInferenceProfiles"
+                "bedrock:ListInferenceProfiles",
+                "bedrock:ListImportedModels",
+                "bedrock:GetImportedModel",
+                "bedrock:ListModelImportJobs",
+                "bedrock:GetModelImportJob"
             ],
             "Resource": "*"
         }
