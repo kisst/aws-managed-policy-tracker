@@ -653,6 +653,7 @@
                 "deadline:ListFleetMembers",
                 "deadline:ListFleets",
                 "deadline:ListJobMembers",
+                "deadline:ListJobParameterDefinitions",
                 "deadline:ListJobs",
                 "deadline:ListLicenseEndpoints",
                 "deadline:ListMeteredProducts",
