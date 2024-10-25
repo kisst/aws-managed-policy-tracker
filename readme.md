@@ -29,7 +29,7 @@
 | AWSApplicationAutoscalingComprehendEndpointPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingComprehendEndpointPolicy.json) |
 | AWSApplicationAutoscalingDynamoDBTablePolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingDynamoDBTablePolicy.json) |
 | AWSApplicationAutoscalingEC2SpotFleetRequestPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingEC2SpotFleetRequestPolicy.json) |
-| AWSApplicationAutoscalingECSServicePolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingECSServicePolicy.json) |
+| AWSApplicationAutoscalingECSServicePolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingECSServicePolicy.json) |
 | AWSApplicationAutoscalingEMRInstanceGroupPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingEMRInstanceGroupPolicy.json) |
 | AWSApplicationAutoscalingElastiCacheRGPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingElastiCacheRGPolicy.json) |
 | AWSApplicationAutoscalingKafkaClusterPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingKafkaClusterPolicy.json) |
@@ -107,6 +107,7 @@
 | AWSCloudFormationFullAccess | / | [v1](./policies/AWSCloudFormationFullAccess.json) |
 | AWSCloudFormationReadOnlyAccess | / | [v4](./policies/AWSCloudFormationReadOnlyAccess.json) |
 | AWSCloudFrontLogger | /aws-service-role/ | [v2](./policies/AWSCloudFrontLogger.json) |
+| AWSCloudFrontVPCOriginServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudFrontVPCOriginServiceRolePolicy.json) |
 | AWSCloudHSMFullAccess | / | [v1](./policies/AWSCloudHSMFullAccess.json) |
 | AWSCloudHSMReadOnlyAccess | / | [v1](./policies/AWSCloudHSMReadOnlyAccess.json) |
 | AWSCloudHSMRole | /service-role/ | [v1](./policies/AWSCloudHSMRole.json) |
@@ -157,9 +158,11 @@
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSServerlessServiceRolePolicy.json) |
+| AWSDataExchangeDataGrantOwnerFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantOwnerFullAccess.json) |
+| AWSDataExchangeDataGrantReceiverFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantReceiverFullAccess.json) |
 | AWSDataExchangeFullAccess | / | [v8](./policies/AWSDataExchangeFullAccess.json) |
 | AWSDataExchangeProviderFullAccess | / | [v12](./policies/AWSDataExchangeProviderFullAccess.json) |
-| AWSDataExchangeReadOnly | / | [v3](./policies/AWSDataExchangeReadOnly.json) |
+| AWSDataExchangeReadOnly | / | [v4](./policies/AWSDataExchangeReadOnly.json) |
 | AWSDataExchangeServiceRolePolicyForLicenseManagement | /aws-service-role/ | [v1](./policies/AWSDataExchangeServiceRolePolicyForLicenseManagement.json) |
 | AWSDataExchangeServiceRolePolicyForOrganizationDiscovery | /aws-service-role/ | [v1](./policies/AWSDataExchangeServiceRolePolicyForOrganizationDiscovery.json) |
 | AWSDataExchangeSubscriberFullAccess | / | [v7](./policies/AWSDataExchangeSubscriberFullAccess.json) |
@@ -239,7 +242,7 @@
 | AWSElasticDisasterRecoveryStagingAccountPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
-| AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
+| AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
 | AWSElementalMediaConvertFullAccess | / | [v2](./policies/AWSElementalMediaConvertFullAccess.json) |
 | AWSElementalMediaConvertReadOnly | / | [v2](./policies/AWSElementalMediaConvertReadOnly.json) |
 | AWSElementalMediaLiveFullAccess | / | [v1](./policies/AWSElementalMediaLiveFullAccess.json) |
@@ -720,7 +723,7 @@
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
-| AmazonEKSLocalOutpostClusterPolicy | / | [v3](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
+| AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSServiceRolePolicy.json) |
@@ -1136,7 +1139,7 @@
 | Ec2ImageBuilderCrossAccountDistributionAccess | / | [v1](./policies/Ec2ImageBuilderCrossAccountDistributionAccess.json) |
 | Ec2InstanceConnectEndpoint | /aws-service-role/ | [v1](./policies/Ec2InstanceConnectEndpoint.json) |
 | ElastiCacheServiceRolePolicy | /aws-service-role/ | [v4](./policies/ElastiCacheServiceRolePolicy.json) |
-| ElasticLoadBalancingFullAccess | / | [v7](./policies/ElasticLoadBalancingFullAccess.json) |
+| ElasticLoadBalancingFullAccess | / | [v8](./policies/ElasticLoadBalancingFullAccess.json) |
 | ElasticLoadBalancingReadOnly | / | [v3](./policies/ElasticLoadBalancingReadOnly.json) |
 | ElementalActivationsDownloadSoftwareAccess | / | [v1](./policies/ElementalActivationsDownloadSoftwareAccess.json) |
 | ElementalActivationsFullAccess | / | [v1](./policies/ElementalActivationsFullAccess.json) |
