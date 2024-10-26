@@ -254,6 +254,33 @@
             "Resource": [
                 "arn:aws:profile:*:*:domains/amazon-connect-*/object-types/*"
             ]
+        },
+        {
+            "Sid": "AllowChimeSDKVoiceConnectorGetOperationForConnect",
+            "Effect": "Allow",
+            "Action": [
+                "chime:GetVoiceConnector"
+            ],
+            "Resource": "arn:aws:chime:*:*:vc/*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceTag/AmazonConnectEnabled": "True",
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "AllowChimeSDKVoiceConnectorListOperationForConnect",
+            "Effect": "Allow",
+            "Action": [
+                "chime:ListVoiceConnectors"
+            ],
+            "Resource": "arn:aws:chime:*:*:vc/*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
         }
     ]
 }
