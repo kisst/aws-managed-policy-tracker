@@ -725,6 +725,7 @@
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
+| AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
@@ -902,8 +903,8 @@
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
 | AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
-| AmazonQDeveloperAccess | / | [v1](./policies/AmazonQDeveloperAccess.json) |
-| AmazonQFullAccess | / | [v3](./policies/AmazonQFullAccess.json) |
+| AmazonQDeveloperAccess | / | [v2](./policies/AmazonQDeveloperAccess.json) |
+| AmazonQFullAccess | / | [v4](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |

@@ -16,7 +16,8 @@
                 "q:UpdateTroubleshootingCommandResult",
                 "q:GetIdentityMetadata",
                 "q:CreateAssignment",
-                "q:DeleteAssignment"
+                "q:DeleteAssignment",
+                "q:GenerateCodeFromCommands"
             ],
             "Resource": "*"
         },
