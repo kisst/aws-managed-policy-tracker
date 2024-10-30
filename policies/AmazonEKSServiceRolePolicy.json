@@ -92,6 +92,16 @@
             "Effect": "Allow",
             "Action": "logs:PutLogEvents",
             "Resource": "arn:aws:logs:*:*:log-group:/aws/eks/*:*:*"
+        },
+        {
+            "Effect": "Allow",
+            "Action": "cloudwatch:PutMetricData",
+            "Resource": "*",
+            "Condition": {
+                "StringLike": {
+                    "cloudwatch:namespace": "AWS/EKS"
+                }
+            }
         }
     ]
 }
