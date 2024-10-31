@@ -566,7 +566,7 @@
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
-| AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
+| AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
 | AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
 | AWSVPCS2SVpnServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSVPCS2SVpnServiceRolePolicy.json) |
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
@@ -719,10 +719,12 @@
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
+| AmazonEKSBlockStoragePolicy | / | [v1](./policies/AmazonEKSBlockStoragePolicy.json) |
 | AmazonEKSClusterPolicy | / | [v6](./policies/AmazonEKSClusterPolicy.json) |
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
+| AmazonEKSLoadBalancingPolicy | / | [v1](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
@@ -1219,7 +1221,7 @@
 | S3StorageLensServiceRolePolicy | /aws-service-role/ | [v1](./policies/S3StorageLensServiceRolePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v2](./policies/SSMQuickSetupRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v44](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v45](./policies/SecurityAudit.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
