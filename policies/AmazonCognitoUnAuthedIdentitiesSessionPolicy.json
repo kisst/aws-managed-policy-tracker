@@ -21,7 +21,15 @@
                 "geo:CalculateRoute*",
                 "geo:*Geofence",
                 "geo:*Geofences",
-                "geo:*DevicePosition*"
+                "geo:*DevicePosition*",
+                "kms:Encrypt",
+                "kms:Decrypt",
+                "kms:ReEncryptTo",
+                "kms:ReEncryptFrom",
+                "kms:GenerateDataKey",
+                "kms:GenerateDataKeyPair",
+                "kms:GenerateDataKeyPairWithoutPlaintext",
+                "kms:GenerateDataKeyWithoutPlaintext"
             ],
             "Resource": "*"
         }

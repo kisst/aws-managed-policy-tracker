@@ -654,7 +654,7 @@
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
 | AmazonCognitoPowerUser | / | [v6](./policies/AmazonCognitoPowerUser.json) |
 | AmazonCognitoReadOnly | / | [v4](./policies/AmazonCognitoReadOnly.json) |
-| AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v2](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
+| AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v3](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
@@ -720,7 +720,8 @@
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
 | AmazonEKSBlockStoragePolicy | / | [v1](./policies/AmazonEKSBlockStoragePolicy.json) |
-| AmazonEKSClusterPolicy | / | [v6](./policies/AmazonEKSClusterPolicy.json) |
+| AmazonEKSClusterPolicy | / | [v7](./policies/AmazonEKSClusterPolicy.json) |
+| AmazonEKSComputePolicy | / | [v1](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
