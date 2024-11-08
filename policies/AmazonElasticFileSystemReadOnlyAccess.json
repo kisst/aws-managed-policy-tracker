@@ -25,6 +25,7 @@
                 "elasticfilesystem:DescribeAccessPoints",
                 "elasticfilesystem:DescribeReplicationConfigurations",
                 "elasticfilesystem:ListTagsForResource",
+                "elasticfilesystem:ReplicationRead",
                 "kms:ListAliases"
             ],
             "Resource": "*"

@@ -721,7 +721,7 @@
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
 | AmazonEKSBlockStoragePolicy | / | [v1](./policies/AmazonEKSBlockStoragePolicy.json) |
 | AmazonEKSClusterPolicy | / | [v7](./policies/AmazonEKSClusterPolicy.json) |
-| AmazonEKSComputePolicy | / | [v1](./policies/AmazonEKSComputePolicy.json) |
+| AmazonEKSComputePolicy | / | [v2](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
@@ -752,9 +752,9 @@
 | AmazonElasticFileSystemClientFullAccess | / | [v1](./policies/AmazonElasticFileSystemClientFullAccess.json) |
 | AmazonElasticFileSystemClientReadOnlyAccess | / | [v1](./policies/AmazonElasticFileSystemClientReadOnlyAccess.json) |
 | AmazonElasticFileSystemClientReadWriteAccess | / | [v1](./policies/AmazonElasticFileSystemClientReadWriteAccess.json) |
-| AmazonElasticFileSystemFullAccess | / | [v9](./policies/AmazonElasticFileSystemFullAccess.json) |
-| AmazonElasticFileSystemReadOnlyAccess | / | [v8](./policies/AmazonElasticFileSystemReadOnlyAccess.json) |
-| AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
+| AmazonElasticFileSystemFullAccess | / | [v10](./policies/AmazonElasticFileSystemFullAccess.json) |
+| AmazonElasticFileSystemReadOnlyAccess | / | [v9](./policies/AmazonElasticFileSystemReadOnlyAccess.json) |
+| AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
 | AmazonElasticFileSystemsUtils | / | [v1](./policies/AmazonElasticFileSystemsUtils.json) |
 | AmazonElasticMapReduceEditorsRole | /service-role/ | [v2](./policies/AmazonElasticMapReduceEditorsRole.json) |
 | AmazonElasticMapReduceFullAccess | / | [v7](./policies/AmazonElasticMapReduceFullAccess.json) |
