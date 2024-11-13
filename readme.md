@@ -79,7 +79,7 @@
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v7](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v8](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -551,12 +551,12 @@
 | AWSSystemsManagerForSAPFullAccess | / | [v3](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
-| AWSThinkboxAWSPortalAdminPolicy | / | [v8](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
+| AWSThinkboxAWSPortalAdminPolicy | / | [v9](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
 | AWSThinkboxAWSPortalGatewayPolicy | / | [v2](./policies/AWSThinkboxAWSPortalGatewayPolicy.json) |
 | AWSThinkboxAWSPortalWorkerPolicy | / | [v4](./policies/AWSThinkboxAWSPortalWorkerPolicy.json) |
 | AWSThinkboxAssetServerPolicy | / | [v1](./policies/AWSThinkboxAssetServerPolicy.json) |
 | AWSThinkboxDeadlineResourceTrackerAccessPolicy | / | [v1](./policies/AWSThinkboxDeadlineResourceTrackerAccessPolicy.json) |
-| AWSThinkboxDeadlineResourceTrackerAdminPolicy | / | [v7](./policies/AWSThinkboxDeadlineResourceTrackerAdminPolicy.json) |
+| AWSThinkboxDeadlineResourceTrackerAdminPolicy | / | [v8](./policies/AWSThinkboxDeadlineResourceTrackerAdminPolicy.json) |
 | AWSThinkboxDeadlineSpotEventPluginAdminPolicy | / | [v1](./policies/AWSThinkboxDeadlineSpotEventPluginAdminPolicy.json) |
 | AWSThinkboxDeadlineSpotEventPluginWorkerPolicy | / | [v2](./policies/AWSThinkboxDeadlineSpotEventPluginWorkerPolicy.json) |
 | AWSTransferConsoleFullAccess | / | [v1](./policies/AWSTransferConsoleFullAccess.json) |
@@ -659,13 +659,15 @@
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v19](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
-| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
+| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
 | AmazonDMSCloudWatchLogsRole | /service-role/ | [v2](./policies/AmazonDMSCloudWatchLogsRole.json) |
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
 | AmazonDMSVPCManagementRole | /service-role/ | [v4](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
+| AmazonDataZoneBedrockModelConsumptionPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelConsumptionPolicy.json) |
+| AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v8](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v4](./policies/AmazonDataZoneFullAccess.json) |
@@ -1071,7 +1073,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
-| Billing | /job-function/ | [v11](./policies/Billing.json) |
+| Billing | /job-function/ | [v12](./policies/Billing.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
@@ -1102,6 +1104,7 @@
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
 | CloudWatchFullAccessV2 | / | [v3](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
+| CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
 | CloudWatchLambdaInsightsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaInsightsExecutionRolePolicy.json) |
@@ -1154,6 +1157,7 @@
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
 | FMSServiceRolePolicy | /aws-service-role/ | [v30](./policies/FMSServiceRolePolicy.json) |
 | FSxDeleteServiceLinkedRoleAccess | /aws-service-role/ | [v1](./policies/FSxDeleteServiceLinkedRoleAccess.json) |
+| GameLiftContainerFleetPolicy | / | [v1](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
 | GlobalAcceleratorFullAccess | / | [v6](./policies/GlobalAcceleratorFullAccess.json) |
 | GlobalAcceleratorReadOnlyAccess | / | [v1](./policies/GlobalAcceleratorReadOnlyAccess.json) |
