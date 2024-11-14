@@ -342,7 +342,7 @@
 | AWSIoTWirelessLogging | / | [v1](./policies/AWSIoTWirelessLogging.json) |
 | AWSIoTWirelessReadOnlyAccess | / | [v1](./policies/AWSIoTWirelessReadOnlyAccess.json) |
 | AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy.json) |
-| AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy.json) |
+| AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy.json) |
 | AWSKeyManagementServicePowerUser | / | [v2](./policies/AWSKeyManagementServicePowerUser.json) |
 | AWSLakeFormationCrossAccountManager | / | [v6](./policies/AWSLakeFormationCrossAccountManager.json) |
 | AWSLakeFormationDataAdmin | / | [v3](./policies/AWSLakeFormationDataAdmin.json) |
@@ -885,6 +885,7 @@
 | AmazonNimbleStudio-LaunchProfileWorker | / | [v1](./policies/AmazonNimbleStudio-LaunchProfileWorker.json) |
 | AmazonNimbleStudio-StudioAdmin | / | [v4](./policies/AmazonNimbleStudio-StudioAdmin.json) |
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
+| AmazonODBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonODBServiceRolePolicy.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
 | AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
@@ -908,8 +909,8 @@
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
 | AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
-| AmazonQDeveloperAccess | / | [v2](./policies/AmazonQDeveloperAccess.json) |
-| AmazonQFullAccess | / | [v4](./policies/AmazonQFullAccess.json) |
+| AmazonQDeveloperAccess | / | [v3](./policies/AmazonQDeveloperAccess.json) |
+| AmazonQFullAccess | / | [v5](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
