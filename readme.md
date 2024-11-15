@@ -429,6 +429,8 @@
 | AWSPanoramaSageMakerRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaSageMakerRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v1](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralSandboxFullAccess | / | [v1](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
 | AWSPrivateCAAuditor | / | [v1](./policies/AWSPrivateCAAuditor.json) |
 | AWSPrivateCAFullAccess | / | [v1](./policies/AWSPrivateCAFullAccess.json) |
@@ -478,7 +480,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
@@ -658,7 +660,7 @@
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v19](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v20](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
@@ -1001,7 +1003,7 @@
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v2](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
-| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
+| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy.json) |
@@ -1055,7 +1057,7 @@
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
-| AmplifyBackendDeployFullAccess | /service-role/ | [v8](./policies/AmplifyBackendDeployFullAccess.json) |
+| AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
@@ -1169,6 +1171,9 @@
 | IAMAccessAdvisorReadOnly | / | [v1](./policies/IAMAccessAdvisorReadOnly.json) |
 | IAMAccessAnalyzerFullAccess | / | [v1](./policies/IAMAccessAnalyzerFullAccess.json) |
 | IAMAccessAnalyzerReadOnlyAccess | / | [v4](./policies/IAMAccessAnalyzerReadOnlyAccess.json) |
+| IAMAuditRootUserCredentials | /root-task/ | [v1](./policies/IAMAuditRootUserCredentials.json) |
+| IAMCreateRootUserPassword | /root-task/ | [v1](./policies/IAMCreateRootUserPassword.json) |
+| IAMDeleteRootUserCredentials | /root-task/ | [v1](./policies/IAMDeleteRootUserCredentials.json) |
 | IAMFullAccess | / | [v2](./policies/IAMFullAccess.json) |
 | IAMReadOnlyAccess | / | [v4](./policies/IAMReadOnlyAccess.json) |
 | IAMSelfManageServiceSpecificCredentials | / | [v1](./policies/IAMSelfManageServiceSpecificCredentials.json) |
@@ -1225,9 +1230,13 @@
 | Route53RecoveryReadinessServiceRolePolicy | /aws-service-role/ | [v5](./policies/Route53RecoveryReadinessServiceRolePolicy.json) |
 | Route53ResolverServiceRolePolicy | /aws-service-role/ | [v1](./policies/Route53ResolverServiceRolePolicy.json) |
 | S3StorageLensServiceRolePolicy | /aws-service-role/ | [v1](./policies/S3StorageLensServiceRolePolicy.json) |
+| S3UnlockBucketPolicy | /root-task/ | [v1](./policies/S3UnlockBucketPolicy.json) |
+| SMSVoiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/SMSVoiceServiceRolePolicy.json) |
+| SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v2](./policies/SSMQuickSetupRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v45](./policies/SecurityAudit.json) |
+| SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |

@@ -336,6 +336,23 @@
                     "iam:PassedToService": "ses.amazonaws.com"
                 }
             }
+        },
+        {
+            "Sid": "AllowSocialMessagingOperations",
+            "Effect": "Allow",
+            "Action": [
+                "social-messaging:SendWhatsAppMessage",
+                "social-messaging:PostWhatsAppMessageMedia",
+                "social-messaging:GetWhatsAppMessageMedia",
+                "social-messaging:GetLinkedWhatsAppBusinessAccountPhoneNumber"
+            ],
+            "Resource": "arn:aws:social-messaging:*:*:phone-number-id/*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceTag/AmazonConnectEnabled": "True",
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
         }
     ]
 }
