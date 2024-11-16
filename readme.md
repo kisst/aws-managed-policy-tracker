@@ -1,6 +1,13 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
+| AWS-SSM-Automation-DiagnosisBucketPolicy | / | [v1](./policies/AWS-SSM-Automation-DiagnosisBucketPolicy.json) |
+| AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy.json) |
+| AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy.json) |
+| AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy.json) |
+| AWS-SSM-RemediationAutomation-AdministrationRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-AdministrationRolePolicy.json) |
+| AWS-SSM-RemediationAutomation-ExecutionRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-ExecutionRolePolicy.json) |
+| AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy.json) |
 | AWSAccountActivityAccess | / | [v2](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
@@ -452,10 +459,17 @@
 | AWSQuickSetupDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
 | AWSQuickSetupDevOpsGuruPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDevOpsGuruPermissionsBoundary.json) |
 | AWSQuickSetupDistributorPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDistributorPermissionsBoundary.json) |
+| AWSQuickSetupEnableAREXExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
+| AWSQuickSetupEnableDHMCExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableDHMCExecutionPolicy.json) |
+| AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v1](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
 | AWSQuickSetupPatchPolicyPermissionsBoundary | / | [v1](./policies/AWSQuickSetupPatchPolicyPermissionsBoundary.json) |
+| AWSQuickSetupSSMDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupSSMDeploymentRolePolicy.json) |
+| AWSQuickSetupSSMDeploymentS3BucketRolePolicy | / | [v1](./policies/AWSQuickSetupSSMDeploymentS3BucketRolePolicy.json) |
 | AWSQuickSetupSSMHostMgmtPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSSMHostMgmtPermissionsBoundary.json) |
+| AWSQuickSetupSSMLifecycleManagementExecutionPolicy | / | [v1](./policies/AWSQuickSetupSSMLifecycleManagementExecutionPolicy.json) |
+| AWSQuickSetupSSMManageResourcesExecutionPolicy | / | [v1](./policies/AWSQuickSetupSSMManageResourcesExecutionPolicy.json) |
 | AWSQuickSetupSchedulerPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSchedulerPermissionsBoundary.json) |
 | AWSQuickSightAssetBundleExportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleExportPolicy.json) |
 | AWSQuickSightAssetBundleImportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleImportPolicy.json) |
@@ -719,6 +733,7 @@
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
+| AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
@@ -982,7 +997,7 @@
 | AmazonSSMManagedInstanceCore | / | [v2](./policies/AmazonSSMManagedInstanceCore.json) |
 | AmazonSSMPatchAssociation | / | [v1](./policies/AmazonSSMPatchAssociation.json) |
 | AmazonSSMReadOnlyAccess | / | [v1](./policies/AmazonSSMReadOnlyAccess.json) |
-| AmazonSSMServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonSSMServiceRolePolicy.json) |
+| AmazonSSMServiceRolePolicy | /aws-service-role/ | [v15](./policies/AmazonSSMServiceRolePolicy.json) |
 | AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v9](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
 | AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
 | AmazonSageMakerCanvasBedrockAccess | / | [v1](./policies/AmazonSageMakerCanvasBedrockAccess.json) |
@@ -1069,7 +1084,7 @@
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
 | AutoScalingNotificationAccessRole | /service-role/ | [v1](./policies/AutoScalingNotificationAccessRole.json) |
 | AutoScalingReadOnlyAccess | / | [v1](./policies/AutoScalingReadOnlyAccess.json) |
-| AutoScalingServiceRolePolicy | /aws-service-role/ | [v8](./policies/AutoScalingServiceRolePolicy.json) |
+| AutoScalingServiceRolePolicy | /aws-service-role/ | [v9](./policies/AutoScalingServiceRolePolicy.json) |
 | AwsGlueDataBrewFullAccessPolicy | / | [v8](./policies/AwsGlueDataBrewFullAccessPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
@@ -1184,7 +1199,7 @@
 | IVSRecordToS3 | /aws-service-role/ | [v1](./policies/IVSRecordToS3.json) |
 | KafkaConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/KafkaConnectServiceRolePolicy.json) |
 | KafkaServiceRolePolicy | /aws-service-role/ | [v4](./policies/KafkaServiceRolePolicy.json) |
-| KeyspacesReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/KeyspacesReplicationServiceRolePolicy.json) |
+| KeyspacesReplicationServiceRolePolicy | /aws-service-role/ | [v2](./policies/KeyspacesReplicationServiceRolePolicy.json) |
 | LakeFormationDataAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/LakeFormationDataAccessServiceRolePolicy.json) |
 | LexBotPolicy | /aws-service-role/ | [v2](./policies/LexBotPolicy.json) |
 | LexChannelPolicy | /aws-service-role/ | [v1](./policies/LexChannelPolicy.json) |
