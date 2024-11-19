@@ -436,6 +436,7 @@
 | AWSPanoramaSageMakerRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaSageMakerRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
+| AWSPartnerCentralFullAccess | / | [v1](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v1](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v1](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
@@ -712,7 +713,7 @@
 | AmazonDocDBReadOnlyAccess | / | [v1](./policies/AmazonDocDBReadOnlyAccess.json) |
 | AmazonDynamoDBFullAccess | / | [v15](./policies/AmazonDynamoDBFullAccess.json) |
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
-| AmazonDynamoDBReadOnlyAccess | / | [v14](./policies/AmazonDynamoDBReadOnlyAccess.json) |
+| AmazonDynamoDBReadOnlyAccess | / | [v15](./policies/AmazonDynamoDBReadOnlyAccess.json) |
 | AmazonEBSCSIDriverPolicy | /service-role/ | [v2](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
 | AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
