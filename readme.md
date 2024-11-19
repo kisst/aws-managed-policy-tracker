@@ -392,6 +392,7 @@
 | AWSMarketplaceRead-only | / | [v4](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
 | AWSMarketplaceSellerFullAccess | / | [v14](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v8](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v4](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMediaConnectServicePolicy | /aws-service-role/ | [v1](./policies/AWSMediaConnectServicePolicy.json) |
