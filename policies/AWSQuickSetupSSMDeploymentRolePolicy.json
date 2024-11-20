@@ -24,7 +24,8 @@
                 "cloudformation:DescribeChangeSet",
                 "cloudformation:DescribeStackResourceDrifts",
                 "cloudformation:DetectStackDrift",
-                "cloudformation:DetectStackResourceDrift"
+                "cloudformation:DetectStackResourceDrift",
+                "cloudformation:DescribeStackEvents"
             ],
             "Resource": [
                 "arn:aws:cloudformation:*:*:stack/StackSet-AWS-QuickSetup-SSM-*"

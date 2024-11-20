@@ -467,7 +467,7 @@
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
 | AWSQuickSetupPatchPolicyPermissionsBoundary | / | [v1](./policies/AWSQuickSetupPatchPolicyPermissionsBoundary.json) |
-| AWSQuickSetupSSMDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupSSMDeploymentRolePolicy.json) |
+| AWSQuickSetupSSMDeploymentRolePolicy | / | [v2](./policies/AWSQuickSetupSSMDeploymentRolePolicy.json) |
 | AWSQuickSetupSSMDeploymentS3BucketRolePolicy | / | [v1](./policies/AWSQuickSetupSSMDeploymentS3BucketRolePolicy.json) |
 | AWSQuickSetupSSMHostMgmtPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSSMHostMgmtPermissionsBoundary.json) |
 | AWSQuickSetupSSMLifecycleManagementExecutionPolicy | / | [v1](./policies/AWSQuickSetupSSMLifecycleManagementExecutionPolicy.json) |
