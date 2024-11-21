@@ -212,7 +212,7 @@
 | AWSEC2FleetServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSEC2FleetServiceRolePolicy.json) |
 | AWSEC2SpotFleetServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotFleetServiceRolePolicy.json) |
 | AWSEC2SpotServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotServiceRolePolicy.json) |
-| AWSEC2VssSnapshotPolicy | / | [v1](./policies/AWSEC2VssSnapshotPolicy.json) |
+| AWSEC2VssSnapshotPolicy | / | [v2](./policies/AWSEC2VssSnapshotPolicy.json) |
 | AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
@@ -384,12 +384,12 @@
 | AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
 | AWSMarketplaceImageBuildFullAccess | / | [v3](./policies/AWSMarketplaceImageBuildFullAccess.json) |
 | AWSMarketplaceLicenseManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceLicenseManagementServiceRolePolicy.json) |
-| AWSMarketplaceManageSubscriptions | / | [v3](./policies/AWSMarketplaceManageSubscriptions.json) |
+| AWSMarketplaceManageSubscriptions | / | [v4](./policies/AWSMarketplaceManageSubscriptions.json) |
 | AWSMarketplaceMeteringFullAccess | / | [v1](./policies/AWSMarketplaceMeteringFullAccess.json) |
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v1](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
-| AWSMarketplaceRead-only | / | [v4](./policies/AWSMarketplaceRead-only.json) |
+| AWSMarketplaceRead-only | / | [v5](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
 | AWSMarketplaceSellerFullAccess | / | [v14](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
@@ -527,7 +527,7 @@
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
-| AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v9](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
+| AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v10](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
 | AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy.json) |
@@ -955,7 +955,7 @@
 | AmazonRedshiftQueryEditorV2ReadSharing | / | [v9](./policies/AmazonRedshiftQueryEditorV2ReadSharing.json) |
 | AmazonRedshiftQueryEditorV2ReadWriteSharing | / | [v9](./policies/AmazonRedshiftQueryEditorV2ReadWriteSharing.json) |
 | AmazonRedshiftReadOnlyAccess | / | [v2](./policies/AmazonRedshiftReadOnlyAccess.json) |
-| AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v13](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
+| AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v14](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
 | AmazonRekognitionCustomLabelsFullAccess | / | [v4](./policies/AmazonRekognitionCustomLabelsFullAccess.json) |
 | AmazonRekognitionFullAccess | / | [v1](./policies/AmazonRekognitionFullAccess.json) |
 | AmazonRekognitionReadOnlyAccess | / | [v10](./policies/AmazonRekognitionReadOnlyAccess.json) |
@@ -1099,7 +1099,7 @@
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
 | CloudFormationStackSetsOrgAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgAdminServiceRolePolicy.json) |
 | CloudFormationStackSetsOrgMemberServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgMemberServiceRolePolicy.json) |
-| CloudFrontFullAccess | / | [v7](./policies/CloudFrontFullAccess.json) |
+| CloudFrontFullAccess | / | [v8](./policies/CloudFrontFullAccess.json) |
 | CloudFrontReadOnlyAccess | / | [v6](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudHSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudHSMServiceRolePolicy.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
@@ -1140,7 +1140,7 @@
 | ComprehendFullAccess | / | [v2](./policies/ComprehendFullAccess.json) |
 | ComprehendMedicalFullAccess | / | [v1](./policies/ComprehendMedicalFullAccess.json) |
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
-| ComputeOptimizerReadOnlyAccess | / | [v8](./policies/ComputeOptimizerReadOnlyAccess.json) |
+| ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v3](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
@@ -1251,6 +1251,12 @@
 | SMSVoiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/SMSVoiceServiceRolePolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v1](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectUserRolePermissionsBoundary | / | [v1](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v1](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v46](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
@@ -1259,7 +1265,6 @@
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
 | ServerMigrationServiceRoleForInstanceValidation | /service-role/ | [v1](./policies/ServerMigrationServiceRoleForInstanceValidation.json) |
-| ServerMigration_ServiceRole | /service-role/ | [v2](./policies/ServerMigration_ServiceRole.json) |
 | ServiceQuotasFullAccess | / | [v4](./policies/ServiceQuotasFullAccess.json) |
 | ServiceQuotasReadOnlyAccess | / | [v2](./policies/ServiceQuotasReadOnlyAccess.json) |
 | ServiceQuotasServiceRolePolicy | /aws-service-role/ | [v2](./policies/ServiceQuotasServiceRolePolicy.json) |
