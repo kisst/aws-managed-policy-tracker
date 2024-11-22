@@ -280,7 +280,8 @@
                         "LogGroupName",
                         "RoleName",
                         "vpcArn",
-                        "CreatedForUseWithSageMakerStudio"
+                        "CreatedForUseWithSageMakerStudio",
+                        "SageMakerStudioQueryExecutionRole"
                     ]
                 }
             }
@@ -410,7 +411,7 @@
             ],
             "Resource": [
                 "arn:aws:iam::*:policy/datazone*",
-                "arn:aws:iam::*:policy/connector*",
+                "arn:aws:iam::*:policy/connector-manage-access-policy*",
                 "arn:aws:iam::*:policy/SageMakerStudioQueryExecutionRolePolicy"
             ],
             "Condition": {
@@ -1447,6 +1448,19 @@
                 "Null": {
                     "aws:ResourceTag/AmazonDataZoneProject": "false",
                     "aws:ResourceTag/CreatedBy": "false"
+                }
+            }
+        },
+        {
+            "Sid": "AllowDescribeSecretTaggedForAllProjects",
+            "Effect": "Allow",
+            "Action": [
+                "secretsmanager:DescribeSecret"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceTag/for-use-with-all-datazone-projects": "true"
                 }
             }
         },

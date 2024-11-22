@@ -1135,7 +1135,13 @@
                 "redshift-serverless:ListTagsForResource",
                 "redshift-serverless:GetCredentials",
                 "redshift:DescribeTags",
-                "redshift:GetClusterCredentialsWithIAM"
+                "redshift:GetClusterCredentialsWithIAM",
+                "redshift-data:BatchExecuteStatement",
+                "redshift-data:ExecuteStatement",
+                "redshift-data:DescribeTable",
+                "redshift-data:ListDatabases",
+                "redshift-data:ListSchemas",
+                "redshift-data:ListTables"
             ],
             "Resource": "*",
             "Condition": {
@@ -1215,14 +1221,15 @@
             "Effect": "Allow",
             "Action": [
                 "redshift-data:BatchExecuteStatement",
-                "redshift-data:ExecuteStatement"
+                "redshift-data:ExecuteStatement",
+                "redshift-data:DescribeStatement",
+                "redshift-data:GetStatementResult",
+                "redshift-data:CancelStatement"
             ],
             "Resource": "*",
             "Condition": {
-                "ForAnyValue:StringLike": {
-                    "aws:CalledVia": [
-                        "glue.amazonaws.com"
-                    ]
+                "StringLike": {
+                    "redshift-data:glue-catalog-arn": "arn:aws:glue:*:*:catalog/*"
                 }
             }
         },
@@ -1234,6 +1241,9 @@
             ],
             "Resource": "arn:aws:redshift-serverless:*:*:workgroup/*",
             "Condition": {
+                "ForAnyValue:StringEquals": {
+                    "aws:CalledVia": "redshift-data.amazonaws.com"
+                },
                 "Bool": {
                     "aws:ViaAWSService": "true"
                 }
