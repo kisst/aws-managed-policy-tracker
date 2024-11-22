@@ -676,7 +676,7 @@
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v20](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v21](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
@@ -688,13 +688,13 @@
 | AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v9](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
-| AmazonDataZoneFullAccess | / | [v4](./policies/AmazonDataZoneFullAccess.json) |
+| AmazonDataZoneFullAccess | / | [v5](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v6](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
-| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
-| AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
+| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v5](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
+| AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v2](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
 | AmazonDetectiveInvestigatorAccess | / | [v3](./policies/AmazonDetectiveInvestigatorAccess.json) |
@@ -1132,8 +1132,8 @@
 | CloudWatchLogsFullAccess | / | [v2](./policies/CloudWatchLogsFullAccess.json) |
 | CloudWatchLogsReadOnlyAccess | / | [v6](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
-| CloudWatchReadOnlyAccess | / | [v9](./policies/CloudWatchReadOnlyAccess.json) |
-| CloudWatchSyntheticsFullAccess | / | [v10](./policies/CloudWatchSyntheticsFullAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v10](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchSyntheticsFullAccess | / | [v11](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
@@ -1253,7 +1253,7 @@
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v1](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v1](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v1](./policies/SageMakerStudioProjectUserRolePolicy.json) |

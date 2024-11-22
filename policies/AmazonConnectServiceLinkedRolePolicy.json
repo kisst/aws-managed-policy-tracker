@@ -353,6 +353,17 @@
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
                 }
             }
+        },
+        {
+            "Sid": "AllowMobileTargetingOperationsForConnect",
+            "Effect": "Allow",
+            "Action": "mobiletargeting:SendMessages",
+            "Resource": "arn:aws:mobiletargeting:*:*:apps/*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
         }
     ]
 }

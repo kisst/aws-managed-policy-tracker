@@ -108,12 +108,32 @@
         {
             "Effect": "Allow",
             "Action": [
+                "logs:GetLogRecord",
+                "logs:DescribeLogStreams",
+                "logs:StartQuery",
+                "logs:GetLogEvents",
+                "logs:FilterLogEvents",
+                "logs:GetLogGroupFields"
+            ],
+            "Resource": [
+                "arn:aws:logs:*:*:log-group:/aws/lambda/cwsyn-*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Effect": "Allow",
+            "Action": [
                 "lambda:CreateFunction",
                 "lambda:AddPermission",
                 "lambda:PublishVersion",
                 "lambda:UpdateFunctionCode",
                 "lambda:UpdateFunctionConfiguration",
                 "lambda:GetFunctionConfiguration",
+                "lambda:GetFunction",
                 "lambda:DeleteFunction",
                 "lambda:ListTags",
                 "lambda:TagResource",
@@ -133,7 +153,8 @@
             "Resource": [
                 "arn:aws:lambda:*:*:layer:cwsyn-*",
                 "arn:aws:lambda:*:*:layer:Synthetics:*",
-                "arn:aws:lambda:*:*:layer:Synthetics_Selenium:*"
+                "arn:aws:lambda:*:*:layer:Synthetics_Selenium:*",
+                "arn:aws:lambda:*:*:layer:AWS-CW-Synthetics*:*"
             ]
         },
         {
