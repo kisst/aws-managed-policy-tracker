@@ -62,6 +62,8 @@
 | AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
 | AWSApplicationMigrationVCenterClientPolicy | / | [v1](./policies/AWSApplicationMigrationVCenterClientPolicy.json) |
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
+| AWSArtifactAgreementsFullAccess | / | [v1](./policies/AWSArtifactAgreementsFullAccess.json) |
+| AWSArtifactAgreementsReadOnlyAccess | / | [v1](./policies/AWSArtifactAgreementsReadOnlyAccess.json) |
 | AWSArtifactReportsReadOnlyAccess | / | [v1](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
@@ -440,6 +442,7 @@
 | AWSPartnerCentralFullAccess | / | [v1](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v1](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v1](./policies/AWSPartnerCentralSandboxFullAccess.json) |
+| AWSPartnerLedSupportReadOnlyAccess | / | [v1](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
 | AWSPrivateCAAuditor | / | [v1](./policies/AWSPrivateCAAuditor.json) |
 | AWSPrivateCAFullAccess | / | [v1](./policies/AWSPrivateCAFullAccess.json) |
@@ -1239,7 +1242,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v122](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v123](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v1](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
@@ -1258,7 +1261,7 @@
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v2](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v2](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v46](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v47](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |

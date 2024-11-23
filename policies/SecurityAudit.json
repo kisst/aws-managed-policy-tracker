@@ -110,6 +110,7 @@
                 "codebuild:BatchGetProjects",
                 "codebuild:GetResourcePolicy",
                 "codebuild:ListProjects",
+                "codebuild:ListSourceCredentials",
                 "codecommit:BatchGetRepositories",
                 "codecommit:GetBranch",
                 "codecommit:GetObjectIdentifier",
