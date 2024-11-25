@@ -19,11 +19,36 @@
                 "arn:aws:ec2:*:*:security-group/*"
             ],
             "Condition": {
-                "StringEqualsIfExists": {
-                    "aws:CalledViaLast": "sagemaker.amazonaws.com",
+                "StringEquals": {
+                    "aws:CalledViaLast": [
+                        "sagemaker.amazonaws.com",
+                        "airflow.amazonaws.com"
+                    ],
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
                 },
-                "StringLike": {
+                "ArnLike": {
+                    "ec2:Vpc": "arn:aws:ec2:*:*:vpc/${aws:PrincipalTag/VpcId}"
+                }
+            }
+        },
+        {
+            "Sid": "AllowManageSageMakerTrainingEniOnVpc",
+            "Effect": "Allow",
+            "Action": [
+                "ec2:CreateNetworkInterfacePermission",
+                "ec2:DeleteNetworkInterfacePermission"
+            ],
+            "Resource": [
+                "arn:aws:ec2:*:*:network-interface/*",
+                "arn:aws:ec2:*:*:subnet/*",
+                "arn:aws:ec2:*:*:route-table/*",
+                "arn:aws:ec2:*:*:security-group/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                },
+                "ArnLike": {
                     "ec2:Vpc": "arn:aws:ec2:*:*:vpc/${aws:PrincipalTag/VpcId}"
                 }
             }
@@ -523,12 +548,7 @@
             "Resource": [
                 "arn:aws:sagemaker:*:*:app/*/*/jupyterlab/*",
                 "arn:aws:sagemaker:*:*:app/*/*/JupyterLab/*"
-            ],
-            "Condition": {
-                "StringEquals": {
-                    "aws:ResourceTag/AmazonDataZoneProject": "${aws:PrincipalTag/AmazonDataZoneProject}"
-                }
-            }
+            ]
         },
         {
             "Sid": "SageMakerStudioAppDescribeUserProfileActionPermissions",
@@ -664,10 +684,11 @@
             }
         },
         {
-            "Sid": "CreateSageMakerEndpointsAutoscalingAlarms",
+            "Sid": "MutateSageMakerEndpointsAutoscalingAlarms",
             "Effect": "Allow",
             "Action": [
-                "cloudwatch:PutMetricAlarm"
+                "cloudwatch:PutMetricAlarm",
+                "cloudwatch:DeleteAlarms"
             ],
             "Resource": "arn:aws:cloudwatch:*:*:alarm:TargetTracking*",
             "Condition": {

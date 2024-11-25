@@ -1361,6 +1361,7 @@
                     "kms:ViaService": [
                         "sqs.*.amazonaws.com",
                         "sagemaker.*.amazonaws.com",
+                        "bedrock.*.amazonaws.com",
                         "s3.*.amazonaws.com"
                     ]
                 },

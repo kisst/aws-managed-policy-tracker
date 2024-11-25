@@ -7,7 +7,9 @@
             "Action": "*",
             "NotResource": [
                 "arn:*:sagemaker:*:*:model-package-group/*",
-                "arn:*:sagemaker:*:*:model-package/*"
+                "arn:*:sagemaker:*:*:model-package/*",
+                "arn:*:glue:*:*:catalog/*",
+                "arn:*:glue:*:*:database/*"
             ],
             "Condition": {
                 "Null": {
@@ -230,6 +232,24 @@
                     "aws:PrincipalTag/DomainBucketName": "",
                     "aws:PrincipalTag/AmazonDataZoneDomain": "",
                     "aws:PrincipalTag/AmazonDataZoneProject": ""
+                },
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "AccessCertificateS3LocationPermissions",
+            "Effect": "Allow",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::${aws:PrincipalTag/DomainBucketName}/${aws:PrincipalTag/AmazonDataZoneDomain}/certificate_location/*",
+            "Condition": {
+                "StringNotEquals": {
+                    "aws:PrincipalTag/DomainBucketName": "",
+                    "aws:PrincipalTag/AmazonDataZoneDomain": ""
+                },
+                "Null": {
+                    "aws:PrincipalTag/AmazonDataZoneProject": "false"
                 },
                 "StringEquals": {
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
@@ -1410,6 +1430,14 @@
             }
         },
         {
+            "Sid": "AirflowS3BucketActions",
+            "Effect": "Allow",
+            "Action": [
+                "s3:GetEncryptionConfiguration"
+            ],
+            "Resource": "arn:aws:s3:::${aws:PrincipalTag/DomainBucketName}"
+        },
+        {
             "Sid": "SQSPermissionsForMWAA",
             "Effect": "Allow",
             "Action": [
@@ -1937,6 +1965,7 @@
                 "s3:DeleteObjectVersion",
                 "s3:GetAccountPublicAccessBlock",
                 "s3:GetBucketLocation",
+                "s3:GetEncryptionConfiguration",
                 "s3:GetObject*",
                 "s3:ListBucket",
                 "s3:ListBucketVersions",

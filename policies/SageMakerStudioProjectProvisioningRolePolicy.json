@@ -210,8 +210,7 @@
                 "arn:aws:iam::*:role/AmazonBedrockExecution*",
                 "arn:aws:iam::*:role/BedrockStudio*",
                 "arn:aws:iam::*:role/AmazonBedrockConsumptionRole*",
-                "arn:aws:iam::*:role/AmazonBedrockEvaluation*",
-                "arn:aws:iam::*:role/SageMakerStudioQueryExecutionRole"
+                "arn:aws:iam::*:role/AmazonBedrockEvaluation*"
             ],
             "Condition": {
                 "StringEquals": {
@@ -280,6 +279,7 @@
                         "LogGroupName",
                         "RoleName",
                         "vpcArn",
+                        "VpcId",
                         "CreatedForUseWithSageMakerStudio",
                         "SageMakerStudioQueryExecutionRole"
                     ]
@@ -329,7 +329,8 @@
                     "aws:TagKeys": [
                         "AmazonDataZone*",
                         "DataZone*",
-                        "for-use-with-amazon-emr-managed-policies"
+                        "for-use-with-amazon-emr-managed-policies",
+                        "DomainBucketName"
                     ]
                 }
             }
@@ -570,7 +571,10 @@
             "Sid": "IamPassRoleToLambda",
             "Effect": "Allow",
             "Action": "iam:PassRole",
-            "Resource": "arn:aws:iam::*:role/BedrockStudio*",
+            "Resource": [
+                "arn:aws:iam::*:role/AmazonBedrockExecution*",
+                "arn:aws:iam::*:role/BedrockStudio*"
+            ],
             "Condition": {
                 "StringEquals": {
                     "aws:CalledViaFirst": "cloudformation.amazonaws.com",
@@ -1009,11 +1013,11 @@
             }
         },
         {
-            "Sid": "IamPassConnectorRoleToLambdaForFederatedDataConnection",
+            "Sid": "IamPassProjectRoleToLambdaForFederatedDataConnection",
             "Effect": "Allow",
             "Action": "iam:PassRole",
             "Resource": [
-                "arn:aws:iam::*:role/ConnectorManageAccessRole"
+                "arn:aws:iam::*:role/datazone_usr_role_*"
             ],
             "Condition": {
                 "StringEquals": {
@@ -1887,8 +1891,8 @@
                     "aws:CalledViaFirst": "cloudformation.amazonaws.com"
                 },
                 "StringLikeIfExists": {
-                    "aoss:collection": "amazon-bedrock-ide-*",
-                    "aoss:index": "amazon-bedrock-ide-*"
+                    "aoss:collection": "bedrock-ide-*",
+                    "aoss:index": "bedrock-ide-*"
                 }
             }
         },
@@ -1907,7 +1911,7 @@
                     "aws:CalledViaFirst": "cloudformation.amazonaws.com"
                 },
                 "StringLikeIfExists": {
-                    "aoss:collection": "amazon-bedrock-ide-*"
+                    "aoss:collection": "bedrock-ide-*"
                 }
             }
         },
@@ -2258,15 +2262,37 @@
             }
         },
         {
-            "Sid": "GetRolePermissionsForSageMakerStudioQueryExecutionRole",
+            "Sid": "IamRolePermissionsForSageMakerStudioQueryExecutionRole",
             "Effect": "Allow",
             "Action": [
-                "iam:GetRole"
+                "iam:GetRole",
+                "iam:CreateRole",
+                "iam:DetachRolePolicy",
+                "iam:DeleteRolePolicy",
+                "iam:AttachRolePolicy"
             ],
             "Resource": "arn:aws:iam::*:role/SageMakerStudioQueryExecutionRole",
             "Condition": {
                 "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}",
+                    "iam:PermissionsBoundary": "arn:aws:iam::aws:policy/SageMakerStudioProjectUserRolePermissionsBoundary"
+                }
+            }
+        },
+        {
+            "Sid": "IamTagRolePermissionsForSageMakerStudioQueryExecutionRole",
+            "Effect": "Allow",
+            "Action": "iam:TagRole",
+            "Resource": "arn:aws:iam::*:role/SageMakerStudioQueryExecutionRole",
+            "Condition": {
+                "StringEquals": {
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                },
+                "ForAllValues:StringLike": {
+                    "aws:TagKeys": [
+                        "CreatedForUseWithSageMakerStudio",
+                        "SageMakerStudioQueryExecutionRole"
+                    ]
                 }
             }
         }
