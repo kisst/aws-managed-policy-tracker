@@ -567,6 +567,40 @@
             }
         },
         {
+            "Sid": "AirflowListDomainS3BucketPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket"
+            ],
+            "Resource": "arn:aws:s3:::${aws:PrincipalTag/DomainBucketName}",
+            "Condition": {
+                "StringNotEquals": {
+                    "aws:PrincipalTag/DomainBucketName": ""
+                },
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "ListDomainBucketFromAthenaFederatedCatalog",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::${aws:PrincipalTag/DomainBucketName}"
+            ],
+            "Condition": {
+                "ArnEquals": {
+                    "lambda:SourceFunctionArn": "arn:aws:lambda:*:*:function:athenafederatedcatalog_*"
+                },
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
             "Sid": "AccessDomainS3BucketPermissions",
             "Effect": "Allow",
             "Action": [
@@ -1224,7 +1258,9 @@
                 "redshift-data:ExecuteStatement",
                 "redshift-data:DescribeStatement",
                 "redshift-data:GetStatementResult",
-                "redshift-data:CancelStatement"
+                "redshift-data:CancelStatement",
+                "redshift-data:GetStagingBucketLocation",
+                "redshift-serverless:GetManagedWorkgroup"
             ],
             "Resource": "*",
             "Condition": {
@@ -1721,6 +1757,41 @@
                 "StringEquals": {
                     "aws:PrincipalTag/EnableAmazonBedrockIDEPermissions": "true",
                     "aws:ResourceTag/AmazonDataZoneProject": "${aws:PrincipalTag/AmazonDataZoneProject}"
+                }
+            }
+        },
+        {
+            "Sid": "GetGlueUserDefinedFuncLakeFormationPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "glue:GetUserDefinedFunction",
+                "glue:GetUserDefinedFunctions"
+            ],
+            "Resource": [
+                "arn:aws:glue:*:*:catalog",
+                "arn:aws:glue:*:*:catalog/*",
+                "arn:aws:glue:*:*:database/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}",
+                    "glue:LakeFormationPermissions": "Enabled"
+                }
+            }
+        },
+        {
+            "Sid": "GetGlueUserDefinedFuncPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "glue:GetUserDefinedFunction",
+                "glue:GetUserDefinedFunctions"
+            ],
+            "Resource": [
+                "arn:aws:glue:*:*:userDefinedFunction/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
                 }
             }
         }

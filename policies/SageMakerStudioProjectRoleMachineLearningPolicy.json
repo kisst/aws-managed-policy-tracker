@@ -275,6 +275,7 @@
                 "sagemaker:DeleteEndpoint",
                 "sagemaker:UpdateEndpoint",
                 "sagemaker:UpdateEndpointWeightsAndCapacities",
+                "sagemaker:UpdateInferenceComponentRuntimeConfig",
                 "sagemaker:BatchDescribeModelPackage",
                 "sagemaker:UpdateModelPackage",
                 "sagemaker:DeleteModel",
@@ -288,13 +289,26 @@
                 "sagemaker:DescribeEndpointConfig",
                 "sagemaker:DescribeModel",
                 "sagemaker:DescribeOptimizationJob",
-                "sagemaker:DescribeEndpoint",
-                "sagemaker:UpdateInferenceComponentRuntimeConfig"
+                "sagemaker:DescribeEndpoint"
             ],
             "Resource": "*",
             "Condition": {
                 "StringEquals": {
                     "aws:ResourceTag/AmazonDataZoneProject": "${aws:PrincipalTag/AmazonDataZoneProject}",
+                    "aws:PrincipalTag/EnableSageMakerMLWorkloadsPermissions": "true"
+                }
+            }
+        },
+        {
+            "Sid": "SageMakerUpdateInferenceComponentRuntimeConfigAutoscalingPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "sagemaker:UpdateInferenceComponentRuntimeConfig"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:CalledViaLast": "application-autoscaling.amazonaws.com",
                     "aws:PrincipalTag/EnableSageMakerMLWorkloadsPermissions": "true"
                 }
             }
@@ -693,7 +707,8 @@
             "Resource": "arn:aws:cloudwatch:*:*:alarm:TargetTracking*",
             "Condition": {
                 "StringEquals": {
-                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}",
+                    "aws:CalledViaLast": "application-autoscaling.amazonaws.com"
                 }
             }
         },
