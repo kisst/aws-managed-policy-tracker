@@ -78,6 +78,10 @@
                 "profile:ListCalculatedAttributesForProfile",
                 "profile:GetDomain",
                 "profile:ListIntegrations",
+                "profile:GetIntegration",
+                "profile:PutIntegration",
+                "profile:DeleteIntegration",
+                "profile:ListEventTriggers",
                 "profile:ListSegmentDefinitions",
                 "profile:ListProfileAttributeValues",
                 "profile:CreateSegmentEstimate",
@@ -87,6 +91,19 @@
                 "profile:GetSegmentMembership"
             ],
             "Resource": "arn:aws:profile:*:*:domains/amazon-connect-*"
+        },
+        {
+            "Sid": "AllowCustomerProfilesEventTriggerForConnectDomain",
+            "Effect": "Allow",
+            "Action": [
+                "profile:CreateEventTrigger",
+                "profile:GetEventTrigger",
+                "profile:UpdateEventTrigger",
+                "profile:DeleteEventTrigger"
+            ],
+            "Resource": [
+                "arn:aws:profile:*:*:domains/amazon-connect-*/event-triggers/*"
+            ]
         },
         {
             "Sid": "AllowReadPermissionForCustomerProfileObjects",
