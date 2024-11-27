@@ -1256,9 +1256,9 @@
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v3](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
-| SageMakerStudioProjectUserRolePermissionsBoundary | / | [v4](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v5](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v4](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectUserRolePermissionsBoundary | / | [v5](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v4](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v47](./policies/SecurityAudit.json) |

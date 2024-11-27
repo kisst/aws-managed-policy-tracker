@@ -973,6 +973,7 @@
                 "sagemaker:CreateTransformJob",
                 "sagemaker:CreateProcessingJob",
                 "sagemaker:CreateAutoMLJob",
+                "sagemaker:CreateAutoMLJobV2",
                 "sagemaker:CreateHyperParameterTuningJob",
                 "sagemaker:CreateEndpointConfig",
                 "sagemaker:CreateEndpoint",
@@ -1441,6 +1442,24 @@
             }
         },
         {
+            "Sid": "BedrockKnowledgeBaseDataIngestionKmsPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "kms:GenerateDataKey",
+                "kms:Decrypt"
+            ],
+            "Resource": "arn:aws:kms:*:*:key/${aws:PrincipalTag/KmsKeyId}",
+            "Condition": {
+                "StringEquals": {
+                    "aws:PrincipalTag/AmazonBedrockManaged": "true"
+                },
+                "Null": {
+                    "kms:ViaService": "true",
+                    "kms:EncryptionContext:aws:bedrock:arn": "false"
+                }
+            }
+        },
+        {
             "Sid": "AccessSecretPermissionsForBedrockApp",
             "Effect": "Allow",
             "Action": [
@@ -1596,6 +1615,37 @@
             "Effect": "Allow",
             "Action": "s3:ListBucket",
             "Resource": "arn:aws:s3:::*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:PrincipalTag/SageMakerStudioQueryExecutionRole": "true",
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "S3PermissionsForAthenaCatalog",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket",
+                "s3:PutObject",
+                "s3:GetObject",
+                "s3:DeleteObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::redshift-staging-bucket-*/*",
+                "arn:aws:s3:::redshift-staging-bucket-*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "GetS3ObjectForQueryExecutionRolePermissions",
+            "Effect": "Allow",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::*/dzd_*/*/dev/sys/athena/*",
             "Condition": {
                 "StringEquals": {
                     "aws:PrincipalTag/SageMakerStudioQueryExecutionRole": "true",
@@ -1827,7 +1877,41 @@
                 "datazone:ListEnvironments",
                 "datazone:ListProjects",
                 "datazone:UpdateConnection",
+                "dynamodb:BatchGetItem",
+                "dynamodb:BatchWriteItem",
+                "dynamodb:Scan",
+                "dynamodb:Query",
+                "dynamodb:DescribeBackup",
+                "dynamodb:DescribeContributorInsights",
+                "dynamodb:DescribeContinuousBackups",
+                "dynamodb:DescribeEndpoints",
+                "dynamodb:DescribeExport",
+                "dynamodb:DescribeGlobalTable",
+                "dynamodb:DescribeGlobalTableSettings",
+                "dynamodb:DescribeImport",
+                "dynamodb:DescribeKinesisStreamingDestination",
+                "dynamodb:DescribeLimits",
+                "dynamodb:DescribeReservedCapacity",
+                "dynamodb:DescribeReservedCapacityOfferings",
+                "dynamodb:DescribeStream",
+                "dynamodb:DescribeTable",
+                "dynamodb:DescribeTableReplicaAutoScaling",
+                "dynamodb:DescribeTimeToLive",
+                "dynamodb:GetItem",
+                "dynamodb:GetRecords",
+                "dynamodb:ListExports",
+                "dynamodb:ListGlobalTables",
+                "dynamodb:ListImports",
                 "dynamodb:ListTables",
+                "dynamodb:ListTagsOfResource",
+                "dynamodb:PutItem",
+                "dynamodb:PartiQLSelect",
+                "dynamodb:PartiQLInsert",
+                "dynamodb:PartiQLUpdate",
+                "dynamodb:PartiQLDelete",
+                "dynamodb:UpdateItem",
+                "dynamodb:UpdateGlobalTable",
+                "dynamodb:UpdateTable",
                 "ec2:AttachNetworkInterface",
                 "ec2:AuthorizeSecurityGroupEgress",
                 "ec2:AuthorizeSecurityGroupIngress",
@@ -2138,6 +2222,7 @@
                 "sagemaker:CreateApp",
                 "sagemaker:CreateArtifact",
                 "sagemaker:CreateAutoMLJob",
+                "sagemaker:CreateAutoMLJobV2",
                 "sagemaker:CreateContext",
                 "sagemaker:CreateEndpoint",
                 "sagemaker:CreateEndpointConfig",

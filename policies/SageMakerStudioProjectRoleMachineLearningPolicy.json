@@ -242,6 +242,7 @@
                 "sagemaker:CreateTransformJob",
                 "sagemaker:CreateProcessingJob",
                 "sagemaker:CreateAutoMLJob",
+                "sagemaker:CreateAutoMLJobV2",
                 "sagemaker:CreateHyperParameterTuningJob",
                 "sagemaker:CreateEndpointConfig",
                 "sagemaker:CreateEndpoint",
