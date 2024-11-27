@@ -188,6 +188,43 @@
             }
         },
         {
+            "Sid": "DataZoneKMSPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "kms:CreateGrant",
+                "kms:Decrypt",
+                "kms:GenerateDataKey"
+            ],
+            "Resource": [
+                "*"
+            ],
+            "Condition": {
+                "StringLike": {
+                    "kms:ViaService": [
+                        "datazone.*.amazonaws.com"
+                    ]
+                },
+                "Null": {
+                    "kms:EncryptionContextKeys": "false"
+                }
+            }
+        },
+        {
+            "Sid": "DataZoneDescribeKMSPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "kms:DescribeKey"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "StringLike": {
+                    "kms:ViaService": [
+                        "datazone.*.amazonaws.com"
+                    ]
+                }
+            }
+        },
+        {
             "Sid": "ListDomainS3BucketPermissions",
             "Effect": "Allow",
             "Action": [
@@ -206,6 +243,40 @@
                     "aws:PrincipalTag/DomainBucketName": "",
                     "aws:PrincipalTag/AmazonDataZoneDomain": "",
                     "aws:PrincipalTag/AmazonDataZoneProject": ""
+                },
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "AirflowListDomainS3BucketPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket"
+            ],
+            "Resource": "arn:aws:s3:::${aws:PrincipalTag/DomainBucketName}",
+            "Condition": {
+                "StringNotEquals": {
+                    "aws:PrincipalTag/DomainBucketName": ""
+                },
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "ListDomainBucketFromAthenaFederatedCatalog",
+            "Effect": "Allow",
+            "Action": [
+                "s3:ListBucket"
+            ],
+            "Resource": [
+                "arn:aws:s3:::${aws:PrincipalTag/DomainBucketName}"
+            ],
+            "Condition": {
+                "ArnEquals": {
+                    "lambda:SourceFunctionArn": "arn:aws:lambda:*:*:function:athenafederatedcatalog_*"
                 },
                 "StringEquals": {
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
@@ -511,7 +582,8 @@
                 "glue:ListSessions",
                 "glue:StartCompletion",
                 "glue:GetCompletion",
-                "glue:GetGeneratedCode"
+                "glue:GetGeneratedCode",
+                "glue:GetTags"
             ],
             "Resource": "*"
         },
@@ -721,7 +793,9 @@
                 "redshift-data:ExecuteStatement",
                 "redshift-data:DescribeStatement",
                 "redshift-data:GetStatementResult",
-                "redshift-data:CancelStatement"
+                "redshift-data:CancelStatement",
+                "redshift-data:GetStagingBucketLocation",
+                "redshift-serverless:GetManagedWorkgroup"
             ],
             "Resource": "*",
             "Condition": {
@@ -1466,22 +1540,6 @@
             }
         },
         {
-            "Sid": "AccessForFederatedDataConnection",
-            "Effect": "Allow",
-            "Action": [
-                "glue:GetConnection",
-                "glue:GetConnections",
-                "glue:GetTags"
-            ],
-            "Resource": "*",
-            "Condition": {
-                "StringEquals": {
-                    "aws:ResourceAccount": "${aws:PrincipalAccount}",
-                    "aws:ResourceTag/AmazonDataZoneProject": "${aws:PrincipalTag/AmazonDataZoneProject}"
-                }
-            }
-        },
-        {
             "Sid": "GlueConnectionAccessForFederatedDatabase",
             "Effect": "Allow",
             "Action": [
@@ -1528,8 +1586,55 @@
             "Resource": "arn:aws:lambda:*:*:function:*",
             "Condition": {
                 "StringEquals": {
-                    "aws:ResourceTag/AmazonDataZoneProject": "${aws:PrincipalTag/AmazonDataZoneProject}",
+                    "aws:PrincipalTag/SageMakerStudioQueryExecutionRole": "true",
                     "aws:ResourceTag/federated_athena_datacatalog": "true"
+                }
+            }
+        },
+        {
+            "Sid": "ListDomainS3BucketForQueryExecutionRolePermissions",
+            "Effect": "Allow",
+            "Action": "s3:ListBucket",
+            "Resource": "arn:aws:s3:::*",
+            "Condition": {
+                "StringEquals": {
+                    "aws:PrincipalTag/SageMakerStudioQueryExecutionRole": "true",
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "GetGlueUserDefinedFuncLakeFormationPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "glue:GetUserDefinedFunction",
+                "glue:GetUserDefinedFunctions"
+            ],
+            "Resource": [
+                "arn:aws:glue:*:*:catalog",
+                "arn:aws:glue:*:*:catalog/*",
+                "arn:aws:glue:*:*:database/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}",
+                    "glue:LakeFormationPermissions": "Enabled"
+                }
+            }
+        },
+        {
+            "Sid": "GetGlueUserDefinedFuncPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "glue:GetUserDefinedFunction",
+                "glue:GetUserDefinedFunctions"
+            ],
+            "Resource": [
+                "arn:aws:glue:*:*:userDefinedFunction/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
                 }
             }
         },
@@ -1864,6 +1969,8 @@
                 "glue:GetTableVersion",
                 "glue:GetTableVersions",
                 "glue:GetTags",
+                "glue:GetUserDefinedFunction",
+                "glue:GetUserDefinedFunctions",
                 "glue:ListConnectionTypes",
                 "glue:ListCrawls",
                 "glue:ListDataQualityResults",
@@ -1941,12 +2048,14 @@
                 "redshift-data:DescribeStatement",
                 "redshift-data:DescribeTable",
                 "redshift-data:ExecuteStatement",
+                "redshift-data:GetStagingBucketLocation",
                 "redshift-data:GetStatementResult",
                 "redshift-data:ListDatabases",
                 "redshift-data:ListSchemas",
                 "redshift-data:ListStatements",
                 "redshift-data:ListTables",
                 "redshift-serverless:GetCredentials",
+                "redshift-serverless:GetManagedWorkgroup",
                 "redshift-serverless:GetNamespace",
                 "redshift-serverless:GetWorkgroup",
                 "redshift-serverless:ListNamespaces",

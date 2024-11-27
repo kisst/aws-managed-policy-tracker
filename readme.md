@@ -693,7 +693,7 @@
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v5](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
-| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v6](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
+| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v7](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v5](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
@@ -1149,7 +1149,7 @@
 | CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/CostOptimizationHubServiceRolePolicy.json) |
-| CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
+| CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v2](./policies/DatabaseAdministrator.json) |
@@ -1258,7 +1258,7 @@
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v3](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
-| SageMakerStudioProjectUserRolePermissionsBoundary | / | [v3](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
+| SageMakerStudioProjectUserRolePermissionsBoundary | / | [v4](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v4](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v47](./policies/SecurityAudit.json) |
