@@ -419,6 +419,7 @@
 | AWSNetworkManagerFullAccess | / | [v1](./policies/AWSNetworkManagerFullAccess.json) |
 | AWSNetworkManagerReadOnlyAccess | / | [v1](./policies/AWSNetworkManagerReadOnlyAccess.json) |
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
+| AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
 | AWSOpsWorksCMInstanceProfileRole | / | [v5](./policies/AWSOpsWorksCMInstanceProfileRole.json) |
 | AWSOpsWorksCMServiceRole | /service-role/ | [v14](./policies/AWSOpsWorksCMServiceRole.json) |
 | AWSOpsWorksCloudWatchLogs | / | [v1](./policies/AWSOpsWorksCloudWatchLogs.json) |
@@ -1256,6 +1257,7 @@
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
+| SageMakerStudioFullAccess | / | [v1](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v5](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v4](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v5](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
