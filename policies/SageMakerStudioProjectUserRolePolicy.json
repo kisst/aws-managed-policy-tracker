@@ -1607,6 +1607,15 @@
             }
         },
         {
+            "Sid": "CreateEvaluationJobForFoundationModelPermissions",
+            "Effect": "Allow",
+            "Action": "bedrock:CreateEvaluationJob",
+            "Resource": [
+                "arn:aws:bedrock:*::foundation-model/*",
+                "arn:aws:bedrock:*:*:custom-model/*"
+            ]
+        },
+        {
             "Sid": "InvokeBedrockInlineAgentPermissions",
             "Effect": "Allow",
             "Action": "bedrock:InvokeInlineAgent",
