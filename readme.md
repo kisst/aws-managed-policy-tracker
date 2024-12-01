@@ -1154,6 +1154,7 @@
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v2](./policies/DatabaseAdministrator.json) |
+| DeclarativePoliciesEC2Report | /aws-service-role/ | [v1](./policies/DeclarativePoliciesEC2Report.json) |
 | DynamoDBCloudWatchContributorInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBCloudWatchContributorInsightsServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
