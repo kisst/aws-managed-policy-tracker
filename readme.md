@@ -1173,7 +1173,7 @@
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
-| EC2InstanceProfileForImageBuilder | / | [v3](./policies/EC2InstanceProfileForImageBuilder.json) |
+| EC2InstanceProfileForImageBuilder | / | [v4](./policies/EC2InstanceProfileForImageBuilder.json) |
 | EC2InstanceProfileForImageBuilderECRContainerBuilds | / | [v1](./policies/EC2InstanceProfileForImageBuilderECRContainerBuilds.json) |
 | ECRReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRReplicationServiceRolePolicy.json) |
 | ECRTemplateServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRTemplateServiceRolePolicy.json) |
