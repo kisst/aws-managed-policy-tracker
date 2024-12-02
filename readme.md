@@ -88,7 +88,7 @@
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v8](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v9](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -460,7 +460,7 @@
 | AWSProtonReadOnlyAccess | / | [v3](./policies/AWSProtonReadOnlyAccess.json) |
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
-| AWSPurchaseOrdersServiceRolePolicy | / | [v5](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
+| AWSPurchaseOrdersServiceRolePolicy | / | [v6](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
 | AWSQuickSetupCFGCPacksPermissionsBoundary | / | [v1](./policies/AWSQuickSetupCFGCPacksPermissionsBoundary.json) |
 | AWSQuickSetupDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
 | AWSQuickSetupDevOpsGuruPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDevOpsGuruPermissionsBoundary.json) |
@@ -522,6 +522,11 @@
 | AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
+| AWSSecurityIncidentResponseCaseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
+| AWSSecurityIncidentResponseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseFullAccess.json) |
+| AWSSecurityIncidentResponseReadOnlyAccess | / | [v1](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
+| AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
+| AWSSecurityIncidentResponseTriageServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityIncidentResponseTriageServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
 | AWSServiceCatalogAppRegistryFullAccess | / | [v6](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
@@ -597,7 +602,7 @@
 | AWSVendorInsightsAssessorReadOnly | / | [v2](./policies/AWSVendorInsightsAssessorReadOnly.json) |
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
-| AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSVpcLatticeServiceRolePolicy.json) |
+| AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
 | AWSWAFConsoleFullAccess | / | [v8](./policies/AWSWAFConsoleFullAccess.json) |
 | AWSWAFConsoleReadOnlyAccess | / | [v7](./policies/AWSWAFConsoleReadOnlyAccess.json) |
 | AWSWAFFullAccess | / | [v11](./policies/AWSWAFFullAccess.json) |
@@ -1097,7 +1102,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
-| Billing | /job-function/ | [v12](./policies/Billing.json) |
+| Billing | /job-function/ | [v13](./policies/Billing.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
@@ -1135,7 +1140,12 @@
 | CloudWatchLogsCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchLogsCrossAccountSharingConfiguration.json) |
 | CloudWatchLogsFullAccess | / | [v2](./policies/CloudWatchLogsFullAccess.json) |
 | CloudWatchLogsReadOnlyAccess | / | [v6](./policies/CloudWatchLogsReadOnlyAccess.json) |
+| CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v1](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
+| CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
+| CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
+| CloudWatchOpenSearchDashboardAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardAccess.json) |
+| CloudWatchOpenSearchDashboardsFullAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
 | CloudWatchReadOnlyAccess | / | [v10](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v11](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
@@ -1213,7 +1223,7 @@
 | LightsailExportAccess | /aws-service-role/ | [v2](./policies/LightsailExportAccess.json) |
 | MediaConnectGatewayInstanceRolePolicy | / | [v1](./policies/MediaConnectGatewayInstanceRolePolicy.json) |
 | MediaPackageServiceRolePolicy | /aws-service-role/ | [v1](./policies/MediaPackageServiceRolePolicy.json) |
-| MemoryDBServiceRolePolicy | /aws-service-role/ | [v2](./policies/MemoryDBServiceRolePolicy.json) |
+| MemoryDBServiceRolePolicy | /aws-service-role/ | [v3](./policies/MemoryDBServiceRolePolicy.json) |
 | MigrationHubDMSAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/MigrationHubDMSAccessServiceRolePolicy.json) |
 | MigrationHubSMSAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/MigrationHubSMSAccessServiceRolePolicy.json) |
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
@@ -1281,8 +1291,8 @@
 | TranslateFullAccess | / | [v2](./policies/TranslateFullAccess.json) |
 | TranslateReadOnly | / | [v7](./policies/TranslateReadOnly.json) |
 | VMImportExportRoleForAWSConnector | /service-role/ | [v1](./policies/VMImportExportRoleForAWSConnector.json) |
-| VPCLatticeFullAccess | / | [v1](./policies/VPCLatticeFullAccess.json) |
-| VPCLatticeReadOnlyAccess | / | [v1](./policies/VPCLatticeReadOnlyAccess.json) |
+| VPCLatticeFullAccess | / | [v2](./policies/VPCLatticeFullAccess.json) |
+| VPCLatticeReadOnlyAccess | / | [v2](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
 | ViewOnlyAccess | /job-function/ | [v22](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
