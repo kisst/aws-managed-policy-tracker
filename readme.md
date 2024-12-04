@@ -358,7 +358,7 @@
 | AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy.json) |
 | AWSKeyManagementServicePowerUser | / | [v2](./policies/AWSKeyManagementServicePowerUser.json) |
 | AWSLakeFormationCrossAccountManager | / | [v6](./policies/AWSLakeFormationCrossAccountManager.json) |
-| AWSLakeFormationDataAdmin | / | [v3](./policies/AWSLakeFormationDataAdmin.json) |
+| AWSLakeFormationDataAdmin | / | [v4](./policies/AWSLakeFormationDataAdmin.json) |
 | AWSLambdaBasicExecutionRole | /service-role/ | [v1](./policies/AWSLambdaBasicExecutionRole.json) |
 | AWSLambdaDynamoDBExecutionRole | /service-role/ | [v1](./policies/AWSLambdaDynamoDBExecutionRole.json) |
 | AWSLambdaENIManagementAccess | /service-role/ | [v2](./policies/AWSLambdaENIManagementAccess.json) |
@@ -646,6 +646,9 @@
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
+| AmazonAuroraDSQLConsoleFullAccess | / | [v1](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
+| AmazonAuroraDSQLFullAccess | / | [v1](./policies/AmazonAuroraDSQLFullAccess.json) |
+| AmazonAuroraDSQLReadOnlyAccess | / | [v1](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockFullAccess | / | [v1](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockReadOnly | / | [v4](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
@@ -699,7 +702,7 @@
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
 | AmazonDataZoneBedrockModelConsumptionPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelConsumptionPolicy.json) |
 | AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
-| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v9](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
+| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v10](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v5](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
@@ -995,6 +998,8 @@
 | AmazonS3OutpostsFullAccess | / | [v1](./policies/AmazonS3OutpostsFullAccess.json) |
 | AmazonS3OutpostsReadOnlyAccess | / | [v1](./policies/AmazonS3OutpostsReadOnlyAccess.json) |
 | AmazonS3ReadOnlyAccess | / | [v3](./policies/AmazonS3ReadOnlyAccess.json) |
+| AmazonS3TablesFullAccess | / | [v1](./policies/AmazonS3TablesFullAccess.json) |
+| AmazonS3TablesReadOnlyAccess | / | [v1](./policies/AmazonS3TablesReadOnlyAccess.json) |
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
 | AmazonSESReadOnlyAccess | / | [v2](./policies/AmazonSESReadOnlyAccess.json) |
 | AmazonSESServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSESServiceRolePolicy.json) |
@@ -1094,6 +1099,7 @@
 | AppStudioServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppStudioServiceRolePolicy.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
+| AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
 | AutoScalingConsoleReadOnlyAccess | / | [v1](./policies/AutoScalingConsoleReadOnlyAccess.json) |
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
@@ -1243,6 +1249,7 @@
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
 | PowerUserAccess | / | [v6](./policies/PowerUserAccess.json) |
 | QAppsServiceRolePolicy | /aws-service-role/ | [v1](./policies/QAppsServiceRolePolicy.json) |
+| QBusinessQuicksightPluginPolicy | / | [v1](./policies/QBusinessQuicksightPluginPolicy.json) |
 | QBusinessServiceRolePolicy | /aws-service-role/ | [v1](./policies/QBusinessServiceRolePolicy.json) |
 | QuickSightAccessForS3StorageManagementAnalyticsReadOnly | /service-role/ | [v4](./policies/QuickSightAccessForS3StorageManagementAnalyticsReadOnly.json) |
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |

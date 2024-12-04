@@ -63,6 +63,7 @@
                 "datazone:GetEnvironmentAction",
                 "datazone:GetEnvironmentActionLink",
                 "datazone:GetEnvironmentBlueprint",
+                "datazone:GetEnvironmentBlueprintConfiguration",
                 "datazone:GetEnvironmentCredentials",
                 "datazone:GetEnvironmentProfile",
                 "datazone:GetFormType",
