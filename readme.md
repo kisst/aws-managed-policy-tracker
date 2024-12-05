@@ -445,7 +445,7 @@
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
 | AWSPartnerCentralFullAccess | / | [v1](./policies/AWSPartnerCentralFullAccess.json) |
-| AWSPartnerCentralOpportunityManagement | / | [v1](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v2](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v1](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v1](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
@@ -649,8 +649,8 @@
 | AmazonAuroraDSQLConsoleFullAccess | / | [v1](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
 | AmazonAuroraDSQLFullAccess | / | [v1](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v1](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
-| AmazonBedrockFullAccess | / | [v1](./policies/AmazonBedrockFullAccess.json) |
-| AmazonBedrockReadOnly | / | [v4](./policies/AmazonBedrockReadOnly.json) |
+| AmazonBedrockFullAccess | / | [v2](./policies/AmazonBedrockFullAccess.json) |
+| AmazonBedrockReadOnly | / | [v5](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
 | AmazonBraketFullAccess | / | [v6](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v2](./policies/AmazonBraketJobsExecutionPolicy.json) |
@@ -1026,11 +1026,12 @@
 | AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy | / | [v1](./policies/AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
 | AmazonSageMakerCanvasFullAccess | / | [v11](./policies/AmazonSageMakerCanvasFullAccess.json) |
+| AmazonSageMakerCanvasSMDataScienceAssistantAccess | / | [v1](./policies/AmazonSageMakerCanvasSMDataScienceAssistantAccess.json) |
 | AmazonSageMakerClusterInstanceRolePolicy | / | [v1](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
 | AmazonSageMakerFeatureStoreAccess | / | [v3](./policies/AmazonSageMakerFeatureStoreAccess.json) |
-| AmazonSageMakerFullAccess | / | [v26](./policies/AmazonSageMakerFullAccess.json) |
+| AmazonSageMakerFullAccess | / | [v27](./policies/AmazonSageMakerFullAccess.json) |
 | AmazonSageMakerGeospatialExecutionRole | /service-role/ | [v2](./policies/AmazonSageMakerGeospatialExecutionRole.json) |
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
@@ -1052,6 +1053,7 @@
 | AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
+| AmazonSageMakerTrainingPlanCreateAccess | / | [v1](./policies/AmazonSageMakerTrainingPlanCreateAccess.json) |
 | AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
 | AmazonSecurityLakeMetastoreManager | /service-role/ | [v2](./policies/AmazonSecurityLakeMetastoreManager.json) |
 | AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
