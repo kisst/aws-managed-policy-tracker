@@ -397,7 +397,7 @@
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v5](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
-| AWSMarketplaceSellerFullAccess | / | [v14](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v15](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v8](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v4](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
@@ -723,8 +723,8 @@
 | AmazonDevOpsGuruReadOnlyAccess | / | [v6](./policies/AmazonDevOpsGuruReadOnlyAccess.json) |
 | AmazonDevOpsGuruServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonDevOpsGuruServiceRolePolicy.json) |
 | AmazonDocDB-ElasticServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDocDB-ElasticServiceRolePolicy.json) |
-| AmazonDocDBConsoleFullAccess | / | [v4](./policies/AmazonDocDBConsoleFullAccess.json) |
-| AmazonDocDBElasticFullAccess | / | [v2](./policies/AmazonDocDBElasticFullAccess.json) |
+| AmazonDocDBConsoleFullAccess | / | [v5](./policies/AmazonDocDBConsoleFullAccess.json) |
+| AmazonDocDBElasticFullAccess | / | [v3](./policies/AmazonDocDBElasticFullAccess.json) |
 | AmazonDocDBElasticReadOnlyAccess | / | [v2](./policies/AmazonDocDBElasticReadOnlyAccess.json) |
 | AmazonDocDBFullAccess | / | [v1](./policies/AmazonDocDBFullAccess.json) |
 | AmazonDocDBReadOnlyAccess | / | [v1](./policies/AmazonDocDBReadOnlyAccess.json) |
@@ -1067,11 +1067,11 @@
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
 | AmazonTranscribeReadOnlyAccess | / | [v1](./policies/AmazonTranscribeReadOnlyAccess.json) |
 | AmazonVPCCrossAccountNetworkInterfaceOperations | / | [v5](./policies/AmazonVPCCrossAccountNetworkInterfaceOperations.json) |
-| AmazonVPCFullAccess | / | [v10](./policies/AmazonVPCFullAccess.json) |
+| AmazonVPCFullAccess | / | [v11](./policies/AmazonVPCFullAccess.json) |
 | AmazonVPCNetworkAccessAnalyzerFullAccessPolicy | / | [v3](./policies/AmazonVPCNetworkAccessAnalyzerFullAccessPolicy.json) |
 | AmazonVPCReachabilityAnalyzerFullAccessPolicy | / | [v3](./policies/AmazonVPCReachabilityAnalyzerFullAccessPolicy.json) |
 | AmazonVPCReachabilityAnalyzerPathComponentReadPolicy | / | [v1](./policies/AmazonVPCReachabilityAnalyzerPathComponentReadPolicy.json) |
-| AmazonVPCReadOnlyAccess | / | [v9](./policies/AmazonVPCReadOnlyAccess.json) |
+| AmazonVPCReadOnlyAccess | / | [v10](./policies/AmazonVPCReadOnlyAccess.json) |
 | AmazonVerifiedPermissionsFullAccess | / | [v1](./policies/AmazonVerifiedPermissionsFullAccess.json) |
 | AmazonVerifiedPermissionsReadOnlyAccess | / | [v1](./policies/AmazonVerifiedPermissionsReadOnlyAccess.json) |
 | AmazonWorkDocsFullAccess | / | [v1](./policies/AmazonWorkDocsFullAccess.json) |
