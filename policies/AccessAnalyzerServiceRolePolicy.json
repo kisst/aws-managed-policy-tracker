@@ -16,6 +16,8 @@
                 "ec2:DescribeVpcs",
                 "ec2:GetSnapshotBlockPublicAccessState",
                 "ecr:DescribeRepositories",
+                "ecr:GetAccountSetting",
+                "ecr:GetRegistryPolicy",
                 "ecr:GetRepositoryPolicy",
                 "elasticfilesystem:DescribeFileSystemPolicy",
                 "elasticfilesystem:DescribeFileSystems",

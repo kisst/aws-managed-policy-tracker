@@ -13,6 +13,21 @@
                     "partnercentral:Catalog": "Sandbox"
                 }
             }
+        },
+        {
+            "Sid": "PassAWSPartnerCentralSnapshotJobRole",
+            "Effect": "Allow",
+            "Action": [
+                "iam:PassRole"
+            ],
+            "Resource": [
+                "arn:aws:iam::*:role/*"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "iam:PassedToService": "resource-snapshot-job.partnercentral-selling.amazonaws.com"
+                }
+            }
         }
     ]
 }
