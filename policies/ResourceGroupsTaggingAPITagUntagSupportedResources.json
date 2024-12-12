@@ -332,7 +332,23 @@
                 "workspaces:CreateTags",
                 "workspaces:DeleteTags",
                 "xray:TagResource",
-                "xray:UntagResource"
+                "xray:UntagResource",
+                "kinesisvideo:TagResource",
+                "kinesisvideo:UntagResource",
+                "redshift-serverless:TagResource",
+                "redshift-serverless:UntagResource",
+                "route53-recovery-control-config:TagResource",
+                "route53-recovery-control-config:UntagResource",
+                "route53-recovery-readiness:TagResource",
+                "route53-recovery-readiness:UntagResource",
+                "ssm-contacts:TagResource",
+                "ssm-contacts:UntagResource",
+                "ssm-incidents:TagResource",
+                "ssm-incidents:UntagResource",
+                "vpc-lattice:TagResource",
+                "vpc-lattice:UntagResource",
+                "workspaces-web:TagResource",
+                "workspaces-web:UntagResource"
             ],
             "Resource": "*"
         }
