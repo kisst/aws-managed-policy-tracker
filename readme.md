@@ -163,7 +163,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v53](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v54](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |

@@ -1040,6 +1040,7 @@
                 "organizations:DescribeResourcePolicy",
                 "organizations:ListAccounts",
                 "organizations:ListAccountsForParent",
+                "organizations:ListAWSServiceAccessForOrganization",
                 "organizations:ListDelegatedAdministrators",
                 "organizations:ListOrganizationalUnitsForParent",
                 "organizations:ListParents",
