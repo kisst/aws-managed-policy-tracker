@@ -84,6 +84,8 @@
 | AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v16](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForBackup.json) |
+| AWSBackupServiceRolePolicyForIndexing | / | [v1](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
+| AWSBackupServiceRolePolicyForItemRestores | / | [v1](./policies/AWSBackupServiceRolePolicyForItemRestores.json) |
 | AWSBackupServiceRolePolicyForRestores | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForRestores.json) |
 | AWSBackupServiceRolePolicyForS3Backup | / | [v4](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
