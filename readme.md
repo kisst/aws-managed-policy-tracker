@@ -1247,7 +1247,7 @@
 | NeptuneFullAccess | / | [v7](./policies/NeptuneFullAccess.json) |
 | NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
 | NeptuneReadOnlyAccess | / | [v3](./policies/NeptuneReadOnlyAccess.json) |
-| NetworkAdministrator | /job-function/ | [v12](./policies/NetworkAdministrator.json) |
+| NetworkAdministrator | /job-function/ | [v13](./policies/NetworkAdministrator.json) |
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
@@ -1310,7 +1310,7 @@
 | VPCLatticeFullAccess | / | [v2](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v2](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v22](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v23](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
