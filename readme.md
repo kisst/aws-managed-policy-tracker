@@ -551,7 +551,7 @@
 | AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
-| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v19](./policies/AWSServiceRoleForImageBuilder.json) |
+| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v20](./policies/AWSServiceRoleForImageBuilder.json) |
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForMonitronPolicy.json) |
@@ -1188,7 +1188,7 @@
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
-| EC2InstanceProfileForImageBuilder | / | [v4](./policies/EC2InstanceProfileForImageBuilder.json) |
+| EC2InstanceProfileForImageBuilder | / | [v5](./policies/EC2InstanceProfileForImageBuilder.json) |
 | EC2InstanceProfileForImageBuilderECRContainerBuilds | / | [v1](./policies/EC2InstanceProfileForImageBuilderECRContainerBuilds.json) |
 | ECRReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRReplicationServiceRolePolicy.json) |
 | ECRTemplateServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRTemplateServiceRolePolicy.json) |
