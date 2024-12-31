@@ -1270,7 +1270,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v124](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v125](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
@@ -1290,7 +1290,7 @@
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v6](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v5](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v47](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v48](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
