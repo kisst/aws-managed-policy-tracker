@@ -65,8 +65,12 @@
                         "emr-serverless.*.amazonaws.com",
                         "s3.*.amazonaws.com",
                         "redshift.*.amazonaws.com",
+                        "redshift-serverless.*.amazonaws.com",
                         "bedrock.*.amazonaws.com",
-                        "secretsmanager.*.amazonaws.com"
+                        "secretsmanager.*.amazonaws.com",
+                        "ec2.*.amazonaws.com",
+                        "codecommit.*.amazonaws.com",
+                        "glue.*.amazonaws.com"
                     ]
                 },
                 "StringEquals": {
@@ -74,6 +78,17 @@
                 },
                 "Null": {
                     "kms:EncryptionContextKeys": "false"
+                }
+            }
+        },
+        {
+            "Sid": "AllowGenerateDataKeyForEmrEbsEncryption",
+            "Effect": "Allow",
+            "Action": "kms:GenerateDataKey",
+            "Resource": "arn:aws:kms:*:*:key/${aws:PrincipalTag/KmsKeyId}",
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
                 }
             }
         },
@@ -95,7 +110,8 @@
                         "s3.*.amazonaws.com",
                         "redshift.*.amazonaws.com",
                         "bedrock.*.amazonaws.com",
-                        "secretsmanager.*.amazonaws.com"
+                        "secretsmanager.*.amazonaws.com",
+                        "codecommit.*.amazonaws.com"
                     ]
                 },
                 "StringEquals": {
@@ -945,6 +961,7 @@
                 "sagemaker:DescribePipelineDefinitionForExecution",
                 "sagemaker:DescribeHyperParameterTuningJob",
                 "sagemaker:DescribeAutoMLJob",
+                "sagemaker:DescribeAutoMLJobV2",
                 "sagemaker:DescribeProcessingJob",
                 "sagemaker:DescribeTrainingJob",
                 "sagemaker:DescribeAction",
@@ -2269,6 +2286,7 @@
                 "sagemaker:DescribeApp",
                 "sagemaker:DescribeArtifact",
                 "sagemaker:DescribeAutoMLJob",
+                "sagemaker:DescribeAutoMLJobV2",
                 "sagemaker:DescribeContext",
                 "sagemaker:DescribeDomain",
                 "sagemaker:DescribeEndpoint",

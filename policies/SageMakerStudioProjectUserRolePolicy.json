@@ -75,6 +75,32 @@
             }
         },
         {
+            "Sid": "CodeCommitKmsPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "kms:ReEncryptFrom",
+                "kms:ReEncryptTo",
+                "kms:Decrypt",
+                "kms:Encrypt",
+                "kms:GenerateDataKey",
+                "kms:GenerateDataKeyWithoutPlaintext"
+            ],
+            "Resource": "arn:aws:kms:*:*:key/${aws:PrincipalTag/KmsKeyId}",
+            "Condition": {
+                "StringLike": {
+                    "kms:ViaService": [
+                        "codecommit.*.amazonaws.com"
+                    ]
+                },
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                },
+                "Null": {
+                    "kms:EncryptionContext:aws:codecommit:id": "false"
+                }
+            }
+        },
+        {
             "Sid": "AllowCodeWhispererGenerateRecommendations",
             "Effect": "Allow",
             "Action": [
@@ -372,6 +398,27 @@
                 "StringEquals": {
                     "glue:RoleAssumedBy": "glue.amazonaws.com",
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
+                }
+            }
+        },
+        {
+            "Sid": "GlueKmsPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "kms:Decrypt",
+                "kms:Encrypt",
+                "kms:GenerateDataKey"
+            ],
+            "Resource": "arn:aws:kms:*:*:key/${aws:PrincipalTag/KmsKeyId}",
+            "Condition": {
+                "StringLike": {
+                    "kms:ViaService": [
+                        "glue.*.amazonaws.com"
+                    ]
+                },
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}",
+                    "kms:EncryptionContext:glue_catalog_id": "${aws:PrincipalAccount}"
                 }
             }
         },
@@ -1452,7 +1499,8 @@
                         "sagemaker.*.amazonaws.com",
                         "emr-serverless.*.amazonaws.com",
                         "s3.*.amazonaws.com",
-                        "redshift.*.amazonaws.com"
+                        "redshift.*.amazonaws.com",
+                        "codecommit.*.amazonaws.com"
                     ]
                 },
                 "StringEquals": {

@@ -493,7 +493,7 @@
 | AWSQuickSightListIAM | /service-role/ | [v1](./policies/AWSQuickSightListIAM.json) |
 | AWSQuickSightSageMakerPolicy | /service-role/ | [v3](./policies/AWSQuickSightSageMakerPolicy.json) |
 | AWSQuickSightTimestreamPolicy | /service-role/ | [v1](./policies/AWSQuickSightTimestreamPolicy.json) |
-| AWSQuicksightAthenaAccess | /service-role/ | [v10](./policies/AWSQuicksightAthenaAccess.json) |
+| AWSQuicksightAthenaAccess | /service-role/ | [v11](./policies/AWSQuicksightAthenaAccess.json) |
 | AWSQuicksightOpenSearchPolicy | /service-role/ | [v1](./policies/AWSQuicksightOpenSearchPolicy.json) |
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSRefactoringToolkitFullAccess | / | [v5](./policies/AWSRefactoringToolkitFullAccess.json) |
@@ -645,7 +645,7 @@
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
 | AmazonAppStreamReadOnlyAccess | / | [v2](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v8](./policies/AmazonAppStreamServiceAccess.json) |
-| AmazonAthenaFullAccess | / | [v12](./policies/AmazonAthenaFullAccess.json) |
+| AmazonAthenaFullAccess | / | [v13](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
@@ -1287,8 +1287,8 @@
 | SageMakerStudioFullAccess | / | [v1](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v5](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v4](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
-| SageMakerStudioProjectUserRolePermissionsBoundary | / | [v6](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v5](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v48](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
