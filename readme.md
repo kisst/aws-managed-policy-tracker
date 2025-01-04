@@ -1170,7 +1170,7 @@
 | ComprehendMedicalFullAccess | / | [v1](./policies/ComprehendMedicalFullAccess.json) |
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
-| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v3](./policies/ComputeOptimizerServiceRolePolicy.json) |
+| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v4](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
