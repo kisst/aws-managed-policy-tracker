@@ -81,12 +81,12 @@
 | AWSBackupOperatorAccess | / | [v16](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
-| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v16](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
+| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v17](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForBackup.json) |
 | AWSBackupServiceRolePolicyForIndexing | / | [v1](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
 | AWSBackupServiceRolePolicyForItemRestores | / | [v1](./policies/AWSBackupServiceRolePolicyForItemRestores.json) |
-| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForRestores.json) |
+| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v21](./policies/AWSBackupServiceRolePolicyForRestores.json) |
 | AWSBackupServiceRolePolicyForS3Backup | / | [v4](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
@@ -1270,7 +1270,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v125](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v126](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
