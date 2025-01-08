@@ -56,14 +56,14 @@
 | AWSApplicationMigrationAgentPolicy | / | [v2](./policies/AWSApplicationMigrationAgentPolicy.json) |
 | AWSApplicationMigrationAgentPolicy_v2 | /service-role/ | [v1](./policies/AWSApplicationMigrationAgentPolicy_v2.json) |
 | AWSApplicationMigrationConversionServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationConversionServerPolicy.json) |
-| AWSApplicationMigrationEC2Access | / | [v4](./policies/AWSApplicationMigrationEC2Access.json) |
+| AWSApplicationMigrationEC2Access | / | [v5](./policies/AWSApplicationMigrationEC2Access.json) |
 | AWSApplicationMigrationFullAccess | / | [v8](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationReadOnlyAccess | / | [v5](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
 | AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
 | AWSApplicationMigrationSSMAccess | / | [v2](./policies/AWSApplicationMigrationSSMAccess.json) |
 | AWSApplicationMigrationServiceEc2InstancePolicy | / | [v2](./policies/AWSApplicationMigrationServiceEc2InstancePolicy.json) |
-| AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
+| AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
 | AWSApplicationMigrationVCenterClientPolicy | / | [v1](./policies/AWSApplicationMigrationVCenterClientPolicy.json) |
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactAgreementsFullAccess | / | [v1](./policies/AWSArtifactAgreementsFullAccess.json) |
