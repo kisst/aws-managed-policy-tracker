@@ -386,6 +386,7 @@
 | AWSManagedServices_ContactsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_ContactsServiceRolePolicy.json) |
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
 | AWSManagedServices_EventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_EventsServiceRolePolicy.json) |
+| AWSManagedServices_SelfServiceReporting_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
 | AWSMarketplaceFullAccess | / | [v4](./policies/AWSMarketplaceFullAccess.json) |
