@@ -715,7 +715,7 @@
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v5](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v2](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
-| AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v1](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
+| AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v2](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
 | AmazonDetectiveInvestigatorAccess | / | [v3](./policies/AmazonDetectiveInvestigatorAccess.json) |
 | AmazonDetectiveMemberAccess | / | [v1](./policies/AmazonDetectiveMemberAccess.json) |
@@ -766,7 +766,7 @@
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
-| AmazonEKSLoadBalancingPolicy | / | [v1](./policies/AmazonEKSLoadBalancingPolicy.json) |
+| AmazonEKSLoadBalancingPolicy | / | [v2](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
@@ -1091,8 +1091,8 @@
 | AmazonWorkSpacesSecureBrowserReadOnly | / | [v1](./policies/AmazonWorkSpacesSecureBrowserReadOnly.json) |
 | AmazonWorkSpacesSelfServiceAccess | / | [v1](./policies/AmazonWorkSpacesSelfServiceAccess.json) |
 | AmazonWorkSpacesServiceAccess | / | [v2](./policies/AmazonWorkSpacesServiceAccess.json) |
-| AmazonWorkSpacesThinClientFullAccess | / | [v1](./policies/AmazonWorkSpacesThinClientFullAccess.json) |
-| AmazonWorkSpacesThinClientReadOnlyAccess | / | [v2](./policies/AmazonWorkSpacesThinClientReadOnlyAccess.json) |
+| AmazonWorkSpacesThinClientFullAccess | / | [v2](./policies/AmazonWorkSpacesThinClientFullAccess.json) |
+| AmazonWorkSpacesThinClientReadOnlyAccess | / | [v3](./policies/AmazonWorkSpacesThinClientReadOnlyAccess.json) |
 | AmazonWorkSpacesWebReadOnly | / | [v2](./policies/AmazonWorkSpacesWebReadOnly.json) |
 | AmazonWorkSpacesWebServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonWorkSpacesWebServiceRolePolicy.json) |
 | AmazonWorkspacesPCAAccess | / | [v1](./policies/AmazonWorkspacesPCAAccess.json) |
