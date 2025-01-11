@@ -111,8 +111,8 @@
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
 | AWSCleanRoomsFullAccessNoQuerying | / | [v4](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
-| AWSCleanRoomsMLFullAccess | / | [v1](./policies/AWSCleanRoomsMLFullAccess.json) |
-| AWSCleanRoomsMLReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
+| AWSCleanRoomsMLFullAccess | / | [v2](./policies/AWSCleanRoomsMLFullAccess.json) |
+| AWSCleanRoomsMLReadOnlyAccess | / | [v2](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
 | AWSCleanRoomsReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsReadOnlyAccess.json) |
 | AWSCloud9Administrator | / | [v4](./policies/AWSCloud9Administrator.json) |
 | AWSCloud9EnvironmentMember | / | [v3](./policies/AWSCloud9EnvironmentMember.json) |
@@ -139,9 +139,9 @@
 | AWSCodeBuildAdminAccess | / | [v15](./policies/AWSCodeBuildAdminAccess.json) |
 | AWSCodeBuildDeveloperAccess | / | [v16](./policies/AWSCodeBuildDeveloperAccess.json) |
 | AWSCodeBuildReadOnlyAccess | / | [v13](./policies/AWSCodeBuildReadOnlyAccess.json) |
-| AWSCodeCommitFullAccess | / | [v10](./policies/AWSCodeCommitFullAccess.json) |
-| AWSCodeCommitPowerUser | / | [v15](./policies/AWSCodeCommitPowerUser.json) |
-| AWSCodeCommitReadOnly | / | [v11](./policies/AWSCodeCommitReadOnly.json) |
+| AWSCodeCommitFullAccess | / | [v11](./policies/AWSCodeCommitFullAccess.json) |
+| AWSCodeCommitPowerUser | / | [v16](./policies/AWSCodeCommitPowerUser.json) |
+| AWSCodeCommitReadOnly | / | [v12](./policies/AWSCodeCommitReadOnly.json) |
 | AWSCodeDeployDeployerAccess | / | [v4](./policies/AWSCodeDeployDeployerAccess.json) |
 | AWSCodeDeployFullAccess | / | [v4](./policies/AWSCodeDeployFullAccess.json) |
 | AWSCodeDeployReadOnlyAccess | / | [v4](./policies/AWSCodeDeployReadOnlyAccess.json) |
