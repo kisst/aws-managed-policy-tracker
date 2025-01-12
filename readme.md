@@ -241,7 +241,7 @@
 | AWSElasticBeanstalkWorkerTier | / | [v6](./policies/AWSElasticBeanstalkWorkerTier.json) |
 | AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryAgentPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryAgentPolicy.json) |
-| AWSElasticDisasterRecoveryConsoleFullAccess | / | [v5](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
+| AWSElasticDisasterRecoveryConsoleFullAccess | / | [v6](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
 | AWSElasticDisasterRecoveryConsoleFullAccess_v2 | / | [v4](./policies/AWSElasticDisasterRecoveryConsoleFullAccess_v2.json) |
 | AWSElasticDisasterRecoveryConversionServerPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryConversionServerPolicy.json) |
 | AWSElasticDisasterRecoveryCrossAccountReplicationPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryCrossAccountReplicationPolicy.json) |
