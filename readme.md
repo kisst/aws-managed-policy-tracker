@@ -169,7 +169,7 @@
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
-| AWSControlTowerServiceRolePolicy | /service-role/ | [v10](./policies/AWSControlTowerServiceRolePolicy.json) |
+| AWSControlTowerServiceRolePolicy | /service-role/ | [v11](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -735,7 +735,7 @@
 | AmazonDynamoDBFullAccess | / | [v15](./policies/AmazonDynamoDBFullAccess.json) |
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
 | AmazonDynamoDBReadOnlyAccess | / | [v15](./policies/AmazonDynamoDBReadOnlyAccess.json) |
-| AmazonEBSCSIDriverPolicy | /service-role/ | [v2](./policies/AmazonEBSCSIDriverPolicy.json) |
+| AmazonEBSCSIDriverPolicy | /service-role/ | [v3](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
 | AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
 | AmazonEC2ContainerRegistryPullOnly | / | [v1](./policies/AmazonEC2ContainerRegistryPullOnly.json) |
@@ -1030,7 +1030,7 @@
 | AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy | / | [v1](./policies/AmazonSageMakerCanvasEMRServerlessExecutionRolePolicy.json) |
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
 | AmazonSageMakerCanvasFullAccess | / | [v11](./policies/AmazonSageMakerCanvasFullAccess.json) |
-| AmazonSageMakerCanvasSMDataScienceAssistantAccess | / | [v1](./policies/AmazonSageMakerCanvasSMDataScienceAssistantAccess.json) |
+| AmazonSageMakerCanvasSMDataScienceAssistantAccess | / | [v2](./policies/AmazonSageMakerCanvasSMDataScienceAssistantAccess.json) |
 | AmazonSageMakerClusterInstanceRolePolicy | / | [v1](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
