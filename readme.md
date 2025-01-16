@@ -508,7 +508,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
