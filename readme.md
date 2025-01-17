@@ -172,7 +172,7 @@
 | AWSControlTowerServiceRolePolicy | /service-role/ | [v11](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
-| AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSServerlessServiceRolePolicy.json) |
+| AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDMSServerlessServiceRolePolicy.json) |
 | AWSDataExchangeDataGrantOwnerFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantOwnerFullAccess.json) |
 | AWSDataExchangeDataGrantReceiverFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantReceiverFullAccess.json) |
 | AWSDataExchangeFullAccess | / | [v8](./policies/AWSDataExchangeFullAccess.json) |
