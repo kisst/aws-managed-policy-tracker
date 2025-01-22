@@ -1143,7 +1143,7 @@
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
 | CloudWatchEventsBuiltInTargetExecutionAccess | /service-role/ | [v1](./policies/CloudWatchEventsBuiltInTargetExecutionAccess.json) |
-| CloudWatchEventsFullAccess | / | [v2](./policies/CloudWatchEventsFullAccess.json) |
+| CloudWatchEventsFullAccess | / | [v3](./policies/CloudWatchEventsFullAccess.json) |
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
 | CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchEventsServiceRolePolicy.json) |
