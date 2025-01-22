@@ -810,7 +810,7 @@
 | AmazonElasticTranscoder_ReadOnlyAccess | / | [v2](./policies/AmazonElasticTranscoder_ReadOnlyAccess.json) |
 | AmazonElasticsearchServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonElasticsearchServiceRolePolicy.json) |
 | AmazonEventBridgeApiDestinationsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeApiDestinationsServiceRolePolicy.json) |
-| AmazonEventBridgeFullAccess | / | [v4](./policies/AmazonEventBridgeFullAccess.json) |
+| AmazonEventBridgeFullAccess | / | [v5](./policies/AmazonEventBridgeFullAccess.json) |
 | AmazonEventBridgePipesFullAccess | / | [v1](./policies/AmazonEventBridgePipesFullAccess.json) |
 | AmazonEventBridgePipesOperatorAccess | / | [v1](./policies/AmazonEventBridgePipesOperatorAccess.json) |
 | AmazonEventBridgePipesReadOnlyAccess | / | [v1](./policies/AmazonEventBridgePipesReadOnlyAccess.json) |
@@ -1260,7 +1260,7 @@
 | QBusinessServiceRolePolicy | /aws-service-role/ | [v1](./policies/QBusinessServiceRolePolicy.json) |
 | QuickSightAccessForS3StorageManagementAnalyticsReadOnly | /service-role/ | [v4](./policies/QuickSightAccessForS3StorageManagementAnalyticsReadOnly.json) |
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
-| ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v1](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
+| ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v2](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v2](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v2](./policies/ROSAImageRegistryOperatorPolicy.json) |
