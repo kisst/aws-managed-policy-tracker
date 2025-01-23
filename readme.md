@@ -104,9 +104,9 @@
 | AWSCertificateManagerFullAccess | / | [v2](./policies/AWSCertificateManagerFullAccess.json) |
 | AWSCertificateManagerPrivateCAAuditor | / | [v4](./policies/AWSCertificateManagerPrivateCAAuditor.json) |
 | AWSCertificateManagerPrivateCAFullAccess | / | [v1](./policies/AWSCertificateManagerPrivateCAFullAccess.json) |
-| AWSCertificateManagerPrivateCAPrivilegedUser | / | [v1](./policies/AWSCertificateManagerPrivateCAPrivilegedUser.json) |
+| AWSCertificateManagerPrivateCAPrivilegedUser | / | [v2](./policies/AWSCertificateManagerPrivateCAPrivilegedUser.json) |
 | AWSCertificateManagerPrivateCAReadOnly | / | [v3](./policies/AWSCertificateManagerPrivateCAReadOnly.json) |
-| AWSCertificateManagerPrivateCAUser | / | [v4](./policies/AWSCertificateManagerPrivateCAUser.json) |
+| AWSCertificateManagerPrivateCAUser | / | [v5](./policies/AWSCertificateManagerPrivateCAUser.json) |
 | AWSCertificateManagerReadOnly | / | [v4](./policies/AWSCertificateManagerReadOnly.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
@@ -455,9 +455,9 @@
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
 | AWSPrivateCAAuditor | / | [v1](./policies/AWSPrivateCAAuditor.json) |
 | AWSPrivateCAFullAccess | / | [v1](./policies/AWSPrivateCAFullAccess.json) |
-| AWSPrivateCAPrivilegedUser | / | [v1](./policies/AWSPrivateCAPrivilegedUser.json) |
+| AWSPrivateCAPrivilegedUser | / | [v2](./policies/AWSPrivateCAPrivilegedUser.json) |
 | AWSPrivateCAReadOnly | / | [v1](./policies/AWSPrivateCAReadOnly.json) |
-| AWSPrivateCAUser | / | [v1](./policies/AWSPrivateCAUser.json) |
+| AWSPrivateCAUser | / | [v2](./policies/AWSPrivateCAUser.json) |
 | AWSPrivateMarketplaceAdminFullAccess | / | [v6](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
 | AWSPrivateMarketplaceRequests | / | [v1](./policies/AWSPrivateMarketplaceRequests.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
@@ -1272,7 +1272,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v126](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v127](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
