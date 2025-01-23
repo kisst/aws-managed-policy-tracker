@@ -1272,7 +1272,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v3](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v1](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v127](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v128](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
