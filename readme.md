@@ -115,10 +115,10 @@
 | AWSCleanRoomsMLReadOnlyAccess | / | [v2](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
 | AWSCleanRoomsReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsReadOnlyAccess.json) |
 | AWSCloud9Administrator | / | [v4](./policies/AWSCloud9Administrator.json) |
-| AWSCloud9EnvironmentMember | / | [v3](./policies/AWSCloud9EnvironmentMember.json) |
+| AWSCloud9EnvironmentMember | / | [v4](./policies/AWSCloud9EnvironmentMember.json) |
 | AWSCloud9SSMInstanceProfile | / | [v1](./policies/AWSCloud9SSMInstanceProfile.json) |
 | AWSCloud9ServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSCloud9ServiceRolePolicy.json) |
-| AWSCloud9User | / | [v6](./policies/AWSCloud9User.json) |
+| AWSCloud9User | / | [v7](./policies/AWSCloud9User.json) |
 | AWSCloudFormationFullAccess | / | [v1](./policies/AWSCloudFormationFullAccess.json) |
 | AWSCloudFormationReadOnlyAccess | / | [v4](./policies/AWSCloudFormationReadOnlyAccess.json) |
 | AWSCloudFrontLogger | /aws-service-role/ | [v2](./policies/AWSCloudFrontLogger.json) |
