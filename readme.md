@@ -318,7 +318,7 @@
 | AWSImportExportReadOnlyAccess | / | [v1](./policies/AWSImportExportReadOnlyAccess.json) |
 | AWSIncidentManagerIncidentAccessServiceRolePolicy | / | [v2](./policies/AWSIncidentManagerIncidentAccessServiceRolePolicy.json) |
 | AWSIncidentManagerResolverAccess | / | [v1](./policies/AWSIncidentManagerResolverAccess.json) |
-| AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIncidentManagerServiceRolePolicy.json) |
+| AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSIncidentManagerServiceRolePolicy.json) |
 | AWSIoT1ClickFullAccess | / | [v1](./policies/AWSIoT1ClickFullAccess.json) |
 | AWSIoT1ClickReadOnlyAccess | / | [v1](./policies/AWSIoT1ClickReadOnlyAccess.json) |
 | AWSIoTAnalyticsFullAccess | / | [v1](./policies/AWSIoTAnalyticsFullAccess.json) |
