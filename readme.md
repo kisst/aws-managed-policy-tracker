@@ -1209,7 +1209,7 @@
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
 | FMSServiceRolePolicy | /aws-service-role/ | [v30](./policies/FMSServiceRolePolicy.json) |
 | FSxDeleteServiceLinkedRoleAccess | /aws-service-role/ | [v1](./policies/FSxDeleteServiceLinkedRoleAccess.json) |
-| GameLiftContainerFleetPolicy | / | [v1](./policies/GameLiftContainerFleetPolicy.json) |
+| GameLiftContainerFleetPolicy | / | [v2](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
 | GlobalAcceleratorFullAccess | / | [v6](./policies/GlobalAcceleratorFullAccess.json) |
 | GlobalAcceleratorReadOnlyAccess | / | [v1](./policies/GlobalAcceleratorReadOnlyAccess.json) |
