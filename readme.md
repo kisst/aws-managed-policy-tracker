@@ -777,7 +777,7 @@
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
 | AmazonEKS_CNI_Policy | / | [v5](./policies/AmazonEKS_CNI_Policy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
-| AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRContainersServiceRolePolicy.json) |
+| AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRFullAccessPolicy_v2 | / | [v4](./policies/AmazonEMRFullAccessPolicy_v2.json) |
 | AmazonEMRReadOnlyAccessPolicy_v2 | / | [v3](./policies/AmazonEMRReadOnlyAccessPolicy_v2.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
