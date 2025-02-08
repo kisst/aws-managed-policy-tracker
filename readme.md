@@ -172,7 +172,7 @@
 | AWSControlTowerServiceRolePolicy | /service-role/ | [v11](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
-| AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDMSServerlessServiceRolePolicy.json) |
+| AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSDMSServerlessServiceRolePolicy.json) |
 | AWSDataExchangeDataGrantOwnerFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantOwnerFullAccess.json) |
 | AWSDataExchangeDataGrantReceiverFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantReceiverFullAccess.json) |
 | AWSDataExchangeFullAccess | / | [v8](./policies/AWSDataExchangeFullAccess.json) |
@@ -821,7 +821,7 @@
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
 | AmazonFISServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFISServiceRolePolicy.json) |
-| AmazonFSxConsoleFullAccess | / | [v11](./policies/AmazonFSxConsoleFullAccess.json) |
+| AmazonFSxConsoleFullAccess | / | [v12](./policies/AmazonFSxConsoleFullAccess.json) |
 | AmazonFSxConsoleReadOnlyAccess | / | [v5](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
 | AmazonFSxFullAccess | / | [v10](./policies/AmazonFSxFullAccess.json) |
 | AmazonFSxReadOnlyAccess | / | [v1](./policies/AmazonFSxReadOnlyAccess.json) |
