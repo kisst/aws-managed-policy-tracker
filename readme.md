@@ -276,7 +276,7 @@
 | AWSFMAdminFullAccess | / | [v2](./policies/AWSFMAdminFullAccess.json) |
 | AWSFMAdminReadOnlyAccess | / | [v2](./policies/AWSFMAdminReadOnlyAccess.json) |
 | AWSFMMemberReadOnlyAccess | / | [v1](./policies/AWSFMMemberReadOnlyAccess.json) |
-| AWSFaultInjectionSimulatorEC2Access | /service-role/ | [v4](./policies/AWSFaultInjectionSimulatorEC2Access.json) |
+| AWSFaultInjectionSimulatorEC2Access | /service-role/ | [v5](./policies/AWSFaultInjectionSimulatorEC2Access.json) |
 | AWSFaultInjectionSimulatorECSAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorECSAccess.json) |
 | AWSFaultInjectionSimulatorEKSAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorEKSAccess.json) |
 | AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
