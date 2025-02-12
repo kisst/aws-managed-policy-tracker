@@ -523,7 +523,7 @@
 | AWSSSOMasterAccountAdministrator | / | [v10](./policies/AWSSSOMasterAccountAdministrator.json) |
 | AWSSSOMemberAccountAdministrator | / | [v8](./policies/AWSSSOMemberAccountAdministrator.json) |
 | AWSSSOReadOnly | / | [v9](./policies/AWSSSOReadOnly.json) |
-| AWSSSOServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSSSOServiceRolePolicy.json) |
+| AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecurityHubFullAccess | / | [v3](./policies/AWSSecurityHubFullAccess.json) |
@@ -727,8 +727,8 @@
 | AmazonDevOpsGuruReadOnlyAccess | / | [v6](./policies/AmazonDevOpsGuruReadOnlyAccess.json) |
 | AmazonDevOpsGuruServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonDevOpsGuruServiceRolePolicy.json) |
 | AmazonDocDB-ElasticServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDocDB-ElasticServiceRolePolicy.json) |
-| AmazonDocDBConsoleFullAccess | / | [v5](./policies/AmazonDocDBConsoleFullAccess.json) |
-| AmazonDocDBElasticFullAccess | / | [v3](./policies/AmazonDocDBElasticFullAccess.json) |
+| AmazonDocDBConsoleFullAccess | / | [v6](./policies/AmazonDocDBConsoleFullAccess.json) |
+| AmazonDocDBElasticFullAccess | / | [v4](./policies/AmazonDocDBElasticFullAccess.json) |
 | AmazonDocDBElasticReadOnlyAccess | / | [v2](./policies/AmazonDocDBElasticReadOnlyAccess.json) |
 | AmazonDocDBFullAccess | / | [v1](./policies/AmazonDocDBFullAccess.json) |
 | AmazonDocDBReadOnlyAccess | / | [v1](./policies/AmazonDocDBReadOnlyAccess.json) |
@@ -1207,7 +1207,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FMSServiceRolePolicy | /aws-service-role/ | [v30](./policies/FMSServiceRolePolicy.json) |
+| FMSServiceRolePolicy | /aws-service-role/ | [v31](./policies/FMSServiceRolePolicy.json) |
 | FSxDeleteServiceLinkedRoleAccess | /aws-service-role/ | [v1](./policies/FSxDeleteServiceLinkedRoleAccess.json) |
 | GameLiftContainerFleetPolicy | / | [v2](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
@@ -1307,7 +1307,7 @@
 | SimpleWorkflowFullAccess | / | [v1](./policies/SimpleWorkflowFullAccess.json) |
 | SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
 | SupportUser | /job-function/ | [v8](./policies/SupportUser.json) |
-| SystemAdministrator | /job-function/ | [v6](./policies/SystemAdministrator.json) |
+| SystemAdministrator | /job-function/ | [v7](./policies/SystemAdministrator.json) |
 | TranslateFullAccess | / | [v2](./policies/TranslateFullAccess.json) |
 | TranslateReadOnly | / | [v7](./policies/TranslateReadOnly.json) |
 | VMImportExportRoleForAWSConnector | /service-role/ | [v1](./policies/VMImportExportRoleForAWSConnector.json) |
