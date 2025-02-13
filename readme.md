@@ -258,6 +258,8 @@
 | AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
+| AWSElementalMediaConnectFullAccess | / | [v1](./policies/AWSElementalMediaConnectFullAccess.json) |
+| AWSElementalMediaConnectReadOnlyAccess | / | [v1](./policies/AWSElementalMediaConnectReadOnlyAccess.json) |
 | AWSElementalMediaConvertFullAccess | / | [v2](./policies/AWSElementalMediaConvertFullAccess.json) |
 | AWSElementalMediaConvertReadOnly | / | [v2](./policies/AWSElementalMediaConvertReadOnly.json) |
 | AWSElementalMediaLiveFullAccess | / | [v1](./policies/AWSElementalMediaLiveFullAccess.json) |
@@ -1289,7 +1291,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v7](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v4](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v5](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
