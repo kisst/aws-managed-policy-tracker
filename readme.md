@@ -257,7 +257,7 @@
 | AWSElasticDisasterRecoveryStagingAccountPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
-| AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
+| AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
 | AWSElementalMediaConnectFullAccess | / | [v1](./policies/AWSElementalMediaConnectFullAccess.json) |
 | AWSElementalMediaConnectReadOnlyAccess | / | [v1](./policies/AWSElementalMediaConnectReadOnlyAccess.json) |
 | AWSElementalMediaConvertFullAccess | / | [v2](./policies/AWSElementalMediaConvertFullAccess.json) |
@@ -1068,7 +1068,7 @@
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
 | AmazonTimestreamConsoleFullAccess | / | [v4](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccess | / | [v2](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
+| AmazonTimestreamInfluxDBFullAccess | / | [v3](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
 | AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonTimestreamReadOnlyAccess | / | [v4](./policies/AmazonTimestreamReadOnlyAccess.json) |
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
