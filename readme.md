@@ -1290,6 +1290,9 @@
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
 | SageMakerStudioBedrockEvaluationJobServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockEvaluationJobServiceRolePolicy.json) |
 | SageMakerStudioBedrockFlowServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockFlowServiceRolePolicy.json) |
+| SageMakerStudioBedrockFunctionExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockFunctionExecutionRolePolicy.json) |
+| SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
+| SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
