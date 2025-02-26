@@ -824,7 +824,7 @@
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
 | AmazonFISServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFISServiceRolePolicy.json) |
 | AmazonFSxConsoleFullAccess | / | [v12](./policies/AmazonFSxConsoleFullAccess.json) |
-| AmazonFSxConsoleReadOnlyAccess | / | [v5](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
+| AmazonFSxConsoleReadOnlyAccess | / | [v6](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
 | AmazonFSxFullAccess | / | [v10](./policies/AmazonFSxFullAccess.json) |
 | AmazonFSxReadOnlyAccess | / | [v1](./policies/AmazonFSxReadOnlyAccess.json) |
 | AmazonFSxServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFSxServiceRolePolicy.json) |
