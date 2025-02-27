@@ -773,7 +773,7 @@
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
@@ -1296,10 +1296,11 @@
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
-| SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
+| SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
+| SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v8](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v6](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v7](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
