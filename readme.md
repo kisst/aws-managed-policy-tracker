@@ -81,6 +81,7 @@
 | AWSBackupOperatorAccess | / | [v16](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
+| AWSBackupSearchOperatorAccess | / | [v1](./policies/AWSBackupSearchOperatorAccess.json) |
 | AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v17](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForBackup.json) |
@@ -165,7 +166,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v55](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v56](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -225,7 +226,7 @@
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
-| AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v6](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
+| AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v7](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
 | AWSElasticBeanstalkMulticontainerDocker | / | [v3](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
 | AWSElasticBeanstalkReadOnly | / | [v1](./policies/AWSElasticBeanstalkReadOnly.json) |
@@ -626,7 +627,7 @@
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v34](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v35](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v15](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
@@ -692,7 +693,7 @@
 | AmazonCognitoDeveloperAuthenticatedIdentities | / | [v1](./policies/AmazonCognitoDeveloperAuthenticatedIdentities.json) |
 | AmazonCognitoIdpEmailServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpEmailServiceRolePolicy.json) |
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
-| AmazonCognitoPowerUser | / | [v6](./policies/AmazonCognitoPowerUser.json) |
+| AmazonCognitoPowerUser | / | [v7](./policies/AmazonCognitoPowerUser.json) |
 | AmazonCognitoReadOnly | / | [v4](./policies/AmazonCognitoReadOnly.json) |
 | AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v3](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
@@ -1302,7 +1303,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v7](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v7](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v49](./policies/SecurityAudit.json) |
