@@ -217,7 +217,7 @@
 | AWSDirectoryServiceFullAccess | / | [v6](./policies/AWSDirectoryServiceFullAccess.json) |
 | AWSDirectoryServiceReadOnlyAccess | / | [v4](./policies/AWSDirectoryServiceReadOnlyAccess.json) |
 | AWSDiscoveryContinuousExportFirehosePolicy | / | [v2](./policies/AWSDiscoveryContinuousExportFirehosePolicy.json) |
-| AWSEC2CapacityReservationFleetRolePolicy | /aws-service-role/ | [v1](./policies/AWSEC2CapacityReservationFleetRolePolicy.json) |
+| AWSEC2CapacityReservationFleetRolePolicy | /aws-service-role/ | [v2](./policies/AWSEC2CapacityReservationFleetRolePolicy.json) |
 | AWSEC2FleetServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSEC2FleetServiceRolePolicy.json) |
 | AWSEC2SpotFleetServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotFleetServiceRolePolicy.json) |
 | AWSEC2SpotServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotServiceRolePolicy.json) |
@@ -784,7 +784,7 @@
 | AmazonEMRFullAccessPolicy_v2 | / | [v4](./policies/AmazonEMRFullAccessPolicy_v2.json) |
 | AmazonEMRReadOnlyAccessPolicy_v2 | / | [v3](./policies/AmazonEMRReadOnlyAccessPolicy_v2.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
-| AmazonEMRServicePolicy_v2 | /service-role/ | [v3](./policies/AmazonEMRServicePolicy_v2.json) |
+| AmazonEMRServicePolicy_v2 | /service-role/ | [v4](./policies/AmazonEMRServicePolicy_v2.json) |
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
 | AmazonESReadOnlyAccess | / | [v2](./policies/AmazonESReadOnlyAccess.json) |
@@ -1300,7 +1300,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v10](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v7](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v7](./policies/SageMakerStudioProjectUserRolePolicy.json) |
