@@ -344,6 +344,8 @@
 | AWSIoTFleetwiseServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIoTFleetwiseServiceRolePolicy.json) |
 | AWSIoTFullAccess | / | [v2](./policies/AWSIoTFullAccess.json) |
 | AWSIoTLogging | /service-role/ | [v1](./policies/AWSIoTLogging.json) |
+| AWSIoTManagedIntegrationsFullAccess | / | [v1](./policies/AWSIoTManagedIntegrationsFullAccess.json) |
+| AWSIoTManagedIntegrationsRolePolicy | /aws-service-role/ | [v1](./policies/AWSIoTManagedIntegrationsRolePolicy.json) |
 | AWSIoTOTAUpdate | /service-role/ | [v1](./policies/AWSIoTOTAUpdate.json) |
 | AWSIoTRuleActions | /service-role/ | [v2](./policies/AWSIoTRuleActions.json) |
 | AWSIoTSiteWiseConsoleFullAccess | / | [v1](./policies/AWSIoTSiteWiseConsoleFullAccess.json) |
@@ -1300,7 +1302,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v10](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v11](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v7](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v7](./policies/SageMakerStudioProjectUserRolePolicy.json) |
