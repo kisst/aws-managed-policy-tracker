@@ -222,7 +222,7 @@
 | AWSEC2SpotFleetServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotFleetServiceRolePolicy.json) |
 | AWSEC2SpotServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotServiceRolePolicy.json) |
 | AWSEC2VssSnapshotPolicy | / | [v2](./policies/AWSEC2VssSnapshotPolicy.json) |
-| AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
+| AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
@@ -715,9 +715,9 @@
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v5](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
-| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v7](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
+| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v8](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
-| AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v2](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
+| AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v3](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v5](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v2](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v2](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
@@ -960,8 +960,8 @@
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v1](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
-| AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
-| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonRDSCustomServiceRolePolicy.json) |
+| AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
+| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
