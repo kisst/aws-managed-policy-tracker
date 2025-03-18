@@ -377,8 +377,8 @@
 | AWSLambdaRole | /service-role/ | [v1](./policies/AWSLambdaRole.json) |
 | AWSLambdaSQSQueueExecutionRole | /service-role/ | [v1](./policies/AWSLambdaSQSQueueExecutionRole.json) |
 | AWSLambdaVPCAccessExecutionRole | /service-role/ | [v3](./policies/AWSLambdaVPCAccessExecutionRole.json) |
-| AWSLambda_FullAccess | / | [v1](./policies/AWSLambda_FullAccess.json) |
-| AWSLambda_ReadOnlyAccess | / | [v2](./policies/AWSLambda_ReadOnlyAccess.json) |
+| AWSLambda_FullAccess | / | [v2](./policies/AWSLambda_FullAccess.json) |
+| AWSLambda_ReadOnlyAccess | / | [v3](./policies/AWSLambda_ReadOnlyAccess.json) |
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
 | AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy.json) |
 | AWSLicenseManagerMasterAccountRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerMasterAccountRolePolicy.json) |
@@ -1144,7 +1144,7 @@
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
 | CloudWatchApplicationSignalsFullAccess | / | [v1](./policies/CloudWatchApplicationSignalsFullAccess.json) |
 | CloudWatchApplicationSignalsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationSignalsReadOnlyAccess.json) |
-| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v5](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
+| CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v6](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
 | CloudWatchEventsBuiltInTargetExecutionAccess | /service-role/ | [v1](./policies/CloudWatchEventsBuiltInTargetExecutionAccess.json) |
