@@ -283,8 +283,8 @@
 | AWSFaultInjectionSimulatorECSAccess | /service-role/ | [v4](./policies/AWSFaultInjectionSimulatorECSAccess.json) |
 | AWSFaultInjectionSimulatorEKSAccess | /service-role/ | [v4](./policies/AWSFaultInjectionSimulatorEKSAccess.json) |
 | AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
-| AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
-| AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v2](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
+| AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
+| AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSForWordPressPluginPolicy | / | [v2](./policies/AWSForWordPressPluginPolicy.json) |
 | AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSGitSyncServiceRolePolicy.json) |
