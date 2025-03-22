@@ -82,7 +82,7 @@
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
 | AWSBackupSearchOperatorAccess | / | [v1](./policies/AWSBackupSearchOperatorAccess.json) |
-| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v17](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
+| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v18](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForBackup.json) |
 | AWSBackupServiceRolePolicyForIndexing | / | [v1](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
@@ -1302,10 +1302,10 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v11](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v12](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v7](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v7](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v8](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v49](./policies/SecurityAudit.json) |
