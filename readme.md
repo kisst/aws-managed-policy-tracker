@@ -68,7 +68,7 @@
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactAgreementsFullAccess | / | [v1](./policies/AWSArtifactAgreementsFullAccess.json) |
 | AWSArtifactAgreementsReadOnlyAccess | / | [v1](./policies/AWSArtifactAgreementsReadOnlyAccess.json) |
-| AWSArtifactReportsReadOnlyAccess | / | [v1](./policies/AWSArtifactReportsReadOnlyAccess.json) |
+| AWSArtifactReportsReadOnlyAccess | / | [v2](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
 | AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSAuditManagerServiceRolePolicy.json) |
@@ -758,6 +758,7 @@
 | AmazonEC2RoleforSSM | /service-role/ | [v8](./policies/AmazonEC2RoleforSSM.json) |
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
+| AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
@@ -858,7 +859,7 @@
 | AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v5](./policies/AmazonInspector2ReadOnlyAccess.json) |
-| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v13](./policies/AmazonInspector2ServiceRolePolicy.json) |
+| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonInspector2ServiceRolePolicy.json) |
 | AmazonInspectorFullAccess | / | [v5](./policies/AmazonInspectorFullAccess.json) |
 | AmazonInspectorReadOnlyAccess | / | [v4](./policies/AmazonInspectorReadOnlyAccess.json) |
 | AmazonInspectorServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonInspectorServiceRolePolicy.json) |
