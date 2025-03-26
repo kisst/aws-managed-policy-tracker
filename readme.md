@@ -81,7 +81,7 @@
 | AWSBackupOperatorAccess | / | [v16](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
-| AWSBackupSearchOperatorAccess | / | [v1](./policies/AWSBackupSearchOperatorAccess.json) |
+| AWSBackupSearchOperatorAccess | / | [v2](./policies/AWSBackupSearchOperatorAccess.json) |
 | AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v18](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v20](./policies/AWSBackupServiceRolePolicyForBackup.json) |
@@ -513,7 +513,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
@@ -961,8 +961,8 @@
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v2](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
-| AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
-| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonRDSCustomServiceRolePolicy.json) |
+| AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
+| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
