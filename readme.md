@@ -42,7 +42,7 @@
 | AWSApplicationAutoscalingEC2SpotFleetRequestPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingEC2SpotFleetRequestPolicy.json) |
 | AWSApplicationAutoscalingECSServicePolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingECSServicePolicy.json) |
 | AWSApplicationAutoscalingEMRInstanceGroupPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingEMRInstanceGroupPolicy.json) |
-| AWSApplicationAutoscalingElastiCacheRGPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingElastiCacheRGPolicy.json) |
+| AWSApplicationAutoscalingElastiCacheRGPolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingElastiCacheRGPolicy.json) |
 | AWSApplicationAutoscalingKafkaClusterPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingKafkaClusterPolicy.json) |
 | AWSApplicationAutoscalingLambdaConcurrencyPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingLambdaConcurrencyPolicy.json) |
 | AWSApplicationAutoscalingNeptuneClusterPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingNeptuneClusterPolicy.json) |
@@ -1298,7 +1298,7 @@
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
@@ -1309,7 +1309,7 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v8](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v49](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v50](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
