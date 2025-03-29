@@ -758,7 +758,7 @@
 | AmazonEC2RoleforSSM | /service-role/ | [v8](./policies/AmazonEC2RoleforSSM.json) |
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
-| AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonECSComputeServiceRolePolicy.json) |
+| AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
@@ -815,7 +815,7 @@
 | AmazonElasticTranscoder_JobsSubmitter | / | [v2](./policies/AmazonElasticTranscoder_JobsSubmitter.json) |
 | AmazonElasticTranscoder_ReadOnlyAccess | / | [v2](./policies/AmazonElasticTranscoder_ReadOnlyAccess.json) |
 | AmazonElasticsearchServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonElasticsearchServiceRolePolicy.json) |
-| AmazonEventBridgeApiDestinationsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeApiDestinationsServiceRolePolicy.json) |
+| AmazonEventBridgeApiDestinationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEventBridgeApiDestinationsServiceRolePolicy.json) |
 | AmazonEventBridgeFullAccess | / | [v5](./policies/AmazonEventBridgeFullAccess.json) |
 | AmazonEventBridgePipesFullAccess | / | [v1](./policies/AmazonEventBridgePipesFullAccess.json) |
 | AmazonEventBridgePipesOperatorAccess | / | [v1](./policies/AmazonEventBridgePipesOperatorAccess.json) |
@@ -859,7 +859,7 @@
 | AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v5](./policies/AmazonInspector2ReadOnlyAccess.json) |
-| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonInspector2ServiceRolePolicy.json) |
+| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v15](./policies/AmazonInspector2ServiceRolePolicy.json) |
 | AmazonInspectorFullAccess | / | [v5](./policies/AmazonInspectorFullAccess.json) |
 | AmazonInspectorReadOnlyAccess | / | [v4](./policies/AmazonInspectorReadOnlyAccess.json) |
 | AmazonInspectorServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonInspectorServiceRolePolicy.json) |
