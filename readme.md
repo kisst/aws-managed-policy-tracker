@@ -631,7 +631,7 @@
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWS_ConfigRole | /service-role/ | [v35](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
-| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v15](./policies/AccessAnalyzerServiceRolePolicy.json) |
+| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v16](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v4](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
@@ -661,7 +661,7 @@
 | AmazonBedrockFullAccess | / | [v2](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockReadOnly | / | [v5](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
-| AmazonBraketFullAccess | / | [v6](./policies/AmazonBraketFullAccess.json) |
+| AmazonBraketFullAccess | / | [v7](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v2](./policies/AmazonBraketJobsExecutionPolicy.json) |
 | AmazonBraketServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonBraketServiceRolePolicy.json) |
 | AmazonChimeFullAccess | / | [v3](./policies/AmazonChimeFullAccess.json) |
