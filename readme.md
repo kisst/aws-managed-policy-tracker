@@ -1,6 +1,6 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIOpsAssistantPolicy | / | [v1](./policies/AIOpsAssistantPolicy.json) |
+| AIOpsAssistantPolicy | / | [v2](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v1](./policies/AIOpsConsoleAdminPolicy.json) |
 | AIOpsOperatorAccess | / | [v1](./policies/AIOpsOperatorAccess.json) |
 | AIOpsReadOnlyAccess | / | [v1](./policies/AIOpsReadOnlyAccess.json) |
