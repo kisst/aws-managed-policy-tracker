@@ -166,7 +166,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v56](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v57](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -629,7 +629,7 @@
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v35](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v36](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v16](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
@@ -715,7 +715,7 @@
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v5](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
-| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v8](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
+| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v9](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v3](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v5](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
@@ -1306,7 +1306,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v12](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v7](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v8](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v9](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v50](./policies/SecurityAudit.json) |
