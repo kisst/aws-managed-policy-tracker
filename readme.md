@@ -502,7 +502,7 @@
 | AWSQuicksightAthenaAccess | /service-role/ | [v11](./policies/AWSQuicksightAthenaAccess.json) |
 | AWSQuicksightOpenSearchPolicy | /service-role/ | [v1](./policies/AWSQuicksightOpenSearchPolicy.json) |
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
-| AWSRefactoringToolkitFullAccess | / | [v5](./policies/AWSRefactoringToolkitFullAccess.json) |
+| AWSRefactoringToolkitFullAccess | / | [v6](./policies/AWSRefactoringToolkitFullAccess.json) |
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
 | AWSResilienceHubAsssessmentExecutionPolicy | / | [v7](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
@@ -1293,7 +1293,7 @@
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
 | SageMakerStudioBedrockEvaluationJobServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockEvaluationJobServiceRolePolicy.json) |
-| SageMakerStudioBedrockFlowServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioBedrockFlowServiceRolePolicy.json) |
+| SageMakerStudioBedrockFlowServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockFlowServiceRolePolicy.json) |
 | SageMakerStudioBedrockFunctionExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockFunctionExecutionRolePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
@@ -1303,7 +1303,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v12](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v13](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v7](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v9](./policies/SageMakerStudioProjectUserRolePolicy.json) |
