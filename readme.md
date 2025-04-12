@@ -661,7 +661,7 @@
 | AmazonBedrockFullAccess | / | [v2](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockReadOnly | / | [v5](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
-| AmazonBraketFullAccess | / | [v7](./policies/AmazonBraketFullAccess.json) |
+| AmazonBraketFullAccess | / | [v8](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v2](./policies/AmazonBraketJobsExecutionPolicy.json) |
 | AmazonBraketServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonBraketServiceRolePolicy.json) |
 | AmazonChimeFullAccess | / | [v3](./policies/AmazonChimeFullAccess.json) |
