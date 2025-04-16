@@ -190,7 +190,7 @@
 | AWSDataSyncDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncDiscoveryServiceRolePolicy.json) |
 | AWSDataSyncFullAccess | / | [v7](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
-| AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncServiceRolePolicy.json) |
+| AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDataSyncServiceRolePolicy.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
 | AWSDeadlineCloud-UserAccessFarms | / | [v2](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
 | AWSDeadlineCloud-UserAccessFleets | / | [v1](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
