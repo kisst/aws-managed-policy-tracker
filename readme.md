@@ -1218,6 +1218,7 @@
 | FSxDeleteServiceLinkedRoleAccess | /aws-service-role/ | [v1](./policies/FSxDeleteServiceLinkedRoleAccess.json) |
 | GameLiftContainerFleetPolicy | / | [v2](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
+| GitLabDuoWithAmazonQPermissionsPolicy | / | [v1](./policies/GitLabDuoWithAmazonQPermissionsPolicy.json) |
 | GlobalAcceleratorFullAccess | / | [v6](./policies/GlobalAcceleratorFullAccess.json) |
 | GlobalAcceleratorReadOnlyAccess | / | [v1](./policies/GlobalAcceleratorReadOnlyAccess.json) |
 | GreengrassOTAUpdateArtifactAccess | /service-role/ | [v2](./policies/GreengrassOTAUpdateArtifactAccess.json) |
@@ -1297,7 +1298,7 @@
 | SageMakerStudioBedrockFlowServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockFlowServiceRolePolicy.json) |
 | SageMakerStudioBedrockFunctionExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockFunctionExecutionRolePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
-| SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
+| SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
