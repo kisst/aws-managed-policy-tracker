@@ -444,7 +444,7 @@
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
-| AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSOutpostsServiceRolePolicy.json) |
+| AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaApplianceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaApplianceRolePolicy.json) |
 | AWSPanoramaApplianceServiceRolePolicy | /service-role/ | [v3](./policies/AWSPanoramaApplianceServiceRolePolicy.json) |
@@ -482,6 +482,7 @@
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
 | AWSQuickSetupEnableDHMCExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableDHMCExecutionPolicy.json) |
 | AWSQuickSetupJITNADeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupJITNADeploymentRolePolicy.json) |
+| AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v1](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
 | AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v1](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
@@ -592,6 +593,9 @@
 | AWSSystemsManagerEnableExplorerExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableExplorerExecutionPolicy.json) |
 | AWSSystemsManagerForSAPFullAccess | / | [v3](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
+| AWSSystemsManagerJustInTimeAccessTokenPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenPolicy.json) |
+| AWSSystemsManagerJustInTimeAccessTokenSessionPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenSessionPolicy.json) |
+| AWSSystemsManagerNotificationsServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerNotificationsServicePolicy.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
 | AWSThinkboxAWSPortalAdminPolicy | / | [v9](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
 | AWSThinkboxAWSPortalGatewayPolicy | / | [v2](./policies/AWSThinkboxAWSPortalGatewayPolicy.json) |
@@ -951,7 +955,7 @@
 | AmazonPersonalizeFullAccess | /service-role/ | [v2](./policies/AmazonPersonalizeFullAccess.json) |
 | AmazonPollyFullAccess | / | [v1](./policies/AmazonPollyFullAccess.json) |
 | AmazonPollyReadOnlyAccess | / | [v2](./policies/AmazonPollyReadOnlyAccess.json) |
-| AmazonPrometheusConsoleFullAccess | / | [v3](./policies/AmazonPrometheusConsoleFullAccess.json) |
+| AmazonPrometheusConsoleFullAccess | / | [v4](./policies/AmazonPrometheusConsoleFullAccess.json) |
 | AmazonPrometheusFullAccess | / | [v2](./policies/AmazonPrometheusFullAccess.json) |
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
@@ -1074,7 +1078,8 @@
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
 | AmazonTimestreamConsoleFullAccess | / | [v4](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccess | / | [v3](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
+| AmazonTimestreamInfluxDBFullAccess | / | [v4](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
+| AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v1](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
 | AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonTimestreamReadOnlyAccess | / | [v4](./policies/AmazonTimestreamReadOnlyAccess.json) |
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
@@ -1272,7 +1277,7 @@
 | ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v2](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v3](./policies/ROSAControlPlaneOperatorPolicy.json) |
-| ROSAImageRegistryOperatorPolicy | /service-role/ | [v2](./policies/ROSAImageRegistryOperatorPolicy.json) |
+| ROSAImageRegistryOperatorPolicy | /service-role/ | [v3](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v2](./policies/ROSAIngressOperatorPolicy.json) |
 | ROSAInstallerPolicy | /service-role/ | [v5](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
