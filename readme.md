@@ -593,8 +593,10 @@
 | AWSSystemsManagerEnableExplorerExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableExplorerExecutionPolicy.json) |
 | AWSSystemsManagerForSAPFullAccess | / | [v3](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
+| AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
 | AWSSystemsManagerJustInTimeAccessTokenPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenPolicy.json) |
 | AWSSystemsManagerJustInTimeAccessTokenSessionPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenSessionPolicy.json) |
+| AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy.json) |
 | AWSSystemsManagerNotificationsServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerNotificationsServicePolicy.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
 | AWSThinkboxAWSPortalAdminPolicy | / | [v9](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
