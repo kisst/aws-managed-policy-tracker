@@ -188,7 +188,7 @@
 | AWSDataPipeline_FullAccess | / | [v2](./policies/AWSDataPipeline_FullAccess.json) |
 | AWSDataPipeline_PowerUser | / | [v2](./policies/AWSDataPipeline_PowerUser.json) |
 | AWSDataSyncDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncDiscoveryServiceRolePolicy.json) |
-| AWSDataSyncFullAccess | / | [v7](./policies/AWSDataSyncFullAccess.json) |
+| AWSDataSyncFullAccess | / | [v8](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDataSyncServiceRolePolicy.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
@@ -482,7 +482,7 @@
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
 | AWSQuickSetupEnableDHMCExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableDHMCExecutionPolicy.json) |
 | AWSQuickSetupJITNADeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupJITNADeploymentRolePolicy.json) |
-| AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v1](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
+| AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v2](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
 | AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v1](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
@@ -596,7 +596,7 @@
 | AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
 | AWSSystemsManagerJustInTimeAccessTokenPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenPolicy.json) |
 | AWSSystemsManagerJustInTimeAccessTokenSessionPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenSessionPolicy.json) |
-| AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy.json) |
+| AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy | / | [v2](./policies/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy.json) |
 | AWSSystemsManagerNotificationsServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerNotificationsServicePolicy.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
 | AWSThinkboxAWSPortalAdminPolicy | / | [v9](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
@@ -1313,7 +1313,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v13](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v14](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v9](./policies/SageMakerStudioProjectUserRolePolicy.json) |
