@@ -1140,8 +1140,8 @@
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
 | CloudFormationStackSetsOrgAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgAdminServiceRolePolicy.json) |
 | CloudFormationStackSetsOrgMemberServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgMemberServiceRolePolicy.json) |
-| CloudFrontFullAccess | / | [v8](./policies/CloudFrontFullAccess.json) |
-| CloudFrontReadOnlyAccess | / | [v6](./policies/CloudFrontReadOnlyAccess.json) |
+| CloudFrontFullAccess | / | [v9](./policies/CloudFrontFullAccess.json) |
+| CloudFrontReadOnlyAccess | / | [v7](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudHSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudHSMServiceRolePolicy.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
 | CloudSearchReadOnlyAccess | / | [v1](./policies/CloudSearchReadOnlyAccess.json) |
@@ -1316,7 +1316,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v14](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v9](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v10](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v50](./policies/SecurityAudit.json) |
