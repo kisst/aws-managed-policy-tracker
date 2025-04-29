@@ -1173,7 +1173,7 @@
 | CloudWatchLogsFullAccess | / | [v2](./policies/CloudWatchLogsFullAccess.json) |
 | CloudWatchLogsReadOnlyAccess | / | [v6](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v1](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
-| CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
+| CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardAccess.json) |
