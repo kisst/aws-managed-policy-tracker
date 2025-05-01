@@ -196,7 +196,7 @@
 | AWSDeadlineCloud-UserAccessFleets | / | [v1](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
 | AWSDeadlineCloud-UserAccessJobs | / | [v2](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
 | AWSDeadlineCloud-UserAccessQueues | / | [v2](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
-| AWSDeadlineCloud-WorkerHost | / | [v1](./policies/AWSDeadlineCloud-WorkerHost.json) |
+| AWSDeadlineCloud-WorkerHost | / | [v2](./policies/AWSDeadlineCloud-WorkerHost.json) |
 | AWSDeepLensLambdaFunctionAccessPolicy | / | [v4](./policies/AWSDeepLensLambdaFunctionAccessPolicy.json) |
 | AWSDeepLensServiceRolePolicy | /service-role/ | [v6](./policies/AWSDeepLensServiceRolePolicy.json) |
 | AWSDeepRacerAccountAdminAccess | / | [v1](./policies/AWSDeepRacerAccountAdminAccess.json) |
@@ -687,7 +687,7 @@
 | AmazonCloudWatchEvidentlyReadOnlyAccess | / | [v1](./policies/AmazonCloudWatchEvidentlyReadOnlyAccess.json) |
 | AmazonCloudWatchEvidentlyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCloudWatchEvidentlyServiceRolePolicy.json) |
 | AmazonCloudWatchRUMFullAccess | / | [v1](./policies/AmazonCloudWatchRUMFullAccess.json) |
-| AmazonCloudWatchRUMReadOnlyAccess | / | [v2](./policies/AmazonCloudWatchRUMReadOnlyAccess.json) |
+| AmazonCloudWatchRUMReadOnlyAccess | / | [v3](./policies/AmazonCloudWatchRUMReadOnlyAccess.json) |
 | AmazonCloudWatchRUMServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonCloudWatchRUMServiceRolePolicy.json) |
 | AmazonCodeCatalystFullAccess | / | [v1](./policies/AmazonCodeCatalystFullAccess.json) |
 | AmazonCodeCatalystReadOnlyAccess | / | [v1](./policies/AmazonCodeCatalystReadOnlyAccess.json) |
