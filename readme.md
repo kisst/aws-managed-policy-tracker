@@ -963,7 +963,7 @@
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
 | AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
 | AmazonQDeveloperAccess | / | [v3](./policies/AmazonQDeveloperAccess.json) |
-| AmazonQFullAccess | / | [v5](./policies/AmazonQFullAccess.json) |
+| AmazonQFullAccess | / | [v6](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
