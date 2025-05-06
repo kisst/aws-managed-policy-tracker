@@ -624,10 +624,10 @@
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
-| AWSWAFConsoleFullAccess | / | [v8](./policies/AWSWAFConsoleFullAccess.json) |
-| AWSWAFConsoleReadOnlyAccess | / | [v7](./policies/AWSWAFConsoleReadOnlyAccess.json) |
-| AWSWAFFullAccess | / | [v11](./policies/AWSWAFFullAccess.json) |
-| AWSWAFReadOnlyAccess | / | [v8](./policies/AWSWAFReadOnlyAccess.json) |
+| AWSWAFConsoleFullAccess | / | [v9](./policies/AWSWAFConsoleFullAccess.json) |
+| AWSWAFConsoleReadOnlyAccess | / | [v8](./policies/AWSWAFConsoleReadOnlyAccess.json) |
+| AWSWAFFullAccess | / | [v12](./policies/AWSWAFFullAccess.json) |
+| AWSWAFReadOnlyAccess | / | [v9](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
 | AWSWellArchitectedOrganizationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedOrganizationsServiceRolePolicy.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
@@ -1285,7 +1285,7 @@
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v4](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
-| ROSANodePoolManagementPolicy | /service-role/ | [v2](./policies/ROSANodePoolManagementPolicy.json) |
+| ROSANodePoolManagementPolicy | /service-role/ | [v3](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v4](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
 | ReadOnlyAccess | / | [v128](./policies/ReadOnlyAccess.json) |
@@ -1319,7 +1319,7 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v10](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v50](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v51](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
