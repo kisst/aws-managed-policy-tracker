@@ -188,7 +188,7 @@
 | AWSDataPipeline_FullAccess | / | [v2](./policies/AWSDataPipeline_FullAccess.json) |
 | AWSDataPipeline_PowerUser | / | [v2](./policies/AWSDataPipeline_PowerUser.json) |
 | AWSDataSyncDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncDiscoveryServiceRolePolicy.json) |
-| AWSDataSyncFullAccess | / | [v8](./policies/AWSDataSyncFullAccess.json) |
+| AWSDataSyncFullAccess | / | [v9](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDataSyncServiceRolePolicy.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
@@ -394,7 +394,7 @@
 | AWSManagedServices_SelfServiceReporting_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
-| AWSMarketplaceFullAccess | / | [v4](./policies/AWSMarketplaceFullAccess.json) |
+| AWSMarketplaceFullAccess | / | [v5](./policies/AWSMarketplaceFullAccess.json) |
 | AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
 | AWSMarketplaceImageBuildFullAccess | / | [v3](./policies/AWSMarketplaceImageBuildFullAccess.json) |
 | AWSMarketplaceLicenseManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceLicenseManagementServiceRolePolicy.json) |
@@ -403,7 +403,7 @@
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v1](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
-| AWSMarketplaceRead-only | / | [v5](./policies/AWSMarketplaceRead-only.json) |
+| AWSMarketplaceRead-only | / | [v6](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
 | AWSMarketplaceSellerFullAccess | / | [v16](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
