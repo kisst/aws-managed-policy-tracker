@@ -778,6 +778,7 @@
 | AmazonEKSClusterPolicy | / | [v8](./policies/AmazonEKSClusterPolicy.json) |
 | AmazonEKSComputePolicy | / | [v2](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
+| AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
 | AmazonEKSLoadBalancingPolicy | / | [v2](./policies/AmazonEKSLoadBalancingPolicy.json) |
