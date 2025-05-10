@@ -1122,7 +1122,7 @@
 | AppStudioServiceRolePolicy | /aws-service-role/ | [v2](./policies/AppStudioServiceRolePolicy.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
-| AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
+| AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
 | AutoScalingConsoleReadOnlyAccess | / | [v1](./policies/AutoScalingConsoleReadOnlyAccess.json) |
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
