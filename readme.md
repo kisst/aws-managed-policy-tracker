@@ -501,6 +501,7 @@
 | AWSQuickSightIoTAnalyticsAccess | / | [v1](./policies/AWSQuickSightIoTAnalyticsAccess.json) |
 | AWSQuickSightListIAM | /service-role/ | [v1](./policies/AWSQuickSightListIAM.json) |
 | AWSQuickSightSageMakerPolicy | /service-role/ | [v3](./policies/AWSQuickSightSageMakerPolicy.json) |
+| AWSQuickSightSecretsManagerWritePolicy | / | [v1](./policies/AWSQuickSightSecretsManagerWritePolicy.json) |
 | AWSQuickSightTimestreamPolicy | /service-role/ | [v1](./policies/AWSQuickSightTimestreamPolicy.json) |
 | AWSQuicksightAthenaAccess | /service-role/ | [v11](./policies/AWSQuicksightAthenaAccess.json) |
 | AWSQuicksightOpenSearchPolicy | /service-role/ | [v1](./policies/AWSQuicksightOpenSearchPolicy.json) |
@@ -639,7 +640,7 @@
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWS_ConfigRole | /service-role/ | [v36](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
-| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v16](./policies/AccessAnalyzerServiceRolePolicy.json) |
+| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v17](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v4](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
@@ -963,8 +964,8 @@
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
 | AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
-| AmazonQDeveloperAccess | / | [v3](./policies/AmazonQDeveloperAccess.json) |
-| AmazonQFullAccess | / | [v6](./policies/AmazonQFullAccess.json) |
+| AmazonQDeveloperAccess | / | [v4](./policies/AmazonQDeveloperAccess.json) |
+| AmazonQFullAccess | / | [v7](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
@@ -1340,7 +1341,7 @@
 | VPCLatticeFullAccess | / | [v2](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v2](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v23](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v24](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
