@@ -718,7 +718,7 @@
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
 | AmazonDMSVPCManagementRole | /service-role/ | [v4](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
-| AmazonDataZoneBedrockModelConsumptionPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelConsumptionPolicy.json) |
+| AmazonDataZoneBedrockModelConsumptionPolicy | /service-role/ | [v2](./policies/AmazonDataZoneBedrockModelConsumptionPolicy.json) |
 | AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v10](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
