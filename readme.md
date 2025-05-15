@@ -664,9 +664,9 @@
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
-| AmazonAuroraDSQLConsoleFullAccess | / | [v1](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
-| AmazonAuroraDSQLFullAccess | / | [v1](./policies/AmazonAuroraDSQLFullAccess.json) |
-| AmazonAuroraDSQLReadOnlyAccess | / | [v1](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
+| AmazonAuroraDSQLConsoleFullAccess | / | [v2](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
+| AmazonAuroraDSQLFullAccess | / | [v2](./policies/AmazonAuroraDSQLFullAccess.json) |
+| AmazonAuroraDSQLReadOnlyAccess | / | [v2](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockFullAccess | / | [v2](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockReadOnly | / | [v5](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
@@ -1202,8 +1202,8 @@
 | DynamoDBCloudWatchContributorInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBCloudWatchContributorInsightsServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
-| EC2FastLaunchFullAccess | / | [v1](./policies/EC2FastLaunchFullAccess.json) |
-| EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FastLaunchServiceRolePolicy.json) |
+| EC2FastLaunchFullAccess | / | [v2](./policies/EC2FastLaunchFullAccess.json) |
+| EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v2](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
