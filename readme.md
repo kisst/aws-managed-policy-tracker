@@ -553,6 +553,7 @@
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
+| AWSServiceRoleForAWSTransform | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAWSTransform.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v10](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
@@ -617,7 +618,7 @@
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
 | AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
 | AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
-| AWSVPCS2SVpnServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSVPCS2SVpnServiceRolePolicy.json) |
+| AWSVPCS2SVpnServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCS2SVpnServiceRolePolicy.json) |
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
 | AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
@@ -1001,7 +1002,7 @@
 | AmazonRoute53AutoNamingRegistrantAccess | / | [v1](./policies/AmazonRoute53AutoNamingRegistrantAccess.json) |
 | AmazonRoute53DomainsFullAccess | / | [v1](./policies/AmazonRoute53DomainsFullAccess.json) |
 | AmazonRoute53DomainsReadOnlyAccess | / | [v1](./policies/AmazonRoute53DomainsReadOnlyAccess.json) |
-| AmazonRoute53FullAccess | / | [v4](./policies/AmazonRoute53FullAccess.json) |
+| AmazonRoute53FullAccess | / | [v5](./policies/AmazonRoute53FullAccess.json) |
 | AmazonRoute53ProfilesFullAccess | / | [v2](./policies/AmazonRoute53ProfilesFullAccess.json) |
 | AmazonRoute53ProfilesReadOnlyAccess | / | [v2](./policies/AmazonRoute53ProfilesReadOnlyAccess.json) |
 | AmazonRoute53ReadOnlyAccess | / | [v2](./policies/AmazonRoute53ReadOnlyAccess.json) |
@@ -1147,6 +1148,7 @@
 | CloudHSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudHSMServiceRolePolicy.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
 | CloudSearchReadOnlyAccess | / | [v1](./policies/CloudSearchReadOnlyAccess.json) |
+| CloudTrailEventContext | /aws-service-role/ | [v1](./policies/CloudTrailEventContext.json) |
 | CloudTrailServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudTrailServiceRolePolicy.json) |
 | CloudWatch-CrossAccountAccess | /aws-service-role/ | [v1](./policies/CloudWatch-CrossAccountAccess.json) |
 | CloudWatchActionsEC2Access | / | [v1](./policies/CloudWatchActionsEC2Access.json) |
