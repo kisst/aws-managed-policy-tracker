@@ -802,6 +802,7 @@
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
 | AmazonESReadOnlyAccess | / | [v2](./policies/AmazonESReadOnlyAccess.json) |
+| AmazonEVSServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEVSServiceRolePolicy.json) |
 | AmazonElastiCacheFullAccess | / | [v3](./policies/AmazonElastiCacheFullAccess.json) |
 | AmazonElastiCacheReadOnlyAccess | / | [v1](./policies/AmazonElastiCacheReadOnlyAccess.json) |
 | AmazonElasticContainerRegistryPublicFullAccess | / | [v1](./policies/AmazonElasticContainerRegistryPublicFullAccess.json) |
@@ -832,8 +833,8 @@
 | AmazonEventBridgePipesOperatorAccess | / | [v1](./policies/AmazonEventBridgePipesOperatorAccess.json) |
 | AmazonEventBridgePipesReadOnlyAccess | / | [v1](./policies/AmazonEventBridgePipesReadOnlyAccess.json) |
 | AmazonEventBridgeReadOnlyAccess | / | [v6](./policies/AmazonEventBridgeReadOnlyAccess.json) |
-| AmazonEventBridgeSchedulerFullAccess | / | [v1](./policies/AmazonEventBridgeSchedulerFullAccess.json) |
-| AmazonEventBridgeSchedulerReadOnlyAccess | / | [v1](./policies/AmazonEventBridgeSchedulerReadOnlyAccess.json) |
+| AmazonEventBridgeSchedulerFullAccess | / | [v2](./policies/AmazonEventBridgeSchedulerFullAccess.json) |
+| AmazonEventBridgeSchedulerReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchedulerReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasFullAccess | / | [v1](./policies/AmazonEventBridgeSchemasFullAccess.json) |
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
