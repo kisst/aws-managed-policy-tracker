@@ -460,6 +460,7 @@
 | AWSPartnerLedSupportReadOnlyAccess | / | [v1](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
 | AWSPrivateCAAuditor | / | [v1](./policies/AWSPrivateCAAuditor.json) |
+| AWSPrivateCAConnectorForKubernetesPolicy | / | [v1](./policies/AWSPrivateCAConnectorForKubernetesPolicy.json) |
 | AWSPrivateCAFullAccess | / | [v1](./policies/AWSPrivateCAFullAccess.json) |
 | AWSPrivateCAPrivilegedUser | / | [v2](./policies/AWSPrivateCAPrivilegedUser.json) |
 | AWSPrivateCAReadOnly | / | [v1](./policies/AWSPrivateCAReadOnly.json) |
@@ -1210,7 +1211,7 @@
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
-| EC2InstanceProfileForImageBuilder | / | [v5](./policies/EC2InstanceProfileForImageBuilder.json) |
+| EC2InstanceProfileForImageBuilder | / | [v6](./policies/EC2InstanceProfileForImageBuilder.json) |
 | EC2InstanceProfileForImageBuilderECRContainerBuilds | / | [v1](./policies/EC2InstanceProfileForImageBuilderECRContainerBuilds.json) |
 | ECRReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRReplicationServiceRolePolicy.json) |
 | ECRTemplateServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRTemplateServiceRolePolicy.json) |
@@ -1284,7 +1285,7 @@
 | ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v2](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v3](./policies/ROSAControlPlaneOperatorPolicy.json) |
-| ROSAImageRegistryOperatorPolicy | /service-role/ | [v3](./policies/ROSAImageRegistryOperatorPolicy.json) |
+| ROSAImageRegistryOperatorPolicy | /service-role/ | [v4](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v2](./policies/ROSAIngressOperatorPolicy.json) |
 | ROSAInstallerPolicy | /service-role/ | [v5](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
