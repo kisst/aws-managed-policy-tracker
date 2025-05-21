@@ -188,7 +188,7 @@
 | AWSDataPipeline_FullAccess | / | [v2](./policies/AWSDataPipeline_FullAccess.json) |
 | AWSDataPipeline_PowerUser | / | [v2](./policies/AWSDataPipeline_PowerUser.json) |
 | AWSDataSyncDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDataSyncDiscoveryServiceRolePolicy.json) |
-| AWSDataSyncFullAccess | / | [v9](./policies/AWSDataSyncFullAccess.json) |
+| AWSDataSyncFullAccess | / | [v10](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDataSyncServiceRolePolicy.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
@@ -1176,8 +1176,8 @@
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
 | CloudWatchLambdaInsightsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaInsightsExecutionRolePolicy.json) |
 | CloudWatchLogsCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchLogsCrossAccountSharingConfiguration.json) |
-| CloudWatchLogsFullAccess | / | [v2](./policies/CloudWatchLogsFullAccess.json) |
-| CloudWatchLogsReadOnlyAccess | / | [v6](./policies/CloudWatchLogsReadOnlyAccess.json) |
+| CloudWatchLogsFullAccess | / | [v3](./policies/CloudWatchLogsFullAccess.json) |
+| CloudWatchLogsReadOnlyAccess | / | [v7](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v1](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
 | CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
