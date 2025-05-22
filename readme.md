@@ -502,6 +502,7 @@
 | AWSQuickSightIoTAnalyticsAccess | / | [v1](./policies/AWSQuickSightIoTAnalyticsAccess.json) |
 | AWSQuickSightListIAM | /service-role/ | [v1](./policies/AWSQuickSightListIAM.json) |
 | AWSQuickSightSageMakerPolicy | /service-role/ | [v3](./policies/AWSQuickSightSageMakerPolicy.json) |
+| AWSQuickSightSecretsManagerWriteAccess | /service-role/ | [v1](./policies/AWSQuickSightSecretsManagerWriteAccess.json) |
 | AWSQuickSightSecretsManagerWritePolicy | / | [v1](./policies/AWSQuickSightSecretsManagerWritePolicy.json) |
 | AWSQuickSightTimestreamPolicy | /service-role/ | [v1](./policies/AWSQuickSightTimestreamPolicy.json) |
 | AWSQuicksightAthenaAccess | /service-role/ | [v11](./policies/AWSQuicksightAthenaAccess.json) |
