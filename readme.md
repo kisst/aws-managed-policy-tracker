@@ -725,7 +725,7 @@
 | AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v10](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
-| AmazonDataZoneFullAccess | / | [v5](./policies/AmazonDataZoneFullAccess.json) |
+| AmazonDataZoneFullAccess | / | [v6](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v9](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
@@ -750,6 +750,7 @@
 | AmazonDocDBFullAccess | / | [v1](./policies/AmazonDocDBFullAccess.json) |
 | AmazonDocDBReadOnlyAccess | / | [v1](./policies/AmazonDocDBReadOnlyAccess.json) |
 | AmazonDynamoDBFullAccess | / | [v15](./policies/AmazonDynamoDBFullAccess.json) |
+| AmazonDynamoDBFullAccess_v2 | / | [v1](./policies/AmazonDynamoDBFullAccess_v2.json) |
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
 | AmazonDynamoDBReadOnlyAccess | / | [v15](./policies/AmazonDynamoDBReadOnlyAccess.json) |
 | AmazonEBSCSIDriverPolicy | /service-role/ | [v3](./policies/AmazonEBSCSIDriverPolicy.json) |
@@ -963,7 +964,7 @@
 | AmazonPersonalizeFullAccess | /service-role/ | [v2](./policies/AmazonPersonalizeFullAccess.json) |
 | AmazonPollyFullAccess | / | [v1](./policies/AmazonPollyFullAccess.json) |
 | AmazonPollyReadOnlyAccess | / | [v2](./policies/AmazonPollyReadOnlyAccess.json) |
-| AmazonPrometheusConsoleFullAccess | / | [v4](./policies/AmazonPrometheusConsoleFullAccess.json) |
+| AmazonPrometheusConsoleFullAccess | / | [v5](./policies/AmazonPrometheusConsoleFullAccess.json) |
 | AmazonPrometheusFullAccess | / | [v2](./policies/AmazonPrometheusFullAccess.json) |
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
@@ -1319,7 +1320,7 @@
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
-| SageMakerStudioFullAccess | / | [v2](./policies/SageMakerStudioFullAccess.json) |
+| SageMakerStudioFullAccess | / | [v3](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v14](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
