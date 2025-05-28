@@ -527,7 +527,7 @@
 | AWSRoboMaker_FullAccess | / | [v2](./policies/AWSRoboMaker_FullAccess.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
-| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v10](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
+| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v11](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
 | AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
