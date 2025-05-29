@@ -396,7 +396,6 @@
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
 | AWSMarketplaceFullAccess | / | [v5](./policies/AWSMarketplaceFullAccess.json) |
 | AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
-| AWSMarketplaceImageBuildFullAccess | / | [v3](./policies/AWSMarketplaceImageBuildFullAccess.json) |
 | AWSMarketplaceLicenseManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceLicenseManagementServiceRolePolicy.json) |
 | AWSMarketplaceManageSubscriptions | / | [v4](./policies/AWSMarketplaceManageSubscriptions.json) |
 | AWSMarketplaceMeteringFullAccess | / | [v1](./policies/AWSMarketplaceMeteringFullAccess.json) |
@@ -721,7 +720,7 @@
 | AmazonDMSRedshiftS3Role | /service-role/ | [v3](./policies/AmazonDMSRedshiftS3Role.json) |
 | AmazonDMSVPCManagementRole | /service-role/ | [v4](./policies/AmazonDMSVPCManagementRole.json) |
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
-| AmazonDataZoneBedrockModelConsumptionPolicy | /service-role/ | [v2](./policies/AmazonDataZoneBedrockModelConsumptionPolicy.json) |
+| AmazonDataZoneBedrockModelConsumptionPolicy | /service-role/ | [v3](./policies/AmazonDataZoneBedrockModelConsumptionPolicy.json) |
 | AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v10](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
@@ -773,7 +772,7 @@
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
-| AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
+| AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
@@ -1238,8 +1237,6 @@
 | GlobalAcceleratorFullAccess | / | [v6](./policies/GlobalAcceleratorFullAccess.json) |
 | GlobalAcceleratorReadOnlyAccess | / | [v1](./policies/GlobalAcceleratorReadOnlyAccess.json) |
 | GreengrassOTAUpdateArtifactAccess | /service-role/ | [v2](./policies/GreengrassOTAUpdateArtifactAccess.json) |
-| GroundTruthSyntheticConsoleFullAccess | / | [v1](./policies/GroundTruthSyntheticConsoleFullAccess.json) |
-| GroundTruthSyntheticConsoleReadOnlyAccess | / | [v1](./policies/GroundTruthSyntheticConsoleReadOnlyAccess.json) |
 | Health_OrganizationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/Health_OrganizationsServiceRolePolicy.json) |
 | IAMAccessAdvisorReadOnly | / | [v1](./policies/IAMAccessAdvisorReadOnly.json) |
 | IAMAccessAnalyzerFullAccess | / | [v1](./policies/IAMAccessAnalyzerFullAccess.json) |
@@ -1347,7 +1344,7 @@
 | VPCLatticeFullAccess | / | [v2](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v2](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v24](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v25](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
