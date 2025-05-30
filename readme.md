@@ -829,7 +829,7 @@
 | AmazonElasticTranscoder_JobsSubmitter | / | [v2](./policies/AmazonElasticTranscoder_JobsSubmitter.json) |
 | AmazonElasticTranscoder_ReadOnlyAccess | / | [v2](./policies/AmazonElasticTranscoder_ReadOnlyAccess.json) |
 | AmazonElasticsearchServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonElasticsearchServiceRolePolicy.json) |
-| AmazonEventBridgeApiDestinationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEventBridgeApiDestinationsServiceRolePolicy.json) |
+| AmazonEventBridgeApiDestinationsServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEventBridgeApiDestinationsServiceRolePolicy.json) |
 | AmazonEventBridgeFullAccess | / | [v5](./policies/AmazonEventBridgeFullAccess.json) |
 | AmazonEventBridgePipesFullAccess | / | [v1](./policies/AmazonEventBridgePipesFullAccess.json) |
 | AmazonEventBridgePipesOperatorAccess | / | [v1](./policies/AmazonEventBridgePipesOperatorAccess.json) |
@@ -1247,7 +1247,7 @@
 | IAMFullAccess | / | [v2](./policies/IAMFullAccess.json) |
 | IAMReadOnlyAccess | / | [v4](./policies/IAMReadOnlyAccess.json) |
 | IAMSelfManageServiceSpecificCredentials | / | [v1](./policies/IAMSelfManageServiceSpecificCredentials.json) |
-| IAMUserChangePassword | / | [v2](./policies/IAMUserChangePassword.json) |
+| IAMUserChangePassword | / | [v3](./policies/IAMUserChangePassword.json) |
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
 | IVSFullAccess | / | [v1](./policies/IVSFullAccess.json) |
 | IVSReadOnlyAccess | / | [v3](./policies/IVSReadOnlyAccess.json) |
