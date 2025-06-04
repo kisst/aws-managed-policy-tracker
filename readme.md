@@ -169,7 +169,7 @@
 | AWSConfigServiceRolePolicy | /aws-service-role/ | [v58](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
-| AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
+| AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSControlTowerServiceRolePolicy | /service-role/ | [v11](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
@@ -1069,6 +1069,7 @@
 | AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsLambdaServiceRolePolicy.json) |
 | AmazonSageMakerPipelinesIntegrations | / | [v3](./policies/AmazonSageMakerPipelinesIntegrations.json) |
+| AmazonSageMakerQuickSightVPCPolicy | /service-role/ | [v1](./policies/AmazonSageMakerQuickSightVPCPolicy.json) |
 | AmazonSageMakerReadOnly | / | [v11](./policies/AmazonSageMakerReadOnly.json) |
 | AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy.json) |
@@ -1293,7 +1294,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v3](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v4](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v128](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v129](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
@@ -1318,10 +1319,10 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v3](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v14](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v15](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v10](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v11](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v51](./policies/SecurityAudit.json) |
