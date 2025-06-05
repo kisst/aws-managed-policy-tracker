@@ -857,6 +857,7 @@
 | AmazonGrafanaRedshiftAccess | /service-role/ | [v1](./policies/AmazonGrafanaRedshiftAccess.json) |
 | AmazonGrafanaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGrafanaServiceLinkedRolePolicy.json) |
 | AmazonGuardDutyFullAccess | / | [v6](./policies/AmazonGuardDutyFullAccess.json) |
+| AmazonGuardDutyFullAccess_v2 | / | [v1](./policies/AmazonGuardDutyFullAccess_v2.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
 | AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonGuardDutyServiceRolePolicy.json) |
