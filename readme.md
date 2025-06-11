@@ -426,6 +426,8 @@
 | AWSMigrationHubStrategyCollector | / | [v6](./policies/AWSMigrationHubStrategyCollector.json) |
 | AWSMigrationHubStrategyConsoleFullAccess | / | [v2](./policies/AWSMigrationHubStrategyConsoleFullAccess.json) |
 | AWSMigrationHubStrategyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMigrationHubStrategyServiceRolePolicy.json) |
+| AWSNetworkFirewallFullAccess | / | [v1](./policies/AWSNetworkFirewallFullAccess.json) |
+| AWSNetworkFirewallReadOnlyAccess | / | [v1](./policies/AWSNetworkFirewallReadOnlyAccess.json) |
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
 | AWSNetworkManagerCloudWANServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkManagerCloudWANServiceRolePolicy.json) |
 | AWSNetworkManagerFullAccess | / | [v1](./policies/AWSNetworkManagerFullAccess.json) |
@@ -476,7 +478,7 @@
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
 | AWSPurchaseOrdersServiceRolePolicy | / | [v6](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
 | AWSQuickSetupCFGCPacksPermissionsBoundary | / | [v1](./policies/AWSQuickSetupCFGCPacksPermissionsBoundary.json) |
-| AWSQuickSetupDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
+| AWSQuickSetupDeploymentRolePolicy | / | [v2](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
 | AWSQuickSetupDevOpsGuruPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDevOpsGuruPermissionsBoundary.json) |
 | AWSQuickSetupDistributorPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDistributorPermissionsBoundary.json) |
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
@@ -540,6 +542,7 @@
 | AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
+| AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseFullAccess.json) |
 | AWSSecurityIncidentResponseReadOnlyAccess | / | [v1](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
