@@ -466,7 +466,7 @@
 | AWSPrivateCAPrivilegedUser | / | [v2](./policies/AWSPrivateCAPrivilegedUser.json) |
 | AWSPrivateCAReadOnly | / | [v1](./policies/AWSPrivateCAReadOnly.json) |
 | AWSPrivateCAUser | / | [v2](./policies/AWSPrivateCAUser.json) |
-| AWSPrivateMarketplaceAdminFullAccess | / | [v6](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
+| AWSPrivateMarketplaceAdminFullAccess | / | [v7](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
 | AWSPrivateMarketplaceRequests | / | [v1](./policies/AWSPrivateMarketplaceRequests.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
 | AWSProtonCodeBuildProvisioningBasicAccess | / | [v1](./policies/AWSProtonCodeBuildProvisioningBasicAccess.json) |
@@ -577,6 +577,7 @@
 | AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v2](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
 | AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
+| AWSServiceRolePolicyForWorkspacesInstances | /aws-service-role/ | [v1](./policies/AWSServiceRolePolicyForWorkspacesInstances.json) |
 | AWSShieldDRTAccessPolicy | /service-role/ | [v6](./policies/AWSShieldDRTAccessPolicy.json) |
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
