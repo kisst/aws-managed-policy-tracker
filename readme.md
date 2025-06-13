@@ -694,7 +694,7 @@
 | AmazonCloudWatchEvidentlyReadOnlyAccess | / | [v1](./policies/AmazonCloudWatchEvidentlyReadOnlyAccess.json) |
 | AmazonCloudWatchEvidentlyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCloudWatchEvidentlyServiceRolePolicy.json) |
 | AmazonCloudWatchRUMFullAccess | / | [v1](./policies/AmazonCloudWatchRUMFullAccess.json) |
-| AmazonCloudWatchRUMReadOnlyAccess | / | [v3](./policies/AmazonCloudWatchRUMReadOnlyAccess.json) |
+| AmazonCloudWatchRUMReadOnlyAccess | / | [v4](./policies/AmazonCloudWatchRUMReadOnlyAccess.json) |
 | AmazonCloudWatchRUMServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonCloudWatchRUMServiceRolePolicy.json) |
 | AmazonCodeCatalystFullAccess | / | [v1](./policies/AmazonCodeCatalystFullAccess.json) |
 | AmazonCodeCatalystReadOnlyAccess | / | [v1](./policies/AmazonCodeCatalystReadOnlyAccess.json) |
@@ -1327,7 +1327,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v15](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v11](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v12](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v51](./policies/SecurityAudit.json) |
