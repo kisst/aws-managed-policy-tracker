@@ -1120,6 +1120,7 @@
 | AmazonWorkSpacesSelfServiceAccess | / | [v1](./policies/AmazonWorkSpacesSelfServiceAccess.json) |
 | AmazonWorkSpacesServiceAccess | / | [v2](./policies/AmazonWorkSpacesServiceAccess.json) |
 | AmazonWorkSpacesThinClientFullAccess | / | [v2](./policies/AmazonWorkSpacesThinClientFullAccess.json) |
+| AmazonWorkSpacesThinClientMonitoringServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkSpacesThinClientMonitoringServiceRolePolicy.json) |
 | AmazonWorkSpacesThinClientReadOnlyAccess | / | [v3](./policies/AmazonWorkSpacesThinClientReadOnlyAccess.json) |
 | AmazonWorkSpacesWebReadOnly | / | [v2](./policies/AmazonWorkSpacesWebReadOnly.json) |
 | AmazonWorkSpacesWebServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonWorkSpacesWebServiceRolePolicy.json) |
@@ -1277,6 +1278,7 @@
 | NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
 | NeptuneReadOnlyAccess | / | [v3](./policies/NeptuneReadOnlyAccess.json) |
 | NetworkAdministrator | /job-function/ | [v13](./policies/NetworkAdministrator.json) |
+| NetworkSecurityDirectorServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/NetworkSecurityDirectorServiceLinkedRolePolicy.json) |
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
@@ -1327,7 +1329,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v15](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v12](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v13](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v51](./policies/SecurityAudit.json) |
