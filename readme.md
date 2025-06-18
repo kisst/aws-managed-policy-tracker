@@ -538,7 +538,7 @@
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
-| AWSSecurityHubFullAccess | / | [v3](./policies/AWSSecurityHubFullAccess.json) |
+| AWSSecurityHubFullAccess | / | [v4](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
@@ -1090,7 +1090,7 @@
 | AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
 | AmazonTextractFullAccess | / | [v1](./policies/AmazonTextractFullAccess.json) |
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
-| AmazonTimestreamConsoleFullAccess | / | [v4](./policies/AmazonTimestreamConsoleFullAccess.json) |
+| AmazonTimestreamConsoleFullAccess | / | [v5](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccess | / | [v4](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v1](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
@@ -1321,7 +1321,7 @@
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
