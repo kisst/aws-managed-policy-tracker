@@ -593,7 +593,7 @@
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v3](./policies/AWSSupportPlansFullAccess.json) |
 | AWSSupportPlansReadOnlyAccess | / | [v2](./policies/AWSSupportPlansReadOnlyAccess.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v39](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v40](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
@@ -1273,6 +1273,8 @@
 | MigrationHubSMSAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/MigrationHubSMSAccessServiceRolePolicy.json) |
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
+| MultiPartyApprovalFullAccess | / | [v1](./policies/MultiPartyApprovalFullAccess.json) |
+| MultiPartyApprovalReadOnlyAccess | / | [v1](./policies/MultiPartyApprovalReadOnlyAccess.json) |
 | NeptuneConsoleFullAccess | / | [v5](./policies/NeptuneConsoleFullAccess.json) |
 | NeptuneFullAccess | / | [v7](./policies/NeptuneFullAccess.json) |
 | NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
