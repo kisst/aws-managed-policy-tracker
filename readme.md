@@ -730,7 +730,7 @@
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v6](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
-| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v9](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
+| AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v10](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v3](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v5](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
@@ -786,6 +786,7 @@
 | AmazonEKSClusterPolicy | / | [v8](./policies/AmazonEKSClusterPolicy.json) |
 | AmazonEKSComputePolicy | / | [v2](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
+| AmazonEKSDashboardConsoleReadOnly | / | [v1](./policies/AmazonEKSDashboardConsoleReadOnly.json) |
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
@@ -1028,6 +1029,7 @@
 | AmazonS3OutpostsReadOnlyAccess | / | [v1](./policies/AmazonS3OutpostsReadOnlyAccess.json) |
 | AmazonS3ReadOnlyAccess | / | [v3](./policies/AmazonS3ReadOnlyAccess.json) |
 | AmazonS3TablesFullAccess | / | [v1](./policies/AmazonS3TablesFullAccess.json) |
+| AmazonS3TablesLakeFormationServiceRole | /service-role/ | [v1](./policies/AmazonS3TablesLakeFormationServiceRole.json) |
 | AmazonS3TablesReadOnlyAccess | / | [v1](./policies/AmazonS3TablesReadOnlyAccess.json) |
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
 | AmazonSESReadOnlyAccess | / | [v2](./policies/AmazonSESReadOnlyAccess.json) |
