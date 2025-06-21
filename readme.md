@@ -166,7 +166,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v58](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v59](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -644,7 +644,7 @@
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v1](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v37](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v38](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v17](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
@@ -784,7 +784,7 @@
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
 | AmazonEKSBlockStoragePolicy | / | [v1](./policies/AmazonEKSBlockStoragePolicy.json) |
 | AmazonEKSClusterPolicy | / | [v8](./policies/AmazonEKSClusterPolicy.json) |
-| AmazonEKSComputePolicy | / | [v2](./policies/AmazonEKSComputePolicy.json) |
+| AmazonEKSComputePolicy | / | [v3](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
 | AmazonEKSDashboardConsoleReadOnly | / | [v1](./policies/AmazonEKSDashboardConsoleReadOnly.json) |
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
@@ -795,7 +795,7 @@
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
@@ -1263,6 +1263,7 @@
 | IVSRecordToS3 | /aws-service-role/ | [v1](./policies/IVSRecordToS3.json) |
 | KafkaConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/KafkaConnectServiceRolePolicy.json) |
 | KafkaServiceRolePolicy | /aws-service-role/ | [v4](./policies/KafkaServiceRolePolicy.json) |
+| KeyspacesCDCServiceRolePolicy | /aws-service-role/ | [v1](./policies/KeyspacesCDCServiceRolePolicy.json) |
 | KeyspacesReplicationServiceRolePolicy | /aws-service-role/ | [v2](./policies/KeyspacesReplicationServiceRolePolicy.json) |
 | LakeFormationDataAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/LakeFormationDataAccessServiceRolePolicy.json) |
 | LexBotPolicy | /aws-service-role/ | [v2](./policies/LexBotPolicy.json) |
