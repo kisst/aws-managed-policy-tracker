@@ -3,7 +3,7 @@
 | AIOpsAssistantPolicy | / | [v2](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v1](./policies/AIOpsConsoleAdminPolicy.json) |
 | AIOpsOperatorAccess | / | [v1](./policies/AIOpsOperatorAccess.json) |
-| AIOpsReadOnlyAccess | / | [v1](./policies/AIOpsReadOnlyAccess.json) |
+| AIOpsReadOnlyAccess | / | [v2](./policies/AIOpsReadOnlyAccess.json) |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
 | AWS-SSM-Automation-DiagnosisBucketPolicy | / | [v1](./policies/AWS-SSM-Automation-DiagnosisBucketPolicy.json) |
 | AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy.json) |
@@ -446,6 +446,7 @@
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
+| AWSPCSComputeNodePolicy | / | [v1](./policies/AWSPCSComputeNodePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaApplianceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaApplianceRolePolicy.json) |
 | AWSPanoramaApplianceServiceRolePolicy | /service-role/ | [v3](./policies/AWSPanoramaApplianceServiceRolePolicy.json) |
