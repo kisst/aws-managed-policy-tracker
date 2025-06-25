@@ -540,7 +540,7 @@
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecurityHubFullAccess | / | [v4](./policies/AWSSecurityHubFullAccess.json) |
-| AWSSecurityHubOrganizationsAccess | / | [v2](./policies/AWSSecurityHubOrganizationsAccess.json) |
+| AWSSecurityHubOrganizationsAccess | / | [v3](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
@@ -779,7 +779,7 @@
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
-| AmazonECSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonECSServiceRolePolicy.json) |
+| AmazonECSServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
@@ -901,7 +901,7 @@
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
 | AmazonLexFullAccess | / | [v9](./policies/AmazonLexFullAccess.json) |
 | AmazonLexReadOnly | / | [v5](./policies/AmazonLexReadOnly.json) |
-| AmazonLexReplicationPolicy | /aws-service-role/ | [v2](./policies/AmazonLexReplicationPolicy.json) |
+| AmazonLexReplicationPolicy | /aws-service-role/ | [v3](./policies/AmazonLexReplicationPolicy.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
 | AmazonLexV2BotPolicy | /aws-service-role/ | [v1](./policies/AmazonLexV2BotPolicy.json) |
 | AmazonLookoutEquipmentFullAccess | / | [v3](./policies/AmazonLookoutEquipmentFullAccess.json) |
@@ -951,7 +951,7 @@
 | AmazonNimbleStudio-LaunchProfileWorker | / | [v1](./policies/AmazonNimbleStudio-LaunchProfileWorker.json) |
 | AmazonNimbleStudio-StudioAdmin | / | [v4](./policies/AmazonNimbleStudio-StudioAdmin.json) |
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
-| AmazonODBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonODBServiceRolePolicy.json) |
+| AmazonODBServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonODBServiceRolePolicy.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
 | AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
