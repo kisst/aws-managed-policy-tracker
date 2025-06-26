@@ -284,7 +284,7 @@
 | AWSFaultInjectionSimulatorEKSAccess | /service-role/ | [v4](./policies/AWSFaultInjectionSimulatorEKSAccess.json) |
 | AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
 | AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
-| AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v3](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
+| AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v4](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSForWordPressPluginPolicy | / | [v2](./policies/AWSForWordPressPluginPolicy.json) |
 | AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSGitSyncServiceRolePolicy.json) |
@@ -847,9 +847,9 @@
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
 | AmazonFISServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFISServiceRolePolicy.json) |
-| AmazonFSxConsoleFullAccess | / | [v12](./policies/AmazonFSxConsoleFullAccess.json) |
+| AmazonFSxConsoleFullAccess | / | [v13](./policies/AmazonFSxConsoleFullAccess.json) |
 | AmazonFSxConsoleReadOnlyAccess | / | [v6](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
-| AmazonFSxFullAccess | / | [v10](./policies/AmazonFSxFullAccess.json) |
+| AmazonFSxFullAccess | / | [v11](./policies/AmazonFSxFullAccess.json) |
 | AmazonFSxReadOnlyAccess | / | [v1](./policies/AmazonFSxReadOnlyAccess.json) |
 | AmazonFSxServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFSxServiceRolePolicy.json) |
 | AmazonForecastFullAccess | / | [v1](./policies/AmazonForecastFullAccess.json) |
