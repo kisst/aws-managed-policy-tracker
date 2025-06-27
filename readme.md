@@ -793,7 +793,7 @@
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
 | AmazonEKSLoadBalancingPolicy | / | [v2](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
-| AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
+| AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonEKSServiceRolePolicy.json) |
