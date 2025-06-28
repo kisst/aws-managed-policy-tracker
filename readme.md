@@ -888,7 +888,7 @@
 | AmazonKendraReadOnlyAccess | / | [v2](./policies/AmazonKendraReadOnlyAccess.json) |
 | AmazonKeyspacesFullAccess | / | [v5](./policies/AmazonKeyspacesFullAccess.json) |
 | AmazonKeyspacesReadOnlyAccess | / | [v3](./policies/AmazonKeyspacesReadOnlyAccess.json) |
-| AmazonKeyspacesReadOnlyAccess_v2 | / | [v1](./policies/AmazonKeyspacesReadOnlyAccess_v2.json) |
+| AmazonKeyspacesReadOnlyAccess_v2 | / | [v2](./policies/AmazonKeyspacesReadOnlyAccess_v2.json) |
 | AmazonKinesisAnalyticsFullAccess | / | [v1](./policies/AmazonKinesisAnalyticsFullAccess.json) |
 | AmazonKinesisAnalyticsReadOnly | / | [v1](./policies/AmazonKinesisAnalyticsReadOnly.json) |
 | AmazonKinesisFirehoseFullAccess | / | [v1](./policies/AmazonKinesisFirehoseFullAccess.json) |
