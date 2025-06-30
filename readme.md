@@ -674,7 +674,9 @@
 | AmazonAuroraDSQLConsoleFullAccess | / | [v3](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
 | AmazonAuroraDSQLFullAccess | / | [v3](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v2](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
-| AmazonBedrockFullAccess | / | [v2](./policies/AmazonBedrockFullAccess.json) |
+| AmazonBedrockFullAccess | / | [v3](./policies/AmazonBedrockFullAccess.json) |
+| AmazonBedrockLimitedAccess | / | [v1](./policies/AmazonBedrockLimitedAccess.json) |
+| AmazonBedrockMarketplaceAccess | / | [v1](./policies/AmazonBedrockMarketplaceAccess.json) |
 | AmazonBedrockReadOnly | / | [v5](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
 | AmazonBraketFullAccess | / | [v8](./policies/AmazonBraketFullAccess.json) |
