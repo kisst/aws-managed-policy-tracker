@@ -881,6 +881,7 @@
 | AmazonHoneycodeWorkbookReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeWorkbookReadOnlyAccess.json) |
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
 | AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
+| AmazonInspector2FullAccess_v2 | / | [v1](./policies/AmazonInspector2FullAccess_v2.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v5](./policies/AmazonInspector2ReadOnlyAccess.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v16](./policies/AmazonInspector2ServiceRolePolicy.json) |
@@ -954,7 +955,7 @@
 | AmazonNimbleStudio-LaunchProfileWorker | / | [v1](./policies/AmazonNimbleStudio-LaunchProfileWorker.json) |
 | AmazonNimbleStudio-StudioAdmin | / | [v4](./policies/AmazonNimbleStudio-StudioAdmin.json) |
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
-| AmazonODBServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonODBServiceRolePolicy.json) |
+| AmazonODBServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonODBServiceRolePolicy.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
 | AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
@@ -1335,7 +1336,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v4](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v15](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v16](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v14](./policies/SageMakerStudioProjectUserRolePolicy.json) |
