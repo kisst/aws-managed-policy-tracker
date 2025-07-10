@@ -1034,7 +1034,7 @@
 | AmazonS3OutpostsReadOnlyAccess | / | [v1](./policies/AmazonS3OutpostsReadOnlyAccess.json) |
 | AmazonS3ReadOnlyAccess | / | [v3](./policies/AmazonS3ReadOnlyAccess.json) |
 | AmazonS3TablesFullAccess | / | [v1](./policies/AmazonS3TablesFullAccess.json) |
-| AmazonS3TablesLakeFormationServiceRole | /service-role/ | [v1](./policies/AmazonS3TablesLakeFormationServiceRole.json) |
+| AmazonS3TablesLakeFormationServiceRole | /service-role/ | [v2](./policies/AmazonS3TablesLakeFormationServiceRole.json) |
 | AmazonS3TablesReadOnlyAccess | / | [v1](./policies/AmazonS3TablesReadOnlyAccess.json) |
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
 | AmazonSESReadOnlyAccess | / | [v2](./policies/AmazonSESReadOnlyAccess.json) |
@@ -1323,6 +1323,7 @@
 | SMSVoiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/SMSVoiceServiceRolePolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
+| SageMakerStudioAdminProjectUserRolePolicy | / | [v1](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
 | SageMakerStudioBedrockEvaluationJobServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockEvaluationJobServiceRolePolicy.json) |
