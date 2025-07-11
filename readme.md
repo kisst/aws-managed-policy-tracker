@@ -95,7 +95,7 @@
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v10](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v11](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -216,6 +216,7 @@
 | AWSDirectoryServiceDataReadOnlyAccess | / | [v1](./policies/AWSDirectoryServiceDataReadOnlyAccess.json) |
 | AWSDirectoryServiceFullAccess | / | [v6](./policies/AWSDirectoryServiceFullAccess.json) |
 | AWSDirectoryServiceReadOnlyAccess | / | [v4](./policies/AWSDirectoryServiceReadOnlyAccess.json) |
+| AWSDirectoryServiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDirectoryServiceServiceRolePolicy.json) |
 | AWSDiscoveryContinuousExportFirehosePolicy | / | [v2](./policies/AWSDiscoveryContinuousExportFirehosePolicy.json) |
 | AWSEC2CapacityReservationFleetRolePolicy | /aws-service-role/ | [v2](./policies/AWSEC2CapacityReservationFleetRolePolicy.json) |
 | AWSEC2FleetServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSEC2FleetServiceRolePolicy.json) |
@@ -1071,6 +1072,7 @@
 | AmazonSageMakerGeospatialExecutionRole | /service-role/ | [v2](./policies/AmazonSageMakerGeospatialExecutionRole.json) |
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
+| AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v1](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
@@ -1323,7 +1325,7 @@
 | SMSVoiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/SMSVoiceServiceRolePolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
-| SageMakerStudioAdminProjectUserRolePolicy | / | [v1](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
+| SageMakerStudioAdminProjectUserRolePolicy | / | [v2](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
 | SageMakerStudioBedrockEvaluationJobServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockEvaluationJobServiceRolePolicy.json) |
@@ -1355,7 +1357,7 @@
 | ServiceQuotasServiceRolePolicy | /aws-service-role/ | [v2](./policies/ServiceQuotasServiceRolePolicy.json) |
 | SimpleWorkflowFullAccess | / | [v1](./policies/SimpleWorkflowFullAccess.json) |
 | SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
-| SupportUser | /job-function/ | [v8](./policies/SupportUser.json) |
+| SupportUser | /job-function/ | [v9](./policies/SupportUser.json) |
 | SystemAdministrator | /job-function/ | [v7](./policies/SystemAdministrator.json) |
 | TranslateFullAccess | / | [v2](./policies/TranslateFullAccess.json) |
 | TranslateReadOnly | / | [v7](./policies/TranslateReadOnly.json) |
