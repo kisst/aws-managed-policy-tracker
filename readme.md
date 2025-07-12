@@ -683,7 +683,7 @@
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
 | AmazonBraketFullAccess | / | [v8](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v2](./policies/AmazonBraketJobsExecutionPolicy.json) |
-| AmazonBraketServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonBraketServiceRolePolicy.json) |
+| AmazonBraketServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonBraketServiceRolePolicy.json) |
 | AmazonChimeFullAccess | / | [v3](./policies/AmazonChimeFullAccess.json) |
 | AmazonChimeReadOnly | / | [v10](./policies/AmazonChimeReadOnly.json) |
 | AmazonChimeSDK | / | [v5](./policies/AmazonChimeSDK.json) |
@@ -1342,7 +1342,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v16](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v14](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v15](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v52](./policies/SecurityAudit.json) |
