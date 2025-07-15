@@ -87,7 +87,7 @@
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v22](./policies/AWSBackupServiceRolePolicyForBackup.json) |
 | AWSBackupServiceRolePolicyForIndexing | / | [v1](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
 | AWSBackupServiceRolePolicyForItemRestores | / | [v1](./policies/AWSBackupServiceRolePolicyForItemRestores.json) |
-| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v23](./policies/AWSBackupServiceRolePolicyForRestores.json) |
+| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v24](./policies/AWSBackupServiceRolePolicyForRestores.json) |
 | AWSBackupServiceRolePolicyForS3Backup | / | [v4](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
@@ -1340,7 +1340,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v4](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v16](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v8](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v9](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v15](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
