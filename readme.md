@@ -6,11 +6,11 @@
 | AIOpsReadOnlyAccess | / | [v2](./policies/AIOpsReadOnlyAccess.json) |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
 | AWS-SSM-Automation-DiagnosisBucketPolicy | / | [v1](./policies/AWS-SSM-Automation-DiagnosisBucketPolicy.json) |
-| AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy.json) |
-| AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy.json) |
+| AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy | / | [v2](./policies/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy.json) |
+| AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy | / | [v2](./policies/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy.json) |
 | AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy.json) |
-| AWS-SSM-RemediationAutomation-AdministrationRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-AdministrationRolePolicy.json) |
-| AWS-SSM-RemediationAutomation-ExecutionRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-ExecutionRolePolicy.json) |
+| AWS-SSM-RemediationAutomation-AdministrationRolePolicy | / | [v2](./policies/AWS-SSM-RemediationAutomation-AdministrationRolePolicy.json) |
+| AWS-SSM-RemediationAutomation-ExecutionRolePolicy | / | [v2](./policies/AWS-SSM-RemediationAutomation-ExecutionRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy.json) |
 | AWSAccountActivityAccess | / | [v2](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
@@ -529,6 +529,8 @@
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRoboMakerServiceRolePolicy | / | [v1](./policies/AWSRoboMakerServiceRolePolicy.json) |
 | AWSRoboMaker_FullAccess | / | [v2](./policies/AWSRoboMaker_FullAccess.json) |
+| AWSRolesAnywhereFullAccess | / | [v1](./policies/AWSRolesAnywhereFullAccess.json) |
+| AWSRolesAnywhereReadOnly | / | [v1](./policies/AWSRolesAnywhereReadOnly.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
 | AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v12](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
@@ -677,6 +679,7 @@
 | AmazonAuroraDSQLConsoleFullAccess | / | [v3](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
 | AmazonAuroraDSQLFullAccess | / | [v3](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v2](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
+| AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v1](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v3](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockLimitedAccess | / | [v1](./policies/AmazonBedrockLimitedAccess.json) |
 | AmazonBedrockMarketplaceAccess | / | [v1](./policies/AmazonBedrockMarketplaceAccess.json) |
@@ -722,7 +725,7 @@
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v26](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v27](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
@@ -1157,6 +1160,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
+| BedrockAgentCoreFullAccess | / | [v1](./policies/BedrockAgentCoreFullAccess.json) |
 | Billing | /job-function/ | [v15](./policies/Billing.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
