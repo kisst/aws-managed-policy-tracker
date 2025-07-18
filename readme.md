@@ -784,6 +784,7 @@
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonECSComputeServiceRolePolicy.json) |
+| AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
@@ -1219,7 +1220,7 @@
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
-| CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/CostOptimizationHubServiceRolePolicy.json) |
+| CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
@@ -1229,7 +1230,7 @@
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
 | EC2FastLaunchFullAccess | / | [v2](./policies/EC2FastLaunchFullAccess.json) |
-| EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v2](./policies/EC2FastLaunchServiceRolePolicy.json) |
+| EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v3](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
@@ -1318,7 +1319,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v3](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v4](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v129](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v130](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
