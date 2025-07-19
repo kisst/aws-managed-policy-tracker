@@ -593,7 +593,7 @@
 | AWSStorageGatewayReadOnlyAccess | / | [v2](./policies/AWSStorageGatewayReadOnlyAccess.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
 | AWSSupplyChainFederationAdminAccess | /service-role/ | [v4](./policies/AWSSupplyChainFederationAdminAccess.json) |
-| AWSSupportAccess | / | [v1](./policies/AWSSupportAccess.json) |
+| AWSSupportAccess | / | [v2](./policies/AWSSupportAccess.json) |
 | AWSSupportAppFullAccess | / | [v1](./policies/AWSSupportAppFullAccess.json) |
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v3](./policies/AWSSupportPlansFullAccess.json) |
