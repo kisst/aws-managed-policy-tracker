@@ -1351,7 +1351,7 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v15](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v52](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v53](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
