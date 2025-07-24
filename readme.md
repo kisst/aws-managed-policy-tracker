@@ -1364,7 +1364,7 @@
 | SimpleWorkflowFullAccess | / | [v1](./policies/SimpleWorkflowFullAccess.json) |
 | SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
 | SupportUser | /job-function/ | [v9](./policies/SupportUser.json) |
-| SystemAdministrator | /job-function/ | [v7](./policies/SystemAdministrator.json) |
+| SystemAdministrator | /job-function/ | [v8](./policies/SystemAdministrator.json) |
 | TranslateFullAccess | / | [v2](./policies/TranslateFullAccess.json) |
 | TranslateReadOnly | / | [v7](./policies/TranslateReadOnly.json) |
 | VMImportExportRoleForAWSConnector | /service-role/ | [v1](./policies/VMImportExportRoleForAWSConnector.json) |
