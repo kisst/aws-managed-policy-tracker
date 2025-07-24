@@ -523,7 +523,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
@@ -571,7 +571,7 @@
 | AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
-| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v20](./policies/AWSServiceRoleForImageBuilder.json) |
+| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v21](./policies/AWSServiceRoleForImageBuilder.json) |
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForMonitronPolicy.json) |
@@ -737,7 +737,7 @@
 | AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
 | AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v10](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
-| AmazonDataZoneFullAccess | / | [v6](./policies/AmazonDataZoneFullAccess.json) |
+| AmazonDataZoneFullAccess | / | [v7](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v10](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
@@ -1344,7 +1344,7 @@
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
-| SageMakerStudioFullAccess | / | [v4](./policies/SageMakerStudioFullAccess.json) |
+| SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v17](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v10](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
