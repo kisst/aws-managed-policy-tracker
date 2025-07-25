@@ -1272,7 +1272,7 @@
 | IAMUserChangePassword | / | [v3](./policies/IAMUserChangePassword.json) |
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
 | IVSFullAccess | / | [v1](./policies/IVSFullAccess.json) |
-| IVSReadOnlyAccess | / | [v3](./policies/IVSReadOnlyAccess.json) |
+| IVSReadOnlyAccess | / | [v4](./policies/IVSReadOnlyAccess.json) |
 | IVSRecordToS3 | /aws-service-role/ | [v1](./policies/IVSRecordToS3.json) |
 | KafkaConnectServiceRolePolicy | /aws-service-role/ | [v1](./policies/KafkaConnectServiceRolePolicy.json) |
 | KafkaServiceRolePolicy | /aws-service-role/ | [v4](./policies/KafkaServiceRolePolicy.json) |
@@ -1319,7 +1319,7 @@
 | ROSANodePoolManagementPolicy | /service-role/ | [v3](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v4](./policies/ROSASRESupportPolicy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v130](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v131](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
@@ -1351,7 +1351,7 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v15](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v53](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v54](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
