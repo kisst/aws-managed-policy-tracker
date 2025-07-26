@@ -784,7 +784,7 @@
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonECSComputeServiceRolePolicy.json) |
-| AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
+| AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
