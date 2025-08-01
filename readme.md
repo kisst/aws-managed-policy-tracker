@@ -1241,7 +1241,7 @@
 | ECRTemplateServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRTemplateServiceRolePolicy.json) |
 | EMRDescribeClusterPolicyForEMRWAL | /aws-service-role/ | [v1](./policies/EMRDescribeClusterPolicyForEMRWAL.json) |
 | Ec2ImageBuilderCrossAccountDistributionAccess | / | [v1](./policies/Ec2ImageBuilderCrossAccountDistributionAccess.json) |
-| Ec2InstanceConnectEndpoint | /aws-service-role/ | [v1](./policies/Ec2InstanceConnectEndpoint.json) |
+| Ec2InstanceConnectEndpoint | /aws-service-role/ | [v2](./policies/Ec2InstanceConnectEndpoint.json) |
 | ElastiCacheServiceRolePolicy | /aws-service-role/ | [v4](./policies/ElastiCacheServiceRolePolicy.json) |
 | ElasticLoadBalancingFullAccess | / | [v8](./policies/ElasticLoadBalancingFullAccess.json) |
 | ElasticLoadBalancingReadOnly | / | [v3](./policies/ElasticLoadBalancingReadOnly.json) |
