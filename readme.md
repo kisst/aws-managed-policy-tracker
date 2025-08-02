@@ -405,7 +405,7 @@
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v1](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v6](./policies/AWSMarketplaceRead-only.json) |
-| AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
+| AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
 | AWSMarketplaceSellerFullAccess | / | [v16](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v9](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
@@ -436,6 +436,7 @@
 | AWSNetworkManagerReadOnlyAccess | / | [v1](./policies/AWSNetworkManagerReadOnlyAccess.json) |
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOpsWorksCMInstanceProfileRole | / | [v5](./policies/AWSOpsWorksCMInstanceProfileRole.json) |
 | AWSOpsWorksCMServiceRole | /service-role/ | [v14](./policies/AWSOpsWorksCMServiceRole.json) |
 | AWSOpsWorksCloudWatchLogs | / | [v1](./policies/AWSOpsWorksCloudWatchLogs.json) |
