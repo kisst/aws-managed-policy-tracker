@@ -774,7 +774,7 @@
 | AmazonEC2ContainerServiceAutoscaleRole | /service-role/ | [v2](./policies/AmazonEC2ContainerServiceAutoscaleRole.json) |
 | AmazonEC2ContainerServiceEventsRole | /service-role/ | [v3](./policies/AmazonEC2ContainerServiceEventsRole.json) |
 | AmazonEC2ContainerServiceRole | /service-role/ | [v2](./policies/AmazonEC2ContainerServiceRole.json) |
-| AmazonEC2ContainerServiceforEC2Role | /service-role/ | [v7](./policies/AmazonEC2ContainerServiceforEC2Role.json) |
+| AmazonEC2ContainerServiceforEC2Role | /service-role/ | [v8](./policies/AmazonEC2ContainerServiceforEC2Role.json) |
 | AmazonEC2FullAccess | / | [v5](./policies/AmazonEC2FullAccess.json) |
 | AmazonEC2ReadOnlyAccess | / | [v3](./policies/AmazonEC2ReadOnlyAccess.json) |
 | AmazonEC2RolePolicyForLaunchWizard | / | [v11](./policies/AmazonEC2RolePolicyForLaunchWizard.json) |
