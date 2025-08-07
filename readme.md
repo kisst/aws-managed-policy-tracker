@@ -552,7 +552,7 @@
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseFullAccess.json) |
 | AWSSecurityIncidentResponseReadOnlyAccess | / | [v1](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
-| AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
+| AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseTriageServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSecurityIncidentResponseTriageServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
@@ -1342,7 +1342,7 @@
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v5](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
