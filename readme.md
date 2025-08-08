@@ -482,7 +482,7 @@
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
 | AWSPurchaseOrdersServiceRolePolicy | / | [v6](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
 | AWSQuickSetupCFGCPacksPermissionsBoundary | / | [v1](./policies/AWSQuickSetupCFGCPacksPermissionsBoundary.json) |
-| AWSQuickSetupDeploymentRolePolicy | / | [v2](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
+| AWSQuickSetupDeploymentRolePolicy | / | [v3](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
 | AWSQuickSetupDevOpsGuruPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDevOpsGuruPermissionsBoundary.json) |
 | AWSQuickSetupDistributorPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDistributorPermissionsBoundary.json) |
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
