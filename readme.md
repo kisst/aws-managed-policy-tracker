@@ -499,6 +499,8 @@
 | AWSQuickSetupSSMLifecycleManagementExecutionPolicy | / | [v1](./policies/AWSQuickSetupSSMLifecycleManagementExecutionPolicy.json) |
 | AWSQuickSetupSSMManageResourcesExecutionPolicy | / | [v1](./policies/AWSQuickSetupSSMManageResourcesExecutionPolicy.json) |
 | AWSQuickSetupSchedulerPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSchedulerPermissionsBoundary.json) |
+| AWSQuickSetupStartSSMAssociationsExecutionPolicy | / | [v1](./policies/AWSQuickSetupStartSSMAssociationsExecutionPolicy.json) |
+| AWSQuickSetupStartStopInstancesExecutionPolicy | / | [v1](./policies/AWSQuickSetupStartStopInstancesExecutionPolicy.json) |
 | AWSQuickSightAssetBundleExportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleExportPolicy.json) |
 | AWSQuickSightAssetBundleImportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleImportPolicy.json) |
 | AWSQuickSightDescribeRDS | /service-role/ | [v1](./policies/AWSQuickSightDescribeRDS.json) |
