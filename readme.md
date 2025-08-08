@@ -993,8 +993,8 @@
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v2](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
-| AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
-| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonRDSCustomServiceRolePolicy.json) |
+| AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
+| AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v13](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
