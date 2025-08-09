@@ -554,7 +554,7 @@
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseFullAccess.json) |
 | AWSSecurityIncidentResponseReadOnlyAccess | / | [v1](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
-| AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
+| AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseTriageServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSecurityIncidentResponseTriageServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
@@ -1101,7 +1101,7 @@
 | AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
-| AmazonSageMakerTrainingPlanCreateAccess | / | [v1](./policies/AmazonSageMakerTrainingPlanCreateAccess.json) |
+| AmazonSageMakerTrainingPlanCreateAccess | / | [v2](./policies/AmazonSageMakerTrainingPlanCreateAccess.json) |
 | AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
 | AmazonSecurityLakeMetastoreManager | /service-role/ | [v2](./policies/AmazonSecurityLakeMetastoreManager.json) |
 | AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
