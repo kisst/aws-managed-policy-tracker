@@ -1316,12 +1316,14 @@
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v3](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v4](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v2](./policies/ROSAIngressOperatorPolicy.json) |
-| ROSAInstallerPolicy | /service-role/ | [v5](./policies/ROSAInstallerPolicy.json) |
+| ROSAInstallerPolicy | /service-role/ | [v6](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v4](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
 | ROSANodePoolManagementPolicy | /service-role/ | [v3](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v4](./policies/ROSASRESupportPolicy.json) |
+| ROSASharedVPCEndpointPolicy | / | [v1](./policies/ROSASharedVPCEndpointPolicy.json) |
+| ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
 | ReadOnlyAccess | / | [v131](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
