@@ -536,7 +536,7 @@
 | AWSRolesAnywhereReadOnly | / | [v1](./policies/AWSRolesAnywhereReadOnly.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
-| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v12](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
+| AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v13](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
 | AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
