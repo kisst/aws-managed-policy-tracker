@@ -443,7 +443,6 @@
 | AWSOpsWorksInstanceRegistration | / | [v1](./policies/AWSOpsWorksInstanceRegistration.json) |
 | AWSOpsWorksRegisterCLI_EC2 | / | [v1](./policies/AWSOpsWorksRegisterCLI_EC2.json) |
 | AWSOpsWorksRegisterCLI_OnPremises | / | [v1](./policies/AWSOpsWorksRegisterCLI_OnPremises.json) |
-| AWSOpsWorks_FullAccess | / | [v1](./policies/AWSOpsWorks_FullAccess.json) |
 | AWSOrganizationsFullAccess | / | [v7](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
