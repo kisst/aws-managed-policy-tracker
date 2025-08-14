@@ -112,7 +112,7 @@
 | AWSCertificateManagerReadOnly | / | [v4](./policies/AWSCertificateManagerReadOnly.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
-| AWSCleanRoomsFullAccessNoQuerying | / | [v4](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
+| AWSCleanRoomsFullAccessNoQuerying | / | [v5](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
 | AWSCleanRoomsMLFullAccess | / | [v2](./policies/AWSCleanRoomsMLFullAccess.json) |
 | AWSCleanRoomsMLReadOnlyAccess | / | [v2](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
 | AWSCleanRoomsReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsReadOnlyAccess.json) |
@@ -1351,7 +1351,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v17](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v18](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v10](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v16](./policies/SageMakerStudioProjectUserRolePolicy.json) |
