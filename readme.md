@@ -394,6 +394,8 @@
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
 | AWSManagedServices_EventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_EventsServiceRolePolicy.json) |
 | AWSManagedServices_SelfServiceReporting_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy.json) |
+| AWSManagementConsoleAdministratorAccess | /job-function/ | [v1](./policies/AWSManagementConsoleAdministratorAccess.json) |
+| AWSManagementConsoleBasicUserAccess | / | [v1](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
 | AWSMarketplaceFullAccess | / | [v5](./policies/AWSMarketplaceFullAccess.json) |
@@ -437,12 +439,6 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
 | AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
-| AWSOpsWorksCMInstanceProfileRole | / | [v5](./policies/AWSOpsWorksCMInstanceProfileRole.json) |
-| AWSOpsWorksCMServiceRole | /service-role/ | [v14](./policies/AWSOpsWorksCMServiceRole.json) |
-| AWSOpsWorksCloudWatchLogs | / | [v1](./policies/AWSOpsWorksCloudWatchLogs.json) |
-| AWSOpsWorksInstanceRegistration | / | [v1](./policies/AWSOpsWorksInstanceRegistration.json) |
-| AWSOpsWorksRegisterCLI_EC2 | / | [v1](./policies/AWSOpsWorksRegisterCLI_EC2.json) |
-| AWSOpsWorksRegisterCLI_OnPremises | / | [v1](./policies/AWSOpsWorksRegisterCLI_OnPremises.json) |
 | AWSOrganizationsFullAccess | / | [v7](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
@@ -821,7 +817,7 @@
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
 | AmazonESReadOnlyAccess | / | [v2](./policies/AmazonESReadOnlyAccess.json) |
-| AmazonEVSServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEVSServiceRolePolicy.json) |
+| AmazonEVSServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEVSServiceRolePolicy.json) |
 | AmazonElastiCacheFullAccess | / | [v3](./policies/AmazonElastiCacheFullAccess.json) |
 | AmazonElastiCacheReadOnlyAccess | / | [v1](./policies/AmazonElastiCacheReadOnlyAccess.json) |
 | AmazonElasticContainerRegistryPublicFullAccess | / | [v1](./policies/AmazonElasticContainerRegistryPublicFullAccess.json) |
