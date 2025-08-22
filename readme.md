@@ -96,7 +96,7 @@
 | AWSBatchServiceRolePolicyForSageMaker | /aws-service-role/ | [v1](./policies/AWSBatchServiceRolePolicyForSageMaker.json) |
 | AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v11](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v12](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -1075,7 +1075,7 @@
 | AmazonSageMakerGeospatialExecutionRole | /service-role/ | [v2](./policies/AmazonSageMakerGeospatialExecutionRole.json) |
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
-| AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v1](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
+| AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v2](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v1](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
