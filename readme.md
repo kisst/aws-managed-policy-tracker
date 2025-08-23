@@ -674,8 +674,8 @@
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
-| AmazonAuroraDSQLConsoleFullAccess | / | [v3](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
-| AmazonAuroraDSQLFullAccess | / | [v3](./policies/AmazonAuroraDSQLFullAccess.json) |
+| AmazonAuroraDSQLConsoleFullAccess | / | [v4](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
+| AmazonAuroraDSQLFullAccess | / | [v4](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v2](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v1](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v3](./policies/AmazonBedrockFullAccess.json) |
