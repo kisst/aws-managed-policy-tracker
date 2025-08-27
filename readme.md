@@ -773,6 +773,7 @@
 | AmazonEC2ContainerServiceRole | /service-role/ | [v2](./policies/AmazonEC2ContainerServiceRole.json) |
 | AmazonEC2ContainerServiceforEC2Role | /service-role/ | [v8](./policies/AmazonEC2ContainerServiceforEC2Role.json) |
 | AmazonEC2FullAccess | / | [v5](./policies/AmazonEC2FullAccess.json) |
+| AmazonEC2ImageReferencesAccessPolicy | / | [v1](./policies/AmazonEC2ImageReferencesAccessPolicy.json) |
 | AmazonEC2ReadOnlyAccess | / | [v3](./policies/AmazonEC2ReadOnlyAccess.json) |
 | AmazonEC2RolePolicyForLaunchWizard | / | [v11](./policies/AmazonEC2RolePolicyForLaunchWizard.json) |
 | AmazonEC2RoleforAWSCodeDeploy | /service-role/ | [v2](./policies/AmazonEC2RoleforAWSCodeDeploy.json) |
@@ -803,7 +804,7 @@
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
@@ -1132,7 +1133,7 @@
 | AmazonWorkSpacesSecureBrowserReadOnly | / | [v1](./policies/AmazonWorkSpacesSecureBrowserReadOnly.json) |
 | AmazonWorkSpacesSelfServiceAccess | / | [v1](./policies/AmazonWorkSpacesSelfServiceAccess.json) |
 | AmazonWorkSpacesServiceAccess | / | [v2](./policies/AmazonWorkSpacesServiceAccess.json) |
-| AmazonWorkSpacesThinClientFullAccess | / | [v2](./policies/AmazonWorkSpacesThinClientFullAccess.json) |
+| AmazonWorkSpacesThinClientFullAccess | / | [v3](./policies/AmazonWorkSpacesThinClientFullAccess.json) |
 | AmazonWorkSpacesThinClientMonitoringServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkSpacesThinClientMonitoringServiceRolePolicy.json) |
 | AmazonWorkSpacesThinClientReadOnlyAccess | / | [v3](./policies/AmazonWorkSpacesThinClientReadOnlyAccess.json) |
 | AmazonWorkSpacesWebReadOnly | / | [v2](./policies/AmazonWorkSpacesWebReadOnly.json) |
@@ -1334,8 +1335,8 @@
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v1](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
-| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v1](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v1](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v2](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v2](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v2](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
@@ -1356,8 +1357,8 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v16](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v1](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v1](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v1](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v54](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
