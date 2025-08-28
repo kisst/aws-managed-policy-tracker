@@ -621,6 +621,7 @@
 | AWSTransferFullAccess | / | [v1](./policies/AWSTransferFullAccess.json) |
 | AWSTransferLoggingAccess | /service-role/ | [v1](./policies/AWSTransferLoggingAccess.json) |
 | AWSTransferReadOnlyAccess | / | [v1](./policies/AWSTransferReadOnlyAccess.json) |
+| AWSTransformApplicationDeploymentPolicy | /service-role/ | [v1](./policies/AWSTransformApplicationDeploymentPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
