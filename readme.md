@@ -971,7 +971,7 @@
 | AmazonOpenSearchDirectQueryGlueCreateAccess | / | [v1](./policies/AmazonOpenSearchDirectQueryGlueCreateAccess.json) |
 | AmazonOpenSearchIngestionFullAccess | / | [v1](./policies/AmazonOpenSearchIngestionFullAccess.json) |
 | AmazonOpenSearchIngestionReadOnlyAccess | / | [v1](./policies/AmazonOpenSearchIngestionReadOnlyAccess.json) |
-| AmazonOpenSearchIngestionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonOpenSearchIngestionServiceRolePolicy.json) |
+| AmazonOpenSearchIngestionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonOpenSearchIngestionServiceRolePolicy.json) |
 | AmazonOpenSearchServerlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonOpenSearchServerlessServiceRolePolicy.json) |
 | AmazonOpenSearchServiceCognitoAccess | / | [v2](./policies/AmazonOpenSearchServiceCognitoAccess.json) |
 | AmazonOpenSearchServiceFullAccess | / | [v1](./policies/AmazonOpenSearchServiceFullAccess.json) |
