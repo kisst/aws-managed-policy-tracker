@@ -626,7 +626,7 @@
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
 | AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
-| AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
+| AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
 | AWSVPCS2SVpnServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCS2SVpnServiceRolePolicy.json) |
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
 | AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
@@ -1323,7 +1323,7 @@
 | ROSASharedVPCEndpointPolicy | / | [v1](./policies/ROSASharedVPCEndpointPolicy.json) |
 | ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v131](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v132](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
