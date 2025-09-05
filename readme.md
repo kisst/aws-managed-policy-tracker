@@ -1105,7 +1105,7 @@
 | AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
 | AmazonTextractFullAccess | / | [v1](./policies/AmazonTextractFullAccess.json) |
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
-| AmazonTimestreamConsoleFullAccess | / | [v5](./policies/AmazonTimestreamConsoleFullAccess.json) |
+| AmazonTimestreamConsoleFullAccess | / | [v6](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccess | / | [v4](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v1](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
@@ -1356,7 +1356,7 @@
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v10](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v16](./policies/SageMakerStudioProjectUserRolePolicy.json) |
-| SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
+| SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v1](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
