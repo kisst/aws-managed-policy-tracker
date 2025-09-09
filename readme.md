@@ -1291,8 +1291,8 @@
 | MigrationHubSMSAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/MigrationHubSMSAccessServiceRolePolicy.json) |
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
-| MultiPartyApprovalFullAccess | / | [v1](./policies/MultiPartyApprovalFullAccess.json) |
-| MultiPartyApprovalReadOnlyAccess | / | [v1](./policies/MultiPartyApprovalReadOnlyAccess.json) |
+| MultiPartyApprovalFullAccess | / | [v2](./policies/MultiPartyApprovalFullAccess.json) |
+| MultiPartyApprovalReadOnlyAccess | / | [v2](./policies/MultiPartyApprovalReadOnlyAccess.json) |
 | NeptuneConsoleFullAccess | / | [v5](./policies/NeptuneConsoleFullAccess.json) |
 | NeptuneFullAccess | / | [v7](./policies/NeptuneFullAccess.json) |
 | NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
@@ -1353,7 +1353,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v20](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v10](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v16](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
