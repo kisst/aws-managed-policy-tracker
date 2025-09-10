@@ -82,7 +82,7 @@
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
 | AWSBackupSearchOperatorAccess | / | [v2](./policies/AWSBackupSearchOperatorAccess.json) |
-| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v19](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
+| AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v20](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v22](./policies/AWSBackupServiceRolePolicyForBackup.json) |
 | AWSBackupServiceRolePolicyForIndexing | / | [v1](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
@@ -1318,7 +1318,7 @@
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v4](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
-| ROSANodePoolManagementPolicy | /service-role/ | [v3](./policies/ROSANodePoolManagementPolicy.json) |
+| ROSANodePoolManagementPolicy | /service-role/ | [v4](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v4](./policies/ROSASRESupportPolicy.json) |
 | ROSASharedVPCEndpointPolicy | / | [v1](./policies/ROSASharedVPCEndpointPolicy.json) |
 | ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
