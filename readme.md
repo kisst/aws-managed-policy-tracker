@@ -97,6 +97,7 @@
 | AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
 | AWSBillingReadOnlyAccess | / | [v12](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -445,7 +446,7 @@
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSComputeNodePolicy | / | [v1](./policies/AWSPCSComputeNodePolicy.json) |
-| AWSPCSServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPCSServiceRolePolicy.json) |
+| AWSPCSServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaApplianceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaApplianceRolePolicy.json) |
 | AWSPanoramaApplianceServiceRolePolicy | /service-role/ | [v3](./policies/AWSPanoramaApplianceServiceRolePolicy.json) |
 | AWSPanoramaFullAccess | / | [v5](./policies/AWSPanoramaFullAccess.json) |
@@ -1051,7 +1052,7 @@
 | AmazonSQSFullAccess | / | [v1](./policies/AmazonSQSFullAccess.json) |
 | AmazonSQSReadOnlyAccess | / | [v4](./policies/AmazonSQSReadOnlyAccess.json) |
 | AmazonSSMAutomationApproverAccess | / | [v1](./policies/AmazonSSMAutomationApproverAccess.json) |
-| AmazonSSMAutomationRole | /service-role/ | [v5](./policies/AmazonSSMAutomationRole.json) |
+| AmazonSSMAutomationRole | /service-role/ | [v6](./policies/AmazonSSMAutomationRole.json) |
 | AmazonSSMDirectoryServiceAccess | / | [v1](./policies/AmazonSSMDirectoryServiceAccess.json) |
 | AmazonSSMFullAccess | / | [v4](./policies/AmazonSSMFullAccess.json) |
 | AmazonSSMMaintenanceWindowRole | /service-role/ | [v3](./policies/AmazonSSMMaintenanceWindowRole.json) |
@@ -1355,7 +1356,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v20](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v16](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v17](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v1](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
