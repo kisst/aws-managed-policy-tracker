@@ -535,11 +535,11 @@
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
 | AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v13](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
-| AWSSSODirectoryAdministrator | / | [v4](./policies/AWSSSODirectoryAdministrator.json) |
-| AWSSSODirectoryReadOnly | / | [v4](./policies/AWSSSODirectoryReadOnly.json) |
-| AWSSSOMasterAccountAdministrator | / | [v10](./policies/AWSSSOMasterAccountAdministrator.json) |
-| AWSSSOMemberAccountAdministrator | / | [v8](./policies/AWSSSOMemberAccountAdministrator.json) |
-| AWSSSOReadOnly | / | [v9](./policies/AWSSSOReadOnly.json) |
+| AWSSSODirectoryAdministrator | / | [v5](./policies/AWSSSODirectoryAdministrator.json) |
+| AWSSSODirectoryReadOnly | / | [v5](./policies/AWSSSODirectoryReadOnly.json) |
+| AWSSSOMasterAccountAdministrator | / | [v11](./policies/AWSSSOMasterAccountAdministrator.json) |
+| AWSSSOMemberAccountAdministrator | / | [v9](./policies/AWSSSOMemberAccountAdministrator.json) |
+| AWSSSOReadOnly | / | [v10](./policies/AWSSSOReadOnly.json) |
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
