@@ -94,8 +94,8 @@
 | AWSBatchServiceEventTargetRole | /service-role/ | [v1](./policies/AWSBatchServiceEventTargetRole.json) |
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBatchServiceRolePolicyForSageMaker | /aws-service-role/ | [v1](./policies/AWSBatchServiceRolePolicyForSageMaker.json) |
-| AWSBillingConductorFullAccess | / | [v1](./policies/AWSBillingConductorFullAccess.json) |
-| AWSBillingConductorReadOnlyAccess | / | [v1](./policies/AWSBillingConductorReadOnlyAccess.json) |
+| AWSBillingConductorFullAccess | / | [v2](./policies/AWSBillingConductorFullAccess.json) |
+| AWSBillingConductorReadOnlyAccess | / | [v2](./policies/AWSBillingConductorReadOnlyAccess.json) |
 | AWSBillingReadOnlyAccess | / | [v12](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
@@ -325,8 +325,6 @@
 | AWSIncidentManagerIncidentAccessServiceRolePolicy | / | [v2](./policies/AWSIncidentManagerIncidentAccessServiceRolePolicy.json) |
 | AWSIncidentManagerResolverAccess | / | [v1](./policies/AWSIncidentManagerResolverAccess.json) |
 | AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSIncidentManagerServiceRolePolicy.json) |
-| AWSIoT1ClickFullAccess | / | [v1](./policies/AWSIoT1ClickFullAccess.json) |
-| AWSIoT1ClickReadOnlyAccess | / | [v1](./policies/AWSIoT1ClickReadOnlyAccess.json) |
 | AWSIoTAnalyticsFullAccess | / | [v1](./policies/AWSIoTAnalyticsFullAccess.json) |
 | AWSIoTAnalyticsReadOnlyAccess | / | [v1](./policies/AWSIoTAnalyticsReadOnlyAccess.json) |
 | AWSIoTConfigAccess | / | [v9](./policies/AWSIoTConfigAccess.json) |
@@ -1357,7 +1355,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v20](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v17](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v18](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v1](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
