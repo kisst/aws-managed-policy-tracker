@@ -1163,6 +1163,7 @@
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
 | BedrockAgentCoreFullAccess | / | [v1](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
 | Billing | /job-function/ | [v15](./policies/Billing.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
