@@ -1,6 +1,6 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIOpsAssistantPolicy | / | [v2](./policies/AIOpsAssistantPolicy.json) |
+| AIOpsAssistantPolicy | / | [v3](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v2](./policies/AIOpsConsoleAdminPolicy.json) |
 | AIOpsOperatorAccess | / | [v2](./policies/AIOpsOperatorAccess.json) |
 | AIOpsReadOnlyAccess | / | [v2](./policies/AIOpsReadOnlyAccess.json) |
@@ -521,7 +521,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
