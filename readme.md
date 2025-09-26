@@ -604,7 +604,7 @@
 | AWSSystemsManagerForSAPFullAccess | / | [v3](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
 | AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
-| AWSSystemsManagerJustInTimeAccessTokenPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenPolicy.json) |
+| AWSSystemsManagerJustInTimeAccessTokenPolicy | / | [v2](./policies/AWSSystemsManagerJustInTimeAccessTokenPolicy.json) |
 | AWSSystemsManagerJustInTimeAccessTokenSessionPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenSessionPolicy.json) |
 | AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy | / | [v2](./policies/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy.json) |
 | AWSSystemsManagerNotificationsServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerNotificationsServicePolicy.json) |
@@ -1363,7 +1363,7 @@
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v55](./policies/SecurityAudit.json) |
-| SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
+| SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v2](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
