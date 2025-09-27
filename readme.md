@@ -1062,7 +1062,7 @@
 | AmazonSSMPatchAssociation | / | [v1](./policies/AmazonSSMPatchAssociation.json) |
 | AmazonSSMReadOnlyAccess | / | [v1](./policies/AmazonSSMReadOnlyAccess.json) |
 | AmazonSSMServiceRolePolicy | /aws-service-role/ | [v16](./policies/AmazonSSMServiceRolePolicy.json) |
-| AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v9](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
+| AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v10](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
 | AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
 | AmazonSageMakerCanvasBedrockAccess | / | [v1](./policies/AmazonSageMakerCanvasBedrockAccess.json) |
 | AmazonSageMakerCanvasDataPrepFullAccess | / | [v4](./policies/AmazonSageMakerCanvasDataPrepFullAccess.json) |
@@ -1095,8 +1095,8 @@
 | AmazonSageMakerReadOnly | / | [v11](./policies/AmazonSageMakerReadOnly.json) |
 | AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsCloudformationServiceRolePolicy.json) |
-| AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy | / | [v2](./policies/AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy.json) |
-| AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy.json) |
+| AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy | / | [v3](./policies/AmazonSageMakerServiceCatalogProductsCodeBuildServiceRolePolicy.json) |
+| AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy | /service-role/ | [v3](./policies/AmazonSageMakerServiceCatalogProductsCodePipelineServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsEventsServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy.json) |
