@@ -621,7 +621,8 @@
 | AWSTransferFullAccess | / | [v1](./policies/AWSTransferFullAccess.json) |
 | AWSTransferLoggingAccess | /service-role/ | [v1](./policies/AWSTransferLoggingAccess.json) |
 | AWSTransferReadOnlyAccess | / | [v1](./policies/AWSTransferReadOnlyAccess.json) |
-| AWSTransformApplicationDeploymentPolicy | /service-role/ | [v1](./policies/AWSTransformApplicationDeploymentPolicy.json) |
+| AWSTransformApplicationDeploymentPolicy | /service-role/ | [v2](./policies/AWSTransformApplicationDeploymentPolicy.json) |
+| AWSTransformApplicationECSDeploymentPolicy | /service-role/ | [v1](./policies/AWSTransformApplicationECSDeploymentPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
@@ -785,7 +786,7 @@
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
-| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
+| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
@@ -963,7 +964,7 @@
 | AmazonNimbleStudio-LaunchProfileWorker | / | [v1](./policies/AmazonNimbleStudio-LaunchProfileWorker.json) |
 | AmazonNimbleStudio-StudioAdmin | / | [v4](./policies/AmazonNimbleStudio-StudioAdmin.json) |
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
-| AmazonODBServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonODBServiceRolePolicy.json) |
+| AmazonODBServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonODBServiceRolePolicy.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
 | AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
@@ -1186,8 +1187,8 @@
 | CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
-| CloudWatchApplicationSignalsFullAccess | / | [v1](./policies/CloudWatchApplicationSignalsFullAccess.json) |
-| CloudWatchApplicationSignalsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationSignalsReadOnlyAccess.json) |
+| CloudWatchApplicationSignalsFullAccess | / | [v2](./policies/CloudWatchApplicationSignalsFullAccess.json) |
+| CloudWatchApplicationSignalsReadOnlyAccess | / | [v2](./policies/CloudWatchApplicationSignalsReadOnlyAccess.json) |
 | CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v6](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
@@ -1355,7 +1356,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v20](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v21](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v18](./policies/SageMakerStudioProjectUserRolePolicy.json) |
