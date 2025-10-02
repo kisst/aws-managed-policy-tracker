@@ -1230,7 +1230,7 @@
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
-| DatabaseAdministrator | /job-function/ | [v2](./policies/DatabaseAdministrator.json) |
+| DatabaseAdministrator | /job-function/ | [v3](./policies/DatabaseAdministrator.json) |
 | DeclarativePoliciesEC2Report | /aws-service-role/ | [v1](./policies/DeclarativePoliciesEC2Report.json) |
 | DynamoDBCloudWatchContributorInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBCloudWatchContributorInsightsServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
@@ -1327,7 +1327,7 @@
 | ROSASharedVPCEndpointPolicy | / | [v1](./policies/ROSASharedVPCEndpointPolicy.json) |
 | ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
-| ReadOnlyAccess | / | [v133](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v134](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
