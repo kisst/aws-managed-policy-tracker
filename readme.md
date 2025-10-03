@@ -96,7 +96,7 @@
 | AWSBatchServiceRolePolicyForSageMaker | /aws-service-role/ | [v1](./policies/AWSBatchServiceRolePolicyForSageMaker.json) |
 | AWSBillingConductorFullAccess | / | [v2](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v2](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v12](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v13](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v1](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
@@ -1167,7 +1167,7 @@
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
 | BedrockAgentCoreFullAccess | / | [v2](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
-| Billing | /job-function/ | [v15](./policies/Billing.json) |
+| Billing | /job-function/ | [v16](./policies/Billing.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
