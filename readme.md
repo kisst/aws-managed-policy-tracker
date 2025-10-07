@@ -1214,7 +1214,7 @@
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
-| CloudWatchReadOnlyAccess | / | [v10](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v11](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v11](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
