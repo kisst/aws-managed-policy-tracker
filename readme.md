@@ -173,7 +173,7 @@
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSControlTowerIdentityCenterManagementPolicy | /service-role/ | [v1](./policies/AWSControlTowerIdentityCenterManagementPolicy.json) |
-| AWSControlTowerServiceRolePolicy | /service-role/ | [v11](./policies/AWSControlTowerServiceRolePolicy.json) |
+| AWSControlTowerServiceRolePolicy | /service-role/ | [v12](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -221,6 +221,7 @@
 | AWSDirectoryServiceReadOnlyAccess | / | [v4](./policies/AWSDirectoryServiceReadOnlyAccess.json) |
 | AWSDirectoryServiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDirectoryServiceServiceRolePolicy.json) |
 | AWSDiscoveryContinuousExportFirehosePolicy | / | [v2](./policies/AWSDiscoveryContinuousExportFirehosePolicy.json) |
+| AWSEC2CapacityManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSEC2CapacityManagerServiceRolePolicy.json) |
 | AWSEC2CapacityReservationFleetRolePolicy | /aws-service-role/ | [v2](./policies/AWSEC2CapacityReservationFleetRolePolicy.json) |
 | AWSEC2FleetServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSEC2FleetServiceRolePolicy.json) |
 | AWSEC2SpotFleetServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotFleetServiceRolePolicy.json) |
@@ -1166,7 +1167,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
-| BedrockAgentCoreFullAccess | / | [v2](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreFullAccess | / | [v3](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
 | Billing | /job-function/ | [v16](./policies/Billing.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
