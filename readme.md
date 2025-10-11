@@ -1170,6 +1170,7 @@
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
 | BedrockAgentCoreFullAccess | / | [v3](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
+| BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
 | Billing | /job-function/ | [v16](./policies/Billing.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
