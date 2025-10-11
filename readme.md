@@ -1,8 +1,9 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
+| AIOpsAssistantIncidentReportPolicy | / | [v1](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v3](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v2](./policies/AIOpsConsoleAdminPolicy.json) |
-| AIOpsOperatorAccess | / | [v2](./policies/AIOpsOperatorAccess.json) |
+| AIOpsOperatorAccess | / | [v3](./policies/AIOpsOperatorAccess.json) |
 | AIOpsReadOnlyAccess | / | [v2](./policies/AIOpsReadOnlyAccess.json) |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
 | AWS-SSM-Automation-DiagnosisBucketPolicy | / | [v1](./policies/AWS-SSM-Automation-DiagnosisBucketPolicy.json) |
