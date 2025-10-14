@@ -1369,7 +1369,7 @@
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v3](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v2](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAudit | / | [v55](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v56](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v2](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
@@ -1377,7 +1377,7 @@
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
 | ServerMigrationServiceRoleForInstanceValidation | /service-role/ | [v1](./policies/ServerMigrationServiceRoleForInstanceValidation.json) |
 | ServiceQuotasFullAccess | / | [v4](./policies/ServiceQuotasFullAccess.json) |
-| ServiceQuotasReadOnlyAccess | / | [v2](./policies/ServiceQuotasReadOnlyAccess.json) |
+| ServiceQuotasReadOnlyAccess | / | [v3](./policies/ServiceQuotasReadOnlyAccess.json) |
 | ServiceQuotasServiceRolePolicy | /aws-service-role/ | [v2](./policies/ServiceQuotasServiceRolePolicy.json) |
 | SimpleWorkflowFullAccess | / | [v1](./policies/SimpleWorkflowFullAccess.json) |
 | SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
@@ -1389,7 +1389,7 @@
 | VPCLatticeFullAccess | / | [v2](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v2](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v26](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v27](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
