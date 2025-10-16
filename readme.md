@@ -801,7 +801,7 @@
 | AmazonEKSBlockStoragePolicy | / | [v1](./policies/AmazonEKSBlockStoragePolicy.json) |
 | AmazonEKSClusterPolicy | / | [v8](./policies/AmazonEKSClusterPolicy.json) |
 | AmazonEKSComputePolicy | / | [v3](./policies/AmazonEKSComputePolicy.json) |
-| AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
+| AmazonEKSConnectorServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonEKSConnectorServiceRolePolicy.json) |
 | AmazonEKSDashboardConsoleReadOnly | / | [v1](./policies/AmazonEKSDashboardConsoleReadOnly.json) |
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
@@ -1113,7 +1113,7 @@
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
 | AmazonTimestreamConsoleFullAccess | / | [v6](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccess | / | [v4](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
+| AmazonTimestreamInfluxDBFullAccess | / | [v5](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v1](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
 | AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonTimestreamReadOnlyAccess | / | [v4](./policies/AmazonTimestreamReadOnlyAccess.json) |
@@ -1237,6 +1237,7 @@
 | DatabaseAdministrator | /job-function/ | [v3](./policies/DatabaseAdministrator.json) |
 | DeclarativePoliciesEC2Report | /aws-service-role/ | [v1](./policies/DeclarativePoliciesEC2Report.json) |
 | DynamoDBCloudWatchContributorInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBCloudWatchContributorInsightsServiceRolePolicy.json) |
+| DynamoDBGlobalTableSettingsManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBGlobalTableSettingsManagementServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
 | EC2FastLaunchFullAccess | / | [v2](./policies/EC2FastLaunchFullAccess.json) |
