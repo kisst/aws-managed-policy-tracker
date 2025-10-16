@@ -345,7 +345,7 @@
 | AWSIoTEventsFullAccess | / | [v1](./policies/AWSIoTEventsFullAccess.json) |
 | AWSIoTEventsReadOnlyAccess | / | [v2](./policies/AWSIoTEventsReadOnlyAccess.json) |
 | AWSIoTFleetHubFederationAccess | /service-role/ | [v5](./policies/AWSIoTFleetHubFederationAccess.json) |
-| AWSIoTFleetwiseServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIoTFleetwiseServiceRolePolicy.json) |
+| AWSIoTFleetwiseServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIoTFleetwiseServiceRolePolicy.json) |
 | AWSIoTFullAccess | / | [v2](./policies/AWSIoTFullAccess.json) |
 | AWSIoTLogging | /service-role/ | [v1](./policies/AWSIoTLogging.json) |
 | AWSIoTManagedIntegrationsFullAccess | / | [v1](./policies/AWSIoTManagedIntegrationsFullAccess.json) |
