@@ -67,7 +67,7 @@
 | AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
 | AWSApplicationMigrationVCenterClientPolicy | / | [v1](./policies/AWSApplicationMigrationVCenterClientPolicy.json) |
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
-| AWSArtifactAgreementsFullAccess | / | [v1](./policies/AWSArtifactAgreementsFullAccess.json) |
+| AWSArtifactAgreementsFullAccess | / | [v2](./policies/AWSArtifactAgreementsFullAccess.json) |
 | AWSArtifactAgreementsReadOnlyAccess | / | [v1](./policies/AWSArtifactAgreementsReadOnlyAccess.json) |
 | AWSArtifactReportsReadOnlyAccess | / | [v2](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
@@ -1111,7 +1111,7 @@
 | AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
 | AmazonTextractFullAccess | / | [v1](./policies/AmazonTextractFullAccess.json) |
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
-| AmazonTimestreamConsoleFullAccess | / | [v6](./policies/AmazonTimestreamConsoleFullAccess.json) |
+| AmazonTimestreamConsoleFullAccess | / | [v7](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccess | / | [v5](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v1](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
@@ -1202,7 +1202,7 @@
 | CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchEventsServiceRolePolicy.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v4](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v5](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
@@ -1332,6 +1332,7 @@
 | ROSASharedVPCEndpointPolicy | / | [v1](./policies/ROSASharedVPCEndpointPolicy.json) |
 | ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
+| RTBFabricServiceRolePolicy | /aws-service-role/ | [v1](./policies/RTBFabricServiceRolePolicy.json) |
 | ReadOnlyAccess | / | [v134](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
