@@ -673,7 +673,7 @@
 | AmazonAppFlowReadOnlyAccess | / | [v2](./policies/AmazonAppFlowReadOnlyAccess.json) |
 | AmazonAppStreamFullAccess | / | [v6](./policies/AmazonAppStreamFullAccess.json) |
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
-| AmazonAppStreamReadOnlyAccess | / | [v2](./policies/AmazonAppStreamReadOnlyAccess.json) |
+| AmazonAppStreamReadOnlyAccess | / | [v3](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v8](./policies/AmazonAppStreamServiceAccess.json) |
 | AmazonAthenaFullAccess | / | [v13](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
@@ -811,7 +811,7 @@
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
@@ -1333,7 +1333,7 @@
 | ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
 | RTBFabricServiceRolePolicy | /aws-service-role/ | [v2](./policies/RTBFabricServiceRolePolicy.json) |
-| ReadOnlyAccess | / | [v134](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v135](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
