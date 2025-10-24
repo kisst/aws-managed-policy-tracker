@@ -315,7 +315,7 @@
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
 | AWSIAMIdentityCenterAllowListForIdentityContext | / | [v12](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
-| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSIPAMServiceRolePolicy.json) |
+| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
@@ -524,7 +524,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v19](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v20](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
@@ -601,12 +601,12 @@
 | AWSSupportPlansReadOnlyAccess | / | [v2](./policies/AWSSupportPlansReadOnlyAccess.json) |
 | AWSSupportServiceRolePolicy | /aws-service-role/ | [v42](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
-| AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
+| AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
 | AWSSystemsManagerEnableExplorerExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableExplorerExecutionPolicy.json) |
 | AWSSystemsManagerForSAPFullAccess | / | [v3](./policies/AWSSystemsManagerForSAPFullAccess.json) |
 | AWSSystemsManagerForSAPReadOnlyAccess | / | [v1](./policies/AWSSystemsManagerForSAPReadOnlyAccess.json) |
-| AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
+| AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
 | AWSSystemsManagerJustInTimeAccessTokenPolicy | / | [v2](./policies/AWSSystemsManagerJustInTimeAccessTokenPolicy.json) |
 | AWSSystemsManagerJustInTimeAccessTokenSessionPolicy | / | [v1](./policies/AWSSystemsManagerJustInTimeAccessTokenSessionPolicy.json) |
 | AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy | / | [v2](./policies/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy.json) |
@@ -679,9 +679,9 @@
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
-| AmazonAuroraDSQLConsoleFullAccess | / | [v4](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
-| AmazonAuroraDSQLFullAccess | / | [v4](./policies/AmazonAuroraDSQLFullAccess.json) |
-| AmazonAuroraDSQLReadOnlyAccess | / | [v2](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
+| AmazonAuroraDSQLConsoleFullAccess | / | [v5](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
+| AmazonAuroraDSQLFullAccess | / | [v5](./policies/AmazonAuroraDSQLFullAccess.json) |
+| AmazonAuroraDSQLReadOnlyAccess | / | [v3](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v1](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v3](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockLimitedAccess | / | [v1](./policies/AmazonBedrockLimitedAccess.json) |
@@ -1359,6 +1359,7 @@
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
+| SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
