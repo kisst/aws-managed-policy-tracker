@@ -356,7 +356,7 @@
 | AWSIoTSiteWiseFullAccess | / | [v1](./policies/AWSIoTSiteWiseFullAccess.json) |
 | AWSIoTSiteWiseMonitorPortalAccess | /service-role/ | [v1](./policies/AWSIoTSiteWiseMonitorPortalAccess.json) |
 | AWSIoTSiteWiseMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIoTSiteWiseMonitorServiceRolePolicy.json) |
-| AWSIoTSiteWiseReadOnlyAccess | / | [v2](./policies/AWSIoTSiteWiseReadOnlyAccess.json) |
+| AWSIoTSiteWiseReadOnlyAccess | / | [v3](./policies/AWSIoTSiteWiseReadOnlyAccess.json) |
 | AWSIoTThingsRegistration | /service-role/ | [v3](./policies/AWSIoTThingsRegistration.json) |
 | AWSIoTTwinMakerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIoTTwinMakerServiceRolePolicy.json) |
 | AWSIoTWirelessDataAccess | / | [v1](./policies/AWSIoTWirelessDataAccess.json) |
@@ -414,7 +414,7 @@
 | AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v9](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v5](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
-| AWSMediaConnectServicePolicy | /aws-service-role/ | [v1](./policies/AWSMediaConnectServicePolicy.json) |
+| AWSMediaConnectServicePolicy | /aws-service-role/ | [v2](./policies/AWSMediaConnectServicePolicy.json) |
 | AWSMediaLiveAnywhereServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMediaLiveAnywhereServiceRolePolicy.json) |
 | AWSMediaTailorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMediaTailorServiceRolePolicy.json) |
 | AWSMigrationHubDMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubDMSAccess.json) |
@@ -580,7 +580,7 @@
 | AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
 | AWSServiceRoleForProcurementInsightsPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForProcurementInsightsPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
-| AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v2](./policies/AWSServiceRoleForUserSubscriptions.json) |
+| AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v3](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
 | AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
 | AWSServiceRolePolicyForWorkspacesInstances | /aws-service-role/ | [v1](./policies/AWSServiceRolePolicyForWorkspacesInstances.json) |
