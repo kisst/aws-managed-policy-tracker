@@ -639,8 +639,8 @@
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
-| AWSWAFConsoleFullAccess | / | [v9](./policies/AWSWAFConsoleFullAccess.json) |
-| AWSWAFConsoleReadOnlyAccess | / | [v8](./policies/AWSWAFConsoleReadOnlyAccess.json) |
+| AWSWAFConsoleFullAccess | / | [v10](./policies/AWSWAFConsoleFullAccess.json) |
+| AWSWAFConsoleReadOnlyAccess | / | [v9](./policies/AWSWAFConsoleReadOnlyAccess.json) |
 | AWSWAFFullAccess | / | [v12](./policies/AWSWAFFullAccess.json) |
 | AWSWAFReadOnlyAccess | / | [v9](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
