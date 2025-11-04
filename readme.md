@@ -675,6 +675,7 @@
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
 | AmazonAppStreamReadOnlyAccess | / | [v3](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v8](./policies/AmazonAppStreamServiceAccess.json) |
+| AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy | / | [v1](./policies/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy.json) |
 | AmazonAthenaFullAccess | / | [v13](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
@@ -1168,7 +1169,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
-| BedrockAgentCoreFullAccess | / | [v3](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreFullAccess | / | [v4](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
 | BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
 | Billing | /job-function/ | [v16](./policies/Billing.json) |
