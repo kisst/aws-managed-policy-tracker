@@ -60,6 +60,7 @@
 | AWSApplicationMigrationEC2Access | / | [v6](./policies/AWSApplicationMigrationEC2Access.json) |
 | AWSApplicationMigrationFullAccess | / | [v9](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
+| AWSApplicationMigrationNetworkMigrationCustomResource | / | [v1](./policies/AWSApplicationMigrationNetworkMigrationCustomResource.json) |
 | AWSApplicationMigrationReadOnlyAccess | / | [v5](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
 | AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
 | AWSApplicationMigrationSSMAccess | / | [v3](./policies/AWSApplicationMigrationSSMAccess.json) |
