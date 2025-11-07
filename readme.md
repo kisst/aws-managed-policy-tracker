@@ -732,7 +732,7 @@
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v29](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v30](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
@@ -1217,7 +1217,7 @@
 | CloudWatchLogsReadOnlyAccess | / | [v7](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v1](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
 | CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
-| CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
+| CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
