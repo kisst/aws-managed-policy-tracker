@@ -3,7 +3,7 @@
 | AIOpsAssistantIncidentReportPolicy | / | [v1](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v3](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v2](./policies/AIOpsConsoleAdminPolicy.json) |
-| AIOpsOperatorAccess | / | [v3](./policies/AIOpsOperatorAccess.json) |
+| AIOpsOperatorAccess | / | [v4](./policies/AIOpsOperatorAccess.json) |
 | AIOpsReadOnlyAccess | / | [v2](./policies/AIOpsReadOnlyAccess.json) |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
 | AWS-SSM-Automation-DiagnosisBucketPolicy | / | [v1](./policies/AWS-SSM-Automation-DiagnosisBucketPolicy.json) |
@@ -1370,7 +1370,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v22](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v18](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v19](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v1](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v4](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
