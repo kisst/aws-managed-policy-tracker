@@ -1368,7 +1368,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v22](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v23](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v19](./policies/SageMakerStudioProjectUserRolePolicy.json) |
