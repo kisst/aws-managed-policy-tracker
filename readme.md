@@ -171,7 +171,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v61](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v62](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -657,11 +657,11 @@
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWSZoneGroupAccessManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSZoneGroupAccessManagementServiceRolePolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v40](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v41](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v17](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
-| AdministratorAccess-AWSElasticBeanstalk | / | [v4](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
+| AdministratorAccess-AWSElasticBeanstalk | / | [v5](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
 | AlexaForBusinessDeviceSetup | / | [v2](./policies/AlexaForBusinessDeviceSetup.json) |
 | AlexaForBusinessFullAccess | / | [v5](./policies/AlexaForBusinessFullAccess.json) |
@@ -798,6 +798,7 @@
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
+| AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v1](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
 | AmazonECSInstanceRolePolicyForManagedInstances | / | [v1](./policies/AmazonECSInstanceRolePolicyForManagedInstances.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
@@ -1166,7 +1167,7 @@
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
 | AutoScalingNotificationAccessRole | /service-role/ | [v1](./policies/AutoScalingNotificationAccessRole.json) |
 | AutoScalingReadOnlyAccess | / | [v1](./policies/AutoScalingReadOnlyAccess.json) |
-| AutoScalingServiceRolePolicy | /aws-service-role/ | [v9](./policies/AutoScalingServiceRolePolicy.json) |
+| AutoScalingServiceRolePolicy | /aws-service-role/ | [v10](./policies/AutoScalingServiceRolePolicy.json) |
 | AwsGlueDataBrewFullAccessPolicy | / | [v8](./policies/AwsGlueDataBrewFullAccessPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedNotebookPolicy.json) |
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
