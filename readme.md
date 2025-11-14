@@ -797,7 +797,7 @@
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
 | AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
-| AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v1](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
+| AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
 | AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v1](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
