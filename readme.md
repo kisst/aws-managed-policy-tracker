@@ -1235,6 +1235,7 @@
 | ComprehendFullAccess | / | [v2](./policies/ComprehendFullAccess.json) |
 | ComprehendMedicalFullAccess | / | [v1](./policies/ComprehendMedicalFullAccess.json) |
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
+| ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v4](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
