@@ -802,7 +802,7 @@
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
-| AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v1](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
+| AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v2](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
 | AmazonECSInstanceRolePolicyForManagedInstances | / | [v1](./policies/AmazonECSInstanceRolePolicyForManagedInstances.json) |
 | AmazonECSServiceRolePolicy | /aws-service-role/ | [v13](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
@@ -948,6 +948,7 @@
 | AmazonMSKConnectReadOnlyAccess | / | [v2](./policies/AmazonMSKConnectReadOnlyAccess.json) |
 | AmazonMSKFullAccess | / | [v7](./policies/AmazonMSKFullAccess.json) |
 | AmazonMSKReadOnlyAccess | / | [v1](./policies/AmazonMSKReadOnlyAccess.json) |
+| AmazonMWAAServerlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonMWAAServerlessServiceRolePolicy.json) |
 | AmazonMWAAServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonMWAAServiceRolePolicy.json) |
 | AmazonMachineLearningBatchPredictionsAccess | / | [v1](./policies/AmazonMachineLearningBatchPredictionsAccess.json) |
 | AmazonMachineLearningCreateOnlyAccess | / | [v2](./policies/AmazonMachineLearningCreateOnlyAccess.json) |
