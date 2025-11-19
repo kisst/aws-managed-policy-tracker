@@ -1238,7 +1238,7 @@
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
 | ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
-| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v4](./policies/ComputeOptimizerServiceRolePolicy.json) |
+| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v5](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
