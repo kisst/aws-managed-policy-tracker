@@ -646,8 +646,8 @@
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
-| AWSWAFConsoleFullAccess | / | [v11](./policies/AWSWAFConsoleFullAccess.json) |
-| AWSWAFConsoleReadOnlyAccess | / | [v10](./policies/AWSWAFConsoleReadOnlyAccess.json) |
+| AWSWAFConsoleFullAccess | / | [v12](./policies/AWSWAFConsoleFullAccess.json) |
+| AWSWAFConsoleReadOnlyAccess | / | [v11](./policies/AWSWAFConsoleReadOnlyAccess.json) |
 | AWSWAFFullAccess | / | [v12](./policies/AWSWAFFullAccess.json) |
 | AWSWAFReadOnlyAccess | / | [v9](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
@@ -1116,6 +1116,8 @@
 | AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerServiceCatalogProductsFirehoseServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsGlueServiceRolePolicy.json) |
 | AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy | /service-role/ | [v2](./policies/AmazonSageMakerServiceCatalogProductsLambdaServiceRolePolicy.json) |
+| AmazonSageMakerSpacesControllerPolicy | / | [v1](./policies/AmazonSageMakerSpacesControllerPolicy.json) |
+| AmazonSageMakerSpacesRouterPolicy | / | [v1](./policies/AmazonSageMakerSpacesRouterPolicy.json) |
 | AmazonSageMakerTrainingPlanCreateAccess | / | [v2](./policies/AmazonSageMakerTrainingPlanCreateAccess.json) |
 | AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
 | AmazonSecurityLakeMetastoreManager | /service-role/ | [v2](./policies/AmazonSecurityLakeMetastoreManager.json) |
