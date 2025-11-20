@@ -79,9 +79,10 @@
 | AWSBCMDataExportsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBCMDataExportsServiceRolePolicy.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
-| AWSBackupFullAccess | / | [v21](./policies/AWSBackupFullAccess.json) |
+| AWSBackupFullAccess | / | [v22](./policies/AWSBackupFullAccess.json) |
 | AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync | /service-role/ | [v1](./policies/AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync.json) |
-| AWSBackupOperatorAccess | / | [v19](./policies/AWSBackupOperatorAccess.json) |
+| AWSBackupGuardDutyRolePolicyForScans | / | [v1](./policies/AWSBackupGuardDutyRolePolicyForScans.json) |
+| AWSBackupOperatorAccess | / | [v20](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
 | AWSBackupSearchOperatorAccess | / | [v2](./policies/AWSBackupSearchOperatorAccess.json) |
@@ -93,6 +94,7 @@
 | AWSBackupServiceRolePolicyForRestores | /service-role/ | [v25](./policies/AWSBackupServiceRolePolicyForRestores.json) |
 | AWSBackupServiceRolePolicyForS3Backup | / | [v4](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
+| AWSBackupServiceRolePolicyForScans | / | [v1](./policies/AWSBackupServiceRolePolicyForScans.json) |
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
 | AWSBatchServiceEventTargetRole | /service-role/ | [v1](./policies/AWSBatchServiceEventTargetRole.json) |
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
