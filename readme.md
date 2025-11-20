@@ -392,7 +392,7 @@
 | AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy.json) |
 | AWSLicenseManagerMasterAccountRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerMasterAccountRolePolicy.json) |
 | AWSLicenseManagerMemberAccountRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerMemberAccountRolePolicy.json) |
-| AWSLicenseManagerServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSLicenseManagerServiceRolePolicy.json) |
+| AWSLicenseManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSLicenseManagerServiceRolePolicy.json) |
 | AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
 | AWSM2ServicePolicy | /aws-service-role/ | [v1](./policies/AWSM2ServicePolicy.json) |
 | AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
@@ -462,7 +462,9 @@
 | AWSPanoramaSageMakerRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaSageMakerRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
-| AWSPartnerCentralFullAccess | / | [v2](./policies/AWSPartnerCentralFullAccess.json) |
+| AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v1](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
+| AWSPartnerCentralChannelManagement | / | [v1](./policies/AWSPartnerCentralChannelManagement.json) |
+| AWSPartnerCentralFullAccess | / | [v3](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v2](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v2](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v1](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
@@ -475,7 +477,7 @@
 | AWSPrivateCAReadOnly | / | [v1](./policies/AWSPrivateCAReadOnly.json) |
 | AWSPrivateCAUser | / | [v2](./policies/AWSPrivateCAUser.json) |
 | AWSPrivateMarketplaceAdminFullAccess | / | [v7](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
-| AWSPrivateMarketplaceRequests | / | [v1](./policies/AWSPrivateMarketplaceRequests.json) |
+| AWSPrivateMarketplaceRequests | / | [v2](./policies/AWSPrivateMarketplaceRequests.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
 | AWSProtonCodeBuildProvisioningBasicAccess | / | [v1](./policies/AWSProtonCodeBuildProvisioningBasicAccess.json) |
 | AWSProtonCodeBuildProvisioningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonCodeBuildProvisioningServiceRolePolicy.json) |
@@ -1242,8 +1244,8 @@
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v5](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
-| CostOptimizationHubAdminAccess | / | [v1](./policies/CostOptimizationHubAdminAccess.json) |
-| CostOptimizationHubReadOnlyAccess | / | [v1](./policies/CostOptimizationHubReadOnlyAccess.json) |
+| CostOptimizationHubAdminAccess | / | [v2](./policies/CostOptimizationHubAdminAccess.json) |
+| CostOptimizationHubReadOnlyAccess | / | [v2](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
@@ -1387,7 +1389,7 @@
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v5](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAudit | / | [v56](./policies/SecurityAudit.json) |
-| SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v2](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
+| SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v3](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
@@ -1396,6 +1398,7 @@
 | ServiceQuotasFullAccess | / | [v4](./policies/ServiceQuotasFullAccess.json) |
 | ServiceQuotasReadOnlyAccess | / | [v3](./policies/ServiceQuotasReadOnlyAccess.json) |
 | ServiceQuotasServiceRolePolicy | /aws-service-role/ | [v2](./policies/ServiceQuotasServiceRolePolicy.json) |
+| SignInLocalDevelopmentAccess | / | [v1](./policies/SignInLocalDevelopmentAccess.json) |
 | SimpleWorkflowFullAccess | / | [v1](./policies/SimpleWorkflowFullAccess.json) |
 | SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
 | SupportUser | /job-function/ | [v9](./policies/SupportUser.json) |
