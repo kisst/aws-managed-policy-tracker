@@ -563,7 +563,7 @@
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v1](./policies/AWSSecurityIncidentResponseFullAccess.json) |
 | AWSSecurityIncidentResponseReadOnlyAccess | / | [v1](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
-| AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
+| AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseTriageServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSecurityIncidentResponseTriageServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
