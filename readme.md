@@ -316,7 +316,7 @@
 | AWSGreengrassFullAccess | / | [v1](./policies/AWSGreengrassFullAccess.json) |
 | AWSGreengrassReadOnlyAccess | / | [v1](./policies/AWSGreengrassReadOnlyAccess.json) |
 | AWSGreengrassResourceAccessRolePolicy | /service-role/ | [v5](./policies/AWSGreengrassResourceAccessRolePolicy.json) |
-| AWSGroundStationAgentInstancePolicy | / | [v1](./policies/AWSGroundStationAgentInstancePolicy.json) |
+| AWSGroundStationAgentInstancePolicy | / | [v2](./policies/AWSGroundStationAgentInstancePolicy.json) |
 | AWSHealthFullAccess | / | [v3](./policies/AWSHealthFullAccess.json) |
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
@@ -333,7 +333,7 @@
 | AWSImportExportFullAccess | / | [v1](./policies/AWSImportExportFullAccess.json) |
 | AWSImportExportReadOnlyAccess | / | [v1](./policies/AWSImportExportReadOnlyAccess.json) |
 | AWSIncidentManagerIncidentAccessServiceRolePolicy | / | [v2](./policies/AWSIncidentManagerIncidentAccessServiceRolePolicy.json) |
-| AWSIncidentManagerResolverAccess | / | [v1](./policies/AWSIncidentManagerResolverAccess.json) |
+| AWSIncidentManagerResolverAccess | / | [v2](./policies/AWSIncidentManagerResolverAccess.json) |
 | AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSIncidentManagerServiceRolePolicy.json) |
 | AWSIoTAnalyticsFullAccess | / | [v1](./policies/AWSIoTAnalyticsFullAccess.json) |
 | AWSIoTAnalyticsReadOnlyAccess | / | [v1](./policies/AWSIoTAnalyticsReadOnlyAccess.json) |
@@ -808,7 +808,7 @@
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
 | AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v2](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
 | AmazonECSInstanceRolePolicyForManagedInstances | / | [v1](./policies/AmazonECSInstanceRolePolicyForManagedInstances.json) |
-| AmazonECSServiceRolePolicy | /aws-service-role/ | [v13](./policies/AmazonECSServiceRolePolicy.json) |
+| AmazonECSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
@@ -823,6 +823,7 @@
 | AmazonEKSLoadBalancingPolicy | / | [v2](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
+| AmazonEKSMCPReadOnlyAccess | / | [v1](./policies/AmazonEKSMCPReadOnlyAccess.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonEKSServiceRolePolicy.json) |
@@ -1019,8 +1020,8 @@
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
 | AmazonRDSFullAccess | / | [v14](./policies/AmazonRDSFullAccess.json) |
-| AmazonRDSPerformanceInsightsFullAccess | / | [v2](./policies/AmazonRDSPerformanceInsightsFullAccess.json) |
-| AmazonRDSPerformanceInsightsReadOnly | / | [v3](./policies/AmazonRDSPerformanceInsightsReadOnly.json) |
+| AmazonRDSPerformanceInsightsFullAccess | / | [v3](./policies/AmazonRDSPerformanceInsightsFullAccess.json) |
+| AmazonRDSPerformanceInsightsReadOnly | / | [v4](./policies/AmazonRDSPerformanceInsightsReadOnly.json) |
 | AmazonRDSPreviewServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSPreviewServiceRolePolicy.json) |
 | AmazonRDSReadOnlyAccess | / | [v7](./policies/AmazonRDSReadOnlyAccess.json) |
 | AmazonRDSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonRDSServiceRolePolicy.json) |
@@ -1131,7 +1132,7 @@
 | AmazonTimestreamConsoleFullAccess | / | [v7](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
 | AmazonTimestreamInfluxDBFullAccess | / | [v6](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v1](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
+| AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v2](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
 | AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonTimestreamReadOnlyAccess | / | [v4](./policies/AmazonTimestreamReadOnlyAccess.json) |
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
@@ -1208,8 +1209,8 @@
 | CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
-| CloudWatchApplicationSignalsFullAccess | / | [v2](./policies/CloudWatchApplicationSignalsFullAccess.json) |
-| CloudWatchApplicationSignalsReadOnlyAccess | / | [v2](./policies/CloudWatchApplicationSignalsReadOnlyAccess.json) |
+| CloudWatchApplicationSignalsFullAccess | / | [v3](./policies/CloudWatchApplicationSignalsFullAccess.json) |
+| CloudWatchApplicationSignalsReadOnlyAccess | / | [v3](./policies/CloudWatchApplicationSignalsReadOnlyAccess.json) |
 | CloudWatchApplicationSignalsServiceRolePolicy | /aws-service-role/ | [v7](./policies/CloudWatchApplicationSignalsServiceRolePolicy.json) |
 | CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
@@ -1219,7 +1220,7 @@
 | CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchEventsServiceRolePolicy.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v5](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v6](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
@@ -1234,7 +1235,7 @@
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
-| CloudWatchReadOnlyAccess | / | [v12](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v13](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v11](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
@@ -1381,10 +1382,10 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v23](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v24](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v20](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v21](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v3](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v6](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
