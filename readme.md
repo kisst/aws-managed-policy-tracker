@@ -1064,7 +1064,7 @@
 | AmazonS3OutpostsFullAccess | / | [v1](./policies/AmazonS3OutpostsFullAccess.json) |
 | AmazonS3OutpostsReadOnlyAccess | / | [v1](./policies/AmazonS3OutpostsReadOnlyAccess.json) |
 | AmazonS3ReadOnlyAccess | / | [v3](./policies/AmazonS3ReadOnlyAccess.json) |
-| AmazonS3TablesFullAccess | / | [v1](./policies/AmazonS3TablesFullAccess.json) |
+| AmazonS3TablesFullAccess | / | [v2](./policies/AmazonS3TablesFullAccess.json) |
 | AmazonS3TablesLakeFormationServiceRole | /service-role/ | [v2](./policies/AmazonS3TablesLakeFormationServiceRole.json) |
 | AmazonS3TablesReadOnlyAccess | / | [v1](./policies/AmazonS3TablesReadOnlyAccess.json) |
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
@@ -1259,7 +1259,7 @@
 | DatabaseAdministrator | /job-function/ | [v3](./policies/DatabaseAdministrator.json) |
 | DeclarativePoliciesEC2Report | /aws-service-role/ | [v1](./policies/DeclarativePoliciesEC2Report.json) |
 | DynamoDBCloudWatchContributorInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBCloudWatchContributorInsightsServiceRolePolicy.json) |
-| DynamoDBGlobalTableSettingsManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBGlobalTableSettingsManagementServiceRolePolicy.json) |
+| DynamoDBGlobalTableSettingsManagementServiceRolePolicy | /aws-service-role/ | [v2](./policies/DynamoDBGlobalTableSettingsManagementServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
 | EC2FastLaunchFullAccess | / | [v2](./policies/EC2FastLaunchFullAccess.json) |
