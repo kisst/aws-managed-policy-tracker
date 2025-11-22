@@ -173,7 +173,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v62](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v63](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -326,6 +326,7 @@
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
+| AWSIdentityCenterExternalManagementPolicy | /service-role/ | [v1](./policies/AWSIdentityCenterExternalManagementPolicy.json) |
 | AWSIdentitySyncFullAccess | / | [v1](./policies/AWSIdentitySyncFullAccess.json) |
 | AWSIdentitySyncReadOnlyAccess | / | [v1](./policies/AWSIdentitySyncReadOnlyAccess.json) |
 | AWSImageBuilderFullAccess | / | [v2](./policies/AWSImageBuilderFullAccess.json) |
@@ -421,6 +422,7 @@
 | AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v9](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v5](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
+| AWSMcpServiceActionsFullAccess | / | [v1](./policies/AWSMcpServiceActionsFullAccess.json) |
 | AWSMediaConnectServicePolicy | /aws-service-role/ | [v2](./policies/AWSMediaConnectServicePolicy.json) |
 | AWSMediaLiveAnywhereServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMediaLiveAnywhereServiceRolePolicy.json) |
 | AWSMediaTailorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMediaTailorServiceRolePolicy.json) |
@@ -555,8 +557,8 @@
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v1](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
-| AWSSecurityHubFullAccess | / | [v4](./policies/AWSSecurityHubFullAccess.json) |
-| AWSSecurityHubOrganizationsAccess | / | [v3](./policies/AWSSecurityHubOrganizationsAccess.json) |
+| AWSSecurityHubFullAccess | / | [v5](./policies/AWSSecurityHubFullAccess.json) |
+| AWSSecurityHubOrganizationsAccess | / | [v4](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
@@ -635,8 +637,8 @@
 | AWSTransferFullAccess | / | [v1](./policies/AWSTransferFullAccess.json) |
 | AWSTransferLoggingAccess | /service-role/ | [v1](./policies/AWSTransferLoggingAccess.json) |
 | AWSTransferReadOnlyAccess | / | [v1](./policies/AWSTransferReadOnlyAccess.json) |
-| AWSTransformApplicationDeploymentPolicy | /service-role/ | [v2](./policies/AWSTransformApplicationDeploymentPolicy.json) |
-| AWSTransformApplicationECSDeploymentPolicy | /service-role/ | [v1](./policies/AWSTransformApplicationECSDeploymentPolicy.json) |
+| AWSTransformApplicationDeploymentPolicy | /service-role/ | [v3](./policies/AWSTransformApplicationDeploymentPolicy.json) |
+| AWSTransformApplicationECSDeploymentPolicy | /service-role/ | [v2](./policies/AWSTransformApplicationECSDeploymentPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
@@ -664,7 +666,7 @@
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWSZoneGroupAccessManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSZoneGroupAccessManagementServiceRolePolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v41](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v42](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v17](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
@@ -742,7 +744,7 @@
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v31](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
-| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
+| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
 | AmazonDMSCloudWatchLogsRole | /service-role/ | [v2](./policies/AmazonDMSCloudWatchLogsRole.json) |
@@ -1027,6 +1029,7 @@
 | AmazonRDSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonRDSServiceRolePolicy.json) |
 | AmazonRedshiftAllCommandsFullAccess | / | [v2](./policies/AmazonRedshiftAllCommandsFullAccess.json) |
 | AmazonRedshiftDataFullAccess | / | [v5](./policies/AmazonRedshiftDataFullAccess.json) |
+| AmazonRedshiftFederatedAuthorization | / | [v1](./policies/AmazonRedshiftFederatedAuthorization.json) |
 | AmazonRedshiftFullAccess | / | [v5](./policies/AmazonRedshiftFullAccess.json) |
 | AmazonRedshiftQueryEditor | / | [v4](./policies/AmazonRedshiftQueryEditor.json) |
 | AmazonRedshiftQueryEditorV2FullAccess | / | [v3](./policies/AmazonRedshiftQueryEditorV2FullAccess.json) |
@@ -1383,7 +1386,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v5](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v24](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v11](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v12](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v7](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v21](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v2](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
