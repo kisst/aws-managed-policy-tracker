@@ -1064,7 +1064,7 @@
 | AmazonS3OutpostsFullAccess | / | [v1](./policies/AmazonS3OutpostsFullAccess.json) |
 | AmazonS3OutpostsReadOnlyAccess | / | [v1](./policies/AmazonS3OutpostsReadOnlyAccess.json) |
 | AmazonS3ReadOnlyAccess | / | [v3](./policies/AmazonS3ReadOnlyAccess.json) |
-| AmazonS3TablesFullAccess | / | [v2](./policies/AmazonS3TablesFullAccess.json) |
+| AmazonS3TablesFullAccess | / | [v1](./policies/AmazonS3TablesFullAccess.json) |
 | AmazonS3TablesLakeFormationServiceRole | /service-role/ | [v2](./policies/AmazonS3TablesLakeFormationServiceRole.json) |
 | AmazonS3TablesReadOnlyAccess | / | [v1](./policies/AmazonS3TablesReadOnlyAccess.json) |
 | AmazonSESFullAccess | / | [v1](./policies/AmazonSESFullAccess.json) |
