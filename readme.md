@@ -99,7 +99,7 @@
 | AWSBatchServiceEventTargetRole | /service-role/ | [v1](./policies/AWSBatchServiceEventTargetRole.json) |
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBatchServiceRolePolicyForSageMaker | /aws-service-role/ | [v1](./policies/AWSBatchServiceRolePolicyForSageMaker.json) |
-| AWSBillingConductorFullAccess | / | [v2](./policies/AWSBillingConductorFullAccess.json) |
+| AWSBillingConductorFullAccess | / | [v3](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v2](./policies/AWSBillingConductorReadOnlyAccess.json) |
 | AWSBillingReadOnlyAccess | / | [v14](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
