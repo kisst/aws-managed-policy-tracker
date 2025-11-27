@@ -1330,6 +1330,7 @@
 | NeptuneReadOnlyAccess | / | [v3](./policies/NeptuneReadOnlyAccess.json) |
 | NetworkAdministrator | /job-function/ | [v13](./policies/NetworkAdministrator.json) |
 | NetworkSecurityDirectorServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/NetworkSecurityDirectorServiceLinkedRolePolicy.json) |
+| NovaActServiceRolePolicy | /aws-service-role/ | [v1](./policies/NovaActServiceRolePolicy.json) |
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
