@@ -385,9 +385,11 @@
 | AWSLambdaInvocation-DynamoDB | / | [v1](./policies/AWSLambdaInvocation-DynamoDB.json) |
 | AWSLambdaKinesisExecutionRole | /service-role/ | [v2](./policies/AWSLambdaKinesisExecutionRole.json) |
 | AWSLambdaMSKExecutionRole | /service-role/ | [v2](./policies/AWSLambdaMSKExecutionRole.json) |
+| AWSLambdaManagedEC2ResourceOperator | / | [v1](./policies/AWSLambdaManagedEC2ResourceOperator.json) |
 | AWSLambdaReplicator | /aws-service-role/ | [v3](./policies/AWSLambdaReplicator.json) |
 | AWSLambdaRole | /service-role/ | [v1](./policies/AWSLambdaRole.json) |
 | AWSLambdaSQSQueueExecutionRole | /service-role/ | [v1](./policies/AWSLambdaSQSQueueExecutionRole.json) |
+| AWSLambdaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSLambdaServiceRolePolicy.json) |
 | AWSLambdaVPCAccessExecutionRole | /service-role/ | [v3](./policies/AWSLambdaVPCAccessExecutionRole.json) |
 | AWSLambda_FullAccess | / | [v2](./policies/AWSLambda_FullAccess.json) |
 | AWSLambda_ReadOnlyAccess | / | [v3](./policies/AWSLambda_ReadOnlyAccess.json) |
