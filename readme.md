@@ -453,7 +453,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsFullAccess | / | [v7](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
