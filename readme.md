@@ -391,7 +391,7 @@
 | AWSLambdaSQSQueueExecutionRole | /service-role/ | [v1](./policies/AWSLambdaSQSQueueExecutionRole.json) |
 | AWSLambdaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSLambdaServiceRolePolicy.json) |
 | AWSLambdaVPCAccessExecutionRole | /service-role/ | [v3](./policies/AWSLambdaVPCAccessExecutionRole.json) |
-| AWSLambda_FullAccess | / | [v2](./policies/AWSLambda_FullAccess.json) |
+| AWSLambda_FullAccess | / | [v3](./policies/AWSLambda_FullAccess.json) |
 | AWSLambda_ReadOnlyAccess | / | [v3](./policies/AWSLambda_ReadOnlyAccess.json) |
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
 | AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy.json) |
@@ -579,7 +579,7 @@
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
-| AWSServiceRoleForAWSTransform | /aws-service-role/ | [v3](./policies/AWSServiceRoleForAWSTransform.json) |
+| AWSServiceRoleForAWSTransform | /aws-service-role/ | [v4](./policies/AWSServiceRoleForAWSTransform.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v10](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
