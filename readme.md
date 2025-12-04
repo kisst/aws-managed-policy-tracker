@@ -704,6 +704,9 @@
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v1](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v3](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockLimitedAccess | / | [v1](./policies/AmazonBedrockLimitedAccess.json) |
+| AmazonBedrockMantleFullAccess | / | [v1](./policies/AmazonBedrockMantleFullAccess.json) |
+| AmazonBedrockMantleInferenceAccess | / | [v1](./policies/AmazonBedrockMantleInferenceAccess.json) |
+| AmazonBedrockMantleReadOnly | / | [v1](./policies/AmazonBedrockMantleReadOnly.json) |
 | AmazonBedrockMarketplaceAccess | / | [v1](./policies/AmazonBedrockMarketplaceAccess.json) |
 | AmazonBedrockReadOnly | / | [v5](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
