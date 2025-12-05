@@ -702,8 +702,8 @@
 | AmazonAuroraDSQLFullAccess | / | [v5](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v3](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v1](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
-| AmazonBedrockFullAccess | / | [v3](./policies/AmazonBedrockFullAccess.json) |
-| AmazonBedrockLimitedAccess | / | [v1](./policies/AmazonBedrockLimitedAccess.json) |
+| AmazonBedrockFullAccess | / | [v4](./policies/AmazonBedrockFullAccess.json) |
+| AmazonBedrockLimitedAccess | / | [v2](./policies/AmazonBedrockLimitedAccess.json) |
 | AmazonBedrockMantleFullAccess | / | [v1](./policies/AmazonBedrockMantleFullAccess.json) |
 | AmazonBedrockMantleInferenceAccess | / | [v1](./policies/AmazonBedrockMantleInferenceAccess.json) |
 | AmazonBedrockMantleReadOnly | / | [v1](./policies/AmazonBedrockMantleReadOnly.json) |
