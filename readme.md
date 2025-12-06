@@ -326,7 +326,7 @@
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQFullAccess | / | [v2](./policies/AWSIQFullAccess.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
-| AWSIdentityCenterExternalManagementPolicy | /service-role/ | [v1](./policies/AWSIdentityCenterExternalManagementPolicy.json) |
+| AWSIdentityCenterExternalManagementPolicy | /service-role/ | [v2](./policies/AWSIdentityCenterExternalManagementPolicy.json) |
 | AWSIdentitySyncFullAccess | / | [v1](./policies/AWSIdentitySyncFullAccess.json) |
 | AWSIdentitySyncReadOnlyAccess | / | [v1](./policies/AWSIdentitySyncReadOnlyAccess.json) |
 | AWSImageBuilderFullAccess | / | [v2](./policies/AWSImageBuilderFullAccess.json) |
@@ -643,6 +643,9 @@
 | AWSTransferReadOnlyAccess | / | [v1](./policies/AWSTransferReadOnlyAccess.json) |
 | AWSTransformApplicationDeploymentPolicy | /service-role/ | [v3](./policies/AWSTransformApplicationDeploymentPolicy.json) |
 | AWSTransformApplicationECSDeploymentPolicy | /service-role/ | [v2](./policies/AWSTransformApplicationECSDeploymentPolicy.json) |
+| AWSTransformCustomExecuteTransformations | / | [v1](./policies/AWSTransformCustomExecuteTransformations.json) |
+| AWSTransformCustomFullAccess | / | [v1](./policies/AWSTransformCustomFullAccess.json) |
+| AWSTransformCustomManageTransformations | / | [v1](./policies/AWSTransformCustomManageTransformations.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
