@@ -1405,7 +1405,7 @@
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v6](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v5](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAgentWebAppAPIPolicy | /service-role/ | [v1](./policies/SecurityAgentWebAppAPIPolicy.json) |
+| SecurityAgentWebAppAPIPolicy | /service-role/ | [v2](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAudit | / | [v56](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v3](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
