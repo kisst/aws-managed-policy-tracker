@@ -407,8 +407,8 @@
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
 | AWSManagedServices_EventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_EventsServiceRolePolicy.json) |
 | AWSManagedServices_SelfServiceReporting_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy.json) |
-| AWSManagementConsoleAdministratorAccess | /job-function/ | [v1](./policies/AWSManagementConsoleAdministratorAccess.json) |
-| AWSManagementConsoleBasicUserAccess | / | [v1](./policies/AWSManagementConsoleBasicUserAccess.json) |
+| AWSManagementConsoleAdministratorAccess | /job-function/ | [v2](./policies/AWSManagementConsoleAdministratorAccess.json) |
+| AWSManagementConsoleBasicUserAccess | / | [v2](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
 | AWSMarketplaceFullAccess | / | [v5](./policies/AWSMarketplaceFullAccess.json) |
