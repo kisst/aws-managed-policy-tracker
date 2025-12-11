@@ -1118,7 +1118,7 @@
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v2](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
-| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
+| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonSageMakerPartnerAppsFullAccess | / | [v1](./policies/AmazonSageMakerPartnerAppsFullAccess.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy.json) |
@@ -1244,7 +1244,7 @@
 | CloudWatchLogsReadOnlyAccess | / | [v8](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v1](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
 | CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
-| CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
+| CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v1](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
