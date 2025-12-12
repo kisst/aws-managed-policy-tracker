@@ -16,6 +16,7 @@
 | AWSAccountActivityAccess | / | [v2](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
+| AWSAccountSettingsManagementRole | / | [v1](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
@@ -676,6 +677,7 @@
 | AWS_ConfigRole | /service-role/ | [v42](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v17](./policies/AccessAnalyzerServiceRolePolicy.json) |
+| AccountManagementFromVercel | / | [v1](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v5](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
@@ -1260,6 +1262,8 @@
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v5](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
+| ConsoleFullAccessFromVercel | / | [v1](./policies/ConsoleFullAccessFromVercel.json) |
+| ConsoleViewOnlyAccessFromVercel | / | [v1](./policies/ConsoleViewOnlyAccessFromVercel.json) |
 | CostOptimizationHubAdminAccess | / | [v2](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v2](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
