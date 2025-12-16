@@ -1372,7 +1372,7 @@
 | ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
 | RTBFabricServiceRolePolicy | /aws-service-role/ | [v2](./policies/RTBFabricServiceRolePolicy.json) |
-| ReadOnlyAccess | / | [v136](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v137](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
