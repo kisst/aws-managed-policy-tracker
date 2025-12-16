@@ -123,6 +123,7 @@
 | AWSCleanRoomsMLFullAccess | / | [v2](./policies/AWSCleanRoomsMLFullAccess.json) |
 | AWSCleanRoomsMLReadOnlyAccess | / | [v2](./policies/AWSCleanRoomsMLReadOnlyAccess.json) |
 | AWSCleanRoomsReadOnlyAccess | / | [v1](./policies/AWSCleanRoomsReadOnlyAccess.json) |
+| AWSCleanRoomsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCleanRoomsServiceRolePolicy.json) |
 | AWSCloud9Administrator | / | [v5](./policies/AWSCloud9Administrator.json) |
 | AWSCloud9EnvironmentMember | / | [v5](./policies/AWSCloud9EnvironmentMember.json) |
 | AWSCloud9SSMInstanceProfile | / | [v1](./policies/AWSCloud9SSMInstanceProfile.json) |
@@ -288,7 +289,7 @@
 | AWSElementalMediaTailorFullAccess | / | [v1](./policies/AWSElementalMediaTailorFullAccess.json) |
 | AWSElementalMediaTailorReadOnly | / | [v1](./policies/AWSElementalMediaTailorReadOnly.json) |
 | AWSEnhancedClassicNetworkingMangementPolicy | /aws-service-role/ | [v1](./policies/AWSEnhancedClassicNetworkingMangementPolicy.json) |
-| AWSEntityResolutionConsoleFullAccess | / | [v2](./policies/AWSEntityResolutionConsoleFullAccess.json) |
+| AWSEntityResolutionConsoleFullAccess | / | [v3](./policies/AWSEntityResolutionConsoleFullAccess.json) |
 | AWSEntityResolutionConsoleReadOnlyAccess | / | [v1](./policies/AWSEntityResolutionConsoleReadOnlyAccess.json) |
 | AWSFMAdminFullAccess | / | [v2](./policies/AWSFMAdminFullAccess.json) |
 | AWSFMAdminReadOnlyAccess | / | [v2](./policies/AWSFMAdminReadOnlyAccess.json) |
@@ -651,6 +652,7 @@
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
 | AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
+| AWSUserAttributeCostAllocationPolicy | /aws-service-role/ | [v1](./policies/AWSUserAttributeCostAllocationPolicy.json) |
 | AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
 | AWSVPCS2SVpnServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCS2SVpnServiceRolePolicy.json) |
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
@@ -816,7 +818,7 @@
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
-| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
+| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v3](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v2](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v3](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
