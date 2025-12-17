@@ -72,7 +72,7 @@
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactAgreementsFullAccess | / | [v2](./policies/AWSArtifactAgreementsFullAccess.json) |
 | AWSArtifactAgreementsReadOnlyAccess | / | [v1](./policies/AWSArtifactAgreementsReadOnlyAccess.json) |
-| AWSArtifactReportsReadOnlyAccess | / | [v2](./policies/AWSArtifactReportsReadOnlyAccess.json) |
+| AWSArtifactReportsReadOnlyAccess | / | [v3](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
 | AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSAuditManagerServiceRolePolicy.json) |
@@ -542,7 +542,7 @@
 | AWSResourceExplorerFullAccess | / | [v2](./policies/AWSResourceExplorerFullAccess.json) |
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v21](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v22](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
@@ -1148,8 +1148,8 @@
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
 | AmazonTimestreamConsoleFullAccess | / | [v7](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccess | / | [v6](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v2](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
+| AmazonTimestreamInfluxDBFullAccess | / | [v7](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
+| AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v3](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
 | AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonTimestreamReadOnlyAccess | / | [v4](./policies/AmazonTimestreamReadOnlyAccess.json) |
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
