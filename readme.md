@@ -1,7 +1,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AIOpsAssistantIncidentReportPolicy | / | [v1](./policies/AIOpsAssistantIncidentReportPolicy.json) |
-| AIOpsAssistantPolicy | / | [v3](./policies/AIOpsAssistantPolicy.json) |
+| AIOpsAssistantPolicy | / | [v4](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v3](./policies/AIOpsConsoleAdminPolicy.json) |
 | AIOpsOperatorAccess | / | [v4](./policies/AIOpsOperatorAccess.json) |
 | AIOpsReadOnlyAccess | / | [v2](./policies/AIOpsReadOnlyAccess.json) |
@@ -498,7 +498,7 @@
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
 | AWSPurchaseOrdersServiceRolePolicy | / | [v6](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
 | AWSQuickSetupCFGCPacksPermissionsBoundary | / | [v1](./policies/AWSQuickSetupCFGCPacksPermissionsBoundary.json) |
-| AWSQuickSetupDeploymentRolePolicy | / | [v4](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
+| AWSQuickSetupDeploymentRolePolicy | / | [v5](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
 | AWSQuickSetupDevOpsGuruPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDevOpsGuruPermissionsBoundary.json) |
 | AWSQuickSetupDistributorPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDistributorPermissionsBoundary.json) |
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
