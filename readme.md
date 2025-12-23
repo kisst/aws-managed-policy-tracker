@@ -203,7 +203,7 @@
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDataSyncServiceRolePolicy.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
-| AWSDeadlineCloud-UserAccessFarms | / | [v2](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
+| AWSDeadlineCloud-UserAccessFarms | / | [v3](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
 | AWSDeadlineCloud-UserAccessFleets | / | [v1](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
 | AWSDeadlineCloud-UserAccessJobs | / | [v2](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
 | AWSDeadlineCloud-UserAccessQueues | / | [v2](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
