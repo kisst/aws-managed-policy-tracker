@@ -8,7 +8,7 @@
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
 | AWS-SSM-Automation-DiagnosisBucketPolicy | / | [v1](./policies/AWS-SSM-Automation-DiagnosisBucketPolicy.json) |
 | AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy | / | [v2](./policies/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy.json) |
-| AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy | / | [v2](./policies/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy.json) |
+| AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy | / | [v3](./policies/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy.json) |
 | AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-AdministrationRolePolicy | / | [v2](./policies/AWS-SSM-RemediationAutomation-AdministrationRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-ExecutionRolePolicy | / | [v2](./policies/AWS-SSM-RemediationAutomation-ExecutionRolePolicy.json) |
