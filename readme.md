@@ -178,7 +178,7 @@
 | AWSConfigServiceRolePolicy | /aws-service-role/ | [v63](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
-| AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
+| AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSControlTowerCloudTrailRolePolicy | /service-role/ | [v1](./policies/AWSControlTowerCloudTrailRolePolicy.json) |
 | AWSControlTowerIdentityCenterManagementPolicy | /service-role/ | [v1](./policies/AWSControlTowerIdentityCenterManagementPolicy.json) |
 | AWSControlTowerServiceRolePolicy | /service-role/ | [v13](./policies/AWSControlTowerServiceRolePolicy.json) |
