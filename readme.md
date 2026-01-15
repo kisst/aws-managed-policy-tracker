@@ -631,7 +631,7 @@
 | AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy | / | [v2](./policies/AWSSystemsManagerJustInTimeNodeAccessRolePropagationPolicy.json) |
 | AWSSystemsManagerNotificationsServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerNotificationsServicePolicy.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
-| AWSThinkboxAWSPortalAdminPolicy | / | [v9](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
+| AWSThinkboxAWSPortalAdminPolicy | / | [v10](./policies/AWSThinkboxAWSPortalAdminPolicy.json) |
 | AWSThinkboxAWSPortalGatewayPolicy | / | [v2](./policies/AWSThinkboxAWSPortalGatewayPolicy.json) |
 | AWSThinkboxAWSPortalWorkerPolicy | / | [v4](./policies/AWSThinkboxAWSPortalWorkerPolicy.json) |
 | AWSThinkboxAssetServerPolicy | / | [v1](./policies/AWSThinkboxAssetServerPolicy.json) |
