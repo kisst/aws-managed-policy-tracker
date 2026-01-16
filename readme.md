@@ -147,7 +147,7 @@
 | AWSCodeArtifactAdminAccess | / | [v1](./policies/AWSCodeArtifactAdminAccess.json) |
 | AWSCodeArtifactReadOnlyAccess | / | [v1](./policies/AWSCodeArtifactReadOnlyAccess.json) |
 | AWSCodeBuildAdminAccess | / | [v15](./policies/AWSCodeBuildAdminAccess.json) |
-| AWSCodeBuildDeveloperAccess | / | [v16](./policies/AWSCodeBuildDeveloperAccess.json) |
+| AWSCodeBuildDeveloperAccess | / | [v17](./policies/AWSCodeBuildDeveloperAccess.json) |
 | AWSCodeBuildReadOnlyAccess | / | [v13](./policies/AWSCodeBuildReadOnlyAccess.json) |
 | AWSCodeCommitFullAccess | / | [v11](./policies/AWSCodeCommitFullAccess.json) |
 | AWSCodeCommitPowerUser | / | [v16](./policies/AWSCodeCommitPowerUser.json) |
@@ -797,7 +797,7 @@
 | AmazonDynamoDBFullAccess_v2 | / | [v1](./policies/AmazonDynamoDBFullAccess_v2.json) |
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
 | AmazonDynamoDBReadOnlyAccess | / | [v15](./policies/AmazonDynamoDBReadOnlyAccess.json) |
-| AmazonEBSCSIDriverPolicy | /service-role/ | [v5](./policies/AmazonEBSCSIDriverPolicy.json) |
+| AmazonEBSCSIDriverPolicy | /service-role/ | [v6](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
 | AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
 | AmazonEC2ContainerRegistryPullOnly | / | [v1](./policies/AmazonEC2ContainerRegistryPullOnly.json) |
@@ -1372,7 +1372,7 @@
 | ROSASharedVPCRoute53Policy | / | [v1](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v2](./policies/ROSAWorkerInstancePolicy.json) |
 | RTBFabricServiceRolePolicy | /aws-service-role/ | [v2](./policies/RTBFabricServiceRolePolicy.json) |
-| ReadOnlyAccess | / | [v138](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v139](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v2](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
@@ -1433,7 +1433,7 @@
 | VPCLatticeFullAccess | / | [v2](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v2](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v28](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v29](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
