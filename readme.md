@@ -146,7 +146,7 @@
 | AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy.json) |
 | AWSCodeArtifactAdminAccess | / | [v1](./policies/AWSCodeArtifactAdminAccess.json) |
 | AWSCodeArtifactReadOnlyAccess | / | [v1](./policies/AWSCodeArtifactReadOnlyAccess.json) |
-| AWSCodeBuildAdminAccess | / | [v15](./policies/AWSCodeBuildAdminAccess.json) |
+| AWSCodeBuildAdminAccess | / | [v16](./policies/AWSCodeBuildAdminAccess.json) |
 | AWSCodeBuildDeveloperAccess | / | [v17](./policies/AWSCodeBuildDeveloperAccess.json) |
 | AWSCodeBuildReadOnlyAccess | / | [v13](./policies/AWSCodeBuildReadOnlyAccess.json) |
 | AWSCodeCommitFullAccess | / | [v11](./policies/AWSCodeCommitFullAccess.json) |
