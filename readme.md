@@ -1116,6 +1116,7 @@
 | AmazonSageMakerGeospatialExecutionRole | /service-role/ | [v2](./policies/AmazonSageMakerGeospatialExecutionRole.json) |
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
+| AmazonSageMakerHyperPodGatedModelAccess | / | [v1](./policies/AmazonSageMakerHyperPodGatedModelAccess.json) |
 | AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v2](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v1](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
