@@ -448,7 +448,7 @@
 | AWSMigrationHubStrategyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMigrationHubStrategyServiceRolePolicy.json) |
 | AWSNATGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNATGatewayServiceRolePolicy.json) |
 | AWSNetworkFirewallFullAccess | / | [v1](./policies/AWSNetworkFirewallFullAccess.json) |
-| AWSNetworkFirewallReadOnlyAccess | / | [v1](./policies/AWSNetworkFirewallReadOnlyAccess.json) |
+| AWSNetworkFirewallReadOnlyAccess | / | [v2](./policies/AWSNetworkFirewallReadOnlyAccess.json) |
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
 | AWSNetworkManagerCloudWANServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkManagerCloudWANServiceRolePolicy.json) |
 | AWSNetworkManagerFullAccess | / | [v1](./policies/AWSNetworkManagerFullAccess.json) |
