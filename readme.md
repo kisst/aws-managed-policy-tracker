@@ -824,7 +824,7 @@
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
 | AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v2](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
 | AmazonECSInstanceRolePolicyForManagedInstances | / | [v1](./policies/AmazonECSInstanceRolePolicyForManagedInstances.json) |
-| AmazonECSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonECSServiceRolePolicy.json) |
+| AmazonECSServiceRolePolicy | /aws-service-role/ | [v15](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
@@ -1412,7 +1412,7 @@
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v6](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v5](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAgentWebAppAPIPolicy | /service-role/ | [v2](./policies/SecurityAgentWebAppAPIPolicy.json) |
+| SecurityAgentWebAppAPIPolicy | /service-role/ | [v3](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAudit | / | [v57](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v3](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
