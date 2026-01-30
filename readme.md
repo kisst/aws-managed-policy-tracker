@@ -618,7 +618,7 @@
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v3](./policies/AWSSupportPlansFullAccess.json) |
 | AWSSupportPlansReadOnlyAccess | / | [v2](./policies/AWSSupportPlansReadOnlyAccess.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v43](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v44](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
