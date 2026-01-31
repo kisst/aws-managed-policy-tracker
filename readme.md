@@ -16,7 +16,7 @@
 | AWSAccountActivityAccess | / | [v2](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
-| AWSAccountSettingsManagementRole | / | [v1](./policies/AWSAccountSettingsManagementRole.json) |
+| AWSAccountSettingsManagementRole | / | [v2](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
@@ -322,6 +322,7 @@
 | AWSHealthFullAccess | / | [v3](./policies/AWSHealthFullAccess.json) |
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
+| AWSHealthImagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthImagingServiceRolePolicy.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
 | AWSIAMIdentityCenterAllowListForIdentityContext | / | [v12](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSIPAMServiceRolePolicy.json) |
@@ -1414,7 +1415,7 @@
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v5](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v3](./policies/SecurityAgentWebAppAPIPolicy.json) |
-| SecurityAudit | / | [v57](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v58](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v3](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
