@@ -130,7 +130,7 @@
 | AWSCloud9ServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSCloud9ServiceRolePolicy.json) |
 | AWSCloud9User | / | [v8](./policies/AWSCloud9User.json) |
 | AWSCloudFormationFullAccess | / | [v1](./policies/AWSCloudFormationFullAccess.json) |
-| AWSCloudFormationReadOnlyAccess | / | [v4](./policies/AWSCloudFormationReadOnlyAccess.json) |
+| AWSCloudFormationReadOnlyAccess | / | [v5](./policies/AWSCloudFormationReadOnlyAccess.json) |
 | AWSCloudFrontLogger | /aws-service-role/ | [v2](./policies/AWSCloudFrontLogger.json) |
 | AWSCloudFrontVPCOriginServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudFrontVPCOriginServiceRolePolicy.json) |
 | AWSCloudHSMFullAccess | / | [v1](./policies/AWSCloudHSMFullAccess.json) |
@@ -843,7 +843,7 @@
 | AmazonEKSMCPReadOnlyAccess | / | [v1](./policies/AmazonEKSMCPReadOnlyAccess.json) |
 | AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
@@ -1414,7 +1414,7 @@
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v7](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v5](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
-| SecurityAgentWebAppAPIPolicy | /service-role/ | [v3](./policies/SecurityAgentWebAppAPIPolicy.json) |
+| SecurityAgentWebAppAPIPolicy | /service-role/ | [v4](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAudit | / | [v58](./policies/SecurityAudit.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v3](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
 | SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
