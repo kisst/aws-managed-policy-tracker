@@ -1354,7 +1354,7 @@
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
-| PowerUserAccess | / | [v7](./policies/PowerUserAccess.json) |
+| PowerUserAccess | / | [v8](./policies/PowerUserAccess.json) |
 | QAppsServiceRolePolicy | /aws-service-role/ | [v1](./policies/QAppsServiceRolePolicy.json) |
 | QBusinessQuicksightPluginPolicy | / | [v1](./policies/QBusinessQuicksightPluginPolicy.json) |
 | QBusinessServiceRolePolicy | /aws-service-role/ | [v1](./policies/QBusinessServiceRolePolicy.json) |
