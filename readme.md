@@ -1,7 +1,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AIOpsAssistantIncidentReportPolicy | / | [v1](./policies/AIOpsAssistantIncidentReportPolicy.json) |
-| AIOpsAssistantPolicy | / | [v4](./policies/AIOpsAssistantPolicy.json) |
+| AIOpsAssistantPolicy | / | [v5](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v3](./policies/AIOpsConsoleAdminPolicy.json) |
 | AIOpsOperatorAccess | / | [v4](./policies/AIOpsOperatorAccess.json) |
 | AIOpsReadOnlyAccess | / | [v2](./policies/AIOpsReadOnlyAccess.json) |
