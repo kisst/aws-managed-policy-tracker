@@ -473,10 +473,10 @@
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
-| AWSPartnerCentralChannelManagement | / | [v6](./policies/AWSPartnerCentralChannelManagement.json) |
+| AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
 | AWSPartnerCentralFullAccess | / | [v13](./policies/AWSPartnerCentralFullAccess.json) |
-| AWSPartnerCentralMarketingManagement | / | [v3](./policies/AWSPartnerCentralMarketingManagement.json) |
-| AWSPartnerCentralOpportunityManagement | / | [v7](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralMarketingManagement | / | [v4](./policies/AWSPartnerCentralMarketingManagement.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v8](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v4](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v3](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
@@ -928,8 +928,9 @@
 | AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
 | AmazonInspector2FullAccess_v2 | / | [v6](./policies/AmazonInspector2FullAccess_v2.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
+| AmazonInspector2ManagedTelemetryPolicy | / | [v1](./policies/AmazonInspector2ManagedTelemetryPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v8](./policies/AmazonInspector2ReadOnlyAccess.json) |
-| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v25](./policies/AmazonInspector2ServiceRolePolicy.json) |
+| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v26](./policies/AmazonInspector2ServiceRolePolicy.json) |
 | AmazonInspectorFullAccess | / | [v5](./policies/AmazonInspectorFullAccess.json) |
 | AmazonInspectorReadOnlyAccess | / | [v4](./policies/AmazonInspectorReadOnlyAccess.json) |
 | AmazonInspectorServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonInspectorServiceRolePolicy.json) |
