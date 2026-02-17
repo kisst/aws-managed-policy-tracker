@@ -1412,7 +1412,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v76](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v37](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v62](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v61](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v9](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v21](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
