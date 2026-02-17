@@ -584,6 +584,7 @@
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
+| AWSServiceRoleForAIDevOpsPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAIDevOpsPolicy.json) |
 | AWSServiceRoleForAWSTransform | /aws-service-role/ | [v12](./policies/AWSServiceRoleForAWSTransform.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v10](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
@@ -1411,7 +1412,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v76](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v37](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v61](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v62](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v9](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v21](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
