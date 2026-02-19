@@ -1271,7 +1271,7 @@
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v9](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | ConsoleFullAccessFromVercel | / | [v3](./policies/ConsoleFullAccessFromVercel.json) |
-| ConsoleViewOnlyAccessFromVercel | / | [v3](./policies/ConsoleViewOnlyAccessFromVercel.json) |
+| ConsoleViewOnlyAccessFromVercel | / | [v4](./policies/ConsoleViewOnlyAccessFromVercel.json) |
 | CostOptimizationHubAdminAccess | / | [v4](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v4](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
