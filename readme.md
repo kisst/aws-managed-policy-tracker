@@ -424,9 +424,9 @@
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v11](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
-| AWSMarketplaceSellerFullAccess | / | [v23](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v24](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
-| AWSMarketplaceSellerProductsFullAccess | / | [v14](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
+| AWSMarketplaceSellerProductsFullAccess | / | [v15](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMcpServiceActionsFullAccess | / | [v3](./policies/AWSMcpServiceActionsFullAccess.json) |
 | AWSMediaConnectServicePolicy | /aws-service-role/ | [v2](./policies/AWSMediaConnectServicePolicy.json) |
