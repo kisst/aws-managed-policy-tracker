@@ -13,7 +13,7 @@
 | AWS-SSM-RemediationAutomation-AdministrationRolePolicy | / | [v4](./policies/AWS-SSM-RemediationAutomation-AdministrationRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-ExecutionRolePolicy | / | [v4](./policies/AWS-SSM-RemediationAutomation-ExecutionRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy.json) |
-| AWSAccountActivityAccess | / | [v2](./policies/AWSAccountActivityAccess.json) |
+| AWSAccountActivityAccess | / | [v3](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
 | AWSAccountSettingsManagementRole | / | [v6](./policies/AWSAccountSettingsManagementRole.json) |
@@ -843,7 +843,7 @@
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
-| AmazonEKSNetworkingPolicy | / | [v1](./policies/AmazonEKSNetworkingPolicy.json) |
+| AmazonEKSNetworkingPolicy | / | [v2](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v23](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
@@ -1249,6 +1249,7 @@
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
 | CloudWatchLambdaInsightsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaInsightsExecutionRolePolicy.json) |
+| CloudWatchLogsAPIKeyAccess | / | [v1](./policies/CloudWatchLogsAPIKeyAccess.json) |
 | CloudWatchLogsCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchLogsCrossAccountSharingConfiguration.json) |
 | CloudWatchLogsFullAccess | / | [v8](./policies/CloudWatchLogsFullAccess.json) |
 | CloudWatchLogsReadOnlyAccess | / | [v12](./policies/CloudWatchLogsReadOnlyAccess.json) |
