@@ -89,7 +89,7 @@
 | AWSBackupSearchOperatorAccess | / | [v6](./policies/AWSBackupSearchOperatorAccess.json) |
 | AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v31](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
 | AWSBackupServiceLinkedRolePolicyForBackupTest | /aws-service-role/ | [v1](./policies/AWSBackupServiceLinkedRolePolicyForBackupTest.json) |
-| AWSBackupServiceRolePolicyForBackup | /service-role/ | [v29](./policies/AWSBackupServiceRolePolicyForBackup.json) |
+| AWSBackupServiceRolePolicyForBackup | /service-role/ | [v30](./policies/AWSBackupServiceRolePolicyForBackup.json) |
 | AWSBackupServiceRolePolicyForIndexing | / | [v3](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
 | AWSBackupServiceRolePolicyForItemRestores | / | [v3](./policies/AWSBackupServiceRolePolicyForItemRestores.json) |
 | AWSBackupServiceRolePolicyForRestores | /service-role/ | [v35](./policies/AWSBackupServiceRolePolicyForRestores.json) |
@@ -594,7 +594,7 @@
 | AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
-| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v25](./policies/AWSServiceRoleForImageBuilder.json) |
+| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v26](./policies/AWSServiceRoleForImageBuilder.json) |
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForMonitronPolicy.json) |
@@ -1298,7 +1298,7 @@
 | Ec2ImageBuilderCrossAccountDistributionAccess | / | [v1](./policies/Ec2ImageBuilderCrossAccountDistributionAccess.json) |
 | Ec2InstanceConnectEndpoint | /aws-service-role/ | [v2](./policies/Ec2InstanceConnectEndpoint.json) |
 | ElastiCacheServiceRolePolicy | /aws-service-role/ | [v4](./policies/ElastiCacheServiceRolePolicy.json) |
-| ElasticLoadBalancingFullAccess | / | [v8](./policies/ElasticLoadBalancingFullAccess.json) |
+| ElasticLoadBalancingFullAccess | / | [v9](./policies/ElasticLoadBalancingFullAccess.json) |
 | ElasticLoadBalancingReadOnly | / | [v3](./policies/ElasticLoadBalancingReadOnly.json) |
 | ElementalActivationsDownloadSoftwareAccess | / | [v1](./policies/ElementalActivationsDownloadSoftwareAccess.json) |
 | ElementalActivationsFullAccess | / | [v1](./policies/ElementalActivationsFullAccess.json) |
