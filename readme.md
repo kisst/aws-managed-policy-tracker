@@ -175,7 +175,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v89](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v90](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -679,7 +679,7 @@
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWSZoneGroupAccessManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSZoneGroupAccessManagementServiceRolePolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v66](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v67](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v23](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AccountManagementFromVercel | / | [v3](./policies/AccountManagementFromVercel.json) |
@@ -821,7 +821,7 @@
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v6](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
-| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v9](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
+| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v10](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v4](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v5](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
