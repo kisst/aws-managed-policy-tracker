@@ -770,7 +770,7 @@
 | AmazonDRSVPCManagement | / | [v1](./policies/AmazonDRSVPCManagement.json) |
 | AmazonDataZoneBedrockModelConsumptionPolicy | /service-role/ | [v7](./policies/AmazonDataZoneBedrockModelConsumptionPolicy.json) |
 | AmazonDataZoneBedrockModelManagementPolicy | /service-role/ | [v1](./policies/AmazonDataZoneBedrockModelManagementPolicy.json) |
-| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v12](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
+| AmazonDataZoneDomainExecutionRolePolicy | /service-role/ | [v13](./policies/AmazonDataZoneDomainExecutionRolePolicy.json) |
 | AmazonDataZoneEnvironmentRolePermissionsBoundary | / | [v4](./policies/AmazonDataZoneEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneFullAccess | / | [v13](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
@@ -1404,7 +1404,7 @@
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v19](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v20](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
