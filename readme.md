@@ -821,7 +821,7 @@
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSComputeServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonECSComputeServiceRolePolicy.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v6](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
-| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v10](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
+| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v11](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v4](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v5](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
@@ -1411,7 +1411,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v76](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v37](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v38](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v61](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
