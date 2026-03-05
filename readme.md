@@ -323,6 +323,7 @@
 | AWSHealthImagingFullAccess | / | [v1](./policies/AWSHealthImagingFullAccess.json) |
 | AWSHealthImagingReadOnlyAccess | / | [v2](./policies/AWSHealthImagingReadOnlyAccess.json) |
 | AWSHealthImagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthImagingServiceRolePolicy.json) |
+| AWSHealthOmicsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthOmicsServiceLinkedRolePolicy.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
 | AWSIAMIdentityCenterAllowListForIdentityContext | / | [v12](./policies/AWSIAMIdentityCenterAllowListForIdentityContext.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSIPAMServiceRolePolicy.json) |
@@ -651,6 +652,7 @@
 | AWSTransformCustomExecuteTransformations | / | [v3](./policies/AWSTransformCustomExecuteTransformations.json) |
 | AWSTransformCustomFullAccess | / | [v3](./policies/AWSTransformCustomFullAccess.json) |
 | AWSTransformCustomManageTransformations | / | [v3](./policies/AWSTransformCustomManageTransformations.json) |
+| AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
@@ -849,7 +851,7 @@
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
-| AmazonEKS_CNI_Policy | / | [v5](./policies/AmazonEKS_CNI_Policy.json) |
+| AmazonEKS_CNI_Policy | / | [v6](./policies/AmazonEKS_CNI_Policy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
 | AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRFullAccessPolicy_v2 | / | [v7](./policies/AmazonEMRFullAccessPolicy_v2.json) |
