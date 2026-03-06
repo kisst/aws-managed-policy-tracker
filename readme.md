@@ -461,7 +461,7 @@
 | AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsFullAccess | / | [v9](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
-| AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v2](./policies/AWSOrganizationsServiceTrustPolicy.json) |
+| AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSComputeNodePolicy | / | [v3](./policies/AWSPCSComputeNodePolicy.json) |
@@ -510,14 +510,14 @@
 | AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v7](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
-| AWSQuickSetupPatchPolicyPermissionsBoundary | / | [v4](./policies/AWSQuickSetupPatchPolicyPermissionsBoundary.json) |
+| AWSQuickSetupPatchPolicyPermissionsBoundary | / | [v5](./policies/AWSQuickSetupPatchPolicyPermissionsBoundary.json) |
 | AWSQuickSetupSSMDeploymentRolePolicy | / | [v8](./policies/AWSQuickSetupSSMDeploymentRolePolicy.json) |
 | AWSQuickSetupSSMDeploymentS3BucketRolePolicy | / | [v1](./policies/AWSQuickSetupSSMDeploymentS3BucketRolePolicy.json) |
 | AWSQuickSetupSSMHostMgmtPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSSMHostMgmtPermissionsBoundary.json) |
 | AWSQuickSetupSSMLifecycleManagementExecutionPolicy | / | [v4](./policies/AWSQuickSetupSSMLifecycleManagementExecutionPolicy.json) |
 | AWSQuickSetupSSMManageResourcesExecutionPolicy | / | [v1](./policies/AWSQuickSetupSSMManageResourcesExecutionPolicy.json) |
 | AWSQuickSetupSchedulerPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSchedulerPermissionsBoundary.json) |
-| AWSQuickSetupStartSSMAssociationsExecutionPolicy | / | [v6](./policies/AWSQuickSetupStartSSMAssociationsExecutionPolicy.json) |
+| AWSQuickSetupStartSSMAssociationsExecutionPolicy | / | [v7](./policies/AWSQuickSetupStartSSMAssociationsExecutionPolicy.json) |
 | AWSQuickSetupStartStopInstancesExecutionPolicy | / | [v6](./policies/AWSQuickSetupStartStopInstancesExecutionPolicy.json) |
 | AWSQuickSightAssetBundleExportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleExportPolicy.json) |
 | AWSQuickSightAssetBundleImportPolicy | / | [v1](./policies/AWSQuickSightAssetBundleImportPolicy.json) |
@@ -704,7 +704,7 @@
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
 | AmazonAppStreamReadOnlyAccess | / | [v5](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v11](./policies/AmazonAppStreamServiceAccess.json) |
-| AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy | / | [v3](./policies/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy.json) |
+| AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy | / | [v4](./policies/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy.json) |
 | AmazonAthenaFullAccess | / | [v15](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAthenaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonAthenaServiceRolePolicy.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
@@ -1278,7 +1278,7 @@
 | CostOptimizationHubAdminAccess | / | [v4](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v4](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
-| CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v2](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
+| CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
@@ -1394,9 +1394,9 @@
 | SMSVoiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/SMSVoiceServiceRolePolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
-| SageMakerStudioAdminIAMConsolePolicy | / | [v6](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
+| SageMakerStudioAdminIAMConsolePolicy | / | [v7](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
 | SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v18](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v15](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v16](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
@@ -1419,7 +1419,7 @@
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v9](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v21](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v15](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v16](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
