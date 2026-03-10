@@ -1068,6 +1068,8 @@
 | AmazonRoute53DomainsFullAccess | / | [v1](./policies/AmazonRoute53DomainsFullAccess.json) |
 | AmazonRoute53DomainsReadOnlyAccess | / | [v1](./policies/AmazonRoute53DomainsReadOnlyAccess.json) |
 | AmazonRoute53FullAccess | / | [v7](./policies/AmazonRoute53FullAccess.json) |
+| AmazonRoute53GlobalResolverFullAccess | / | [v1](./policies/AmazonRoute53GlobalResolverFullAccess.json) |
+| AmazonRoute53GlobalResolverReadOnlyAccess | / | [v1](./policies/AmazonRoute53GlobalResolverReadOnlyAccess.json) |
 | AmazonRoute53ProfilesFullAccess | / | [v2](./policies/AmazonRoute53ProfilesFullAccess.json) |
 | AmazonRoute53ProfilesReadOnlyAccess | / | [v2](./policies/AmazonRoute53ProfilesReadOnlyAccess.json) |
 | AmazonRoute53ReadOnlyAccess | / | [v2](./policies/AmazonRoute53ReadOnlyAccess.json) |
