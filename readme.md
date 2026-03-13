@@ -243,7 +243,7 @@
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
 | AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v12](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
-| AWSElasticBeanstalkMulticontainerDocker | / | [v3](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
+| AWSElasticBeanstalkMulticontainerDocker | / | [v4](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
 | AWSElasticBeanstalkReadOnly | / | [v1](./policies/AWSElasticBeanstalkReadOnly.json) |
 | AWSElasticBeanstalkRoleCWL | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleCWL.json) |
 | AWSElasticBeanstalkRoleCore | /service-role/ | [v3](./policies/AWSElasticBeanstalkRoleCore.json) |
@@ -253,8 +253,8 @@
 | AWSElasticBeanstalkRoleWorkerTier | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleWorkerTier.json) |
 | AWSElasticBeanstalkService | /service-role/ | [v17](./policies/AWSElasticBeanstalkService.json) |
 | AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
-| AWSElasticBeanstalkWebTier | / | [v7](./policies/AWSElasticBeanstalkWebTier.json) |
-| AWSElasticBeanstalkWorkerTier | / | [v6](./policies/AWSElasticBeanstalkWorkerTier.json) |
+| AWSElasticBeanstalkWebTier | / | [v8](./policies/AWSElasticBeanstalkWebTier.json) |
+| AWSElasticBeanstalkWorkerTier | / | [v7](./policies/AWSElasticBeanstalkWorkerTier.json) |
 | AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryAgentPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryAgentPolicy.json) |
 | AWSElasticDisasterRecoveryConsoleFullAccess | / | [v8](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
@@ -475,10 +475,10 @@
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
 | AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
-| AWSPartnerCentralFullAccess | / | [v13](./policies/AWSPartnerCentralFullAccess.json) |
+| AWSPartnerCentralFullAccess | / | [v14](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralMarketingManagement | / | [v4](./policies/AWSPartnerCentralMarketingManagement.json) |
-| AWSPartnerCentralOpportunityManagement | / | [v8](./policies/AWSPartnerCentralOpportunityManagement.json) |
-| AWSPartnerCentralSandboxFullAccess | / | [v4](./policies/AWSPartnerCentralSandboxFullAccess.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v9](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v3](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
@@ -1362,7 +1362,7 @@
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
-| PartnerCentralIncentiveBenefitManagement | / | [v3](./policies/PartnerCentralIncentiveBenefitManagement.json) |
+| PartnerCentralIncentiveBenefitManagement | / | [v4](./policies/PartnerCentralIncentiveBenefitManagement.json) |
 | PowerUserAccess | / | [v12](./policies/PowerUserAccess.json) |
 | QAppsServiceRolePolicy | /aws-service-role/ | [v1](./policies/QAppsServiceRolePolicy.json) |
 | QBusinessQuicksightPluginPolicy | / | [v3](./policies/QBusinessQuicksightPluginPolicy.json) |
