@@ -242,7 +242,7 @@
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
 | AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v12](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
-| AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
+| AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
 | AWSElasticBeanstalkMulticontainerDocker | / | [v4](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
 | AWSElasticBeanstalkReadOnly | / | [v1](./policies/AWSElasticBeanstalkReadOnly.json) |
 | AWSElasticBeanstalkRoleCWL | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleCWL.json) |
@@ -913,7 +913,6 @@
 | AmazonGrafanaCloudWatchAccess | /service-role/ | [v1](./policies/AmazonGrafanaCloudWatchAccess.json) |
 | AmazonGrafanaRedshiftAccess | /service-role/ | [v1](./policies/AmazonGrafanaRedshiftAccess.json) |
 | AmazonGrafanaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGrafanaServiceLinkedRolePolicy.json) |
-| AmazonGuardDutyFullAccess | / | [v9](./policies/AmazonGuardDutyFullAccess.json) |
 | AmazonGuardDutyFullAccess_v2 | / | [v6](./policies/AmazonGuardDutyFullAccess_v2.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
