@@ -170,7 +170,7 @@
 | AWSCodeStarServiceRole | /service-role/ | [v11](./policies/AWSCodeStarServiceRole.json) |
 | AWSCompromisedKeyQuarantine | / | [v1](./policies/AWSCompromisedKeyQuarantine.json) |
 | AWSCompromisedKeyQuarantineV2 | / | [v5](./policies/AWSCompromisedKeyQuarantineV2.json) |
-| AWSCompromisedKeyQuarantineV3 | / | [v2](./policies/AWSCompromisedKeyQuarantineV3.json) |
+| AWSCompromisedKeyQuarantineV3 | / | [v3](./policies/AWSCompromisedKeyQuarantineV3.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
