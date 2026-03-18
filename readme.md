@@ -412,7 +412,7 @@
 | AWSManagedServices_EventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_EventsServiceRolePolicy.json) |
 | AWSManagedServices_SelfServiceReporting_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy.json) |
 | AWSManagementConsoleAdministratorAccess | /job-function/ | [v6](./policies/AWSManagementConsoleAdministratorAccess.json) |
-| AWSManagementConsoleBasicUserAccess | / | [v6](./policies/AWSManagementConsoleBasicUserAccess.json) |
+| AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
 | AWSMarketplaceFullAccess | / | [v7](./policies/AWSMarketplaceFullAccess.json) |
@@ -595,7 +595,7 @@
 | AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
-| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v26](./policies/AWSServiceRoleForImageBuilder.json) |
+| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v27](./policies/AWSServiceRoleForImageBuilder.json) |
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForMonitronPolicy.json) |
