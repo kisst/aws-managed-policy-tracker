@@ -605,7 +605,7 @@
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
 | AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v7](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
-| AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
+| AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v3](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
 | AWSServiceRolePolicyForWorkspacesInstances | /aws-service-role/ | [v1](./policies/AWSServiceRolePolicyForWorkspacesInstances.json) |
 | AWSShieldDRTAccessPolicy | /service-role/ | [v6](./policies/AWSShieldDRTAccessPolicy.json) |
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
