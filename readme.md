@@ -274,6 +274,10 @@
 | AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
+| AWSElementalMediaConnectCreateBridge | / | [v1](./policies/AWSElementalMediaConnectCreateBridge.json) |
+| AWSElementalMediaConnectCreateFlow | / | [v1](./policies/AWSElementalMediaConnectCreateFlow.json) |
+| AWSElementalMediaConnectDeleteBridge | / | [v1](./policies/AWSElementalMediaConnectDeleteBridge.json) |
+| AWSElementalMediaConnectDeleteFlow | / | [v1](./policies/AWSElementalMediaConnectDeleteFlow.json) |
 | AWSElementalMediaConnectFullAccess | / | [v3](./policies/AWSElementalMediaConnectFullAccess.json) |
 | AWSElementalMediaConnectReadOnlyAccess | / | [v3](./policies/AWSElementalMediaConnectReadOnlyAccess.json) |
 | AWSElementalMediaConvertFullAccess | / | [v2](./policies/AWSElementalMediaConvertFullAccess.json) |
