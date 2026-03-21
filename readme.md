@@ -569,7 +569,7 @@
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v3](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
-| AWSSecurityAgentWebAppPolicy | /service-role/ | [v3](./policies/AWSSecurityAgentWebAppPolicy.json) |
+| AWSSecurityAgentWebAppPolicy | /service-role/ | [v4](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
@@ -1101,7 +1101,7 @@
 | AmazonSQSFullAccess | / | [v1](./policies/AmazonSQSFullAccess.json) |
 | AmazonSQSReadOnlyAccess | / | [v4](./policies/AmazonSQSReadOnlyAccess.json) |
 | AmazonSSMAutomationApproverAccess | / | [v1](./policies/AmazonSSMAutomationApproverAccess.json) |
-| AmazonSSMAutomationRole | /service-role/ | [v8](./policies/AmazonSSMAutomationRole.json) |
+| AmazonSSMAutomationRole | /service-role/ | [v9](./policies/AmazonSSMAutomationRole.json) |
 | AmazonSSMDirectoryServiceAccess | / | [v1](./policies/AmazonSSMDirectoryServiceAccess.json) |
 | AmazonSSMFullAccess | / | [v4](./policies/AmazonSSMFullAccess.json) |
 | AmazonSSMMaintenanceWindowRole | /service-role/ | [v3](./policies/AmazonSSMMaintenanceWindowRole.json) |
