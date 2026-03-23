@@ -865,7 +865,7 @@
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
 | AmazonESReadOnlyAccess | / | [v2](./policies/AmazonESReadOnlyAccess.json) |
-| AmazonEVSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonEVSServiceRolePolicy.json) |
+| AmazonEVSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonEVSServiceRolePolicy.json) |
 | AmazonElastiCacheFullAccess | / | [v3](./policies/AmazonElastiCacheFullAccess.json) |
 | AmazonElastiCacheReadOnlyAccess | / | [v1](./policies/AmazonElastiCacheReadOnlyAccess.json) |
 | AmazonElasticContainerRegistryPublicFullAccess | / | [v1](./policies/AmazonElasticContainerRegistryPublicFullAccess.json) |
