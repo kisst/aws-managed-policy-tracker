@@ -181,7 +181,7 @@
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSControlTowerCloudTrailRolePolicy | /service-role/ | [v3](./policies/AWSControlTowerCloudTrailRolePolicy.json) |
 | AWSControlTowerIdentityCenterManagementPolicy | /service-role/ | [v3](./policies/AWSControlTowerIdentityCenterManagementPolicy.json) |
-| AWSControlTowerServiceRolePolicy | /service-role/ | [v19](./policies/AWSControlTowerServiceRolePolicy.json) |
+| AWSControlTowerServiceRolePolicy | /service-role/ | [v20](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -415,7 +415,7 @@
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
 | AWSManagedServices_EventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_EventsServiceRolePolicy.json) |
 | AWSManagedServices_SelfServiceReporting_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy.json) |
-| AWSManagementConsoleAdministratorAccess | /job-function/ | [v6](./policies/AWSManagementConsoleAdministratorAccess.json) |
+| AWSManagementConsoleAdministratorAccess | /job-function/ | [v7](./policies/AWSManagementConsoleAdministratorAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
@@ -485,6 +485,9 @@
 | AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v3](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
+| AWSPartnerProServeToolsFullAccess | / | [v1](./policies/AWSPartnerProServeToolsFullAccess.json) |
+| AWSPartnerProServeToolsIndividualContributor | / | [v1](./policies/AWSPartnerProServeToolsIndividualContributor.json) |
+| AWSPartnerProServeToolsOrganizationReaderIndividualContributor | / | [v1](./policies/AWSPartnerProServeToolsOrganizationReaderIndividualContributor.json) |
 | AWSPriceListServiceFullAccess | / | [v2](./policies/AWSPriceListServiceFullAccess.json) |
 | AWSPrivateCAAuditor | / | [v1](./policies/AWSPrivateCAAuditor.json) |
 | AWSPrivateCAConnectorForKubernetesPolicy | / | [v3](./policies/AWSPrivateCAConnectorForKubernetesPolicy.json) |
@@ -719,7 +722,7 @@
 | AmazonAuroraDSQLReadOnlyAccess | / | [v9](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v3](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v10](./policies/AmazonBedrockFullAccess.json) |
-| AmazonBedrockLimitedAccess | / | [v6](./policies/AmazonBedrockLimitedAccess.json) |
+| AmazonBedrockLimitedAccess | / | [v7](./policies/AmazonBedrockLimitedAccess.json) |
 | AmazonBedrockMantleFullAccess | / | [v3](./policies/AmazonBedrockMantleFullAccess.json) |
 | AmazonBedrockMantleInferenceAccess | / | [v3](./policies/AmazonBedrockMantleInferenceAccess.json) |
 | AmazonBedrockMantleReadOnly | / | [v3](./policies/AmazonBedrockMantleReadOnly.json) |
