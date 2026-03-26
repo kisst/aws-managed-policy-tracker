@@ -1,5 +1,9 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
+| AIDevOpsAgentAccessPolicy | / | [v1](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentFullAccess | / | [v1](./policies/AIDevOpsAgentFullAccess.json) |
+| AIDevOpsAgentReadOnlyAccess | / | [v1](./policies/AIDevOpsAgentReadOnlyAccess.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v1](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v9](./policies/AIOpsConsoleAdminPolicy.json) |
