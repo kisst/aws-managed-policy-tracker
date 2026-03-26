@@ -236,6 +236,7 @@
 | AWSEC2SpotServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSEC2SpotServiceRolePolicy.json) |
 | AWSEC2SqlHaInstancePolicy | / | [v3](./policies/AWSEC2SqlHaInstancePolicy.json) |
 | AWSEC2SqlHaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSEC2SqlHaServiceRolePolicy.json) |
+| AWSEC2VssRestorePolicy | / | [v1](./policies/AWSEC2VssRestorePolicy.json) |
 | AWSEC2VssSnapshotPolicy | / | [v2](./policies/AWSEC2VssSnapshotPolicy.json) |
 | AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
@@ -924,7 +925,7 @@
 | AmazonGuardDutyFullAccess_v2 | / | [v6](./policies/AmazonGuardDutyFullAccess_v2.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
-| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonGuardDutyServiceRolePolicy.json) |
+| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
 | AmazonHealthLakeReadOnlyAccess | / | [v1](./policies/AmazonHealthLakeReadOnlyAccess.json) |
 | AmazonHoneycodeFullAccess | / | [v1](./policies/AmazonHoneycodeFullAccess.json) |
@@ -1289,6 +1290,8 @@
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
 | DAXServiceRolePolicy | /aws-service-role/ | [v1](./policies/DAXServiceRolePolicy.json) |
+| DBModDiscoveryAndAssessment | / | [v1](./policies/DBModDiscoveryAndAssessment.json) |
+| DBModProvisioningAndMigration | / | [v1](./policies/DBModProvisioningAndMigration.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
 | DeclarativePoliciesEC2Report | /aws-service-role/ | [v1](./policies/DeclarativePoliciesEC2Report.json) |
@@ -1424,7 +1427,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v78](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v38](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v63](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v64](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v9](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v22](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
