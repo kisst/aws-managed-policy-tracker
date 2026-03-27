@@ -597,7 +597,7 @@
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
-| AWSServiceRoleForAIDevOpsPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAIDevOpsPolicy.json) |
+| AWSServiceRoleForAIDevOpsPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAIDevOpsPolicy.json) |
 | AWSServiceRoleForAWSTransform | /aws-service-role/ | [v12](./policies/AWSServiceRoleForAWSTransform.json) |
 | AWSServiceRoleForAWSTransformCustom | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAWSTransformCustom.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v11](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
