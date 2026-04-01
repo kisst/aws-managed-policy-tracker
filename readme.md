@@ -121,7 +121,7 @@
 | AWSCertificateManagerPrivateCAPrivilegedUser | / | [v4](./policies/AWSCertificateManagerPrivateCAPrivilegedUser.json) |
 | AWSCertificateManagerPrivateCAReadOnly | / | [v3](./policies/AWSCertificateManagerPrivateCAReadOnly.json) |
 | AWSCertificateManagerPrivateCAUser | / | [v7](./policies/AWSCertificateManagerPrivateCAUser.json) |
-| AWSCertificateManagerReadOnly | / | [v4](./policies/AWSCertificateManagerReadOnly.json) |
+| AWSCertificateManagerReadOnly | / | [v5](./policies/AWSCertificateManagerReadOnly.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
 | AWSCleanRoomsFullAccessNoQuerying | / | [v7](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
@@ -428,15 +428,15 @@
 | AWSMarketplaceFullAccess | / | [v7](./policies/AWSMarketplaceFullAccess.json) |
 | AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
 | AWSMarketplaceLicenseManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceLicenseManagementServiceRolePolicy.json) |
-| AWSMarketplaceManageSubscriptions | / | [v7](./policies/AWSMarketplaceManageSubscriptions.json) |
+| AWSMarketplaceManageSubscriptions | / | [v8](./policies/AWSMarketplaceManageSubscriptions.json) |
 | AWSMarketplaceMeteringFullAccess | / | [v1](./policies/AWSMarketplaceMeteringFullAccess.json) |
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v1](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
-| AWSMarketplaceRead-only | / | [v11](./policies/AWSMarketplaceRead-only.json) |
+| AWSMarketplaceRead-only | / | [v12](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
-| AWSMarketplaceSellerFullAccess | / | [v25](./policies/AWSMarketplaceSellerFullAccess.json) |
-| AWSMarketplaceSellerOfferManagement | / | [v1](./policies/AWSMarketplaceSellerOfferManagement.json) |
+| AWSMarketplaceSellerFullAccess | / | [v26](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerOfferManagement | / | [v2](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v15](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMcpServiceActionsFullAccess | / | [v3](./policies/AWSMcpServiceActionsFullAccess.json) |
@@ -468,7 +468,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsFullAccess | / | [v9](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
@@ -1277,7 +1277,7 @@
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
 | CloudWatchReadOnlyAccess | / | [v24](./policies/CloudWatchReadOnlyAccess.json) |
-| CloudWatchSyntheticsFullAccess | / | [v13](./policies/CloudWatchSyntheticsFullAccess.json) |
+| CloudWatchSyntheticsFullAccess | / | [v14](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
@@ -1399,7 +1399,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | RTBFabricServiceRolePolicy | /aws-service-role/ | [v6](./policies/RTBFabricServiceRolePolicy.json) |
-| ReadOnlyAccess | / | [v179](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v181](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
@@ -1434,7 +1434,7 @@
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v64](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
-| SageMakerStudioUserIAMConsolePolicy | / | [v9](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
+| SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v23](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v17](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
@@ -1461,7 +1461,7 @@
 | VPCLatticeFullAccess | / | [v4](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v43](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v44](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
