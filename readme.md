@@ -1036,7 +1036,7 @@
 | AmazonOpenSearchServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonOpenSearchServiceRolePolicy.json) |
 | AmazonPersonalizeFullAccess | /service-role/ | [v2](./policies/AmazonPersonalizeFullAccess.json) |
 | AmazonPollyFullAccess | / | [v1](./policies/AmazonPollyFullAccess.json) |
-| AmazonPollyReadOnlyAccess | / | [v2](./policies/AmazonPollyReadOnlyAccess.json) |
+| AmazonPollyReadOnlyAccess | / | [v3](./policies/AmazonPollyReadOnlyAccess.json) |
 | AmazonPrometheusConsoleFullAccess | / | [v9](./policies/AmazonPrometheusConsoleFullAccess.json) |
 | AmazonPrometheusFullAccess | / | [v2](./policies/AmazonPrometheusFullAccess.json) |
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
@@ -1207,6 +1207,10 @@
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
+| AnthropicFullAccess | / | [v1](./policies/AnthropicFullAccess.json) |
+| AnthropicInferenceAccess | / | [v1](./policies/AnthropicInferenceAccess.json) |
+| AnthropicLimitedAccess | / | [v1](./policies/AnthropicLimitedAccess.json) |
+| AnthropicReadOnlyAccess | / | [v1](./policies/AnthropicReadOnlyAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
