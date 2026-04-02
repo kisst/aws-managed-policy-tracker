@@ -855,7 +855,7 @@
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
-| AmazonEKSLoadBalancingPolicy | / | [v4](./policies/AmazonEKSLoadBalancingPolicy.json) |
+| AmazonEKSLoadBalancingPolicy | / | [v5](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
@@ -1207,10 +1207,10 @@
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
-| AnthropicFullAccess | / | [v1](./policies/AnthropicFullAccess.json) |
-| AnthropicInferenceAccess | / | [v1](./policies/AnthropicInferenceAccess.json) |
-| AnthropicLimitedAccess | / | [v1](./policies/AnthropicLimitedAccess.json) |
-| AnthropicReadOnlyAccess | / | [v1](./policies/AnthropicReadOnlyAccess.json) |
+| AnthropicFullAccess | / | [v2](./policies/AnthropicFullAccess.json) |
+| AnthropicInferenceAccess | / | [v2](./policies/AnthropicInferenceAccess.json) |
+| AnthropicLimitedAccess | / | [v3](./policies/AnthropicLimitedAccess.json) |
+| AnthropicReadOnlyAccess | / | [v2](./policies/AnthropicReadOnlyAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |

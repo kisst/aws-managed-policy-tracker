@@ -23,12 +23,26 @@
             "Resource": "arn:aws:aws-external-anthropic:*:*:workspace/*"
         },
         {
-            "Sid": "AnthropicInferenceResourceless",
+            "Sid": "AnthropicLimitedGetToken",
             "Effect": "Allow",
-            "Action": [
-                "aws-external-anthropic:GetAccountStatus",
-                "aws-external-anthropic:CallWithBearerToken"
-            ],
+            "Action": "sts:GetWebIdentityToken",
+            "Resource": "*",
+            "Condition": {
+                "ForAnyValue:StringEquals": {
+                    "sts:IdentityTokenAudience": [
+                        "https://api.anthropic.com",
+                        "https://platform.claude.com"
+                    ]
+                },
+                "StringEquals": {
+                    "aws:CalledViaLast": "aws-external-anthropic.amazonaws.com"
+                }
+            }
+        },
+        {
+            "Sid": "AnthropicLimitedTagToken",
+            "Effect": "Allow",
+            "Action": "sts:TagGetWebIdentityToken",
             "Resource": "*"
         }
     ]
