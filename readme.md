@@ -907,7 +907,7 @@
 | AmazonEventBridgePipesReadOnlyAccess | / | [v1](./policies/AmazonEventBridgePipesReadOnlyAccess.json) |
 | AmazonEventBridgeReadOnlyAccess | / | [v6](./policies/AmazonEventBridgeReadOnlyAccess.json) |
 | AmazonEventBridgeSchedulerFullAccess | / | [v4](./policies/AmazonEventBridgeSchedulerFullAccess.json) |
-| AmazonEventBridgeSchedulerReadOnlyAccess | / | [v4](./policies/AmazonEventBridgeSchedulerReadOnlyAccess.json) |
+| AmazonEventBridgeSchedulerReadOnlyAccess | / | [v5](./policies/AmazonEventBridgeSchedulerReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasFullAccess | / | [v1](./policies/AmazonEventBridgeSchemasFullAccess.json) |
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
@@ -1209,7 +1209,7 @@
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
 | AnthropicFullAccess | / | [v2](./policies/AnthropicFullAccess.json) |
 | AnthropicInferenceAccess | / | [v2](./policies/AnthropicInferenceAccess.json) |
-| AnthropicLimitedAccess | / | [v3](./policies/AnthropicLimitedAccess.json) |
+| AnthropicLimitedAccess | / | [v4](./policies/AnthropicLimitedAccess.json) |
 | AnthropicReadOnlyAccess | / | [v2](./policies/AnthropicReadOnlyAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
