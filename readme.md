@@ -1094,6 +1094,8 @@
 | AmazonRoute53RecoveryReadinessReadOnlyAccess | / | [v2](./policies/AmazonRoute53RecoveryReadinessReadOnlyAccess.json) |
 | AmazonRoute53ResolverFullAccess | / | [v3](./policies/AmazonRoute53ResolverFullAccess.json) |
 | AmazonRoute53ResolverReadOnlyAccess | / | [v3](./policies/AmazonRoute53ResolverReadOnlyAccess.json) |
+| AmazonS3ExpressFullAccess | / | [v1](./policies/AmazonS3ExpressFullAccess.json) |
+| AmazonS3ExpressReadOnlyAccess | / | [v1](./policies/AmazonS3ExpressReadOnlyAccess.json) |
 | AmazonS3FullAccess | / | [v2](./policies/AmazonS3FullAccess.json) |
 | AmazonS3ObjectLambdaExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonS3ObjectLambdaExecutionRolePolicy.json) |
 | AmazonS3OutpostsFullAccess | / | [v1](./policies/AmazonS3OutpostsFullAccess.json) |
@@ -1403,7 +1405,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | RTBFabricServiceRolePolicy | /aws-service-role/ | [v6](./policies/RTBFabricServiceRolePolicy.json) |
-| ReadOnlyAccess | / | [v181](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v182](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
