@@ -887,7 +887,7 @@
 | AmazonElasticFileSystemFullAccess | / | [v10](./policies/AmazonElasticFileSystemFullAccess.json) |
 | AmazonElasticFileSystemReadOnlyAccess | / | [v9](./policies/AmazonElasticFileSystemReadOnlyAccess.json) |
 | AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
-| AmazonElasticFileSystemsUtils | / | [v1](./policies/AmazonElasticFileSystemsUtils.json) |
+| AmazonElasticFileSystemsUtils | / | [v2](./policies/AmazonElasticFileSystemsUtils.json) |
 | AmazonElasticMapReduceEditorsRole | /service-role/ | [v2](./policies/AmazonElasticMapReduceEditorsRole.json) |
 | AmazonElasticMapReduceFullAccess | / | [v7](./policies/AmazonElasticMapReduceFullAccess.json) |
 | AmazonElasticMapReducePlacementGroupPolicy | / | [v1](./policies/AmazonElasticMapReducePlacementGroupPolicy.json) |
@@ -1096,7 +1096,12 @@
 | AmazonRoute53ResolverReadOnlyAccess | / | [v3](./policies/AmazonRoute53ResolverReadOnlyAccess.json) |
 | AmazonS3ExpressFullAccess | / | [v1](./policies/AmazonS3ExpressFullAccess.json) |
 | AmazonS3ExpressReadOnlyAccess | / | [v1](./policies/AmazonS3ExpressReadOnlyAccess.json) |
+| AmazonS3FilesCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonS3FilesCSIDriverPolicy.json) |
+| AmazonS3FilesClientFullAccess | / | [v1](./policies/AmazonS3FilesClientFullAccess.json) |
+| AmazonS3FilesClientReadOnlyAccess | / | [v1](./policies/AmazonS3FilesClientReadOnlyAccess.json) |
+| AmazonS3FilesClientReadWriteAccess | / | [v1](./policies/AmazonS3FilesClientReadWriteAccess.json) |
 | AmazonS3FilesFullAccess | / | [v1](./policies/AmazonS3FilesFullAccess.json) |
+| AmazonS3FilesReadOnlyAccess | / | [v1](./policies/AmazonS3FilesReadOnlyAccess.json) |
 | AmazonS3FullAccess | / | [v2](./policies/AmazonS3FullAccess.json) |
 | AmazonS3ObjectLambdaExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonS3ObjectLambdaExecutionRolePolicy.json) |
 | AmazonS3OutpostsFullAccess | / | [v1](./policies/AmazonS3OutpostsFullAccess.json) |
