@@ -1096,6 +1096,7 @@
 | AmazonRoute53ResolverReadOnlyAccess | / | [v3](./policies/AmazonRoute53ResolverReadOnlyAccess.json) |
 | AmazonS3ExpressFullAccess | / | [v1](./policies/AmazonS3ExpressFullAccess.json) |
 | AmazonS3ExpressReadOnlyAccess | / | [v1](./policies/AmazonS3ExpressReadOnlyAccess.json) |
+| AmazonS3FilesFullAccess | / | [v1](./policies/AmazonS3FilesFullAccess.json) |
 | AmazonS3FullAccess | / | [v2](./policies/AmazonS3FullAccess.json) |
 | AmazonS3ObjectLambdaExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonS3ObjectLambdaExecutionRolePolicy.json) |
 | AmazonS3OutpostsFullAccess | / | [v1](./policies/AmazonS3OutpostsFullAccess.json) |
