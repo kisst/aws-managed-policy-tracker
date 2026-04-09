@@ -729,9 +729,9 @@
 | AmazonAuroraDSQLReadOnlyAccess | / | [v9](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v3](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v10](./policies/AmazonBedrockFullAccess.json) |
-| AmazonBedrockLimitedAccess | / | [v7](./policies/AmazonBedrockLimitedAccess.json) |
-| AmazonBedrockMantleFullAccess | / | [v3](./policies/AmazonBedrockMantleFullAccess.json) |
-| AmazonBedrockMantleInferenceAccess | / | [v3](./policies/AmazonBedrockMantleInferenceAccess.json) |
+| AmazonBedrockLimitedAccess | / | [v8](./policies/AmazonBedrockLimitedAccess.json) |
+| AmazonBedrockMantleFullAccess | / | [v4](./policies/AmazonBedrockMantleFullAccess.json) |
+| AmazonBedrockMantleInferenceAccess | / | [v4](./policies/AmazonBedrockMantleInferenceAccess.json) |
 | AmazonBedrockMantleReadOnly | / | [v3](./policies/AmazonBedrockMantleReadOnly.json) |
 | AmazonBedrockMarketplaceAccess | / | [v3](./policies/AmazonBedrockMarketplaceAccess.json) |
 | AmazonBedrockReadOnly | / | [v7](./policies/AmazonBedrockReadOnly.json) |
@@ -1379,6 +1379,7 @@
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
 | MultiPartyApprovalFullAccess | / | [v6](./policies/MultiPartyApprovalFullAccess.json) |
 | MultiPartyApprovalReadOnlyAccess | / | [v6](./policies/MultiPartyApprovalReadOnlyAccess.json) |
+| NAPSPropagatorIntegTestManagedPolicy07 | / | [v1](./policies/NAPSPropagatorIntegTestManagedPolicy07.json) |
 | NeptuneConsoleFullAccess | / | [v5](./policies/NeptuneConsoleFullAccess.json) |
 | NeptuneFullAccess | / | [v7](./policies/NeptuneFullAccess.json) |
 | NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
