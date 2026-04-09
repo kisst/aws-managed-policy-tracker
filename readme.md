@@ -107,7 +107,7 @@
 | AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy.json) |
 | AWSBillingConductorFullAccess | / | [v7](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v4](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v26](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v27](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v2](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
@@ -208,7 +208,7 @@
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDataSyncServiceRolePolicy.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
-| AWSDeadlineCloud-UserAccessFarms | / | [v5](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
+| AWSDeadlineCloud-UserAccessFarms | / | [v6](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
 | AWSDeadlineCloud-UserAccessFleets | / | [v1](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
 | AWSDeadlineCloud-UserAccessJobs | / | [v2](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
 | AWSDeadlineCloud-UserAccessQueues | / | [v2](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
@@ -681,10 +681,10 @@
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
-| AWSWAFConsoleFullAccess | / | [v20](./policies/AWSWAFConsoleFullAccess.json) |
-| AWSWAFConsoleReadOnlyAccess | / | [v19](./policies/AWSWAFConsoleReadOnlyAccess.json) |
-| AWSWAFFullAccess | / | [v14](./policies/AWSWAFFullAccess.json) |
-| AWSWAFReadOnlyAccess | / | [v11](./policies/AWSWAFReadOnlyAccess.json) |
+| AWSWAFConsoleFullAccess | / | [v21](./policies/AWSWAFConsoleFullAccess.json) |
+| AWSWAFConsoleReadOnlyAccess | / | [v20](./policies/AWSWAFConsoleReadOnlyAccess.json) |
+| AWSWAFFullAccess | / | [v15](./policies/AWSWAFFullAccess.json) |
+| AWSWAFReadOnlyAccess | / | [v12](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
 | AWSWellArchitectedOrganizationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedOrganizationsServiceRolePolicy.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
@@ -1137,6 +1137,7 @@
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
 | AmazonSageMakerCanvasFullAccess | / | [v11](./policies/AmazonSageMakerCanvasFullAccess.json) |
 | AmazonSageMakerCanvasSMDataScienceAssistantAccess | / | [v6](./policies/AmazonSageMakerCanvasSMDataScienceAssistantAccess.json) |
+| AmazonSageMakerCapacityReservationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCapacityReservationServiceRolePolicy.json) |
 | AmazonSageMakerClusterInstanceRolePolicy | / | [v1](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
@@ -1241,7 +1242,7 @@
 | BedrockAgentCoreFullAccess | / | [v16](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
 | BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
-| Billing | /job-function/ | [v27](./policies/Billing.json) |
+| Billing | /job-function/ | [v28](./policies/Billing.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
