@@ -606,7 +606,7 @@
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
 | AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy.json) |
 | AWSServiceRoleForCodeGuru-Profiler | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCodeGuru-Profiler.json) |
-| AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
+| AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v6](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
 | AWSServiceRoleForImageBuilder | /aws-service-role/ | [v27](./policies/AWSServiceRoleForImageBuilder.json) |
@@ -1301,8 +1301,8 @@
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v9](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
-| ConsoleFullAccessFromVercel | / | [v3](./policies/ConsoleFullAccessFromVercel.json) |
-| ConsoleViewOnlyAccessFromVercel | / | [v4](./policies/ConsoleViewOnlyAccessFromVercel.json) |
+| ConsoleFullAccessFromVercel | / | [v4](./policies/ConsoleFullAccessFromVercel.json) |
+| ConsoleViewOnlyAccessFromVercel | / | [v5](./policies/ConsoleViewOnlyAccessFromVercel.json) |
 | CostOptimizationHubAdminAccess | / | [v4](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v4](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
@@ -1379,7 +1379,6 @@
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
 | MultiPartyApprovalFullAccess | / | [v6](./policies/MultiPartyApprovalFullAccess.json) |
 | MultiPartyApprovalReadOnlyAccess | / | [v6](./policies/MultiPartyApprovalReadOnlyAccess.json) |
-| NAPSPropagatorIntegTestManagedPolicy07 | / | [v1](./policies/NAPSPropagatorIntegTestManagedPolicy07.json) |
 | NeptuneConsoleFullAccess | / | [v5](./policies/NeptuneConsoleFullAccess.json) |
 | NeptuneFullAccess | / | [v7](./policies/NeptuneFullAccess.json) |
 | NeptuneGraphReadOnlyAccess | / | [v1](./policies/NeptuneGraphReadOnlyAccess.json) |
