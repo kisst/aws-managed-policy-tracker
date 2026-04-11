@@ -1399,12 +1399,12 @@
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
 | ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v6](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
-| ROSAControlPlaneOperatorPolicy | /service-role/ | [v5](./policies/ROSAControlPlaneOperatorPolicy.json) |
+| ROSAControlPlaneOperatorPolicy | /service-role/ | [v6](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v8](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v4](./policies/ROSAIngressOperatorPolicy.json) |
 | ROSAInstallerPolicy | /service-role/ | [v10](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
-| ROSAKubeControllerPolicy | /service-role/ | [v6](./policies/ROSAKubeControllerPolicy.json) |
+| ROSAKubeControllerPolicy | /service-role/ | [v7](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
 | ROSANodePoolManagementPolicy | /service-role/ | [v8](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v6](./policies/ROSASRESupportPolicy.json) |
