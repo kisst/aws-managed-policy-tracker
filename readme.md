@@ -103,7 +103,7 @@
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
 | AWSBatchServiceEventTargetRole | /service-role/ | [v1](./policies/AWSBatchServiceEventTargetRole.json) |
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
-| AWSBatchServiceRolePolicyForSageMaker | /aws-service-role/ | [v1](./policies/AWSBatchServiceRolePolicyForSageMaker.json) |
+| AWSBatchServiceRolePolicyForSageMaker | /aws-service-role/ | [v2](./policies/AWSBatchServiceRolePolicyForSageMaker.json) |
 | AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy.json) |
 | AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy.json) |
 | AWSBillingConductorFullAccess | / | [v7](./policies/AWSBillingConductorFullAccess.json) |
@@ -469,7 +469,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsFullAccess | / | [v9](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
@@ -817,7 +817,9 @@
 | AmazonDynamoDBFullAccess_v2 | / | [v3](./policies/AmazonDynamoDBFullAccess_v2.json) |
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
 | AmazonDynamoDBReadOnlyAccess | / | [v15](./policies/AmazonDynamoDBReadOnlyAccess.json) |
+| AmazonEBSCSIDriverEKSClusterScopedPolicy | / | [v1](./policies/AmazonEBSCSIDriverEKSClusterScopedPolicy.json) |
 | AmazonEBSCSIDriverPolicy | /service-role/ | [v14](./policies/AmazonEBSCSIDriverPolicy.json) |
+| AmazonEBSCSIDriverPolicyV2 | / | [v1](./policies/AmazonEBSCSIDriverPolicyV2.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
 | AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
 | AmazonEC2ContainerRegistryPullOnly | / | [v1](./policies/AmazonEC2ContainerRegistryPullOnly.json) |
@@ -1155,7 +1157,7 @@
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v2](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
-| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v11](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
+| AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonSageMakerPartnerAppsFullAccess | / | [v3](./policies/AmazonSageMakerPartnerAppsFullAccess.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsApiGatewayServiceRolePolicy.json) |
 | AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy | /service-role/ | [v1](./policies/AmazonSageMakerPartnerServiceCatalogProductsCloudFormationServiceRolePolicy.json) |
