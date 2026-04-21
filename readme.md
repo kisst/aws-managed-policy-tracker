@@ -414,7 +414,7 @@
 | AWSLicenseManagerMasterAccountRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerMasterAccountRolePolicy.json) |
 | AWSLicenseManagerMemberAccountRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerMemberAccountRolePolicy.json) |
 | AWSLicenseManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSLicenseManagerServiceRolePolicy.json) |
-| AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
+| AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
 | AWSM2ServicePolicy | /aws-service-role/ | [v1](./policies/AWSM2ServicePolicy.json) |
 | AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
 | AWSManagedServicesDeploymentToolkitPolicy | /aws-service-role/ | [v4](./policies/AWSManagedServicesDeploymentToolkitPolicy.json) |
