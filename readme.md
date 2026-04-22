@@ -432,11 +432,11 @@
 | AWSMarketplaceManageSubscriptions | / | [v8](./policies/AWSMarketplaceManageSubscriptions.json) |
 | AWSMarketplaceMeteringFullAccess | / | [v1](./policies/AWSMarketplaceMeteringFullAccess.json) |
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
-| AWSMarketplaceProcurementSystemAdminFullAccess | / | [v1](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
+| AWSMarketplaceProcurementSystemAdminFullAccess | / | [v2](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v12](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
-| AWSMarketplaceSellerFullAccess | / | [v26](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v27](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v2](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v15](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
@@ -864,7 +864,7 @@
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
 | AmazonEKSNetworkingPolicy | / | [v2](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v24](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v25](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
 | AmazonEKSWorkerNodePolicy | / | [v3](./policies/AmazonEKSWorkerNodePolicy.json) |
@@ -1242,7 +1242,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
-| BedrockAgentCoreFullAccess | / | [v16](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreFullAccess | / | [v17](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
 | BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
 | Billing | /job-function/ | [v28](./policies/Billing.json) |
