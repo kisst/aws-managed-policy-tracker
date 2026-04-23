@@ -585,9 +585,9 @@
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
-| AWSSecurityIncidentResponseCaseFullAccess | / | [v3](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
-| AWSSecurityIncidentResponseFullAccess | / | [v3](./policies/AWSSecurityIncidentResponseFullAccess.json) |
-| AWSSecurityIncidentResponseReadOnlyAccess | / | [v3](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
+| AWSSecurityIncidentResponseCaseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
+| AWSSecurityIncidentResponseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseFullAccess.json) |
+| AWSSecurityIncidentResponseReadOnlyAccess | / | [v4](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
 | AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseTriageServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSSecurityIncidentResponseTriageServiceRolePolicy.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
@@ -637,7 +637,7 @@
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
 | AWSSupportPlansFullAccess | / | [v3](./policies/AWSSupportPlansFullAccess.json) |
 | AWSSupportPlansReadOnlyAccess | / | [v2](./policies/AWSSupportPlansReadOnlyAccess.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v56](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v57](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
@@ -846,7 +846,7 @@
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
 | AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v6](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
 | AmazonECSInstanceRolePolicyForManagedInstances | / | [v3](./policies/AmazonECSInstanceRolePolicyForManagedInstances.json) |
-| AmazonECSServiceRolePolicy | /aws-service-role/ | [v23](./policies/AmazonECSServiceRolePolicy.json) |
+| AmazonECSServiceRolePolicy | /aws-service-role/ | [v24](./policies/AmazonECSServiceRolePolicy.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
 | AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
@@ -1477,7 +1477,7 @@
 | VPCLatticeFullAccess | / | [v4](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| ViewOnlyAccess | /job-function/ | [v44](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v45](./policies/ViewOnlyAccess.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
