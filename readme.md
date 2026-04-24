@@ -1,6 +1,6 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v1](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v2](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v1](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v1](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsOperatorAppAccessPolicy | / | [v2](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
@@ -401,7 +401,7 @@
 | AWSLambdaInvocation-DynamoDB | / | [v1](./policies/AWSLambdaInvocation-DynamoDB.json) |
 | AWSLambdaKinesisExecutionRole | /service-role/ | [v2](./policies/AWSLambdaKinesisExecutionRole.json) |
 | AWSLambdaMSKExecutionRole | /service-role/ | [v2](./policies/AWSLambdaMSKExecutionRole.json) |
-| AWSLambdaManagedEC2ResourceOperator | / | [v3](./policies/AWSLambdaManagedEC2ResourceOperator.json) |
+| AWSLambdaManagedEC2ResourceOperator | / | [v4](./policies/AWSLambdaManagedEC2ResourceOperator.json) |
 | AWSLambdaReplicator | /aws-service-role/ | [v3](./policies/AWSLambdaReplicator.json) |
 | AWSLambdaRole | /service-role/ | [v1](./policies/AWSLambdaRole.json) |
 | AWSLambdaSQSQueueExecutionRole | /service-role/ | [v1](./policies/AWSLambdaSQSQueueExecutionRole.json) |
@@ -1448,7 +1448,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v78](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v38](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v65](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v66](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v23](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
