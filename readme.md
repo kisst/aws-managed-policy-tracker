@@ -664,9 +664,9 @@
 | AWSTransferReadOnlyAccess | / | [v1](./policies/AWSTransferReadOnlyAccess.json) |
 | AWSTransformApplicationDeploymentPolicy | /service-role/ | [v9](./policies/AWSTransformApplicationDeploymentPolicy.json) |
 | AWSTransformApplicationECSDeploymentPolicy | /service-role/ | [v6](./policies/AWSTransformApplicationECSDeploymentPolicy.json) |
-| AWSTransformCustomExecuteTransformations | / | [v3](./policies/AWSTransformCustomExecuteTransformations.json) |
+| AWSTransformCustomExecuteTransformations | / | [v4](./policies/AWSTransformCustomExecuteTransformations.json) |
 | AWSTransformCustomFullAccess | / | [v4](./policies/AWSTransformCustomFullAccess.json) |
-| AWSTransformCustomManageTransformations | / | [v3](./policies/AWSTransformCustomManageTransformations.json) |
+| AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
@@ -858,7 +858,7 @@
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
-| AmazonEKSLoadBalancingPolicy | / | [v6](./policies/AmazonEKSLoadBalancingPolicy.json) |
+| AmazonEKSLoadBalancingPolicy | / | [v7](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
@@ -1320,6 +1320,7 @@
 | DynamoDBGlobalTableSettingsManagementServiceRolePolicy | /aws-service-role/ | [v6](./policies/DynamoDBGlobalTableSettingsManagementServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
+| EC2ApplicationStatusChecksServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2ApplicationStatusChecksServiceRolePolicy.json) |
 | EC2FastLaunchFullAccess | / | [v4](./policies/EC2FastLaunchFullAccess.json) |
 | EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v7](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
