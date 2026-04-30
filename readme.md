@@ -250,7 +250,7 @@
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
 | AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v12](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
-| AWSElasticBeanstalkMulticontainerDocker | / | [v4](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
+| AWSElasticBeanstalkMulticontainerDocker | / | [v5](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
 | AWSElasticBeanstalkReadOnly | / | [v1](./policies/AWSElasticBeanstalkReadOnly.json) |
 | AWSElasticBeanstalkRoleCWL | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleCWL.json) |
 | AWSElasticBeanstalkRoleCore | /service-role/ | [v3](./policies/AWSElasticBeanstalkRoleCore.json) |
@@ -260,8 +260,8 @@
 | AWSElasticBeanstalkRoleWorkerTier | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleWorkerTier.json) |
 | AWSElasticBeanstalkService | /service-role/ | [v17](./policies/AWSElasticBeanstalkService.json) |
 | AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
-| AWSElasticBeanstalkWebTier | / | [v8](./policies/AWSElasticBeanstalkWebTier.json) |
-| AWSElasticBeanstalkWorkerTier | / | [v7](./policies/AWSElasticBeanstalkWorkerTier.json) |
+| AWSElasticBeanstalkWebTier | / | [v9](./policies/AWSElasticBeanstalkWebTier.json) |
+| AWSElasticBeanstalkWorkerTier | / | [v8](./policies/AWSElasticBeanstalkWorkerTier.json) |
 | AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryAgentPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryAgentPolicy.json) |
 | AWSElasticDisasterRecoveryConsoleFullAccess | / | [v8](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
@@ -436,7 +436,7 @@
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
 | AWSMarketplaceRead-only | / | [v12](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceResaleAuthorizationServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSMarketplaceResaleAuthorizationServiceRolePolicy.json) |
-| AWSMarketplaceSellerFullAccess | / | [v27](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v28](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v2](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v15](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
@@ -469,7 +469,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsFullAccess | / | [v9](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
@@ -583,7 +583,7 @@
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
-| AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSSecurityHubServiceRolePolicy.json) |
+| AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseFullAccess.json) |
