@@ -181,7 +181,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v92](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v93](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -584,7 +584,7 @@
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSSecurityHubServiceRolePolicy.json) |
-| AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
+| AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseFullAccess.json) |
 | AWSSecurityIncidentResponseReadOnlyAccess | / | [v4](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
@@ -601,7 +601,7 @@
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
 | AWSServiceRoleForAIDevOpsPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAIDevOpsPolicy.json) |
 | AWSServiceRoleForAWSTransform | /aws-service-role/ | [v12](./policies/AWSServiceRoleForAWSTransform.json) |
-| AWSServiceRoleForAWSTransformCustom | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAWSTransformCustom.json) |
+| AWSServiceRoleForAWSTransformCustom | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAWSTransformCustom.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v11](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
@@ -696,7 +696,7 @@
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWSZoneGroupAccessManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSZoneGroupAccessManagementServiceRolePolicy.json) |
-| AWS_ConfigRole | /service-role/ | [v69](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v70](./policies/AWS_ConfigRole.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v23](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AccountManagementFromVercel | / | [v3](./policies/AccountManagementFromVercel.json) |
@@ -1416,7 +1416,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | RTBFabricServiceRolePolicy | /aws-service-role/ | [v6](./policies/RTBFabricServiceRolePolicy.json) |
-| ReadOnlyAccess | / | [v182](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v183](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsServiceRolePolicy | /aws-service-role/ | [v1](./policies/ResourceGroupsServiceRolePolicy.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
