@@ -1261,6 +1261,7 @@
 | CloudTrailEventContext | /aws-service-role/ | [v1](./policies/CloudTrailEventContext.json) |
 | CloudTrailServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudTrailServiceRolePolicy.json) |
 | CloudWatch-CrossAccountAccess | /aws-service-role/ | [v1](./policies/CloudWatch-CrossAccountAccess.json) |
+| CloudWatchAPIKeyAccess | / | [v1](./policies/CloudWatchAPIKeyAccess.json) |
 | CloudWatchActionsEC2Access | / | [v1](./policies/CloudWatchActionsEC2Access.json) |
 | CloudWatchAgentAdminPolicy | / | [v2](./policies/CloudWatchAgentAdminPolicy.json) |
 | CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
