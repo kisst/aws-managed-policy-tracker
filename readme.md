@@ -23,6 +23,7 @@
 | AWSAccountSettingsManagementRole | / | [v6](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
+| AWSAppConfigServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppConfigServiceRolePolicy.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
 | AWSAppFabricReadOnlyAccess | / | [v1](./policies/AWSAppFabricReadOnlyAccess.json) |
 | AWSAppFabricServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppFabricServiceRolePolicy.json) |
@@ -580,7 +581,7 @@
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v3](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
-| AWSSecurityAgentWebAppPolicy | /service-role/ | [v4](./policies/AWSSecurityAgentWebAppPolicy.json) |
+| AWSSecurityAgentWebAppPolicy | /service-role/ | [v5](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
@@ -1221,8 +1222,7 @@
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
 | AnthropicFullAccess | / | [v2](./policies/AnthropicFullAccess.json) |
-| AnthropicInferenceAccess | / | [v2](./policies/AnthropicInferenceAccess.json) |
-| AnthropicLimitedAccess | / | [v4](./policies/AnthropicLimitedAccess.json) |
+| AnthropicLimitedAccess | / | [v5](./policies/AnthropicLimitedAccess.json) |
 | AnthropicReadOnlyAccess | / | [v2](./policies/AnthropicReadOnlyAccess.json) |
 | AppIntegrationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AppIntegrationsServiceLinkedRolePolicy.json) |
 | AppRunnerNetworkingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerNetworkingServiceRolePolicy.json) |
