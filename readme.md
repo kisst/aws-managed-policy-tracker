@@ -245,7 +245,7 @@
 | AWSEC2SqlHaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSEC2SqlHaServiceRolePolicy.json) |
 | AWSEC2VssRestorePolicy | / | [v1](./policies/AWSEC2VssRestorePolicy.json) |
 | AWSEC2VssSnapshotPolicy | / | [v2](./policies/AWSEC2VssSnapshotPolicy.json) |
-| AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
+| AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
