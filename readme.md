@@ -728,9 +728,9 @@
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
-| AmazonAuroraDSQLConsoleFullAccess | / | [v15](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
-| AmazonAuroraDSQLFullAccess | / | [v15](./policies/AmazonAuroraDSQLFullAccess.json) |
-| AmazonAuroraDSQLReadOnlyAccess | / | [v9](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
+| AmazonAuroraDSQLConsoleFullAccess | / | [v16](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
+| AmazonAuroraDSQLFullAccess | / | [v16](./policies/AmazonAuroraDSQLFullAccess.json) |
+| AmazonAuroraDSQLReadOnlyAccess | / | [v10](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v3](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v10](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockLimitedAccess | / | [v8](./policies/AmazonBedrockLimitedAccess.json) |
@@ -821,7 +821,7 @@
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
 | AmazonDynamoDBReadOnlyAccess | / | [v15](./policies/AmazonDynamoDBReadOnlyAccess.json) |
 | AmazonEBSCSIDriverEKSClusterScopedPolicy | / | [v1](./policies/AmazonEBSCSIDriverEKSClusterScopedPolicy.json) |
-| AmazonEBSCSIDriverPolicy | /service-role/ | [v14](./policies/AmazonEBSCSIDriverPolicy.json) |
+| AmazonEBSCSIDriverPolicy | /service-role/ | [v15](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEBSCSIDriverPolicyV2 | / | [v1](./policies/AmazonEBSCSIDriverPolicyV2.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
 | AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
@@ -1451,7 +1451,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v80](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v38](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v39](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v67](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
