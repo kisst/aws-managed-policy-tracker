@@ -673,7 +673,7 @@
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
-| AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
+| AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
 | AWSUserAttributeCostAllocationPolicy | /aws-service-role/ | [v1](./policies/AWSUserAttributeCostAllocationPolicy.json) |
 | AWSUserNotificationsServiceLinkedRolePolicy | /aws-service-role/ | [v7](./policies/AWSUserNotificationsServiceLinkedRolePolicy.json) |
 | AWSVPCFlowLogsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSVPCFlowLogsServiceRolePolicy.json) |
