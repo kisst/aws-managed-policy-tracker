@@ -252,7 +252,7 @@
 | AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v12](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
 | AWSElasticBeanstalkMulticontainerDocker | / | [v5](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
-| AWSElasticBeanstalkReadOnly | / | [v1](./policies/AWSElasticBeanstalkReadOnly.json) |
+| AWSElasticBeanstalkReadOnly | / | [v2](./policies/AWSElasticBeanstalkReadOnly.json) |
 | AWSElasticBeanstalkRoleCWL | /service-role/ | [v1](./policies/AWSElasticBeanstalkRoleCWL.json) |
 | AWSElasticBeanstalkRoleCore | /service-role/ | [v3](./policies/AWSElasticBeanstalkRoleCore.json) |
 | AWSElasticBeanstalkRoleECS | /service-role/ | [v2](./policies/AWSElasticBeanstalkRoleECS.json) |
