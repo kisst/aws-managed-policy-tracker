@@ -704,7 +704,7 @@
 | AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v23](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AccountManagementFromVercel | / | [v4](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
-| AdministratorAccess-AWSElasticBeanstalk | / | [v9](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
+| AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
 | AlexaForBusinessDeviceSetup | / | [v2](./policies/AlexaForBusinessDeviceSetup.json) |
 | AlexaForBusinessFullAccess | / | [v5](./policies/AlexaForBusinessFullAccess.json) |
