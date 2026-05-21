@@ -47,7 +47,7 @@
 | AWSApplicationAutoscalingComprehendEndpointPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingComprehendEndpointPolicy.json) |
 | AWSApplicationAutoscalingDynamoDBTablePolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingDynamoDBTablePolicy.json) |
 | AWSApplicationAutoscalingEC2SpotFleetRequestPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingEC2SpotFleetRequestPolicy.json) |
-| AWSApplicationAutoscalingECSServicePolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingECSServicePolicy.json) |
+| AWSApplicationAutoscalingECSServicePolicy | /aws-service-role/ | [v3](./policies/AWSApplicationAutoscalingECSServicePolicy.json) |
 | AWSApplicationAutoscalingEMRInstanceGroupPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingEMRInstanceGroupPolicy.json) |
 | AWSApplicationAutoscalingElastiCacheRGPolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingElastiCacheRGPolicy.json) |
 | AWSApplicationAutoscalingKafkaClusterPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingKafkaClusterPolicy.json) |
@@ -185,10 +185,10 @@
 | AWSConfigServiceRolePolicy | /aws-service-role/ | [v93](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
-| AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
+| AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSControlTowerCloudTrailRolePolicy | /service-role/ | [v3](./policies/AWSControlTowerCloudTrailRolePolicy.json) |
 | AWSControlTowerIdentityCenterManagementPolicy | /service-role/ | [v3](./policies/AWSControlTowerIdentityCenterManagementPolicy.json) |
-| AWSControlTowerServiceRolePolicy | /service-role/ | [v20](./policies/AWSControlTowerServiceRolePolicy.json) |
+| AWSControlTowerServiceRolePolicy | /service-role/ | [v21](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -1049,8 +1049,8 @@
 | AmazonPrometheusQueryAccess | / | [v1](./policies/AmazonPrometheusQueryAccess.json) |
 | AmazonPrometheusRemoteWriteAccess | / | [v1](./policies/AmazonPrometheusRemoteWriteAccess.json) |
 | AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
-| AmazonQDeveloperAccess | / | [v6](./policies/AmazonQDeveloperAccess.json) |
-| AmazonQFullAccess | / | [v11](./policies/AmazonQFullAccess.json) |
+| AmazonQDeveloperAccess | / | [v7](./policies/AmazonQDeveloperAccess.json) |
+| AmazonQFullAccess | / | [v12](./policies/AmazonQFullAccess.json) |
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
@@ -1483,9 +1483,9 @@
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
 | ViewOnlyAccess | /job-function/ | [v45](./policies/ViewOnlyAccess.json) |
-| WAFLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFLoggingServiceRolePolicy.json) |
-| WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v1](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
-| WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v3](./policies/WAFV2LoggingServiceRolePolicy.json) |
+| WAFLoggingServiceRolePolicy | /aws-service-role/ | [v2](./policies/WAFLoggingServiceRolePolicy.json) |
+| WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v2](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
+| WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v4](./policies/WAFV2LoggingServiceRolePolicy.json) |
 | WellArchitectedConsoleFullAccess | / | [v1](./policies/WellArchitectedConsoleFullAccess.json) |
 | WellArchitectedConsoleReadOnlyAccess | / | [v2](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
