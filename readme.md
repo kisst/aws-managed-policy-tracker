@@ -3,7 +3,7 @@
 | AIDevOpsAgentAccessPolicy | / | [v4](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v2](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v1](./policies/AIDevOpsAgentReadOnlyAccess.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v3](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v4](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v9](./policies/AIOpsConsoleAdminPolicy.json) |
@@ -1451,7 +1451,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v80](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v39](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v40](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v67](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
