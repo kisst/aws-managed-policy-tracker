@@ -778,7 +778,7 @@
 | AmazonCognitoReadOnly | / | [v4](./policies/AmazonCognitoReadOnly.json) |
 | AmazonCognitoUnAuthedIdentitiesSessionPolicy | / | [v4](./policies/AmazonCognitoUnAuthedIdentitiesSessionPolicy.json) |
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
-| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
+| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v54](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
@@ -1159,6 +1159,7 @@
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v3](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
+| AmazonSageMakerModelCustomizationCoreAccess | / | [v1](./policies/AmazonSageMakerModelCustomizationCoreAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v2](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
 | AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
@@ -1456,8 +1457,8 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v67](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v24](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v18](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v25](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v19](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
