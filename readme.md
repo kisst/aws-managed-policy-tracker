@@ -780,7 +780,7 @@
 | AmazonCognitoUnauthenticatedIdentities | / | [v1](./policies/AmazonCognitoUnauthenticatedIdentities.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectReadOnlyAccess | / | [v4](./policies/AmazonConnectReadOnlyAccess.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v54](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v55](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonConnectVoiceIDFullAccess | / | [v1](./policies/AmazonConnectVoiceIDFullAccess.json) |
 | AmazonConnect_FullAccess | / | [v4](./policies/AmazonConnect_FullAccess.json) |
@@ -1307,7 +1307,7 @@
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
 | ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
-| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v9](./policies/ComputeOptimizerServiceRolePolicy.json) |
+| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v10](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | ConsoleFullAccessFromVercel | / | [v4](./policies/ConsoleFullAccessFromVercel.json) |
 | ConsoleViewOnlyAccessFromVercel | / | [v5](./policies/ConsoleViewOnlyAccessFromVercel.json) |
