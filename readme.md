@@ -553,6 +553,7 @@
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
 | AWSResilienceHubAsssessmentExecutionPolicy | / | [v9](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
+| AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerFullAccess | / | [v1](./policies/AWSResourceAccessManagerFullAccess.json) |
 | AWSResourceAccessManagerReadOnlyAccess | / | [v1](./policies/AWSResourceAccessManagerReadOnlyAccess.json) |
 | AWSResourceAccessManagerResourceShareParticipantAccess | / | [v1](./policies/AWSResourceAccessManagerResourceShareParticipantAccess.json) |
@@ -820,7 +821,7 @@
 | AmazonDynamoDBFullAccess_v2 | / | [v3](./policies/AmazonDynamoDBFullAccess_v2.json) |
 | AmazonDynamoDBFullAccesswithDataPipeline | / | [v2](./policies/AmazonDynamoDBFullAccesswithDataPipeline.json) |
 | AmazonDynamoDBReadOnlyAccess | / | [v15](./policies/AmazonDynamoDBReadOnlyAccess.json) |
-| AmazonEBSCSIDriverEKSClusterScopedPolicy | / | [v1](./policies/AmazonEBSCSIDriverEKSClusterScopedPolicy.json) |
+| AmazonEBSCSIDriverEKSClusterScopedPolicy | / | [v2](./policies/AmazonEBSCSIDriverEKSClusterScopedPolicy.json) |
 | AmazonEBSCSIDriverPolicy | /service-role/ | [v15](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEBSCSIDriverPolicyV2 | / | [v1](./policies/AmazonEBSCSIDriverPolicyV2.json) |
 | AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
@@ -1454,7 +1455,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v80](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v40](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v67](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v68](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v25](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
