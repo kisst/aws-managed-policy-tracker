@@ -210,8 +210,8 @@
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSDataSyncServiceRolePolicy.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
-| AWSDeadlineCloud-UserAccessFarms | / | [v6](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
-| AWSDeadlineCloud-UserAccessFleets | / | [v1](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
+| AWSDeadlineCloud-UserAccessFarms | / | [v7](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
+| AWSDeadlineCloud-UserAccessFleets | / | [v2](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
 | AWSDeadlineCloud-UserAccessJobs | / | [v2](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
 | AWSDeadlineCloud-UserAccessQueues | / | [v2](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
 | AWSDeadlineCloud-WorkerHost | / | [v4](./policies/AWSDeadlineCloud-WorkerHost.json) |
@@ -1459,7 +1459,7 @@
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v25](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v19](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v20](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
