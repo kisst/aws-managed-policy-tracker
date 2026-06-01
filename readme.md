@@ -64,12 +64,14 @@
 | AWSApplicationMigrationAgentPolicy_v2 | /service-role/ | [v1](./policies/AWSApplicationMigrationAgentPolicy_v2.json) |
 | AWSApplicationMigrationConversionServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationConversionServerPolicy.json) |
 | AWSApplicationMigrationEC2Access | / | [v10](./policies/AWSApplicationMigrationEC2Access.json) |
-| AWSApplicationMigrationFullAccess | / | [v11](./policies/AWSApplicationMigrationFullAccess.json) |
+| AWSApplicationMigrationFSxProxyPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationFSxProxyPolicy.json) |
+| AWSApplicationMigrationFSxProxyVPCPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationFSxProxyVPCPolicy.json) |
+| AWSApplicationMigrationFullAccess | / | [v12](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationNetworkMigrationCustomResource | / | [v3](./policies/AWSApplicationMigrationNetworkMigrationCustomResource.json) |
 | AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v3](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
 | AWSApplicationMigrationReadOnlyAccess | / | [v5](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
-| AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
+| AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v2](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
 | AWSApplicationMigrationSSMAccess | / | [v5](./policies/AWSApplicationMigrationSSMAccess.json) |
 | AWSApplicationMigrationServiceEc2InstancePolicy | / | [v2](./policies/AWSApplicationMigrationServiceEc2InstancePolicy.json) |
 | AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
