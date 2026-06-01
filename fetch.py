@@ -24,10 +24,13 @@ def policy_row(policy):
 HEADER = "| Policy Name | Path | Version |\n| --- | --- | --- |\n"
 
 job_function_rows = ""
+service_role_rows = ""
 managed_policy_rows = ""
 for policy in policies:
     if policy["Path"] == "/job-function/":
         job_function_rows += policy_row(policy)
+    elif policy["Path"] == "/aws-service-role/":
+        service_role_rows += policy_row(policy)
     else:
         managed_policy_rows += policy_row(policy)
 
@@ -40,6 +43,7 @@ for policy in policies:
 
 DOC = (
     "# AWS Job Function Policies\n\n" + HEADER + job_function_rows
+    + "\n# AWS Service Role Policies\n\n" + HEADER + service_role_rows
     + "\n# AWS Managed Policies\n\n" + HEADER + managed_policy_rows
 )
 
