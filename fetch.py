@@ -14,9 +14,23 @@ policies = [
 ]
 policies.sort(key=lambda x: x["PolicyName"])
 
-TABLE = "| Policy Name | Path | Version |\n| --- | --- | --- |\n"
+def policy_row(policy):
+    return (
+        f"| {policy['PolicyName']} | {policy['Path']} | "
+        f"[{policy['DefaultVersionId']}](./policies/{policy['PolicyName']}.json) |\n"
+    )
+
+
+HEADER = "| Policy Name | Path | Version |\n| --- | --- | --- |\n"
+
+job_function_rows = ""
+managed_policy_rows = ""
 for policy in policies:
-    TABLE += f"| {policy['PolicyName']} | {policy['Path']} | [{policy['DefaultVersionId']}](./policies/{policy['PolicyName']}.json) |\n"
+    if policy["Path"] == "/job-function/":
+        job_function_rows += policy_row(policy)
+    else:
+        managed_policy_rows += policy_row(policy)
+
     policy_version = iam.get_policy_version(
         PolicyArn=policy["Arn"], VersionId=policy["DefaultVersionId"]
     )
@@ -24,5 +38,10 @@ for policy in policies:
     with open(f"./policies/{policy['PolicyName']}.json", "w", encoding="utf-8") as f:
         json.dump(policy_document, f, indent=4)
 
+DOC = (
+    "# AWS Job Function Policies\n\n" + HEADER + job_function_rows
+    + "\n# AWS Managed Policies\n\n" + HEADER + managed_policy_rows
+)
+
 with open("readme.md", "w", encoding="utf-8") as f:
-    f.write(TABLE)
+    f.write(DOC)
