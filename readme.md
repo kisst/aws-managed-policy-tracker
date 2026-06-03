@@ -764,10 +764,12 @@
 | AWSQuickSetupEnableDHMCExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableDHMCExecutionPolicy.json) |
 | AWSQuickSetupJITNADeploymentRolePolicy | / | [v3](./policies/AWSQuickSetupJITNADeploymentRolePolicy.json) |
 | AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v6](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
-| AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v7](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
+| AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v8](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
+| AWSQuickSetupPatchPolicyLambdaExecutionPolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyLambdaExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyPermissionsBoundary | / | [v5](./policies/AWSQuickSetupPatchPolicyPermissionsBoundary.json) |
+| AWSQuickSetupPatchPolicyTagManagementExecutionPolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyTagManagementExecutionPolicy.json) |
 | AWSQuickSetupSSMDeploymentRolePolicy | / | [v8](./policies/AWSQuickSetupSSMDeploymentRolePolicy.json) |
 | AWSQuickSetupSSMDeploymentS3BucketRolePolicy | / | [v1](./policies/AWSQuickSetupSSMDeploymentS3BucketRolePolicy.json) |
 | AWSQuickSetupSSMHostMgmtPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSSMHostMgmtPermissionsBoundary.json) |
@@ -1268,6 +1270,8 @@
 | AmazonSageMakerHyperPodInferenceAccess | / | [v3](./policies/AmazonSageMakerHyperPodInferenceAccess.json) |
 | AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v6](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v3](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
+| AmazonSageMakerJobFullAccess | / | [v1](./policies/AmazonSageMakerJobFullAccess.json) |
+| AmazonSageMakerJobRuntimeAccess | / | [v1](./policies/AmazonSageMakerJobRuntimeAccess.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelCustomizationCoreAccess | / | [v1](./policies/AmazonSageMakerModelCustomizationCoreAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
