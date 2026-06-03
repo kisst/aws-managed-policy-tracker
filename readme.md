@@ -38,7 +38,7 @@
 | AWSApplicationAutoscalingWorkSpacesPoolPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingWorkSpacesPoolPolicy.json) |
 | AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
-| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSAuditManagerServiceRolePolicy.json) |
+| AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSAuditManagerServiceRolePolicy.json) |
 | AWSAutoScalingPlansEC2AutoScalingPolicy | /aws-service-role/ | [v1](./policies/AWSAutoScalingPlansEC2AutoScalingPolicy.json) |
 | AWSBCMDataExportsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBCMDataExportsServiceRolePolicy.json) |
 | AWSBackupServiceLinkedRolePolicyForBackup | /aws-service-role/ | [v31](./policies/AWSBackupServiceLinkedRolePolicyForBackup.json) |
@@ -812,7 +812,7 @@
 | AWSSSOReadOnly | / | [v12](./policies/AWSSSOReadOnly.json) |
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
-| AWSSecretsManagerClientReadOnlyAccess | / | [v3](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
+| AWSSecretsManagerClientReadOnlyAccess | / | [v4](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
 | AWSSecurityAgentWebAppPolicy | /service-role/ | [v5](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
