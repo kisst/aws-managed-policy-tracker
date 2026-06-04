@@ -1018,7 +1018,7 @@
 | AmazonEKSComputePolicy | / | [v7](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSDashboardConsoleReadOnly | / | [v3](./policies/AmazonEKSDashboardConsoleReadOnly.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
-| AmazonEKSLoadBalancingPolicy | / | [v7](./policies/AmazonEKSLoadBalancingPolicy.json) |
+| AmazonEKSLoadBalancingPolicy | / | [v8](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
 | AmazonEKSNetworkingPolicy | / | [v2](./policies/AmazonEKSNetworkingPolicy.json) |
@@ -1408,6 +1408,8 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
+| FinOpsAgentAgentPolicy | / | [v1](./policies/FinOpsAgentAgentPolicy.json) |
+| FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
 | GitLabDuoWithAmazonQPermissionsPolicy | / | [v3](./policies/GitLabDuoWithAmazonQPermissionsPolicy.json) |
