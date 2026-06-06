@@ -362,10 +362,10 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v5](./policies/AIDevOpsAgentAccessPolicy.json) |
-| AIDevOpsAgentFullAccess | / | [v2](./policies/AIDevOpsAgentFullAccess.json) |
+| AIDevOpsAgentAccessPolicy | / | [v6](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentFullAccess | / | [v3](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v1](./policies/AIDevOpsAgentReadOnlyAccess.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v5](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v6](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v9](./policies/AIOpsConsoleAdminPolicy.json) |
