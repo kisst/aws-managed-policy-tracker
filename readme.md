@@ -1367,7 +1367,7 @@
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
 | CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v15](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v16](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
