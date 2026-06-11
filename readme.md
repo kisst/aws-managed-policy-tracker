@@ -363,9 +363,9 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AIDevOpsAgentAccessPolicy | / | [v6](./policies/AIDevOpsAgentAccessPolicy.json) |
-| AIDevOpsAgentFullAccess | / | [v3](./policies/AIDevOpsAgentFullAccess.json) |
-| AIDevOpsAgentReadOnlyAccess | / | [v1](./policies/AIDevOpsAgentReadOnlyAccess.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v6](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsAgentFullAccess | / | [v4](./policies/AIDevOpsAgentFullAccess.json) |
+| AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v7](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v9](./policies/AIOpsConsoleAdminPolicy.json) |
@@ -682,7 +682,7 @@
 | AWSLambdaInvocation-DynamoDB | / | [v1](./policies/AWSLambdaInvocation-DynamoDB.json) |
 | AWSLambdaKinesisExecutionRole | /service-role/ | [v2](./policies/AWSLambdaKinesisExecutionRole.json) |
 | AWSLambdaMSKExecutionRole | /service-role/ | [v2](./policies/AWSLambdaMSKExecutionRole.json) |
-| AWSLambdaManagedEC2ResourceOperator | / | [v4](./policies/AWSLambdaManagedEC2ResourceOperator.json) |
+| AWSLambdaManagedEC2ResourceOperator | / | [v5](./policies/AWSLambdaManagedEC2ResourceOperator.json) |
 | AWSLambdaRole | /service-role/ | [v1](./policies/AWSLambdaRole.json) |
 | AWSLambdaSQSQueueExecutionRole | /service-role/ | [v1](./policies/AWSLambdaSQSQueueExecutionRole.json) |
 | AWSLambdaVPCAccessExecutionRole | /service-role/ | [v3](./policies/AWSLambdaVPCAccessExecutionRole.json) |
@@ -1459,6 +1459,7 @@
 | ROSASharedVPCEndpointPolicy | / | [v3](./policies/ROSASharedVPCEndpointPolicy.json) |
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
+| ReInventTicketApprovalAccess | / | [v1](./policies/ReInventTicketApprovalAccess.json) |
 | ReadOnlyAccess | / | [v185](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
