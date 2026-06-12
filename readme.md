@@ -147,6 +147,7 @@
 | AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v21](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
+| AWSSecurityAgentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityAgentServiceRolePolicy.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSSecurityHubServiceRolePolicy.json) |
 | AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
@@ -815,7 +816,7 @@
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v4](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
-| AWSSecurityAgentWebAppPolicy | /service-role/ | [v5](./policies/AWSSecurityAgentWebAppPolicy.json) |
+| AWSSecurityAgentWebAppPolicy | /service-role/ | [v6](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
