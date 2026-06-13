@@ -364,9 +364,9 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AIDevOpsAgentAccessPolicy | / | [v6](./policies/AIDevOpsAgentAccessPolicy.json) |
-| AIDevOpsAgentFullAccess | / | [v4](./policies/AIDevOpsAgentFullAccess.json) |
+| AIDevOpsAgentFullAccess | / | [v5](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v7](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v8](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v9](./policies/AIOpsConsoleAdminPolicy.json) |
@@ -1335,8 +1335,9 @@
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
 | AnthropicFullAccess | / | [v2](./policies/AnthropicFullAccess.json) |
-| AnthropicLimitedAccess | / | [v5](./policies/AnthropicLimitedAccess.json) |
+| AnthropicLimitedAccess | / | [v6](./policies/AnthropicLimitedAccess.json) |
 | AnthropicReadOnlyAccess | / | [v2](./policies/AnthropicReadOnlyAccess.json) |
+| AnthropicSelfHostedEnvironmentAccess | / | [v1](./policies/AnthropicSelfHostedEnvironmentAccess.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
 | AutoScalingConsoleReadOnlyAccess | / | [v1](./policies/AutoScalingConsoleReadOnlyAccess.json) |
