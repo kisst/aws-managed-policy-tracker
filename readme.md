@@ -1019,7 +1019,7 @@
 | AmazonEKSComputePolicy | / | [v7](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSDashboardConsoleReadOnly | / | [v3](./policies/AmazonEKSDashboardConsoleReadOnly.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
-| AmazonEKSLoadBalancingPolicy | / | [v8](./policies/AmazonEKSLoadBalancingPolicy.json) |
+| AmazonEKSLoadBalancingPolicy | / | [v9](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
 | AmazonEKSNetworkingPolicy | / | [v2](./policies/AmazonEKSNetworkingPolicy.json) |
@@ -1462,7 +1462,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | ReInventTicketApprovalAccess | / | [v1](./policies/ReInventTicketApprovalAccess.json) |
-| ReadOnlyAccess | / | [v185](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v186](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
@@ -1497,7 +1497,7 @@
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
-| SecurityAudit | / | [v88](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v89](./policies/SecurityAudit.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
