@@ -736,7 +736,7 @@
 | AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
 | AWSPartnerCentralFullAccess | / | [v14](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralMarketingManagement | / | [v4](./policies/AWSPartnerCentralMarketingManagement.json) |
-| AWSPartnerCentralOpportunityManagement | / | [v9](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v10](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v3](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
