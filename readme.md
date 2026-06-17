@@ -128,7 +128,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSPCSServiceRolePolicy.json) |
@@ -243,7 +243,7 @@
 | AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHoneycodeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonHoneycodeServiceRolePolicy.json) |
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
-| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v26](./policies/AmazonInspector2ServiceRolePolicy.json) |
+| AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v27](./policies/AmazonInspector2ServiceRolePolicy.json) |
 | AmazonInspectorServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonInspectorServiceRolePolicy.json) |
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
 | AmazonLexReplicationPolicy | /aws-service-role/ | [v3](./policies/AmazonLexReplicationPolicy.json) |
