@@ -796,6 +796,7 @@
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
 | AWSResilienceHubAsssessmentExecutionPolicy | / | [v9](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
+| AWSResilienceHubV2AssessmentExecutionPolicy | / | [v1](./policies/AWSResilienceHubV2AssessmentExecutionPolicy.json) |
 | AWSResourceAccessManagerFullAccess | / | [v1](./policies/AWSResourceAccessManagerFullAccess.json) |
 | AWSResourceAccessManagerReadOnlyAccess | / | [v1](./policies/AWSResourceAccessManagerReadOnlyAccess.json) |
 | AWSResourceAccessManagerResourceShareParticipantAccess | / | [v1](./policies/AWSResourceAccessManagerResourceShareParticipantAccess.json) |
