@@ -215,7 +215,7 @@
 | AmazonCodeGuruReviewerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonCodeGuruReviewerServiceRolePolicy.json) |
 | AmazonCognitoIdpEmailServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpEmailServiceRolePolicy.json) |
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
-| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v4](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
+| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v55](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonDetectiveServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDetectiveServiceLinkedRolePolicy.json) |
@@ -567,13 +567,13 @@
 | AWSElasticDisasterRecoveryAgentInstallationPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryAgentInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryAgentPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryAgentPolicy.json) |
 | AWSElasticDisasterRecoveryConsoleFullAccess | / | [v8](./policies/AWSElasticDisasterRecoveryConsoleFullAccess.json) |
-| AWSElasticDisasterRecoveryConsoleFullAccess_v2 | / | [v9](./policies/AWSElasticDisasterRecoveryConsoleFullAccess_v2.json) |
+| AWSElasticDisasterRecoveryConsoleFullAccess_v2 | / | [v10](./policies/AWSElasticDisasterRecoveryConsoleFullAccess_v2.json) |
 | AWSElasticDisasterRecoveryConversionServerPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryConversionServerPolicy.json) |
 | AWSElasticDisasterRecoveryCrossAccountReplicationPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryCrossAccountReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryEc2InstancePolicy | /service-role/ | [v5](./policies/AWSElasticDisasterRecoveryEc2InstancePolicy.json) |
 | AWSElasticDisasterRecoveryFailbackInstallationPolicy | / | [v3](./policies/AWSElasticDisasterRecoveryFailbackInstallationPolicy.json) |
 | AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
-| AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v6](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
+| AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v7](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
 | AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryReadOnlyAccess | / | [v5](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
 | AWSElasticDisasterRecoveryRecoveryInstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryRecoveryInstancePolicy.json) |
