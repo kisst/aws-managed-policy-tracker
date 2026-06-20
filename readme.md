@@ -229,7 +229,7 @@
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v25](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
-| AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonEMRContainersServiceRolePolicy.json) |
+| AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
 | AmazonEVSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonEVSServiceRolePolicy.json) |
 | AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
@@ -313,7 +313,7 @@
 | DynamoDBGlobalTableSettingsManagementServiceRolePolicy | /aws-service-role/ | [v6](./policies/DynamoDBGlobalTableSettingsManagementServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
-| EC2ApplicationStatusChecksServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2ApplicationStatusChecksServiceRolePolicy.json) |
+| EC2ApplicationStatusChecksServiceRolePolicy | /aws-service-role/ | [v2](./policies/EC2ApplicationStatusChecksServiceRolePolicy.json) |
 | EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v7](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | ECRReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRReplicationServiceRolePolicy.json) |
