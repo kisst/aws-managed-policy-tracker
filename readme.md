@@ -100,7 +100,7 @@
 | AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSKeyManagementServiceCustomKeyStoresServiceRolePolicy.json) |
 | AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSKeyManagementServiceMultiRegionKeysServiceRolePolicy.json) |
 | AWSLambdaReplicator | /aws-service-role/ | [v3](./policies/AWSLambdaReplicator.json) |
-| AWSLambdaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSLambdaServiceRolePolicy.json) |
+| AWSLambdaServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSLambdaServiceRolePolicy.json) |
 | AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerLinuxSubscriptionsServiceRolePolicy.json) |
 | AWSLicenseManagerMasterAccountRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerMasterAccountRolePolicy.json) |
 | AWSLicenseManagerMemberAccountRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerMemberAccountRolePolicy.json) |
@@ -174,7 +174,7 @@
 | AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
 | AWSServiceRoleForProcurementInsightsPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForProcurementInsightsPolicy.json) |
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
-| AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v7](./policies/AWSServiceRoleForUserSubscriptions.json) |
+| AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v8](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
 | AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v3](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
 | AWSServiceRolePolicyForWorkspacesInstances | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForWorkspacesInstances.json) |
@@ -233,7 +233,7 @@
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
 | AmazonEVSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonEVSServiceRolePolicy.json) |
 | AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
-| AmazonElasticsearchServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonElasticsearchServiceRolePolicy.json) |
+| AmazonElasticsearchServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonElasticsearchServiceRolePolicy.json) |
 | AmazonEventBridgeApiDestinationsServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonEventBridgeApiDestinationsServiceRolePolicy.json) |
 | AmazonEventBridgeSchemasServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEventBridgeSchemasServiceRolePolicy.json) |
 | AmazonFISServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonFISServiceRolePolicy.json) |
@@ -684,6 +684,7 @@
 | AWSLambdaKinesisExecutionRole | /service-role/ | [v2](./policies/AWSLambdaKinesisExecutionRole.json) |
 | AWSLambdaMSKExecutionRole | /service-role/ | [v2](./policies/AWSLambdaMSKExecutionRole.json) |
 | AWSLambdaManagedEC2ResourceOperator | / | [v5](./policies/AWSLambdaManagedEC2ResourceOperator.json) |
+| AWSLambdaNetworkConnectorOperatorPolicy | / | [v1](./policies/AWSLambdaNetworkConnectorOperatorPolicy.json) |
 | AWSLambdaRole | /service-role/ | [v1](./policies/AWSLambdaRole.json) |
 | AWSLambdaSQSQueueExecutionRole | /service-role/ | [v1](./policies/AWSLambdaSQSQueueExecutionRole.json) |
 | AWSLambdaVPCAccessExecutionRole | /service-role/ | [v3](./policies/AWSLambdaVPCAccessExecutionRole.json) |
