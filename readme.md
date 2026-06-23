@@ -58,6 +58,7 @@
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigServiceRolePolicy | /aws-service-role/ | [v93](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -181,7 +182,7 @@
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v57](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v58](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v9](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
@@ -1032,6 +1033,7 @@
 | AmazonEKS_CNI_Policy | / | [v6](./policies/AmazonEKS_CNI_Policy.json) |
 | AmazonEMRFullAccessPolicy_v2 | / | [v7](./policies/AmazonEMRFullAccessPolicy_v2.json) |
 | AmazonEMRReadOnlyAccessPolicy_v2 | / | [v3](./policies/AmazonEMRReadOnlyAccessPolicy_v2.json) |
+| AmazonEMRServicePolicyForSessions | /service-role/ | [v1](./policies/AmazonEMRServicePolicyForSessions.json) |
 | AmazonEMRServicePolicy_v2 | /service-role/ | [v6](./policies/AmazonEMRServicePolicy_v2.json) |
 | AmazonESCognitoAccess | / | [v2](./policies/AmazonESCognitoAccess.json) |
 | AmazonESFullAccess | / | [v1](./policies/AmazonESFullAccess.json) |
