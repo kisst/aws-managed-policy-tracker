@@ -149,8 +149,8 @@
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSecurityAgentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityAgentServiceRolePolicy.json) |
-| AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSSecurityHubServiceRolePolicy.json) |
-| AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
+| AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSSecurityHubServiceRolePolicy.json) |
+| AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseTriageServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSSecurityIncidentResponseTriageServiceRolePolicy.json) |
 | AWSServiceCatalogAppRegistryServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSServiceCatalogAppRegistryServiceRolePolicy.json) |
@@ -245,6 +245,7 @@
 | AmazonHoneycodeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonHoneycodeServiceRolePolicy.json) |
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v27](./policies/AmazonInspector2ServiceRolePolicy.json) |
+| AmazonInspector2ThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2ThirdPartyServiceRolePolicy.json) |
 | AmazonInspectorServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonInspectorServiceRolePolicy.json) |
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
 | AmazonLexReplicationPolicy | /aws-service-role/ | [v3](./policies/AmazonLexReplicationPolicy.json) |
@@ -267,7 +268,7 @@
 | AmazonRDSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonRDSServiceRolePolicy.json) |
 | AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v15](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
 | AmazonSESServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSESServiceRolePolicy.json) |
-| AmazonSSMServiceRolePolicy | /aws-service-role/ | [v16](./policies/AmazonSSMServiceRolePolicy.json) |
+| AmazonSSMServiceRolePolicy | /aws-service-role/ | [v17](./policies/AmazonSSMServiceRolePolicy.json) |
 | AmazonSageMakerCapacityReservationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCapacityReservationServiceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
@@ -364,11 +365,11 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v7](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v8](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v1](./policies/AIDevOpsAgentActionsPolicy.json) |
-| AIDevOpsAgentFullAccess | / | [v5](./policies/AIDevOpsAgentFullAccess.json) |
+| AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v8](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v9](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v9](./policies/AIOpsConsoleAdminPolicy.json) |
@@ -966,7 +967,7 @@
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v18](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
-| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v11](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
+| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v12](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v4](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v4](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
