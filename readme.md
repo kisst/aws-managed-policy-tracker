@@ -129,7 +129,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSPCSServiceRolePolicy.json) |
@@ -424,6 +424,8 @@
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactAgreementsFullAccess | / | [v6](./policies/AWSArtifactAgreementsFullAccess.json) |
 | AWSArtifactAgreementsReadOnlyAccess | / | [v3](./policies/AWSArtifactAgreementsReadOnlyAccess.json) |
+| AWSArtifactComplianceInquiriesFullAccess | / | [v1](./policies/AWSArtifactComplianceInquiriesFullAccess.json) |
+| AWSArtifactComplianceInquiriesReadOnlyAccess | / | [v1](./policies/AWSArtifactComplianceInquiriesReadOnlyAccess.json) |
 | AWSArtifactReportsReadOnlyAccess | / | [v7](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
@@ -459,7 +461,7 @@
 | AWSCertificateManagerPrivateCAPrivilegedUser | / | [v4](./policies/AWSCertificateManagerPrivateCAPrivilegedUser.json) |
 | AWSCertificateManagerPrivateCAReadOnly | / | [v3](./policies/AWSCertificateManagerPrivateCAReadOnly.json) |
 | AWSCertificateManagerPrivateCAUser | / | [v7](./policies/AWSCertificateManagerPrivateCAUser.json) |
-| AWSCertificateManagerReadOnly | / | [v5](./policies/AWSCertificateManagerReadOnly.json) |
+| AWSCertificateManagerReadOnly | / | [v6](./policies/AWSCertificateManagerReadOnly.json) |
 | AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
 | AWSCleanRoomsFullAccessNoQuerying | / | [v7](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
 | AWSCleanRoomsMLFullAccess | / | [v4](./policies/AWSCleanRoomsMLFullAccess.json) |
@@ -706,7 +708,7 @@
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v2](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplaceRead-only | / | [v13](./policies/AWSMarketplaceRead-only.json) |
-| AWSMarketplaceSellerFullAccess | / | [v30](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v31](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v2](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v15](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
@@ -742,6 +744,7 @@
 | AWSPartnerCentralFullAccess | / | [v14](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralMarketingManagement | / | [v4](./policies/AWSPartnerCentralMarketingManagement.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v10](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralRevenueAttributionManagement | / | [v1](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v3](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
@@ -809,6 +812,7 @@
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
+| AWSRevenueAttributionManagement | / | [v1](./policies/AWSRevenueAttributionManagement.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServiceRolePolicy | / | [v1](./policies/AWSRoboMakerServiceRolePolicy.json) |
 | AWSRoboMaker_FullAccess | / | [v2](./policies/AWSRoboMaker_FullAccess.json) |
@@ -872,6 +876,7 @@
 | AWSTransformCustomFullAccess | / | [v4](./policies/AWSTransformCustomFullAccess.json) |
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
+| AWSTransformSecurityAgentExecutorAccess | / | [v1](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
@@ -880,7 +885,7 @@
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
 | AWSWAFConsoleFullAccess | / | [v21](./policies/AWSWAFConsoleFullAccess.json) |
 | AWSWAFConsoleReadOnlyAccess | / | [v20](./policies/AWSWAFConsoleReadOnlyAccess.json) |
-| AWSWAFFullAccess | / | [v15](./policies/AWSWAFFullAccess.json) |
+| AWSWAFFullAccess | / | [v16](./policies/AWSWAFFullAccess.json) |
 | AWSWAFReadOnlyAccess | / | [v12](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
 | AWSXRayDaemonWriteAccess | / | [v2](./policies/AWSXRayDaemonWriteAccess.json) |
@@ -1281,7 +1286,7 @@
 | AmazonSageMakerJobFullAccess | / | [v1](./policies/AmazonSageMakerJobFullAccess.json) |
 | AmazonSageMakerJobRuntimeAccess | / | [v1](./policies/AmazonSageMakerJobRuntimeAccess.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
-| AmazonSageMakerModelCustomizationCoreAccess | / | [v1](./policies/AmazonSageMakerModelCustomizationCoreAccess.json) |
+| AmazonSageMakerModelCustomizationCoreAccess | / | [v2](./policies/AmazonSageMakerModelCustomizationCoreAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
 | AmazonSageMakerModelRegistryFullAccess | / | [v2](./policies/AmazonSageMakerModelRegistryFullAccess.json) |
 | AmazonSageMakerPartnerAppsFullAccess | / | [v3](./policies/AmazonSageMakerPartnerAppsFullAccess.json) |
