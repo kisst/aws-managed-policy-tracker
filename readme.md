@@ -883,10 +883,10 @@
 | AWSVendorInsightsAssessorReadOnly | / | [v2](./policies/AWSVendorInsightsAssessorReadOnly.json) |
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
-| AWSWAFConsoleFullAccess | / | [v21](./policies/AWSWAFConsoleFullAccess.json) |
-| AWSWAFConsoleReadOnlyAccess | / | [v20](./policies/AWSWAFConsoleReadOnlyAccess.json) |
+| AWSWAFConsoleFullAccess | / | [v22](./policies/AWSWAFConsoleFullAccess.json) |
+| AWSWAFConsoleReadOnlyAccess | / | [v21](./policies/AWSWAFConsoleReadOnlyAccess.json) |
 | AWSWAFFullAccess | / | [v16](./policies/AWSWAFFullAccess.json) |
-| AWSWAFReadOnlyAccess | / | [v12](./policies/AWSWAFReadOnlyAccess.json) |
+| AWSWAFReadOnlyAccess | / | [v13](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
 | AWSXRayDaemonWriteAccess | / | [v2](./policies/AWSXRayDaemonWriteAccess.json) |
 | AWSXrayCrossAccountSharingConfiguration | / | [v1](./policies/AWSXrayCrossAccountSharingConfiguration.json) |
