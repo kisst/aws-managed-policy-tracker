@@ -141,7 +141,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v50](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v51](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -416,7 +416,7 @@
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationNetworkMigrationCustomResource | / | [v3](./policies/AWSApplicationMigrationNetworkMigrationCustomResource.json) |
 | AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v5](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
-| AWSApplicationMigrationReadOnlyAccess | / | [v5](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
+| AWSApplicationMigrationReadOnlyAccess | / | [v6](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
 | AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v2](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
 | AWSApplicationMigrationSSMAccess | / | [v5](./policies/AWSApplicationMigrationSSMAccess.json) |
 | AWSApplicationMigrationServiceEc2InstancePolicy | / | [v2](./policies/AWSApplicationMigrationServiceEc2InstancePolicy.json) |
