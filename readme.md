@@ -366,7 +366,7 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v8](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v9](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v1](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
@@ -557,6 +557,9 @@
 | AWSEC2VssRestorePolicy | / | [v1](./policies/AWSEC2VssRestorePolicy.json) |
 | AWSEC2VssSnapshotPolicy | / | [v2](./policies/AWSEC2VssSnapshotPolicy.json) |
 | AWSElasticBeanstalkCustomPlatformforEC2Role | / | [v1](./policies/AWSElasticBeanstalkCustomPlatformforEC2Role.json) |
+| AWSElasticBeanstalkEKSImageBuild | / | [v1](./policies/AWSElasticBeanstalkEKSImageBuild.json) |
+| AWSElasticBeanstalkEKSObservability | / | [v1](./policies/AWSElasticBeanstalkEKSObservability.json) |
+| AWSElasticBeanstalkEKSTagging | / | [v1](./policies/AWSElasticBeanstalkEKSTagging.json) |
 | AWSElasticBeanstalkEnhancedHealth | /service-role/ | [v4](./policies/AWSElasticBeanstalkEnhancedHealth.json) |
 | AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy | / | [v12](./policies/AWSElasticBeanstalkManagedUpdatesCustomerRolePolicy.json) |
 | AWSElasticBeanstalkMulticontainerDocker | / | [v5](./policies/AWSElasticBeanstalkMulticontainerDocker.json) |
