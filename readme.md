@@ -139,7 +139,7 @@
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
-| AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResilienceHubServiceRolePolicy.json) |
+| AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
 | AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v51](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
@@ -206,7 +206,7 @@
 | AccountAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AccountAccessManagerServiceRolePolicy.json) |
 | AlexaForBusinessNetworkProfileServicePolicy | /aws-service-role/ | [v2](./policies/AlexaForBusinessNetworkProfileServicePolicy.json) |
 | AmazonAthenaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonAthenaServiceRolePolicy.json) |
-| AmazonBraketServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonBraketServiceRolePolicy.json) |
+| AmazonBraketServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonBraketServiceRolePolicy.json) |
 | AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy.json) |
 | AmazonChimeSDKMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeSDKMessagingServiceRolePolicy.json) |
 | AmazonChimeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeServiceRolePolicy.json) |
@@ -933,8 +933,8 @@
 | AmazonBedrockMarketplaceAccess | / | [v3](./policies/AmazonBedrockMarketplaceAccess.json) |
 | AmazonBedrockReadOnly | / | [v7](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
-| AmazonBraketFullAccess | / | [v12](./policies/AmazonBraketFullAccess.json) |
-| AmazonBraketJobsExecutionPolicy | / | [v2](./policies/AmazonBraketJobsExecutionPolicy.json) |
+| AmazonBraketFullAccess | / | [v13](./policies/AmazonBraketFullAccess.json) |
+| AmazonBraketJobsExecutionPolicy | / | [v3](./policies/AmazonBraketJobsExecutionPolicy.json) |
 | AmazonChimeFullAccess | / | [v3](./policies/AmazonChimeFullAccess.json) |
 | AmazonChimeReadOnly | / | [v10](./policies/AmazonChimeReadOnly.json) |
 | AmazonChimeSDK | / | [v5](./policies/AmazonChimeSDK.json) |
@@ -1410,6 +1410,7 @@
 | CostOptimizationHubReadOnlyAccess | / | [v4](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | DBModDiscoveryAndAssessment | / | [v1](./policies/DBModDiscoveryAndAssessment.json) |
 | DBModProvisioningAndMigration | / | [v1](./policies/DBModProvisioningAndMigration.json) |
+| DBModVirtualSource | / | [v1](./policies/DBModVirtualSource.json) |
 | EC2FastLaunchFullAccess | / | [v4](./policies/EC2FastLaunchFullAccess.json) |
 | EC2ImageBuilderExecutionPolicy | / | [v1](./policies/EC2ImageBuilderExecutionPolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
