@@ -878,6 +878,7 @@
 | AWSTransformCustomExecuteTransformations | / | [v4](./policies/AWSTransformCustomExecuteTransformations.json) |
 | AWSTransformCustomFullAccess | / | [v4](./policies/AWSTransformCustomFullAccess.json) |
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
+| AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v1](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
@@ -1104,10 +1105,10 @@
 | AmazonHoneycodeWorkbookFullAccess | / | [v2](./policies/AmazonHoneycodeWorkbookFullAccess.json) |
 | AmazonHoneycodeWorkbookReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeWorkbookReadOnlyAccess.json) |
 | AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
-| AmazonInspector2FullAccess_v2 | / | [v6](./policies/AmazonInspector2FullAccess_v2.json) |
+| AmazonInspector2FullAccess_v2 | / | [v8](./policies/AmazonInspector2FullAccess_v2.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ManagedTelemetryPolicy | / | [v1](./policies/AmazonInspector2ManagedTelemetryPolicy.json) |
-| AmazonInspector2ReadOnlyAccess | / | [v8](./policies/AmazonInspector2ReadOnlyAccess.json) |
+| AmazonInspector2ReadOnlyAccess | / | [v9](./policies/AmazonInspector2ReadOnlyAccess.json) |
 | AmazonInspectorFullAccess | / | [v5](./policies/AmazonInspectorFullAccess.json) |
 | AmazonInspectorReadOnlyAccess | / | [v4](./policies/AmazonInspectorReadOnlyAccess.json) |
 | AmazonKendraFullAccess | / | [v1](./policies/AmazonKendraFullAccess.json) |
