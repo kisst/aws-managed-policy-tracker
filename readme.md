@@ -700,6 +700,7 @@
 | AWSLambda_FullAccess | / | [v7](./policies/AWSLambda_FullAccess.json) |
 | AWSLambda_ReadOnlyAccess | / | [v5](./policies/AWSLambda_ReadOnlyAccess.json) |
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
+| AWSMCPSignInOAuthAccessPolicy | / | [v1](./policies/AWSMCPSignInOAuthAccessPolicy.json) |
 | AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
