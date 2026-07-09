@@ -386,7 +386,7 @@
 | AWSAccountActivityAccess | / | [v3](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
-| AWSAccountSettingsManagementRole | / | [v6](./policies/AWSAccountSettingsManagementRole.json) |
+| AWSAccountSettingsManagementRole | / | [v7](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
@@ -1105,7 +1105,7 @@
 | AmazonHoneycodeWorkbookFullAccess | / | [v2](./policies/AmazonHoneycodeWorkbookFullAccess.json) |
 | AmazonHoneycodeWorkbookReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeWorkbookReadOnlyAccess.json) |
 | AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
-| AmazonInspector2FullAccess_v2 | / | [v8](./policies/AmazonInspector2FullAccess_v2.json) |
+| AmazonInspector2FullAccess_v2 | / | [v9](./policies/AmazonInspector2FullAccess_v2.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ManagedTelemetryPolicy | / | [v1](./policies/AmazonInspector2ManagedTelemetryPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v9](./policies/AmazonInspector2ReadOnlyAccess.json) |
@@ -1413,7 +1413,7 @@
 | DBModProvisioningAndMigration | / | [v1](./policies/DBModProvisioningAndMigration.json) |
 | DBModVirtualSource | / | [v1](./policies/DBModVirtualSource.json) |
 | EC2FastLaunchFullAccess | / | [v4](./policies/EC2FastLaunchFullAccess.json) |
-| EC2ImageBuilderExecutionPolicy | / | [v1](./policies/EC2ImageBuilderExecutionPolicy.json) |
+| EC2ImageBuilderExecutionPolicy | / | [v2](./policies/EC2ImageBuilderExecutionPolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
 | EC2InstanceProfileForImageBuilder | / | [v12](./policies/EC2InstanceProfileForImageBuilder.json) |
