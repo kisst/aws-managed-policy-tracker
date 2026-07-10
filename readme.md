@@ -6,7 +6,7 @@
 | Billing | /job-function/ | [v28](./policies/Billing.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
-| NetworkAdministrator | /job-function/ | [v15](./policies/NetworkAdministrator.json) |
+| NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
 | SupportUser | /job-function/ | [v11](./policies/SupportUser.json) |
 | SystemAdministrator | /job-function/ | [v12](./policies/SystemAdministrator.json) |
 | ViewOnlyAccess | /job-function/ | [v45](./policies/ViewOnlyAccess.json) |
@@ -167,7 +167,7 @@
 | AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v6](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
-| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v27](./policies/AWSServiceRoleForImageBuilder.json) |
+| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v28](./policies/AWSServiceRoleForImageBuilder.json) |
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForMonitronPolicy.json) |
@@ -1480,7 +1480,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | ReInventTicketApprovalAccess | / | [v1](./policies/ReInventTicketApprovalAccess.json) |
-| ReadOnlyAccess | / | [v186](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v187](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
@@ -1505,7 +1505,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v81](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v40](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v41](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v71](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
@@ -1515,7 +1515,7 @@
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
-| SecurityAudit | / | [v89](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v90](./policies/SecurityAudit.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
@@ -1530,6 +1530,6 @@
 | VPCLatticeFullAccess | / | [v4](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| WellArchitectedConsoleFullAccess | / | [v1](./policies/WellArchitectedConsoleFullAccess.json) |
-| WellArchitectedConsoleReadOnlyAccess | / | [v2](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
+| WellArchitectedConsoleFullAccess | / | [v2](./policies/WellArchitectedConsoleFullAccess.json) |
+| WellArchitectedConsoleReadOnlyAccess | / | [v3](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
