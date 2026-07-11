@@ -106,7 +106,7 @@
 | AWSLicenseManagerMasterAccountRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerMasterAccountRolePolicy.json) |
 | AWSLicenseManagerMemberAccountRolePolicy | /aws-service-role/ | [v2](./policies/AWSLicenseManagerMemberAccountRolePolicy.json) |
 | AWSLicenseManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSLicenseManagerServiceRolePolicy.json) |
-| AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
+| AWSLicenseManagerUserSubscriptionsServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSLicenseManagerUserSubscriptionsServiceRolePolicy.json) |
 | AWSM2ServicePolicy | /aws-service-role/ | [v1](./policies/AWSM2ServicePolicy.json) |
 | AWSManagedServicesDeploymentToolkitPolicy | /aws-service-role/ | [v4](./policies/AWSManagedServicesDeploymentToolkitPolicy.json) |
 | AWSManagedServices_ContactsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_ContactsServiceRolePolicy.json) |
@@ -229,7 +229,7 @@
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v25](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v26](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
 | AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
