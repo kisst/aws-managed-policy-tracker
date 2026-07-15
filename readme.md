@@ -128,7 +128,7 @@
 | AWSNetworkManagerCloudWANServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkManagerCloudWANServiceRolePolicy.json) |
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
-| AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
+| AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
 | AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
@@ -1487,8 +1487,8 @@
 | S3UnlockBucketPolicy | /root-task/ | [v1](./policies/S3UnlockBucketPolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v8](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
-| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v23](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v20](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v24](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v21](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
@@ -1507,11 +1507,11 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v81](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v41](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v71](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v72](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v27](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v22](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v28](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v23](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
