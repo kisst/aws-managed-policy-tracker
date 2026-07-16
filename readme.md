@@ -90,6 +90,7 @@
 | AWSHealthImagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthImagingServiceRolePolicy.json) |
 | AWSHealthOmicsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthOmicsServiceLinkedRolePolicy.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
+| AWSIAMRoleManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIAMRoleManagerServiceRolePolicy.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
@@ -316,7 +317,7 @@
 | DynamoDBGlobalTableSettingsManagementServiceRolePolicy | /aws-service-role/ | [v6](./policies/DynamoDBGlobalTableSettingsManagementServiceRolePolicy.json) |
 | DynamoDBKinesisReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/DynamoDBKinesisReplicationServiceRolePolicy.json) |
 | DynamoDBReplicationServiceRolePolicy | /aws-service-role/ | [v8](./policies/DynamoDBReplicationServiceRolePolicy.json) |
-| EC2ApplicationStatusChecksServiceRolePolicy | /aws-service-role/ | [v2](./policies/EC2ApplicationStatusChecksServiceRolePolicy.json) |
+| EC2ApplicationStatusChecksServiceRolePolicy | /aws-service-role/ | [v3](./policies/EC2ApplicationStatusChecksServiceRolePolicy.json) |
 | EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v7](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
 | ECRReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRReplicationServiceRolePolicy.json) |
@@ -355,7 +356,7 @@
 | SMSVoiceServiceRolePolicy | /aws-service-role/ | [v1](./policies/SMSVoiceServiceRolePolicy.json) |
 | SSMQuickSetupRolePolicy | /aws-service-role/ | [v3](./policies/SSMQuickSetupRolePolicy.json) |
 | SecurityLakeResourceManagementServiceRolePolicy | /aws-service-role/ | [v7](./policies/SecurityLakeResourceManagementServiceRolePolicy.json) |
-| SecurityLakeServiceLinkedRole | /aws-service-role/ | [v3](./policies/SecurityLakeServiceLinkedRole.json) |
+| SecurityLakeServiceLinkedRole | /aws-service-role/ | [v4](./policies/SecurityLakeServiceLinkedRole.json) |
 | ServiceQuotasServiceRolePolicy | /aws-service-role/ | [v2](./policies/ServiceQuotasServiceRolePolicy.json) |
 | SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v2](./policies/WAFLoggingServiceRolePolicy.json) |
