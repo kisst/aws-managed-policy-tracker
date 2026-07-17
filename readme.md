@@ -868,7 +868,7 @@
 | AWSThinkboxAWSPortalWorkerPolicy | / | [v4](./policies/AWSThinkboxAWSPortalWorkerPolicy.json) |
 | AWSThinkboxAssetServerPolicy | / | [v1](./policies/AWSThinkboxAssetServerPolicy.json) |
 | AWSThinkboxDeadlineResourceTrackerAccessPolicy | / | [v1](./policies/AWSThinkboxDeadlineResourceTrackerAccessPolicy.json) |
-| AWSThinkboxDeadlineResourceTrackerAdminPolicy | / | [v8](./policies/AWSThinkboxDeadlineResourceTrackerAdminPolicy.json) |
+| AWSThinkboxDeadlineResourceTrackerAdminPolicy | / | [v9](./policies/AWSThinkboxDeadlineResourceTrackerAdminPolicy.json) |
 | AWSThinkboxDeadlineSpotEventPluginAdminPolicy | / | [v1](./policies/AWSThinkboxDeadlineSpotEventPluginAdminPolicy.json) |
 | AWSThinkboxDeadlineSpotEventPluginWorkerPolicy | / | [v2](./policies/AWSThinkboxDeadlineSpotEventPluginWorkerPolicy.json) |
 | AWSTransferConsoleFullAccess | / | [v1](./policies/AWSTransferConsoleFullAccess.json) |
@@ -1531,6 +1531,7 @@
 | VPCLatticeFullAccess | / | [v4](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
+| WellArchitectedAgentResourceScanning | / | [v1](./policies/WellArchitectedAgentResourceScanning.json) |
 | WellArchitectedConsoleFullAccess | / | [v2](./policies/WellArchitectedConsoleFullAccess.json) |
 | WellArchitectedConsoleReadOnlyAccess | / | [v3](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
