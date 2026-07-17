@@ -262,7 +262,7 @@
 | AmazonOpenSearchIngestionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonOpenSearchIngestionServiceRolePolicy.json) |
 | AmazonOpenSearchServerlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonOpenSearchServerlessServiceRolePolicy.json) |
 | AmazonOpenSearchServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonOpenSearchServiceRolePolicy.json) |
-| AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
+| AmazonPrometheusScraperServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonPrometheusScraperServiceRolePolicy.json) |
 | AmazonRDSBetaServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSBetaServiceRolePolicy.json) |
 | AmazonRDSCustomPreviewServiceRolePolicy | /aws-service-role/ | [v15](./policies/AmazonRDSCustomPreviewServiceRolePolicy.json) |
 | AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v19](./policies/AmazonRDSCustomServiceRolePolicy.json) |
