@@ -47,6 +47,7 @@
 | AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy.json) |
 | AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
+| AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v1](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCleanRoomsServiceRolePolicy.json) |
@@ -703,6 +704,8 @@
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
 | AWSMCPSignInOAuthAccessPolicy | / | [v1](./policies/AWSMCPSignInOAuthAccessPolicy.json) |
 | AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
+| AWSManagedAccountUserEntitlementAccess | / | [v1](./policies/AWSManagedAccountUserEntitlementAccess.json) |
+| AWSManagedBudgetsSpendLimitManagementAccess | / | [v1](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDiscoveryFullAccess | / | [v1](./policies/AWSMarketplaceDiscoveryFullAccess.json) |
@@ -927,7 +930,7 @@
 | AmazonAuroraDSQLConsoleFullAccess | / | [v16](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
 | AmazonAuroraDSQLFullAccess | / | [v16](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v10](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
-| AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v3](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
+| AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v4](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockFullAccess | / | [v10](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockLimitedAccess | / | [v8](./policies/AmazonBedrockLimitedAccess.json) |
 | AmazonBedrockMantleFullAccess | / | [v4](./policies/AmazonBedrockMantleFullAccess.json) |
@@ -979,7 +982,7 @@
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v18](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
 | AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
-| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v12](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
+| AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v13](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v4](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerProvisioningRolePolicy | / | [v4](./policies/AmazonDataZoneSageMakerProvisioningRolePolicy.json) |
 | AmazonDetectiveFullAccess | / | [v4](./policies/AmazonDetectiveFullAccess.json) |
