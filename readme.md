@@ -36,7 +36,7 @@
 | AWSApplicationAutoscalingRDSClusterPolicy | /aws-service-role/ | [v3](./policies/AWSApplicationAutoscalingRDSClusterPolicy.json) |
 | AWSApplicationAutoscalingSageMakerEndpointPolicy | /aws-service-role/ | [v2](./policies/AWSApplicationAutoscalingSageMakerEndpointPolicy.json) |
 | AWSApplicationAutoscalingWorkSpacesPoolPolicy | /aws-service-role/ | [v1](./policies/AWSApplicationAutoscalingWorkSpacesPoolPolicy.json) |
-| AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
+| AWSApplicationMigrationServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSApplicationMigrationServiceRolePolicy.json) |
 | AWSArtifactServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSArtifactServiceRolePolicy.json) |
 | AWSAuditManagerServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSAuditManagerServiceRolePolicy.json) |
 | AWSAutoScalingPlansEC2AutoScalingPolicy | /aws-service-role/ | [v1](./policies/AWSAutoScalingPlansEC2AutoScalingPolicy.json) |
