@@ -162,7 +162,7 @@
 | AWSServiceRoleForAWSTransform | /aws-service-role/ | [v12](./policies/AWSServiceRoleForAWSTransform.json) |
 | AWSServiceRoleForAWSTransformCustom | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAWSTransformCustom.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v11](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
-| AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v1](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
+| AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
 | AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchMetrics_DbPerfInsightsServiceRolePolicy.json) |
 | AWSServiceRoleForCodeGuru-Profiler | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCodeGuru-Profiler.json) |
@@ -276,7 +276,7 @@
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
 | AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
-| AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
+| AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonWorkMailEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkMailEventsServiceRolePolicy.json) |
 | AmazonWorkSpacesThinClientMonitoringServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkSpacesThinClientMonitoringServiceRolePolicy.json) |
 | AmazonWorkSpacesWebServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonWorkSpacesWebServiceRolePolicy.json) |
@@ -704,8 +704,10 @@
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
 | AWSMCPSignInOAuthAccessPolicy | / | [v1](./policies/AWSMCPSignInOAuthAccessPolicy.json) |
 | AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
+| AWSManagedAccountManagementAccess | / | [v1](./policies/AWSManagedAccountManagementAccess.json) |
 | AWSManagedAccountUserEntitlementAccess | / | [v1](./policies/AWSManagedAccountUserEntitlementAccess.json) |
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v1](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
+| AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDiscoveryFullAccess | / | [v1](./policies/AWSMarketplaceDiscoveryFullAccess.json) |
@@ -883,6 +885,8 @@
 | AWSTransformCustomExecuteTransformations | / | [v4](./policies/AWSTransformCustomExecuteTransformations.json) |
 | AWSTransformCustomFullAccess | / | [v4](./policies/AWSTransformCustomFullAccess.json) |
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
+| AWSTransformInfrastructureExecutorAccessBatch | / | [v1](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
+| AWSTransformInfrastructureExecutorAccessEC2 | / | [v1](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v1](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
@@ -1289,7 +1293,7 @@
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
 | AmazonSageMakerHyperPodGatedModelAccess | / | [v3](./policies/AmazonSageMakerHyperPodGatedModelAccess.json) |
-| AmazonSageMakerHyperPodInferenceAccess | / | [v3](./policies/AmazonSageMakerHyperPodInferenceAccess.json) |
+| AmazonSageMakerHyperPodInferenceAccess | / | [v4](./policies/AmazonSageMakerHyperPodInferenceAccess.json) |
 | AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v6](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v3](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
 | AmazonSageMakerJobFullAccess | / | [v1](./policies/AmazonSageMakerJobFullAccess.json) |
