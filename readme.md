@@ -710,6 +710,7 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v1](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v1](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v1](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
