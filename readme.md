@@ -295,7 +295,7 @@
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
 | CloudFormationStackSetsOrgAdminServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgAdminServiceRolePolicy.json) |
-| CloudFormationStackSetsOrgMemberServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudFormationStackSetsOrgMemberServiceRolePolicy.json) |
+| CloudFormationStackSetsOrgMemberServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudFormationStackSetsOrgMemberServiceRolePolicy.json) |
 | CloudHSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudHSMServiceRolePolicy.json) |
 | CloudTrailEventContext | /aws-service-role/ | [v1](./policies/CloudTrailEventContext.json) |
 | CloudTrailServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudTrailServiceRolePolicy.json) |
@@ -583,7 +583,7 @@
 | AWSElasticDisasterRecoveryCrossAccountReplicationPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryCrossAccountReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryEc2InstancePolicy | /service-role/ | [v5](./policies/AWSElasticDisasterRecoveryEc2InstancePolicy.json) |
 | AWSElasticDisasterRecoveryFailbackInstallationPolicy | / | [v3](./policies/AWSElasticDisasterRecoveryFailbackInstallationPolicy.json) |
-| AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
+| AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
 | AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v7](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
 | AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
 | AWSElasticDisasterRecoveryReadOnlyAccess | / | [v5](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
@@ -710,8 +710,8 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v1](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v1](./policies/AWSManagedSettingsAdminAccess.json) |
-| AWSManagedSettingsReadOnlyAccess | / | [v1](./policies/AWSManagedSettingsReadOnlyAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v2](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsReadOnlyAccess | / | [v2](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
@@ -1213,8 +1213,8 @@
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
 | AmazonRDSEnhancedMonitoringRole | /service-role/ | [v1](./policies/AmazonRDSEnhancedMonitoringRole.json) |
 | AmazonRDSFullAccess | / | [v14](./policies/AmazonRDSFullAccess.json) |
-| AmazonRDSPerformanceInsightsFullAccess | / | [v5](./policies/AmazonRDSPerformanceInsightsFullAccess.json) |
-| AmazonRDSPerformanceInsightsReadOnly | / | [v6](./policies/AmazonRDSPerformanceInsightsReadOnly.json) |
+| AmazonRDSPerformanceInsightsFullAccess | / | [v6](./policies/AmazonRDSPerformanceInsightsFullAccess.json) |
+| AmazonRDSPerformanceInsightsReadOnly | / | [v7](./policies/AmazonRDSPerformanceInsightsReadOnly.json) |
 | AmazonRDSReadOnlyAccess | / | [v7](./policies/AmazonRDSReadOnlyAccess.json) |
 | AmazonRedshiftAllCommandsFullAccess | / | [v2](./policies/AmazonRedshiftAllCommandsFullAccess.json) |
 | AmazonRedshiftDataFullAccess | / | [v5](./policies/AmazonRedshiftDataFullAccess.json) |
@@ -1511,7 +1511,7 @@
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v20](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v21](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
