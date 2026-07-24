@@ -426,7 +426,7 @@
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactAgreementsFullAccess | / | [v6](./policies/AWSArtifactAgreementsFullAccess.json) |
 | AWSArtifactAgreementsReadOnlyAccess | / | [v3](./policies/AWSArtifactAgreementsReadOnlyAccess.json) |
-| AWSArtifactComplianceInquiriesFullAccess | / | [v1](./policies/AWSArtifactComplianceInquiriesFullAccess.json) |
+| AWSArtifactComplianceInquiriesFullAccess | / | [v2](./policies/AWSArtifactComplianceInquiriesFullAccess.json) |
 | AWSArtifactComplianceInquiriesReadOnlyAccess | / | [v1](./policies/AWSArtifactComplianceInquiriesReadOnlyAccess.json) |
 | AWSArtifactReportsReadOnlyAccess | / | [v7](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
@@ -1185,6 +1185,7 @@
 | AmazonNimbleStudio-LaunchProfileWorker | / | [v1](./policies/AmazonNimbleStudio-LaunchProfileWorker.json) |
 | AmazonNimbleStudio-StudioAdmin | / | [v4](./policies/AmazonNimbleStudio-StudioAdmin.json) |
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
+| AmazonODBFullAccess | / | [v1](./policies/AmazonODBFullAccess.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
 | AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
