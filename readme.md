@@ -131,7 +131,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSPCSServiceRolePolicy.json) |
@@ -147,6 +147,7 @@
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
+| AWSSDMPServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSDMPServiceRolePolicy.json) |
 | AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v21](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
@@ -233,7 +234,7 @@
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
 | AmazonEKSServiceRolePolicy | /aws-service-role/ | [v26](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
-| AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonEMRContainersServiceRolePolicy.json) |
+| AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
 | AmazonEVSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AmazonEVSServiceRolePolicy.json) |
 | AmazonElasticFileSystemServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonElasticFileSystemServiceRolePolicy.json) |
