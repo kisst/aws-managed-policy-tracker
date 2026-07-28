@@ -1487,6 +1487,7 @@
 | ROSAIngressOperatorPolicy | /service-role/ | [v4](./policies/ROSAIngressOperatorPolicy.json) |
 | ROSAInstallerPolicy | /service-role/ | [v10](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
+| ROSAKarpenterControllerPolicy | /service-role/ | [v1](./policies/ROSAKarpenterControllerPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v7](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
 | ROSANodePoolManagementPolicy | /service-role/ | [v8](./policies/ROSANodePoolManagementPolicy.json) |
