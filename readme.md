@@ -891,11 +891,11 @@
 | AWSTransformCustomExecuteTransformations | / | [v4](./policies/AWSTransformCustomExecuteTransformations.json) |
 | AWSTransformCustomFullAccess | / | [v4](./policies/AWSTransformCustomFullAccess.json) |
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
-| AWSTransformInfrastructureExecutorAccessBatch | / | [v1](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
-| AWSTransformInfrastructureExecutorAccessEC2 | / | [v1](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
+| AWSTransformInfrastructureExecutorAccessBatch | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
+| AWSTransformInfrastructureExecutorAccessEC2 | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
-| AWSTransformSecurityAgentExecutorAccess | / | [v1](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
+| AWSTransformSecurityAgentExecutorAccess | / | [v2](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
@@ -904,7 +904,7 @@
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
 | AWSWAFConsoleFullAccess | / | [v22](./policies/AWSWAFConsoleFullAccess.json) |
 | AWSWAFConsoleReadOnlyAccess | / | [v21](./policies/AWSWAFConsoleReadOnlyAccess.json) |
-| AWSWAFFullAccess | / | [v16](./policies/AWSWAFFullAccess.json) |
+| AWSWAFFullAccess | / | [v17](./policies/AWSWAFFullAccess.json) |
 | AWSWAFReadOnlyAccess | / | [v13](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
 | AWSXRayDaemonWriteAccess | / | [v2](./policies/AWSXRayDaemonWriteAccess.json) |
@@ -1381,7 +1381,7 @@
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
-| BedrockAgentCoreFullAccess | / | [v17](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreFullAccess | / | [v18](./policies/BedrockAgentCoreFullAccess.json) |
 | CloudFrontFullAccess | / | [v14](./policies/CloudFrontFullAccess.json) |
 | CloudFrontReadOnlyAccess | / | [v12](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
@@ -1482,7 +1482,7 @@
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
 | ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v6](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
-| ROSAControlPlaneOperatorPolicy | /service-role/ | [v6](./policies/ROSAControlPlaneOperatorPolicy.json) |
+| ROSAControlPlaneOperatorPolicy | /service-role/ | [v7](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v8](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v4](./policies/ROSAIngressOperatorPolicy.json) |
 | ROSAInstallerPolicy | /service-role/ | [v10](./policies/ROSAInstallerPolicy.json) |
