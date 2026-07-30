@@ -1490,7 +1490,7 @@
 | ROSAKarpenterControllerPolicy | /service-role/ | [v1](./policies/ROSAKarpenterControllerPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v7](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
-| ROSANodePoolManagementPolicy | /service-role/ | [v8](./policies/ROSANodePoolManagementPolicy.json) |
+| ROSANodePoolManagementPolicy | /service-role/ | [v9](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v6](./policies/ROSASRESupportPolicy.json) |
 | ROSASharedVPCEndpointPolicy | / | [v3](./policies/ROSASharedVPCEndpointPolicy.json) |
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
@@ -1523,7 +1523,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v81](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v41](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v72](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v73](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v28](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
