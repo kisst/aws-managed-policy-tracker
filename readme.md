@@ -418,7 +418,7 @@
 | AWSApplicationMigrationFullAccess | / | [v13](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationNetworkMigrationCustomResource | / | [v3](./policies/AWSApplicationMigrationNetworkMigrationCustomResource.json) |
-| AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v5](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
+| AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v6](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
 | AWSApplicationMigrationReadOnlyAccess | / | [v6](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
 | AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v2](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
 | AWSApplicationMigrationSSMAccess | / | [v5](./policies/AWSApplicationMigrationSSMAccess.json) |
