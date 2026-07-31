@@ -3,7 +3,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AWSManagementConsoleAdministratorAccess | /job-function/ | [v7](./policies/AWSManagementConsoleAdministratorAccess.json) |
-| Billing | /job-function/ | [v29](./policies/Billing.json) |
+| Billing | /job-function/ | [v30](./policies/Billing.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
 | NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
@@ -58,7 +58,7 @@
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v93](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v94](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
@@ -248,6 +248,7 @@
 | AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHoneycodeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonHoneycodeServiceRolePolicy.json) |
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
+| AmazonInspector2AmiScanServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AmiScanServiceRolePolicy.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v27](./policies/AmazonInspector2ServiceRolePolicy.json) |
 | AmazonInspector2ThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2ThirdPartyServiceRolePolicy.json) |
 | AmazonInspectorServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonInspectorServiceRolePolicy.json) |
@@ -276,6 +277,7 @@
 | AmazonSageMakerCapacityReservationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCapacityReservationServiceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
+| AmazonSageMakerInferenceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerInferenceServiceRolePolicy.json) |
 | AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonWorkMailEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkMailEventsServiceRolePolicy.json) |
@@ -452,7 +454,7 @@
 | AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v7](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v4](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v27](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v28](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v2](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -912,7 +914,7 @@
 | AWSXrayFullAccess | / | [v2](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
-| AWS_ConfigRole | /service-role/ | [v70](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v71](./policies/AWS_ConfigRole.json) |
 | AccountManagementFromVercel | / | [v4](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
@@ -1382,7 +1384,7 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BedrockAgentCoreFullAccess | / | [v18](./policies/BedrockAgentCoreFullAccess.json) |
-| CloudFrontFullAccess | / | [v14](./policies/CloudFrontFullAccess.json) |
+| CloudFrontFullAccess | / | [v15](./policies/CloudFrontFullAccess.json) |
 | CloudFrontReadOnlyAccess | / | [v12](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
 | CloudSearchReadOnlyAccess | / | [v1](./policies/CloudSearchReadOnlyAccess.json) |
@@ -1477,6 +1479,8 @@
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
 | PartnerCentralIncentiveBenefitManagement | / | [v4](./policies/PartnerCentralIncentiveBenefitManagement.json) |
 | PowerUserAccess | / | [v12](./policies/PowerUserAccess.json) |
+| PricingPlanManagerFullAccess | / | [v1](./policies/PricingPlanManagerFullAccess.json) |
+| PricingPlanManagerReadonlyAccess | / | [v1](./policies/PricingPlanManagerReadonlyAccess.json) |
 | QBusinessQuicksightPluginPolicy | / | [v3](./policies/QBusinessQuicksightPluginPolicy.json) |
 | QuickSightAccessForS3StorageManagementAnalyticsReadOnly | /service-role/ | [v4](./policies/QuickSightAccessForS3StorageManagementAnalyticsReadOnly.json) |
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
