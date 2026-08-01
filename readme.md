@@ -143,7 +143,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v51](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v52](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -185,6 +185,7 @@
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
+| AWSSupportPlansServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSupportPlansServiceRolePolicy.json) |
 | AWSSupportServiceRolePolicy | /aws-service-role/ | [v58](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
@@ -822,6 +823,7 @@
 | AWSRefactoringToolkitSidecarPolicy | / | [v2](./policies/AWSRefactoringToolkitSidecarPolicy.json) |
 | AWSRepostSpaceSupportOperationsPolicy | / | [v1](./policies/AWSRepostSpaceSupportOperationsPolicy.json) |
 | AWSResilienceHubAsssessmentExecutionPolicy | / | [v9](./policies/AWSResilienceHubAsssessmentExecutionPolicy.json) |
+| AWSResilienceHubResilienceTestingPolicy | / | [v1](./policies/AWSResilienceHubResilienceTestingPolicy.json) |
 | AWSResilienceHubV2AssessmentExecutionPolicy | / | [v1](./policies/AWSResilienceHubV2AssessmentExecutionPolicy.json) |
 | AWSResourceAccessManagerFullAccess | / | [v1](./policies/AWSResourceAccessManagerFullAccess.json) |
 | AWSResourceAccessManagerReadOnlyAccess | / | [v1](./policies/AWSResourceAccessManagerReadOnlyAccess.json) |
