@@ -418,7 +418,7 @@
 | AWSApplicationMigrationEC2Access | / | [v10](./policies/AWSApplicationMigrationEC2Access.json) |
 | AWSApplicationMigrationFSxProxyPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationFSxProxyPolicy.json) |
 | AWSApplicationMigrationFSxProxyVPCPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationFSxProxyVPCPolicy.json) |
-| AWSApplicationMigrationFullAccess | / | [v13](./policies/AWSApplicationMigrationFullAccess.json) |
+| AWSApplicationMigrationFullAccess | / | [v14](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationNetworkMigrationCustomResource | / | [v3](./policies/AWSApplicationMigrationNetworkMigrationCustomResource.json) |
 | AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v6](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
