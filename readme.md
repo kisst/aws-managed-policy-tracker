@@ -947,10 +947,10 @@
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v4](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockExternalWebSearchFullAccess | / | [v1](./policies/AmazonBedrockExternalWebSearchFullAccess.json) |
 | AmazonBedrockExternalWebSearchReadOnly | / | [v1](./policies/AmazonBedrockExternalWebSearchReadOnly.json) |
-| AmazonBedrockFullAccess | / | [v10](./policies/AmazonBedrockFullAccess.json) |
-| AmazonBedrockLimitedAccess | / | [v8](./policies/AmazonBedrockLimitedAccess.json) |
-| AmazonBedrockMantleFullAccess | / | [v4](./policies/AmazonBedrockMantleFullAccess.json) |
-| AmazonBedrockMantleInferenceAccess | / | [v4](./policies/AmazonBedrockMantleInferenceAccess.json) |
+| AmazonBedrockFullAccess | / | [v11](./policies/AmazonBedrockFullAccess.json) |
+| AmazonBedrockLimitedAccess | / | [v9](./policies/AmazonBedrockLimitedAccess.json) |
+| AmazonBedrockMantleFullAccess | / | [v5](./policies/AmazonBedrockMantleFullAccess.json) |
+| AmazonBedrockMantleInferenceAccess | / | [v5](./policies/AmazonBedrockMantleInferenceAccess.json) |
 | AmazonBedrockMantleReadOnly | / | [v3](./policies/AmazonBedrockMantleReadOnly.json) |
 | AmazonBedrockMarketplaceAccess | / | [v3](./policies/AmazonBedrockMarketplaceAccess.json) |
 | AmazonBedrockReadOnly | / | [v7](./policies/AmazonBedrockReadOnly.json) |
