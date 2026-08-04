@@ -80,7 +80,7 @@
 | AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
-| AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
+| AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
 | AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
@@ -945,6 +945,8 @@
 | AmazonAuroraDSQLFullAccess | / | [v16](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v10](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v4](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
+| AmazonBedrockExternalWebSearchFullAccess | / | [v1](./policies/AmazonBedrockExternalWebSearchFullAccess.json) |
+| AmazonBedrockExternalWebSearchReadOnly | / | [v1](./policies/AmazonBedrockExternalWebSearchReadOnly.json) |
 | AmazonBedrockFullAccess | / | [v10](./policies/AmazonBedrockFullAccess.json) |
 | AmazonBedrockLimitedAccess | / | [v8](./policies/AmazonBedrockLimitedAccess.json) |
 | AmazonBedrockMantleFullAccess | / | [v4](./policies/AmazonBedrockMantleFullAccess.json) |
@@ -953,6 +955,8 @@
 | AmazonBedrockMarketplaceAccess | / | [v3](./policies/AmazonBedrockMarketplaceAccess.json) |
 | AmazonBedrockReadOnly | / | [v7](./policies/AmazonBedrockReadOnly.json) |
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
+| AmazonBedrockWebSearchFullAccess | / | [v1](./policies/AmazonBedrockWebSearchFullAccess.json) |
+| AmazonBedrockWebSearchReadOnly | / | [v1](./policies/AmazonBedrockWebSearchReadOnly.json) |
 | AmazonBraketFullAccess | / | [v13](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v3](./policies/AmazonBraketJobsExecutionPolicy.json) |
 | AmazonChimeFullAccess | / | [v3](./policies/AmazonChimeFullAccess.json) |
@@ -1338,8 +1342,8 @@
 | AmazonTextractServiceRole | /service-role/ | [v1](./policies/AmazonTextractServiceRole.json) |
 | AmazonTimestreamConsoleFullAccess | / | [v13](./policies/AmazonTimestreamConsoleFullAccess.json) |
 | AmazonTimestreamFullAccess | / | [v2](./policies/AmazonTimestreamFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccess | / | [v17](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
-| AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v9](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
+| AmazonTimestreamInfluxDBFullAccess | / | [v18](./policies/AmazonTimestreamInfluxDBFullAccess.json) |
+| AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess | / | [v10](./policies/AmazonTimestreamInfluxDBFullAccessWithoutMarketplaceAccess.json) |
 | AmazonTimestreamReadOnlyAccess | / | [v4](./policies/AmazonTimestreamReadOnlyAccess.json) |
 | AmazonTranscribeFullAccess | / | [v1](./policies/AmazonTranscribeFullAccess.json) |
 | AmazonTranscribeReadOnlyAccess | / | [v1](./policies/AmazonTranscribeReadOnlyAccess.json) |
@@ -1520,7 +1524,7 @@
 | SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockKnowledgeBaseCustomResourcePolicy.json) |
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v21](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v22](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
