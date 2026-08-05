@@ -201,6 +201,7 @@
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
 | AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
+| AWSWellArchitectedAgentResourceScanningServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedAgentResourceScanningServiceRolePolicy.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
 | AWSWellArchitectedOrganizationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedOrganizationsServiceRolePolicy.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
@@ -853,11 +854,11 @@
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseFullAccess.json) |
 | AWSSecurityIncidentResponseReadOnlyAccess | / | [v4](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
-| AWSServiceCatalogAdminFullAccess | / | [v8](./policies/AWSServiceCatalogAdminFullAccess.json) |
+| AWSServiceCatalogAdminFullAccess | / | [v9](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
 | AWSServiceCatalogAppRegistryFullAccess | / | [v6](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
 | AWSServiceCatalogAppRegistryReadOnlyAccess | / | [v4](./policies/AWSServiceCatalogAppRegistryReadOnlyAccess.json) |
-| AWSServiceCatalogEndUserFullAccess | / | [v7](./policies/AWSServiceCatalogEndUserFullAccess.json) |
+| AWSServiceCatalogEndUserFullAccess | / | [v8](./policies/AWSServiceCatalogEndUserFullAccess.json) |
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
 | AWSShieldDRTAccessPolicy | /service-role/ | [v6](./policies/AWSShieldDRTAccessPolicy.json) |
 | AWSStepFunctionsConsoleFullAccess | / | [v2](./policies/AWSStepFunctionsConsoleFullAccess.json) |
@@ -1120,7 +1121,7 @@
 | AmazonGuardDutyFullAccess_v2 | / | [v6](./policies/AmazonGuardDutyFullAccess_v2.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
-| AmazonHealthLakeReadOnlyAccess | / | [v1](./policies/AmazonHealthLakeReadOnlyAccess.json) |
+| AmazonHealthLakeReadOnlyAccess | / | [v2](./policies/AmazonHealthLakeReadOnlyAccess.json) |
 | AmazonHoneycodeFullAccess | / | [v1](./policies/AmazonHoneycodeFullAccess.json) |
 | AmazonHoneycodeReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeReadOnlyAccess.json) |
 | AmazonHoneycodeTeamAssociationFullAccess | / | [v1](./policies/AmazonHoneycodeTeamAssociationFullAccess.json) |
@@ -1436,7 +1437,7 @@
 | DBModDiscoveryAndAssessment | / | [v1](./policies/DBModDiscoveryAndAssessment.json) |
 | DBModProvisioningAndMigration | / | [v1](./policies/DBModProvisioningAndMigration.json) |
 | DBModVirtualSource | / | [v1](./policies/DBModVirtualSource.json) |
-| EC2FastLaunchFullAccess | / | [v4](./policies/EC2FastLaunchFullAccess.json) |
+| EC2FastLaunchFullAccess | / | [v5](./policies/EC2FastLaunchFullAccess.json) |
 | EC2ImageBuilderExecutionPolicy | / | [v2](./policies/EC2ImageBuilderExecutionPolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
