@@ -46,6 +46,7 @@
 | AWSBatchServiceRolePolicyForSageMaker | /aws-service-role/ | [v2](./policies/AWSBatchServiceRolePolicyForSageMaker.json) |
 | AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreGatewayNetworkServiceRolePolicy.json) |
 | AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy.json) |
+| AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
 | AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v1](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
@@ -1391,6 +1392,8 @@
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BedrockAgentCoreFullAccess | / | [v18](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreRuntimeInstancesInstanceRolePolicy | / | [v1](./policies/BedrockAgentCoreRuntimeInstancesInstanceRolePolicy.json) |
+| BedrockAgentCoreRuntimeInstancesOperatorRolePolicy | / | [v1](./policies/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy.json) |
 | CloudFrontFullAccess | / | [v15](./policies/CloudFrontFullAccess.json) |
 | CloudFrontReadOnlyAccess | / | [v12](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
