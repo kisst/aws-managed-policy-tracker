@@ -92,7 +92,7 @@
 | AWSHealthImagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthImagingServiceRolePolicy.json) |
 | AWSHealthOmicsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthOmicsServiceLinkedRolePolicy.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
-| AWSIAMRoleManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIAMRoleManagerServiceRolePolicy.json) |
+| AWSIAMRoleManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIAMRoleManagerServiceRolePolicy.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
@@ -293,7 +293,7 @@
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
 | AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v10](./policies/AutoScalingServiceRolePolicy.json) |
-| BatchServiceRolePolicy | /aws-service-role/ | [v7](./policies/BatchServiceRolePolicy.json) |
+| BatchServiceRolePolicy | /aws-service-role/ | [v8](./policies/BatchServiceRolePolicy.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
 | BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
@@ -378,6 +378,7 @@
 | AIDevOpsAgentActionsPolicy | / | [v1](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
+| AIDevOpsConstellationAccessPolicy | /service-role/ | [v1](./policies/AIDevOpsConstellationAccessPolicy.json) |
 | AIDevOpsOperatorAppAccessPolicy | / | [v9](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
