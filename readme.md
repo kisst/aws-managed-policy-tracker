@@ -1394,7 +1394,7 @@
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
 | BedrockAgentCoreFullAccess | / | [v18](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreRuntimeInstancesInstanceRolePolicy | / | [v1](./policies/BedrockAgentCoreRuntimeInstancesInstanceRolePolicy.json) |
-| BedrockAgentCoreRuntimeInstancesOperatorRolePolicy | / | [v1](./policies/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy.json) |
+| BedrockAgentCoreRuntimeInstancesOperatorRolePolicy | / | [v2](./policies/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy.json) |
 | CloudFrontFullAccess | / | [v15](./policies/CloudFrontFullAccess.json) |
 | CloudFrontReadOnlyAccess | / | [v12](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
