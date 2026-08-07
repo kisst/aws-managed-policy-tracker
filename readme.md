@@ -1418,7 +1418,7 @@
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
 | CloudWatchApplicationSignalsFullAccess | / | [v7](./policies/CloudWatchApplicationSignalsFullAccess.json) |
 | CloudWatchApplicationSignalsReadOnlyAccess | / | [v7](./policies/CloudWatchApplicationSignalsReadOnlyAccess.json) |
-| CloudWatchAutomaticDashboardsAccess | / | [v4](./policies/CloudWatchAutomaticDashboardsAccess.json) |
+| CloudWatchAutomaticDashboardsAccess | / | [v5](./policies/CloudWatchAutomaticDashboardsAccess.json) |
 | CloudWatchCrossAccountSharingConfiguration | / | [v1](./policies/CloudWatchCrossAccountSharingConfiguration.json) |
 | CloudWatchEventsBuiltInTargetExecutionAccess | /service-role/ | [v1](./policies/CloudWatchEventsBuiltInTargetExecutionAccess.json) |
 | CloudWatchEventsFullAccess | / | [v5](./policies/CloudWatchEventsFullAccess.json) |
