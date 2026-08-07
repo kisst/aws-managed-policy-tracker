@@ -3,6 +3,9 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AWSManagementConsoleAdministratorAccess | /job-function/ | [v7](./policies/AWSManagementConsoleAdministratorAccess.json) |
+| AmazonODBAutonomousVmClusterAdmin | /job-function/ | [v1](./policies/AmazonODBAutonomousVmClusterAdmin.json) |
+| AmazonODBExadataInfrastructureAdmin | /job-function/ | [v1](./policies/AmazonODBExadataInfrastructureAdmin.json) |
+| AmazonODBNetworkAdmin | /job-function/ | [v1](./policies/AmazonODBNetworkAdmin.json) |
 | Billing | /job-function/ | [v30](./policies/Billing.json) |
 | DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
@@ -16,6 +19,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
+| AWSAgentRegistryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAgentRegistryServiceRolePolicy.json) |
 | AWSAppConfigServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppConfigServiceRolePolicy.json) |
 | AWSAppFabricServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppFabricServiceRolePolicy.json) |
 | AWSAppMeshPreviewServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSAppMeshPreviewServiceRolePolicy.json) |
@@ -437,6 +441,7 @@
 | AWSArtifactComplianceInquiriesReadOnlyAccess | / | [v1](./policies/AWSArtifactComplianceInquiriesReadOnlyAccess.json) |
 | AWSArtifactReportsReadOnlyAccess | / | [v7](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
+| AWSBackupAccessPointOperatorAccess | / | [v1](./policies/AWSBackupAccessPointOperatorAccess.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
 | AWSBackupFullAccess | / | [v30](./policies/AWSBackupFullAccess.json) |
@@ -717,7 +722,7 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v1](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v2](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v3](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v2](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
@@ -900,9 +905,12 @@
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
 | AWSTransformInfrastructureExecutorAccessBatch | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
 | AWSTransformInfrastructureExecutorAccessEC2 | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
+| AWSTransformLandingZoneAgentPolicy | / | [v1](./policies/AWSTransformLandingZoneAgentPolicy.json) |
+| AWSTransformNetworkMigrationAgentPolicy | / | [v1](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v2](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
+| AWSTransformServerMigrationAgentPolicy | / | [v1](./policies/AWSTransformServerMigrationAgentPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
@@ -924,6 +932,8 @@
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
+| AgentRegistryFullAccess | / | [v1](./policies/AgentRegistryFullAccess.json) |
+| AgentRegistryReadOnlyAccess | / | [v1](./policies/AgentRegistryReadOnlyAccess.json) |
 | AlexaForBusinessDeviceSetup | / | [v2](./policies/AlexaForBusinessDeviceSetup.json) |
 | AlexaForBusinessFullAccess | / | [v5](./policies/AlexaForBusinessFullAccess.json) |
 | AlexaForBusinessGatewayExecution | / | [v1](./policies/AlexaForBusinessGatewayExecution.json) |
@@ -1198,6 +1208,7 @@
 | AmazonNimbleStudio-StudioAdmin | / | [v4](./policies/AmazonNimbleStudio-StudioAdmin.json) |
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
 | AmazonODBFullAccess | / | [v1](./policies/AmazonODBFullAccess.json) |
+| AmazonODBReadOnlyAccess | / | [v1](./policies/AmazonODBReadOnlyAccess.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
 | AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
