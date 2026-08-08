@@ -52,7 +52,7 @@
 | AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy.json) |
 | AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
-| AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v1](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
+| AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v2](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCleanRoomsServiceRolePolicy.json) |
@@ -719,10 +719,10 @@
 | AWSManagedAccountManagementAccess | / | [v1](./policies/AWSManagedAccountManagementAccess.json) |
 | AWSManagedAccountUserEntitlementAccess | / | [v1](./policies/AWSManagedAccountUserEntitlementAccess.json) |
 | AWSManagedAdvancedFeaturesActivationAccess | / | [v1](./policies/AWSManagedAdvancedFeaturesActivationAccess.json) |
-| AWSManagedBudgetsSpendLimitManagementAccess | / | [v1](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
+| AWSManagedBudgetsSpendLimitManagementAccess | / | [v2](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v3](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v4](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v2](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
@@ -1326,7 +1326,7 @@
 | AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v6](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v3](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
 | AmazonSageMakerJobFullAccess | / | [v1](./policies/AmazonSageMakerJobFullAccess.json) |
-| AmazonSageMakerJobRuntimeAccess | / | [v1](./policies/AmazonSageMakerJobRuntimeAccess.json) |
+| AmazonSageMakerJobRuntimeAccess | / | [v2](./policies/AmazonSageMakerJobRuntimeAccess.json) |
 | AmazonSageMakerMechanicalTurkAccess | / | [v1](./policies/AmazonSageMakerMechanicalTurkAccess.json) |
 | AmazonSageMakerModelCustomizationCoreAccess | / | [v3](./policies/AmazonSageMakerModelCustomizationCoreAccess.json) |
 | AmazonSageMakerModelGovernanceUseAccess | / | [v3](./policies/AmazonSageMakerModelGovernanceUseAccess.json) |
