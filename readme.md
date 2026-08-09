@@ -423,7 +423,7 @@
 | AWSApplicationMigrationAgentPolicy_v2 | /service-role/ | [v1](./policies/AWSApplicationMigrationAgentPolicy_v2.json) |
 | AWSApplicationMigrationConversionServerPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationConversionServerPolicy.json) |
 | AWSApplicationMigrationEC2Access | / | [v10](./policies/AWSApplicationMigrationEC2Access.json) |
-| AWSApplicationMigrationFSxProxyPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationFSxProxyPolicy.json) |
+| AWSApplicationMigrationFSxProxyPolicy | /service-role/ | [v2](./policies/AWSApplicationMigrationFSxProxyPolicy.json) |
 | AWSApplicationMigrationFSxProxyVPCPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationFSxProxyVPCPolicy.json) |
 | AWSApplicationMigrationFullAccess | / | [v14](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
