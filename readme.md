@@ -152,7 +152,7 @@
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
-| AWSSDMPServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSDMPServiceRolePolicy.json) |
+| AWSSDMPServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSDMPServiceRolePolicy.json) |
 | AWSSSMForSAPServiceLinkedRolePolicy | /aws-service-role/ | [v21](./policies/AWSSSMForSAPServiceLinkedRolePolicy.json) |
 | AWSSSMOpsInsightsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSSMOpsInsightsServiceRolePolicy.json) |
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
