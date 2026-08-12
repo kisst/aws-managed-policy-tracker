@@ -52,7 +52,7 @@
 | AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy.json) |
 | AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
-| AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v2](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
+| AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v3](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCleanRoomsServiceRolePolicy.json) |
@@ -1403,7 +1403,7 @@
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
-| BedrockAgentCoreFullAccess | / | [v18](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreFullAccess | / | [v19](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreRuntimeInstancesInstanceRolePolicy | / | [v1](./policies/BedrockAgentCoreRuntimeInstancesInstanceRolePolicy.json) |
 | BedrockAgentCoreRuntimeInstancesOperatorRolePolicy | / | [v2](./policies/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy.json) |
 | CloudFrontFullAccess | / | [v15](./policies/CloudFrontFullAccess.json) |
@@ -1547,9 +1547,9 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v81](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v41](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v42](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v73](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v74](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v28](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
