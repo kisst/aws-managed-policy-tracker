@@ -863,7 +863,7 @@
 | AWSSecurityIncidentResponseReadOnlyAccess | / | [v4](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v9](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
-| AWSServiceCatalogAppRegistryFullAccess | / | [v6](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
+| AWSServiceCatalogAppRegistryFullAccess | / | [v7](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
 | AWSServiceCatalogAppRegistryReadOnlyAccess | / | [v4](./policies/AWSServiceCatalogAppRegistryReadOnlyAccess.json) |
 | AWSServiceCatalogEndUserFullAccess | / | [v8](./policies/AWSServiceCatalogEndUserFullAccess.json) |
 | AWSServiceCatalogEndUserReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogEndUserReadOnlyAccess.json) |
