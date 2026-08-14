@@ -52,7 +52,7 @@
 | AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreIdentityNetworkServiceRolePolicy.json) |
 | AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
-| AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v3](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
+| AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v4](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCleanRoomsServiceRolePolicy.json) |
@@ -475,7 +475,7 @@
 | AWSCertificateManagerPrivateCAPrivilegedUser | / | [v4](./policies/AWSCertificateManagerPrivateCAPrivilegedUser.json) |
 | AWSCertificateManagerPrivateCAReadOnly | / | [v3](./policies/AWSCertificateManagerPrivateCAReadOnly.json) |
 | AWSCertificateManagerPrivateCAUser | / | [v7](./policies/AWSCertificateManagerPrivateCAUser.json) |
-| AWSCertificateManagerReadOnly | / | [v6](./policies/AWSCertificateManagerReadOnly.json) |
+| AWSCertificateManagerReadOnly | / | [v7](./policies/AWSCertificateManagerReadOnly.json) |
 | AWSCleanRoomsFullAccess | / | [v2](./policies/AWSCleanRoomsFullAccess.json) |
 | AWSCleanRoomsFullAccessNoQuerying | / | [v7](./policies/AWSCleanRoomsFullAccessNoQuerying.json) |
 | AWSCleanRoomsMLFullAccess | / | [v4](./policies/AWSCleanRoomsMLFullAccess.json) |
@@ -722,7 +722,7 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v2](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v4](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v5](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v2](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
@@ -1552,8 +1552,8 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v74](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v28](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v23](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v29](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v24](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
