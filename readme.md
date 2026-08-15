@@ -145,7 +145,7 @@
 | AWSProtonCodeBuildProvisioningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonCodeBuildProvisioningServiceRolePolicy.json) |
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
 | AWSProtonSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonSyncServiceRolePolicy.json) |
-| AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
+| AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
 | AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v52](./policies/AWSResourceExplorerServiceRolePolicy.json) |
@@ -722,7 +722,7 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v2](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v5](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v6](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v2](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
@@ -873,7 +873,7 @@
 | AWSStepFunctionsReadOnlyAccess | / | [v4](./policies/AWSStepFunctionsReadOnlyAccess.json) |
 | AWSStorageGatewayFullAccess | / | [v2](./policies/AWSStorageGatewayFullAccess.json) |
 | AWSStorageGatewayReadOnlyAccess | / | [v2](./policies/AWSStorageGatewayReadOnlyAccess.json) |
-| AWSSupplyChainFederationAdminAccess | /service-role/ | [v9](./policies/AWSSupplyChainFederationAdminAccess.json) |
+| AWSSupplyChainFederationAdminAccess | /service-role/ | [v10](./policies/AWSSupplyChainFederationAdminAccess.json) |
 | AWSSupportAccess | / | [v4](./policies/AWSSupportAccess.json) |
 | AWSSupportAppFullAccess | / | [v1](./policies/AWSSupportAppFullAccess.json) |
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
@@ -1363,8 +1363,8 @@
 | AmazonTranscribeReadOnlyAccess | / | [v1](./policies/AmazonTranscribeReadOnlyAccess.json) |
 | AmazonVPCCrossAccountNetworkInterfaceOperations | / | [v5](./policies/AmazonVPCCrossAccountNetworkInterfaceOperations.json) |
 | AmazonVPCFullAccess | / | [v13](./policies/AmazonVPCFullAccess.json) |
-| AmazonVPCNetworkAccessAnalyzerFullAccessPolicy | / | [v3](./policies/AmazonVPCNetworkAccessAnalyzerFullAccessPolicy.json) |
-| AmazonVPCReachabilityAnalyzerFullAccessPolicy | / | [v3](./policies/AmazonVPCReachabilityAnalyzerFullAccessPolicy.json) |
+| AmazonVPCNetworkAccessAnalyzerFullAccessPolicy | / | [v4](./policies/AmazonVPCNetworkAccessAnalyzerFullAccessPolicy.json) |
+| AmazonVPCReachabilityAnalyzerFullAccessPolicy | / | [v4](./policies/AmazonVPCReachabilityAnalyzerFullAccessPolicy.json) |
 | AmazonVPCReachabilityAnalyzerPathComponentReadPolicy | / | [v1](./policies/AmazonVPCReachabilityAnalyzerPathComponentReadPolicy.json) |
 | AmazonVPCReadOnlyAccess | / | [v12](./policies/AmazonVPCReadOnlyAccess.json) |
 | AmazonVerifiedPermissionsFullAccess | / | [v1](./policies/AmazonVerifiedPermissionsFullAccess.json) |
