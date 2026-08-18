@@ -284,7 +284,7 @@
 | AmazonSageMakerCapacityReservationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCapacityReservationServiceRolePolicy.json) |
 | AmazonSageMakerCoreServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCoreServiceRolePolicy.json) |
 | AmazonSageMakerHyperPodServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerHyperPodServiceRolePolicy.json) |
-| AmazonSageMakerInferenceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerInferenceServiceRolePolicy.json) |
+| AmazonSageMakerInferenceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonSageMakerInferenceServiceRolePolicy.json) |
 | AmazonSageMakerNotebooksServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonSageMakerNotebooksServiceRolePolicy.json) |
 | AmazonTimestreamInfluxDBServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonTimestreamInfluxDBServiceRolePolicy.json) |
 | AmazonWorkMailEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonWorkMailEventsServiceRolePolicy.json) |
@@ -1557,7 +1557,7 @@
 | SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
-| SecurityAudit | / | [v91](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v92](./policies/SecurityAudit.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
