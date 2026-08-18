@@ -970,6 +970,8 @@
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
 | AmazonBedrockWebSearchFullAccess | / | [v1](./policies/AmazonBedrockWebSearchFullAccess.json) |
 | AmazonBedrockWebSearchReadOnly | / | [v1](./policies/AmazonBedrockWebSearchReadOnly.json) |
+| AmazonBioDiscoveryFullAccess | / | [v1](./policies/AmazonBioDiscoveryFullAccess.json) |
+| AmazonBioDiscoveryInAppFullAccess | / | [v1](./policies/AmazonBioDiscoveryInAppFullAccess.json) |
 | AmazonBraketFullAccess | / | [v13](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v3](./policies/AmazonBraketJobsExecutionPolicy.json) |
 | AmazonChimeFullAccess | / | [v3](./policies/AmazonChimeFullAccess.json) |
