@@ -85,7 +85,7 @@
 | AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
-| AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v7](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
+| AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
 | AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
@@ -355,6 +355,7 @@
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
 | NetworkSecurityDirectorServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/NetworkSecurityDirectorServiceLinkedRolePolicy.json) |
+| NetworkSecurityManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/NetworkSecurityManagerServiceRolePolicy.json) |
 | NovaActServiceRolePolicy | /aws-service-role/ | [v1](./policies/NovaActServiceRolePolicy.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | QAppsServiceRolePolicy | /aws-service-role/ | [v1](./policies/QAppsServiceRolePolicy.json) |
@@ -598,7 +599,7 @@
 | AWSElasticDisasterRecoveryFailbackPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryFailbackPolicy.json) |
 | AWSElasticDisasterRecoveryLaunchActionsPolicy | / | [v7](./policies/AWSElasticDisasterRecoveryLaunchActionsPolicy.json) |
 | AWSElasticDisasterRecoveryNetworkReplicationPolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryNetworkReplicationPolicy.json) |
-| AWSElasticDisasterRecoveryReadOnlyAccess | / | [v5](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
+| AWSElasticDisasterRecoveryReadOnlyAccess | / | [v6](./policies/AWSElasticDisasterRecoveryReadOnlyAccess.json) |
 | AWSElasticDisasterRecoveryRecoveryInstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryRecoveryInstancePolicy.json) |
 | AWSElasticDisasterRecoveryReplicationServerPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryReplicationServerPolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy.json) |
@@ -1049,7 +1050,7 @@
 | AmazonEC2FullAccess | / | [v5](./policies/AmazonEC2FullAccess.json) |
 | AmazonEC2ImageReferencesAccessPolicy | / | [v3](./policies/AmazonEC2ImageReferencesAccessPolicy.json) |
 | AmazonEC2ReadOnlyAccess | / | [v5](./policies/AmazonEC2ReadOnlyAccess.json) |
-| AmazonEC2RolePolicyForLaunchWizard | / | [v11](./policies/AmazonEC2RolePolicyForLaunchWizard.json) |
+| AmazonEC2RolePolicyForLaunchWizard | / | [v12](./policies/AmazonEC2RolePolicyForLaunchWizard.json) |
 | AmazonEC2RoleforAWSCodeDeploy | /service-role/ | [v2](./policies/AmazonEC2RoleforAWSCodeDeploy.json) |
 | AmazonEC2RoleforAWSCodeDeployLimited | /service-role/ | [v2](./policies/AmazonEC2RoleforAWSCodeDeployLimited.json) |
 | AmazonEC2RoleforDataPipelineRole | /service-role/ | [v3](./policies/AmazonEC2RoleforDataPipelineRole.json) |
@@ -1162,7 +1163,7 @@
 | AmazonKinesisReadOnlyAccess | / | [v1](./policies/AmazonKinesisReadOnlyAccess.json) |
 | AmazonKinesisVideoStreamsFullAccess | / | [v1](./policies/AmazonKinesisVideoStreamsFullAccess.json) |
 | AmazonKinesisVideoStreamsReadOnlyAccess | / | [v1](./policies/AmazonKinesisVideoStreamsReadOnlyAccess.json) |
-| AmazonLaunchWizardFullAccessV2 | / | [v1](./policies/AmazonLaunchWizardFullAccessV2.json) |
+| AmazonLaunchWizardFullAccessV2 | / | [v2](./policies/AmazonLaunchWizardFullAccessV2.json) |
 | AmazonLexFullAccess | / | [v9](./policies/AmazonLexFullAccess.json) |
 | AmazonLexReadOnly | / | [v5](./policies/AmazonLexReadOnly.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
