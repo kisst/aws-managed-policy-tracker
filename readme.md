@@ -1509,7 +1509,7 @@
 | QBusinessQuicksightPluginPolicy | / | [v3](./policies/QBusinessQuicksightPluginPolicy.json) |
 | QuickSightAccessForS3StorageManagementAnalyticsReadOnly | /service-role/ | [v4](./policies/QuickSightAccessForS3StorageManagementAnalyticsReadOnly.json) |
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
-| ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v6](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
+| ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v7](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
 | ROSAControlPlaneOperatorPolicy | /service-role/ | [v7](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v8](./policies/ROSAImageRegistryOperatorPolicy.json) |
