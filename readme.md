@@ -191,7 +191,7 @@
 | AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
 | AWSSupportPlansServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSupportPlansServiceRolePolicy.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v58](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v59](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v9](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
@@ -380,7 +380,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AIDevOpsAgentAccessPolicy | / | [v10](./policies/AIDevOpsAgentAccessPolicy.json) |
-| AIDevOpsAgentActionsPolicy | / | [v1](./policies/AIDevOpsAgentActionsPolicy.json) |
+| AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v1](./policies/AIDevOpsConstellationAccessPolicy.json) |
@@ -1471,7 +1471,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FinOpsAgentAgentPolicy | / | [v1](./policies/FinOpsAgentAgentPolicy.json) |
+| FinOpsAgentAgentPolicy | / | [v2](./policies/FinOpsAgentAgentPolicy.json) |
 | FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
