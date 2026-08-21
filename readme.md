@@ -254,7 +254,7 @@
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
 | AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHoneycodeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonHoneycodeServiceRolePolicy.json) |
-| AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
+| AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
 | AmazonInspector2AmiScanServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AmiScanServiceRolePolicy.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v27](./policies/AmazonInspector2ServiceRolePolicy.json) |
 | AmazonInspector2ThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2ThirdPartyServiceRolePolicy.json) |
@@ -1073,7 +1073,7 @@
 | AmazonEKSComputePolicy | / | [v7](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSDashboardConsoleReadOnly | / | [v3](./policies/AmazonEKSDashboardConsoleReadOnly.json) |
 | AmazonEKSFargatePodExecutionRolePolicy | / | [v1](./policies/AmazonEKSFargatePodExecutionRolePolicy.json) |
-| AmazonEKSLoadBalancingPolicy | / | [v9](./policies/AmazonEKSLoadBalancingPolicy.json) |
+| AmazonEKSLoadBalancingPolicy | / | [v10](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
 | AmazonEKSNetworkingPolicy | / | [v2](./policies/AmazonEKSNetworkingPolicy.json) |
