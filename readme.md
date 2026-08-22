@@ -19,7 +19,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
-| AWSAgentRegistryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAgentRegistryServiceRolePolicy.json) |
+| AWSAgentRegistryServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSAgentRegistryServiceRolePolicy.json) |
 | AWSAppConfigServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppConfigServiceRolePolicy.json) |
 | AWSAppFabricServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppFabricServiceRolePolicy.json) |
 | AWSAppMeshPreviewServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSAppMeshPreviewServiceRolePolicy.json) |
@@ -239,7 +239,7 @@
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v26](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v27](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
 | AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
@@ -385,6 +385,7 @@
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v1](./policies/AIDevOpsConstellationAccessPolicy.json) |
 | AIDevOpsOperatorAppAccessPolicy | / | [v9](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsReleaseManagementVPCPolicy | / | [v1](./policies/AIDevOpsReleaseManagementVPCPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
 | AIOpsConsoleAdminPolicy | / | [v9](./policies/AIOpsConsoleAdminPolicy.json) |
@@ -724,7 +725,7 @@
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
 | AWSManagedSettingsAdminAccess | / | [v6](./policies/AWSManagedSettingsAdminAccess.json) |
-| AWSManagedSettingsReadOnlyAccess | / | [v2](./policies/AWSManagedSettingsReadOnlyAccess.json) |
+| AWSManagedSettingsReadOnlyAccess | / | [v3](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
@@ -1014,7 +1015,7 @@
 | AmazonDataZoneFullAccess | / | [v13](./policies/AmazonDataZoneFullAccess.json) |
 | AmazonDataZoneFullUserAccess | / | [v9](./policies/AmazonDataZoneFullUserAccess.json) |
 | AmazonDataZoneGlueManageAccessRolePolicy | /service-role/ | [v18](./policies/AmazonDataZoneGlueManageAccessRolePolicy.json) |
-| AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v4](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
+| AmazonDataZoneRedshiftGlueProvisioningPolicy | / | [v5](./policies/AmazonDataZoneRedshiftGlueProvisioningPolicy.json) |
 | AmazonDataZoneRedshiftManageAccessRolePolicy | /service-role/ | [v5](./policies/AmazonDataZoneRedshiftManageAccessRolePolicy.json) |
 | AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary | / | [v13](./policies/AmazonDataZoneSageMakerEnvironmentRolePermissionsBoundary.json) |
 | AmazonDataZoneSageMakerManageAccessRolePolicy | / | [v4](./policies/AmazonDataZoneSageMakerManageAccessRolePolicy.json) |
@@ -1076,7 +1077,7 @@
 | AmazonEKSLoadBalancingPolicy | / | [v10](./policies/AmazonEKSLoadBalancingPolicy.json) |
 | AmazonEKSLocalOutpostClusterPolicy | / | [v4](./policies/AmazonEKSLocalOutpostClusterPolicy.json) |
 | AmazonEKSMCPReadOnlyAccess | / | [v3](./policies/AmazonEKSMCPReadOnlyAccess.json) |
-| AmazonEKSNetworkingPolicy | / | [v2](./policies/AmazonEKSNetworkingPolicy.json) |
+| AmazonEKSNetworkingPolicy | / | [v3](./policies/AmazonEKSNetworkingPolicy.json) |
 | AmazonEKSServicePolicy | / | [v7](./policies/AmazonEKSServicePolicy.json) |
 | AmazonEKSVPCResourceController | / | [v1](./policies/AmazonEKSVPCResourceController.json) |
 | AmazonEKSWorkerNodeMinimalPolicy | / | [v1](./policies/AmazonEKSWorkerNodeMinimalPolicy.json) |
