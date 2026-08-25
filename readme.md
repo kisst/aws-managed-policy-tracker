@@ -457,7 +457,7 @@
 | AWSBackupServiceRolePolicyForIndexing | / | [v3](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
 | AWSBackupServiceRolePolicyForItemRestores | / | [v3](./policies/AWSBackupServiceRolePolicyForItemRestores.json) |
 | AWSBackupServiceRolePolicyForRestores | /service-role/ | [v35](./policies/AWSBackupServiceRolePolicyForRestores.json) |
-| AWSBackupServiceRolePolicyForS3Backup | / | [v4](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
+| AWSBackupServiceRolePolicyForS3Backup | / | [v5](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
 | AWSBackupServiceRolePolicyForScans | / | [v3](./policies/AWSBackupServiceRolePolicyForScans.json) |
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
@@ -879,8 +879,8 @@
 | AWSSupportAccess | / | [v4](./policies/AWSSupportAccess.json) |
 | AWSSupportAppFullAccess | / | [v1](./policies/AWSSupportAppFullAccess.json) |
 | AWSSupportAppReadOnlyAccess | / | [v1](./policies/AWSSupportAppReadOnlyAccess.json) |
-| AWSSupportPlansFullAccess | / | [v3](./policies/AWSSupportPlansFullAccess.json) |
-| AWSSupportPlansReadOnlyAccess | / | [v2](./policies/AWSSupportPlansReadOnlyAccess.json) |
+| AWSSupportPlansFullAccess | / | [v4](./policies/AWSSupportPlansFullAccess.json) |
+| AWSSupportPlansReadOnlyAccess | / | [v3](./policies/AWSSupportPlansReadOnlyAccess.json) |
 | AWSSystemsManagerEnableConfigRecordingExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableConfigRecordingExecutionPolicy.json) |
 | AWSSystemsManagerEnableExplorerExecutionPolicy | / | [v1](./policies/AWSSystemsManagerEnableExplorerExecutionPolicy.json) |
 | AWSSystemsManagerForSAPFullAccess | / | [v3](./policies/AWSSystemsManagerForSAPFullAccess.json) |
@@ -1550,7 +1550,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v81](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v82](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v42](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v74](./policies/SageMakerStudioProjectUserRolePolicy.json) |
