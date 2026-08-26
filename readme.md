@@ -315,7 +315,7 @@
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v6](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v9](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
-| CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
+| CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v10](./policies/ComputeOptimizerServiceRolePolicy.json) |
@@ -462,7 +462,7 @@
 | AWSBackupServiceRolePolicyForScans | / | [v3](./policies/AWSBackupServiceRolePolicyForScans.json) |
 | AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
 | AWSBatchServiceEventTargetRole | /service-role/ | [v1](./policies/AWSBatchServiceEventTargetRole.json) |
-| AWSBatchServiceRole | /service-role/ | [v13](./policies/AWSBatchServiceRole.json) |
+| AWSBatchServiceRole | /service-role/ | [v14](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v7](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v4](./policies/AWSBillingConductorReadOnlyAccess.json) |
 | AWSBillingReadOnlyAccess | / | [v28](./policies/AWSBillingReadOnlyAccess.json) |
@@ -1558,7 +1558,7 @@
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v29](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v24](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
-| SecretsManagerReadWrite | / | [v5](./policies/SecretsManagerReadWrite.json) |
+| SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
 | SecurityAudit | / | [v92](./policies/SecurityAudit.json) |
