@@ -186,7 +186,7 @@
 | AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v8](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
 | AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v3](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
-| AWSServiceRolePolicyForWorkspacesInstances | /aws-service-role/ | [v3](./policies/AWSServiceRolePolicyForWorkspacesInstances.json) |
+| AWSServiceRolePolicyForWorkspacesInstances | /aws-service-role/ | [v4](./policies/AWSServiceRolePolicyForWorkspacesInstances.json) |
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
@@ -1555,7 +1555,7 @@
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v82](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v42](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v74](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v75](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
 | SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v29](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
