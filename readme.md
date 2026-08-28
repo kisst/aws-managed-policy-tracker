@@ -63,7 +63,7 @@
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v94](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v95](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
@@ -458,7 +458,7 @@
 | AWSBackupServiceRolePolicyForBackup | /service-role/ | [v30](./policies/AWSBackupServiceRolePolicyForBackup.json) |
 | AWSBackupServiceRolePolicyForIndexing | / | [v3](./policies/AWSBackupServiceRolePolicyForIndexing.json) |
 | AWSBackupServiceRolePolicyForItemRestores | / | [v3](./policies/AWSBackupServiceRolePolicyForItemRestores.json) |
-| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v35](./policies/AWSBackupServiceRolePolicyForRestores.json) |
+| AWSBackupServiceRolePolicyForRestores | /service-role/ | [v36](./policies/AWSBackupServiceRolePolicyForRestores.json) |
 | AWSBackupServiceRolePolicyForS3Backup | / | [v5](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
 | AWSBackupServiceRolePolicyForScans | / | [v3](./policies/AWSBackupServiceRolePolicyForScans.json) |
@@ -931,7 +931,7 @@
 | AWSXrayFullAccess | / | [v2](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
-| AWS_ConfigRole | /service-role/ | [v71](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v72](./policies/AWS_ConfigRole.json) |
 | AccountManagementFromVercel | / | [v4](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
