@@ -394,8 +394,8 @@
 | AIOpsOperatorAccess | / | [v12](./policies/AIOpsOperatorAccess.json) |
 | AIOpsReadOnlyAccess | / | [v6](./policies/AIOpsReadOnlyAccess.json) |
 | AWS-SSM-Automation-DiagnosisBucketPolicy | / | [v1](./policies/AWS-SSM-Automation-DiagnosisBucketPolicy.json) |
-| AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy | / | [v4](./policies/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy.json) |
-| AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy | / | [v7](./policies/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy.json) |
+| AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy | / | [v5](./policies/AWS-SSM-DiagnosisAutomation-AdministrationRolePolicy.json) |
+| AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy | / | [v8](./policies/AWS-SSM-DiagnosisAutomation-ExecutionRolePolicy.json) |
 | AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-DiagnosisAutomation-OperationalAccountAdministrationRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-AdministrationRolePolicy | / | [v4](./policies/AWS-SSM-RemediationAutomation-AdministrationRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-ExecutionRolePolicy | / | [v4](./policies/AWS-SSM-RemediationAutomation-ExecutionRolePolicy.json) |
