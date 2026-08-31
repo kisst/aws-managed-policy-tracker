@@ -936,7 +936,7 @@
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
-| AgentRegistryFullAccess | / | [v1](./policies/AgentRegistryFullAccess.json) |
+| AgentRegistryFullAccess | / | [v2](./policies/AgentRegistryFullAccess.json) |
 | AgentRegistryReadOnlyAccess | / | [v1](./policies/AgentRegistryReadOnlyAccess.json) |
 | AlexaForBusinessDeviceSetup | / | [v2](./policies/AlexaForBusinessDeviceSetup.json) |
 | AlexaForBusinessFullAccess | / | [v5](./policies/AlexaForBusinessFullAccess.json) |
