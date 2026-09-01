@@ -403,7 +403,7 @@
 | AWSAccountActivityAccess | / | [v3](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
-| AWSAccountSettingsManagementRole | / | [v8](./policies/AWSAccountSettingsManagementRole.json) |
+| AWSAccountSettingsManagementRole | / | [v9](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
@@ -909,12 +909,12 @@
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
 | AWSTransformInfrastructureExecutorAccessBatch | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
 | AWSTransformInfrastructureExecutorAccessEC2 | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
-| AWSTransformLandingZoneAgentPolicy | / | [v1](./policies/AWSTransformLandingZoneAgentPolicy.json) |
-| AWSTransformNetworkMigrationAgentPolicy | / | [v1](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
+| AWSTransformLandingZoneAgentPolicy | / | [v2](./policies/AWSTransformLandingZoneAgentPolicy.json) |
+| AWSTransformNetworkMigrationAgentPolicy | / | [v2](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v2](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
-| AWSTransformServerMigrationAgentPolicy | / | [v1](./policies/AWSTransformServerMigrationAgentPolicy.json) |
+| AWSTransformServerMigrationAgentPolicy | / | [v2](./policies/AWSTransformServerMigrationAgentPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
