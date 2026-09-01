@@ -315,7 +315,7 @@
 | CloudWatchEventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/CloudWatchEventsServiceRolePolicy.json) |
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v6](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
-| CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v9](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
+| CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v10](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
@@ -726,7 +726,7 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v2](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v6](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v7](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v3](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
