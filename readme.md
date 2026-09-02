@@ -1068,7 +1068,7 @@
 | AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v6](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
 | AmazonECSInstanceRolePolicyForManagedInstances | / | [v4](./policies/AmazonECSInstanceRolePolicyForManagedInstances.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
-| AmazonECS_FullAccess | / | [v21](./policies/AmazonECS_FullAccess.json) |
+| AmazonECS_FullAccess | / | [v22](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
 | AmazonEKSBlockStoragePolicy | / | [v1](./policies/AmazonEKSBlockStoragePolicy.json) |
 | AmazonEKSBlockStoragePolicyV2 | / | [v1](./policies/AmazonEKSBlockStoragePolicyV2.json) |
