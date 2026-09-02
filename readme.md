@@ -1409,7 +1409,7 @@
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
-| BedrockAgentCoreFullAccess | / | [v19](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreFullAccess | / | [v20](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreRuntimeInstancesInstanceRolePolicy | / | [v1](./policies/BedrockAgentCoreRuntimeInstancesInstanceRolePolicy.json) |
 | BedrockAgentCoreRuntimeInstancesOperatorRolePolicy | / | [v2](./policies/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy.json) |
 | CloudFrontFullAccess | / | [v15](./policies/CloudFrontFullAccess.json) |
@@ -1474,7 +1474,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FinOpsAgentAgentPolicy | / | [v2](./policies/FinOpsAgentAgentPolicy.json) |
+| FinOpsAgentAgentPolicy | / | [v3](./policies/FinOpsAgentAgentPolicy.json) |
 | FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
