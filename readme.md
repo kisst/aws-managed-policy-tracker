@@ -7,7 +7,7 @@
 | AmazonODBExadataInfrastructureAdmin | /job-function/ | [v1](./policies/AmazonODBExadataInfrastructureAdmin.json) |
 | AmazonODBNetworkAdmin | /job-function/ | [v1](./policies/AmazonODBNetworkAdmin.json) |
 | Billing | /job-function/ | [v30](./policies/Billing.json) |
-| DataScientist | /job-function/ | [v5](./policies/DataScientist.json) |
+| DataScientist | /job-function/ | [v6](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
 | NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
 | SupportUser | /job-function/ | [v11](./policies/SupportUser.json) |
@@ -907,8 +907,8 @@
 | AWSTransformCustomExecuteTransformations | / | [v4](./policies/AWSTransformCustomExecuteTransformations.json) |
 | AWSTransformCustomFullAccess | / | [v4](./policies/AWSTransformCustomFullAccess.json) |
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
-| AWSTransformInfrastructureExecutorAccessBatch | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
-| AWSTransformInfrastructureExecutorAccessEC2 | / | [v2](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
+| AWSTransformInfrastructureExecutorAccessBatch | / | [v3](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
+| AWSTransformInfrastructureExecutorAccessEC2 | / | [v3](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
 | AWSTransformLandingZoneAgentPolicy | / | [v2](./policies/AWSTransformLandingZoneAgentPolicy.json) |
 | AWSTransformNetworkMigrationAgentPolicy | / | [v2](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
