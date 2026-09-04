@@ -56,7 +56,7 @@
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCleanRoomsServiceRolePolicy.json) |
-| AWSCloud9ServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSCloud9ServiceRolePolicy.json) |
+| AWSCloud9ServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSCloud9ServiceRolePolicy.json) |
 | AWSCloudFrontLogger | /aws-service-role/ | [v2](./policies/AWSCloudFrontLogger.json) |
 | AWSCloudFrontVPCOriginServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudFrontVPCOriginServiceRolePolicy.json) |
 | AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy.json) |
@@ -148,7 +148,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v52](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v53](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -636,7 +636,7 @@
 | AWSFaultInjectionSimulatorNetworkAccess | /service-role/ | [v5](./policies/AWSFaultInjectionSimulatorNetworkAccess.json) |
 | AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v5](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
 | AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v8](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
-| AWSForWordPressPluginPolicy | / | [v2](./policies/AWSForWordPressPluginPolicy.json) |
+| AWSForWordPressPluginPolicy | / | [v3](./policies/AWSForWordPressPluginPolicy.json) |
 | AWSGlueConsoleFullAccess | / | [v14](./policies/AWSGlueConsoleFullAccess.json) |
 | AWSGlueConsoleSageMakerNotebookFullAccess | / | [v3](./policies/AWSGlueConsoleSageMakerNotebookFullAccess.json) |
 | AWSGlueDataBrewServiceRole | /service-role/ | [v4](./policies/AWSGlueDataBrewServiceRole.json) |
@@ -952,7 +952,7 @@
 | AmazonAppStreamFullAccess | / | [v6](./policies/AmazonAppStreamFullAccess.json) |
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
 | AmazonAppStreamReadOnlyAccess | / | [v5](./policies/AmazonAppStreamReadOnlyAccess.json) |
-| AmazonAppStreamServiceAccess | /service-role/ | [v11](./policies/AmazonAppStreamServiceAccess.json) |
+| AmazonAppStreamServiceAccess | /service-role/ | [v12](./policies/AmazonAppStreamServiceAccess.json) |
 | AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy | / | [v4](./policies/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy.json) |
 | AmazonAthenaFullAccess | / | [v15](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
@@ -1182,7 +1182,7 @@
 | AmazonMCSReadOnlyAccess | / | [v2](./policies/AmazonMCSReadOnlyAccess.json) |
 | AmazonMQApiFullAccess | / | [v2](./policies/AmazonMQApiFullAccess.json) |
 | AmazonMQApiReadOnlyAccess | / | [v1](./policies/AmazonMQApiReadOnlyAccess.json) |
-| AmazonMQFullAccess | / | [v5](./policies/AmazonMQFullAccess.json) |
+| AmazonMQFullAccess | / | [v6](./policies/AmazonMQFullAccess.json) |
 | AmazonMQReadOnlyAccess | / | [v2](./policies/AmazonMQReadOnlyAccess.json) |
 | AmazonMSKConnectReadOnlyAccess | / | [v2](./policies/AmazonMSKConnectReadOnlyAccess.json) |
 | AmazonMSKFullAccess | / | [v7](./policies/AmazonMSKFullAccess.json) |
@@ -1409,7 +1409,7 @@
 | AwsGlueSessionUserRestrictedNotebookServiceRole | /service-role/ | [v2](./policies/AwsGlueSessionUserRestrictedNotebookServiceRole.json) |
 | AwsGlueSessionUserRestrictedPolicy | / | [v3](./policies/AwsGlueSessionUserRestrictedPolicy.json) |
 | AwsGlueSessionUserRestrictedServiceRole | /service-role/ | [v3](./policies/AwsGlueSessionUserRestrictedServiceRole.json) |
-| BedrockAgentCoreFullAccess | / | [v20](./policies/BedrockAgentCoreFullAccess.json) |
+| BedrockAgentCoreFullAccess | / | [v21](./policies/BedrockAgentCoreFullAccess.json) |
 | BedrockAgentCoreRuntimeInstancesInstanceRolePolicy | / | [v1](./policies/BedrockAgentCoreRuntimeInstancesInstanceRolePolicy.json) |
 | BedrockAgentCoreRuntimeInstancesOperatorRolePolicy | / | [v2](./policies/BedrockAgentCoreRuntimeInstancesOperatorRolePolicy.json) |
 | CloudFrontFullAccess | / | [v15](./policies/CloudFrontFullAccess.json) |
