@@ -806,7 +806,7 @@
 | AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v6](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
 | AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v8](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
-| AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
+| AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v2](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
 | AWSQuickSetupPatchPolicyLambdaExecutionPolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyLambdaExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyPermissionsBoundary | / | [v5](./policies/AWSQuickSetupPatchPolicyPermissionsBoundary.json) |
 | AWSQuickSetupPatchPolicyTagManagementExecutionPolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyTagManagementExecutionPolicy.json) |
