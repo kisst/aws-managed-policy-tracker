@@ -3,9 +3,13 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | AWSManagementConsoleAdministratorAccess | /job-function/ | [v7](./policies/AWSManagementConsoleAdministratorAccess.json) |
-| AmazonODBAutonomousVmClusterAdmin | /job-function/ | [v1](./policies/AmazonODBAutonomousVmClusterAdmin.json) |
-| AmazonODBExadataInfrastructureAdmin | /job-function/ | [v1](./policies/AmazonODBExadataInfrastructureAdmin.json) |
-| AmazonODBNetworkAdmin | /job-function/ | [v1](./policies/AmazonODBNetworkAdmin.json) |
+| AmazonODBAutonomousDatabaseAdmin | /job-function/ | [v1](./policies/AmazonODBAutonomousDatabaseAdmin.json) |
+| AmazonODBAutonomousVmClusterAdmin | /job-function/ | [v2](./policies/AmazonODBAutonomousVmClusterAdmin.json) |
+| AmazonODBExadataInfrastructureAdmin | /job-function/ | [v2](./policies/AmazonODBExadataInfrastructureAdmin.json) |
+| AmazonODBExadataVmClusterAdmin | /job-function/ | [v1](./policies/AmazonODBExadataVmClusterAdmin.json) |
+| AmazonODBExascaleStorageVaultAdmin | /job-function/ | [v1](./policies/AmazonODBExascaleStorageVaultAdmin.json) |
+| AmazonODBExascaleVmClusterAdmin | /job-function/ | [v1](./policies/AmazonODBExascaleVmClusterAdmin.json) |
+| AmazonODBNetworkAdmin | /job-function/ | [v2](./policies/AmazonODBNetworkAdmin.json) |
 | Billing | /job-function/ | [v30](./policies/Billing.json) |
 | DataScientist | /job-function/ | [v6](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
@@ -1213,8 +1217,8 @@
 | AmazonNimbleStudio-LaunchProfileWorker | / | [v1](./policies/AmazonNimbleStudio-LaunchProfileWorker.json) |
 | AmazonNimbleStudio-StudioAdmin | / | [v4](./policies/AmazonNimbleStudio-StudioAdmin.json) |
 | AmazonNimbleStudio-StudioUser | / | [v5](./policies/AmazonNimbleStudio-StudioUser.json) |
-| AmazonODBFullAccess | / | [v1](./policies/AmazonODBFullAccess.json) |
-| AmazonODBReadOnlyAccess | / | [v1](./policies/AmazonODBReadOnlyAccess.json) |
+| AmazonODBFullAccess | / | [v2](./policies/AmazonODBFullAccess.json) |
+| AmazonODBReadOnlyAccess | / | [v2](./policies/AmazonODBReadOnlyAccess.json) |
 | AmazonOmicsFullAccess | / | [v1](./policies/AmazonOmicsFullAccess.json) |
 | AmazonOmicsReadOnlyAccess | / | [v1](./policies/AmazonOmicsReadOnlyAccess.json) |
 | AmazonOneEnterpriseFullAccess | / | [v1](./policies/AmazonOneEnterpriseFullAccess.json) |
@@ -1553,7 +1557,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v82](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v42](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v43](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v75](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
