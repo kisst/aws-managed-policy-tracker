@@ -801,12 +801,12 @@
 | AWSProtonReadOnlyAccess | / | [v3](./policies/AWSProtonReadOnlyAccess.json) |
 | AWSPurchaseOrdersServiceRolePolicy | / | [v8](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
 | AWSQuickSetupCFGCPacksPermissionsBoundary | / | [v1](./policies/AWSQuickSetupCFGCPacksPermissionsBoundary.json) |
-| AWSQuickSetupDeploymentRolePolicy | / | [v13](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
+| AWSQuickSetupDeploymentRolePolicy | / | [v14](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
 | AWSQuickSetupDevOpsGuruPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDevOpsGuruPermissionsBoundary.json) |
 | AWSQuickSetupDistributorPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDistributorPermissionsBoundary.json) |
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
 | AWSQuickSetupEnableDHMCExecutionPolicy | / | [v1](./policies/AWSQuickSetupEnableDHMCExecutionPolicy.json) |
-| AWSQuickSetupJITNADeploymentRolePolicy | / | [v3](./policies/AWSQuickSetupJITNADeploymentRolePolicy.json) |
+| AWSQuickSetupJITNADeploymentRolePolicy | / | [v4](./policies/AWSQuickSetupJITNADeploymentRolePolicy.json) |
 | AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v6](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
 | AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v8](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
@@ -814,7 +814,7 @@
 | AWSQuickSetupPatchPolicyLambdaExecutionPolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyLambdaExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyPermissionsBoundary | / | [v5](./policies/AWSQuickSetupPatchPolicyPermissionsBoundary.json) |
 | AWSQuickSetupPatchPolicyTagManagementExecutionPolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyTagManagementExecutionPolicy.json) |
-| AWSQuickSetupSSMDeploymentRolePolicy | / | [v8](./policies/AWSQuickSetupSSMDeploymentRolePolicy.json) |
+| AWSQuickSetupSSMDeploymentRolePolicy | / | [v9](./policies/AWSQuickSetupSSMDeploymentRolePolicy.json) |
 | AWSQuickSetupSSMDeploymentS3BucketRolePolicy | / | [v1](./policies/AWSQuickSetupSSMDeploymentS3BucketRolePolicy.json) |
 | AWSQuickSetupSSMHostMgmtPermissionsBoundary | / | [v1](./policies/AWSQuickSetupSSMHostMgmtPermissionsBoundary.json) |
 | AWSQuickSetupSSMLifecycleManagementExecutionPolicy | / | [v4](./policies/AWSQuickSetupSSMLifecycleManagementExecutionPolicy.json) |
