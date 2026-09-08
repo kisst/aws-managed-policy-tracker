@@ -527,7 +527,7 @@
 | AWSCodePipeline_FullAccess | / | [v3](./policies/AWSCodePipeline_FullAccess.json) |
 | AWSCodePipeline_ReadOnlyAccess | / | [v1](./policies/AWSCodePipeline_ReadOnlyAccess.json) |
 | AWSCodeStarFullAccess | / | [v3](./policies/AWSCodeStarFullAccess.json) |
-| AWSCodeStarServiceRole | /service-role/ | [v11](./policies/AWSCodeStarServiceRole.json) |
+| AWSCodeStarServiceRole | /service-role/ | [v12](./policies/AWSCodeStarServiceRole.json) |
 | AWSCompromisedKeyQuarantine | / | [v1](./policies/AWSCompromisedKeyQuarantine.json) |
 | AWSCompromisedKeyQuarantineV2 | / | [v5](./policies/AWSCompromisedKeyQuarantineV2.json) |
 | AWSCompromisedKeyQuarantineV3 | / | [v3](./policies/AWSCompromisedKeyQuarantineV3.json) |
