@@ -610,7 +610,7 @@
 | AWSElasticDisasterRecoveryRecoveryInstancePolicy | /service-role/ | [v4](./policies/AWSElasticDisasterRecoveryRecoveryInstancePolicy.json) |
 | AWSElasticDisasterRecoveryReplicationServerPolicy | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryReplicationServerPolicy.json) |
 | AWSElasticDisasterRecoveryStagingAccountPolicy | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy.json) |
-| AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v2](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
+| AWSElasticDisasterRecoveryStagingAccountPolicy_v2 | /service-role/ | [v3](./policies/AWSElasticDisasterRecoveryStagingAccountPolicy_v2.json) |
 | AWSElementalMediaConnectCreateBridge | / | [v1](./policies/AWSElementalMediaConnectCreateBridge.json) |
 | AWSElementalMediaConnectCreateFlow | / | [v1](./policies/AWSElementalMediaConnectCreateFlow.json) |
 | AWSElementalMediaConnectDeleteBridge | / | [v1](./policies/AWSElementalMediaConnectDeleteBridge.json) |
