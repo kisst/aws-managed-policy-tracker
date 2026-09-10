@@ -516,7 +516,7 @@
 | AWSCodeDeployDeployerAccess | / | [v6](./policies/AWSCodeDeployDeployerAccess.json) |
 | AWSCodeDeployFullAccess | / | [v6](./policies/AWSCodeDeployFullAccess.json) |
 | AWSCodeDeployReadOnlyAccess | / | [v6](./policies/AWSCodeDeployReadOnlyAccess.json) |
-| AWSCodeDeployRole | /service-role/ | [v11](./policies/AWSCodeDeployRole.json) |
+| AWSCodeDeployRole | /service-role/ | [v12](./policies/AWSCodeDeployRole.json) |
 | AWSCodeDeployRoleForCloudFormation | /service-role/ | [v1](./policies/AWSCodeDeployRoleForCloudFormation.json) |
 | AWSCodeDeployRoleForECS | / | [v3](./policies/AWSCodeDeployRoleForECS.json) |
 | AWSCodeDeployRoleForECSLimited | / | [v3](./policies/AWSCodeDeployRoleForECSLimited.json) |
