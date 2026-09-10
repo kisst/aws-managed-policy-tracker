@@ -101,7 +101,7 @@
 | AWSHealthOmicsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthOmicsServiceLinkedRolePolicy.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
 | AWSIAMRoleManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIAMRoleManagerServiceRolePolicy.json) |
-| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSIPAMServiceRolePolicy.json) |
+| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
 | AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSIncidentManagerServiceRolePolicy.json) |
@@ -152,7 +152,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v53](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v54](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -256,7 +256,7 @@
 | AmazonFSxServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonFSxServiceRolePolicy.json) |
 | AmazonGrafanaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonGrafanaServiceLinkedRolePolicy.json) |
 | AmazonGuardDutyMalwareProtectionServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonGuardDutyMalwareProtectionServiceRolePolicy.json) |
-| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v12](./policies/AmazonGuardDutyServiceRolePolicy.json) |
+| AmazonGuardDutyServiceRolePolicy | /aws-service-role/ | [v13](./policies/AmazonGuardDutyServiceRolePolicy.json) |
 | AmazonHoneycodeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonHoneycodeServiceRolePolicy.json) |
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
 | AmazonInspector2AmiScanServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AmiScanServiceRolePolicy.json) |
@@ -1333,6 +1333,7 @@
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
 | AmazonSageMakerHyperPodGatedModelAccess | / | [v3](./policies/AmazonSageMakerHyperPodGatedModelAccess.json) |
 | AmazonSageMakerHyperPodInferenceAccess | / | [v4](./policies/AmazonSageMakerHyperPodInferenceAccess.json) |
+| AmazonSageMakerHyperPodInferenceGatewayAccess | / | [v1](./policies/AmazonSageMakerHyperPodInferenceGatewayAccess.json) |
 | AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v6](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v3](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
 | AmazonSageMakerJobFullAccess | / | [v1](./policies/AmazonSageMakerJobFullAccess.json) |
@@ -1567,7 +1568,7 @@
 | SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
-| SecurityAudit | / | [v92](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v93](./policies/SecurityAudit.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
