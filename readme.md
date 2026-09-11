@@ -140,7 +140,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSPCSServiceRolePolicy.json) |
@@ -390,7 +390,7 @@
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsChannelAccessPolicy | /service-role/ | [v1](./policies/AIDevOpsChannelAccessPolicy.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v1](./policies/AIDevOpsConstellationAccessPolicy.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v9](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v10](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIDevOpsReleaseManagementVPCPolicy | / | [v1](./policies/AIDevOpsReleaseManagementVPCPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
@@ -537,7 +537,7 @@
 | AWSConnector | / | [v3](./policies/AWSConnector.json) |
 | AWSControlTowerCloudTrailRolePolicy | /service-role/ | [v3](./policies/AWSControlTowerCloudTrailRolePolicy.json) |
 | AWSControlTowerIdentityCenterManagementPolicy | /service-role/ | [v3](./policies/AWSControlTowerIdentityCenterManagementPolicy.json) |
-| AWSControlTowerServiceRolePolicy | /service-role/ | [v21](./policies/AWSControlTowerServiceRolePolicy.json) |
+| AWSControlTowerServiceRolePolicy | /service-role/ | [v22](./policies/AWSControlTowerServiceRolePolicy.json) |
 | AWSCostAndUsageReportAutomationPolicy | /service-role/ | [v1](./policies/AWSCostAndUsageReportAutomationPolicy.json) |
 | AWSDataExchangeDataGrantOwnerFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantOwnerFullAccess.json) |
 | AWSDataExchangeDataGrantReceiverFullAccess | / | [v1](./policies/AWSDataExchangeDataGrantReceiverFullAccess.json) |
@@ -641,8 +641,8 @@
 | AWSFaultInjectionSimulatorRDSAccess | /service-role/ | [v5](./policies/AWSFaultInjectionSimulatorRDSAccess.json) |
 | AWSFaultInjectionSimulatorSSMAccess | /service-role/ | [v8](./policies/AWSFaultInjectionSimulatorSSMAccess.json) |
 | AWSForWordPressPluginPolicy | / | [v3](./policies/AWSForWordPressPluginPolicy.json) |
-| AWSGlueConsoleFullAccess | / | [v14](./policies/AWSGlueConsoleFullAccess.json) |
-| AWSGlueConsoleSageMakerNotebookFullAccess | / | [v3](./policies/AWSGlueConsoleSageMakerNotebookFullAccess.json) |
+| AWSGlueConsoleFullAccess | / | [v15](./policies/AWSGlueConsoleFullAccess.json) |
+| AWSGlueConsoleSageMakerNotebookFullAccess | / | [v4](./policies/AWSGlueConsoleSageMakerNotebookFullAccess.json) |
 | AWSGlueDataBrewServiceRole | /service-role/ | [v4](./policies/AWSGlueDataBrewServiceRole.json) |
 | AWSGlueSchemaRegistryFullAccess | / | [v1](./policies/AWSGlueSchemaRegistryFullAccess.json) |
 | AWSGlueSchemaRegistryReadonlyAccess | / | [v1](./policies/AWSGlueSchemaRegistryReadonlyAccess.json) |
@@ -906,8 +906,8 @@
 | AWSTransferFullAccess | / | [v1](./policies/AWSTransferFullAccess.json) |
 | AWSTransferLoggingAccess | /service-role/ | [v1](./policies/AWSTransferLoggingAccess.json) |
 | AWSTransferReadOnlyAccess | / | [v1](./policies/AWSTransferReadOnlyAccess.json) |
-| AWSTransformApplicationDeploymentPolicy | /service-role/ | [v9](./policies/AWSTransformApplicationDeploymentPolicy.json) |
-| AWSTransformApplicationECSDeploymentPolicy | /service-role/ | [v6](./policies/AWSTransformApplicationECSDeploymentPolicy.json) |
+| AWSTransformApplicationDeploymentPolicy | /service-role/ | [v10](./policies/AWSTransformApplicationDeploymentPolicy.json) |
+| AWSTransformApplicationECSDeploymentPolicy | /service-role/ | [v7](./policies/AWSTransformApplicationECSDeploymentPolicy.json) |
 | AWSTransformCustomExecuteTransformations | / | [v4](./policies/AWSTransformCustomExecuteTransformations.json) |
 | AWSTransformCustomFullAccess | / | [v4](./policies/AWSTransformCustomFullAccess.json) |
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
