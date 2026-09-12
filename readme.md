@@ -736,7 +736,7 @@
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDiscoveryFullAccess | / | [v1](./policies/AWSMarketplaceDiscoveryFullAccess.json) |
-| AWSMarketplaceFullAccess | / | [v7](./policies/AWSMarketplaceFullAccess.json) |
+| AWSMarketplaceFullAccess | / | [v8](./policies/AWSMarketplaceFullAccess.json) |
 | AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
 | AWSMarketplaceManageSubscriptions | / | [v9](./policies/AWSMarketplaceManageSubscriptions.json) |
 | AWSMarketplaceMeteringFullAccess | / | [v1](./policies/AWSMarketplaceMeteringFullAccess.json) |
@@ -1108,7 +1108,7 @@
 | AmazonElasticFileSystemReadOnlyAccess | / | [v9](./policies/AmazonElasticFileSystemReadOnlyAccess.json) |
 | AmazonElasticFileSystemsUtils | / | [v2](./policies/AmazonElasticFileSystemsUtils.json) |
 | AmazonElasticMapReduceEditorsRole | /service-role/ | [v2](./policies/AmazonElasticMapReduceEditorsRole.json) |
-| AmazonElasticMapReduceFullAccess | / | [v7](./policies/AmazonElasticMapReduceFullAccess.json) |
+| AmazonElasticMapReduceFullAccess | / | [v8](./policies/AmazonElasticMapReduceFullAccess.json) |
 | AmazonElasticMapReducePlacementGroupPolicy | / | [v1](./policies/AmazonElasticMapReducePlacementGroupPolicy.json) |
 | AmazonElasticMapReduceReadOnlyAccess | / | [v3](./policies/AmazonElasticMapReduceReadOnlyAccess.json) |
 | AmazonElasticMapReduceRole | /service-role/ | [v10](./policies/AmazonElasticMapReduceRole.json) |
