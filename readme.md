@@ -210,6 +210,7 @@
 | AWSVPCTransitGatewayServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVPCTransitGatewayServiceRolePolicy.json) |
 | AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
+| AWSWellArchitectedAgentOrganizationsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedAgentOrganizationsServiceRolePolicy.json) |
 | AWSWellArchitectedAgentResourceScanningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedAgentResourceScanningServiceRolePolicy.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
 | AWSWellArchitectedOrganizationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedOrganizationsServiceRolePolicy.json) |
@@ -1065,7 +1066,7 @@
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v6](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
-| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v11](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
+| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v12](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v4](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v5](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
@@ -1533,7 +1534,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | ReInventTicketApprovalAccess | / | [v1](./policies/ReInventTicketApprovalAccess.json) |
-| ReadOnlyAccess | / | [v188](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v189](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
