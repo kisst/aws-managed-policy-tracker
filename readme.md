@@ -1526,7 +1526,7 @@
 | ROSAInstallerPolicy | /service-role/ | [v10](./policies/ROSAInstallerPolicy.json) |
 | ROSAKMSProviderPolicy | /service-role/ | [v1](./policies/ROSAKMSProviderPolicy.json) |
 | ROSAKarpenterControllerPolicy | /service-role/ | [v1](./policies/ROSAKarpenterControllerPolicy.json) |
-| ROSAKubeControllerPolicy | /service-role/ | [v7](./policies/ROSAKubeControllerPolicy.json) |
+| ROSAKubeControllerPolicy | /service-role/ | [v8](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
 | ROSANodePoolManagementPolicy | /service-role/ | [v9](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v6](./policies/ROSASRESupportPolicy.json) |
