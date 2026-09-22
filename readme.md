@@ -65,6 +65,7 @@
 | AWSCloudFrontLogger | /aws-service-role/ | [v2](./policies/AWSCloudFrontLogger.json) |
 | AWSCloudFrontVPCOriginServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudFrontVPCOriginServiceRolePolicy.json) |
 | AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy.json) |
+| AWSCloudWatchOmniServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchOmniServiceRolePolicy.json) |
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
@@ -1448,6 +1449,7 @@
 | CloudWatchLogsFullAccess | / | [v8](./policies/CloudWatchLogsFullAccess.json) |
 | CloudWatchLogsReadOnlyAccess | / | [v12](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v3](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
+| CloudWatchOmniAWSIntegrationPolicy | / | [v1](./policies/CloudWatchOmniAWSIntegrationPolicy.json) |
 | CloudWatchOmniDomainAccessPolicy | / | [v1](./policies/CloudWatchOmniDomainAccessPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
 | CloudWatchOmniSpaceAccessPolicy | / | [v1](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
