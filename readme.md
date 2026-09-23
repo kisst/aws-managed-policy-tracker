@@ -203,6 +203,7 @@
 | AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v9](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
 | AWSSystemsManagerNotificationsServicePolicy | /aws-service-role/ | [v1](./policies/AWSSystemsManagerNotificationsServicePolicy.json) |
 | AWSSystemsManagerOpsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerOpsDataSyncServiceRolePolicy.json) |
+| AWSTransferServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSTransferServiceRolePolicy.json) |
 | AWSTrustedAdvisorReportingServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSTrustedAdvisorReportingServiceRolePolicy.json) |
 | AWSTrustedAdvisorServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSTrustedAdvisorServiceRolePolicy.json) |
 | AWSUserAttributeCostAllocationPolicy | /aws-service-role/ | [v1](./policies/AWSUserAttributeCostAllocationPolicy.json) |
@@ -1439,7 +1440,7 @@
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
 | CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v16](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v17](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
@@ -1455,7 +1456,7 @@
 | CloudWatchOmniSpaceAccessPolicy | / | [v1](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
-| CloudWatchReadOnlyAccess | / | [v24](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v25](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v14](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
@@ -1564,7 +1565,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v82](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v83](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v44](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v75](./policies/SageMakerStudioProjectUserRolePolicy.json) |
