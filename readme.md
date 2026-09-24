@@ -1487,7 +1487,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FinOpsAgentAgentPolicy | / | [v3](./policies/FinOpsAgentAgentPolicy.json) |
+| FinOpsAgentAgentPolicy | / | [v4](./policies/FinOpsAgentAgentPolicy.json) |
 | FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
