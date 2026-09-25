@@ -65,7 +65,7 @@
 | AWSCloudFrontLogger | /aws-service-role/ | [v2](./policies/AWSCloudFrontLogger.json) |
 | AWSCloudFrontVPCOriginServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudFrontVPCOriginServiceRolePolicy.json) |
 | AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy.json) |
-| AWSCloudWatchOmniServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchOmniServiceRolePolicy.json) |
+| AWSCloudWatchOmniServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSCloudWatchOmniServiceRolePolicy.json) |
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
@@ -191,7 +191,7 @@
 | AWSServiceRoleForSMS | /aws-service-role/ | [v10](./policies/AWSServiceRoleForSMS.json) |
 | AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v8](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
-| AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v3](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
+| AWSServiceRolePolicyForBackupRestoreTesting | /aws-service-role/ | [v4](./policies/AWSServiceRolePolicyForBackupRestoreTesting.json) |
 | AWSServiceRolePolicyForWorkspacesInstances | /aws-service-role/ | [v4](./policies/AWSServiceRolePolicyForWorkspacesInstances.json) |
 | AWSShieldServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSShieldServiceRolePolicy.json) |
 | AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
@@ -214,7 +214,7 @@
 | AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
 | AWSWellArchitectedAgentOrganizationsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedAgentOrganizationsServiceRolePolicy.json) |
-| AWSWellArchitectedAgentResourceScanningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedAgentResourceScanningServiceRolePolicy.json) |
+| AWSWellArchitectedAgentResourceScanningServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSWellArchitectedAgentResourceScanningServiceRolePolicy.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
 | AWSWellArchitectedOrganizationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedOrganizationsServiceRolePolicy.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
@@ -363,7 +363,7 @@
 | MigrationHubSMSAccessServiceRolePolicy | /aws-service-role/ | [v2](./policies/MigrationHubSMSAccessServiceRolePolicy.json) |
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
-| NetworkSecurityDirectorServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/NetworkSecurityDirectorServiceLinkedRolePolicy.json) |
+| NetworkSecurityDirectorServiceLinkedRolePolicy | /aws-service-role/ | [v7](./policies/NetworkSecurityDirectorServiceLinkedRolePolicy.json) |
 | NetworkSecurityManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/NetworkSecurityManagerServiceRolePolicy.json) |
 | NovaActServiceRolePolicy | /aws-service-role/ | [v1](./policies/NovaActServiceRolePolicy.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
@@ -388,7 +388,7 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v10](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v11](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
@@ -866,7 +866,7 @@
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v4](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
-| AWSSecurityAgentWebAppPolicy | /service-role/ | [v7](./policies/AWSSecurityAgentWebAppPolicy.json) |
+| AWSSecurityAgentWebAppPolicy | /service-role/ | [v8](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
@@ -1126,7 +1126,7 @@
 | AmazonEventBridgePipesFullAccess | / | [v1](./policies/AmazonEventBridgePipesFullAccess.json) |
 | AmazonEventBridgePipesOperatorAccess | / | [v1](./policies/AmazonEventBridgePipesOperatorAccess.json) |
 | AmazonEventBridgePipesReadOnlyAccess | / | [v1](./policies/AmazonEventBridgePipesReadOnlyAccess.json) |
-| AmazonEventBridgeReadOnlyAccess | / | [v6](./policies/AmazonEventBridgeReadOnlyAccess.json) |
+| AmazonEventBridgeReadOnlyAccess | / | [v7](./policies/AmazonEventBridgeReadOnlyAccess.json) |
 | AmazonEventBridgeSchedulerFullAccess | / | [v4](./policies/AmazonEventBridgeSchedulerFullAccess.json) |
 | AmazonEventBridgeSchedulerReadOnlyAccess | / | [v5](./policies/AmazonEventBridgeSchedulerReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasFullAccess | / | [v1](./policies/AmazonEventBridgeSchemasFullAccess.json) |
@@ -1541,7 +1541,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | ReInventTicketApprovalAccess | / | [v1](./policies/ReInventTicketApprovalAccess.json) |
-| ReadOnlyAccess | / | [v189](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v190](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
