@@ -1068,6 +1068,7 @@
 | AmazonEC2RoleforSSM | /service-role/ | [v8](./policies/AmazonEC2RoleforSSM.json) |
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
+| AmazonECSInfrastructureRoleForGatewayHostSharedALB | / | [v1](./policies/AmazonECSInfrastructureRoleForGatewayHostSharedALB.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v6](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
 | AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v12](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v4](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
@@ -1403,9 +1404,9 @@
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
-| AnthropicFullAccess | / | [v2](./policies/AnthropicFullAccess.json) |
-| AnthropicLimitedAccess | / | [v6](./policies/AnthropicLimitedAccess.json) |
-| AnthropicReadOnlyAccess | / | [v2](./policies/AnthropicReadOnlyAccess.json) |
+| AnthropicFullAccess | / | [v3](./policies/AnthropicFullAccess.json) |
+| AnthropicLimitedAccess | / | [v7](./policies/AnthropicLimitedAccess.json) |
+| AnthropicReadOnlyAccess | / | [v3](./policies/AnthropicReadOnlyAccess.json) |
 | AnthropicSelfHostedEnvironmentAccess | / | [v1](./policies/AnthropicSelfHostedEnvironmentAccess.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
@@ -1507,7 +1508,7 @@
 | IAMUserChangePassword | / | [v5](./policies/IAMUserChangePassword.json) |
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
 | IVSFullAccess | / | [v1](./policies/IVSFullAccess.json) |
-| IVSReadOnlyAccess | / | [v6](./policies/IVSReadOnlyAccess.json) |
+| IVSReadOnlyAccess | / | [v7](./policies/IVSReadOnlyAccess.json) |
 | MediaConnectGatewayInstanceRolePolicy | / | [v1](./policies/MediaConnectGatewayInstanceRolePolicy.json) |
 | MultiPartyApprovalFullAccess | / | [v6](./policies/MultiPartyApprovalFullAccess.json) |
 | MultiPartyApprovalReadOnlyAccess | / | [v6](./policies/MultiPartyApprovalReadOnlyAccess.json) |
