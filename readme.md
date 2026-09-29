@@ -411,7 +411,7 @@
 | AWSAccountActivityAccess | / | [v3](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
-| AWSAccountSettingsManagementRole | / | [v9](./policies/AWSAccountSettingsManagementRole.json) |
+| AWSAccountSettingsManagementRole | / | [v10](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
@@ -1073,7 +1073,7 @@
 | AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v12](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v4](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v5](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
-| AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v1](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
+| AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
 | AmazonECSInfrastructureRoleforExpressGatewayServices | /service-role/ | [v6](./policies/AmazonECSInfrastructureRoleforExpressGatewayServices.json) |
 | AmazonECSInstanceRolePolicyForManagedInstances | / | [v4](./policies/AmazonECSInstanceRolePolicyForManagedInstances.json) |
 | AmazonECSTaskExecutionRolePolicy | /service-role/ | [v1](./policies/AmazonECSTaskExecutionRolePolicy.json) |
