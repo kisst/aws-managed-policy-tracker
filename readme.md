@@ -1145,7 +1145,7 @@
 | AmazonGrafanaAthenaAccess | /service-role/ | [v1](./policies/AmazonGrafanaAthenaAccess.json) |
 | AmazonGrafanaCloudWatchAccess | /service-role/ | [v1](./policies/AmazonGrafanaCloudWatchAccess.json) |
 | AmazonGrafanaRedshiftAccess | /service-role/ | [v1](./policies/AmazonGrafanaRedshiftAccess.json) |
-| AmazonGuardDutyFullAccess_v2 | / | [v6](./policies/AmazonGuardDutyFullAccess_v2.json) |
+| AmazonGuardDutyFullAccess_v2 | / | [v7](./policies/AmazonGuardDutyFullAccess_v2.json) |
 | AmazonGuardDutyReadOnlyAccess | / | [v4](./policies/AmazonGuardDutyReadOnlyAccess.json) |
 | AmazonHealthLakeFullAccess | / | [v1](./policies/AmazonHealthLakeFullAccess.json) |
 | AmazonHealthLakeReadOnlyAccess | / | [v2](./policies/AmazonHealthLakeReadOnlyAccess.json) |
