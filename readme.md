@@ -230,7 +230,6 @@
 | AmazonChimeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeServiceRolePolicy.json) |
 | AmazonChimeTranscriptionServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeTranscriptionServiceLinkedRolePolicy.json) |
 | AmazonChimeVoiceConnectorServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonChimeVoiceConnectorServiceLinkedRolePolicy.json) |
-| AmazonCloudWatchEvidentlyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCloudWatchEvidentlyServiceRolePolicy.json) |
 | AmazonCloudWatchRUMServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonCloudWatchRUMServiceRolePolicy.json) |
 | AmazonCodeGuruReviewerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonCodeGuruReviewerServiceRolePolicy.json) |
 | AmazonCognitoIdpEmailServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpEmailServiceRolePolicy.json) |
@@ -345,6 +344,7 @@
 | EMRDescribeClusterPolicyForEMRWAL | /aws-service-role/ | [v1](./policies/EMRDescribeClusterPolicyForEMRWAL.json) |
 | Ec2InstanceConnectEndpoint | /aws-service-role/ | [v2](./policies/Ec2InstanceConnectEndpoint.json) |
 | ElastiCacheServiceRolePolicy | /aws-service-role/ | [v4](./policies/ElastiCacheServiceRolePolicy.json) |
+| EndUserMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/EndUserMessagingServiceRolePolicy.json) |
 | FMSServiceRolePolicy | /aws-service-role/ | [v37](./policies/FMSServiceRolePolicy.json) |
 | FSxDeleteServiceLinkedRoleAccess | /aws-service-role/ | [v1](./policies/FSxDeleteServiceLinkedRoleAccess.json) |
 | Health_OrganizationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/Health_OrganizationsServiceRolePolicy.json) |
@@ -992,8 +992,6 @@
 | AmazonChimeUserManagement | / | [v8](./policies/AmazonChimeUserManagement.json) |
 | AmazonCloudDirectoryFullAccess | / | [v1](./policies/AmazonCloudDirectoryFullAccess.json) |
 | AmazonCloudDirectoryReadOnlyAccess | / | [v1](./policies/AmazonCloudDirectoryReadOnlyAccess.json) |
-| AmazonCloudWatchEvidentlyFullAccess | / | [v1](./policies/AmazonCloudWatchEvidentlyFullAccess.json) |
-| AmazonCloudWatchEvidentlyReadOnlyAccess | / | [v1](./policies/AmazonCloudWatchEvidentlyReadOnlyAccess.json) |
 | AmazonCloudWatchRUMFullAccess | / | [v1](./policies/AmazonCloudWatchRUMFullAccess.json) |
 | AmazonCloudWatchRUMReadOnlyAccess | / | [v8](./policies/AmazonCloudWatchRUMReadOnlyAccess.json) |
 | AmazonCodeCatalystFullAccess | / | [v1](./policies/AmazonCodeCatalystFullAccess.json) |
