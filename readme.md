@@ -16,7 +16,7 @@
 | NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
 | SupportUser | /job-function/ | [v11](./policies/SupportUser.json) |
 | SystemAdministrator | /job-function/ | [v12](./policies/SystemAdministrator.json) |
-| ViewOnlyAccess | /job-function/ | [v45](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v46](./policies/ViewOnlyAccess.json) |
 
 # AWS Service Role Policies
 
@@ -145,7 +145,7 @@
 | AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
-| AWSPCSServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSPCSServiceRolePolicy.json) |
+| AWSPCSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
 | AWSProtonCodeBuildProvisioningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonCodeBuildProvisioningServiceRolePolicy.json) |
@@ -411,7 +411,7 @@
 | AWSAccountActivityAccess | / | [v3](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
-| AWSAccountSettingsManagementRole | / | [v10](./policies/AWSAccountSettingsManagementRole.json) |
+| AWSAccountSettingsManagementRole | / | [v11](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
@@ -449,7 +449,7 @@
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
 | AWSArtifactAgreementsFullAccess | / | [v6](./policies/AWSArtifactAgreementsFullAccess.json) |
 | AWSArtifactAgreementsReadOnlyAccess | / | [v3](./policies/AWSArtifactAgreementsReadOnlyAccess.json) |
-| AWSArtifactComplianceInquiriesFullAccess | / | [v2](./policies/AWSArtifactComplianceInquiriesFullAccess.json) |
+| AWSArtifactComplianceInquiriesFullAccess | / | [v3](./policies/AWSArtifactComplianceInquiriesFullAccess.json) |
 | AWSArtifactComplianceInquiriesReadOnlyAccess | / | [v1](./policies/AWSArtifactComplianceInquiriesReadOnlyAccess.json) |
 | AWSArtifactReportsReadOnlyAccess | / | [v7](./policies/AWSArtifactReportsReadOnlyAccess.json) |
 | AWSAuditManagerAdministratorAccess | / | [v3](./policies/AWSAuditManagerAdministratorAccess.json) |
@@ -734,7 +734,7 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v2](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v7](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v8](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v3](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
@@ -1575,7 +1575,7 @@
 | SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
-| SecurityAudit | / | [v93](./policies/SecurityAudit.json) |
+| SecurityAudit | / | [v94](./policies/SecurityAudit.json) |
 | ServerMigrationConnector | / | [v1](./policies/ServerMigrationConnector.json) |
 | ServerMigrationServiceConsoleFullAccess | / | [v2](./policies/ServerMigrationServiceConsoleFullAccess.json) |
 | ServerMigrationServiceLaunchRole | /service-role/ | [v4](./policies/ServerMigrationServiceLaunchRole.json) |
@@ -1590,7 +1590,7 @@
 | VPCLatticeFullAccess | / | [v4](./policies/VPCLatticeFullAccess.json) |
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
-| WellArchitectedAgentResourceScanning | / | [v1](./policies/WellArchitectedAgentResourceScanning.json) |
+| WellArchitectedAgentResourceScanning | / | [v2](./policies/WellArchitectedAgentResourceScanning.json) |
 | WellArchitectedConsoleFullAccess | / | [v2](./policies/WellArchitectedConsoleFullAccess.json) |
 | WellArchitectedConsoleReadOnlyAccess | / | [v3](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
