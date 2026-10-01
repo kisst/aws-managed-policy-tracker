@@ -246,7 +246,7 @@
 | AmazonEKSDashboardServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSDashboardServiceRolePolicy.json) |
 | AmazonEKSForFargateServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonEKSForFargateServiceRolePolicy.json) |
 | AmazonEKSLocalOutpostServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEKSLocalOutpostServiceRolePolicy.json) |
-| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v27](./policies/AmazonEKSServiceRolePolicy.json) |
+| AmazonEKSServiceRolePolicy | /aws-service-role/ | [v28](./policies/AmazonEKSServiceRolePolicy.json) |
 | AmazonEMRCleanupPolicy | /aws-service-role/ | [v3](./policies/AmazonEMRCleanupPolicy.json) |
 | AmazonEMRContainersServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonEMRContainersServiceRolePolicy.json) |
 | AmazonEMRServerlessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonEMRServerlessServiceRolePolicy.json) |
@@ -716,6 +716,7 @@
 | AWSLambdaENIManagementAccess | /service-role/ | [v2](./policies/AWSLambdaENIManagementAccess.json) |
 | AWSLambdaExecute | / | [v1](./policies/AWSLambdaExecute.json) |
 | AWSLambdaInvocation-DynamoDB | / | [v1](./policies/AWSLambdaInvocation-DynamoDB.json) |
+| AWSLambdaInvokeWebFunctionEndpointAccess | / | [v1](./policies/AWSLambdaInvokeWebFunctionEndpointAccess.json) |
 | AWSLambdaKinesisExecutionRole | /service-role/ | [v2](./policies/AWSLambdaKinesisExecutionRole.json) |
 | AWSLambdaMSKExecutionRole | /service-role/ | [v2](./policies/AWSLambdaMSKExecutionRole.json) |
 | AWSLambdaManagedEC2ResourceOperator | / | [v5](./policies/AWSLambdaManagedEC2ResourceOperator.json) |
