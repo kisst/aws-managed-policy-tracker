@@ -154,7 +154,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v55](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v56](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -729,7 +729,7 @@
 | AWSLicenseManagerConsumptionPolicy | /service-role/ | [v1](./policies/AWSLicenseManagerConsumptionPolicy.json) |
 | AWSMCPSignInOAuthAccessPolicy | / | [v1](./policies/AWSMCPSignInOAuthAccessPolicy.json) |
 | AWSMSKReplicatorExecutionRole | /service-role/ | [v2](./policies/AWSMSKReplicatorExecutionRole.json) |
-| AWSManagedAccountManagementAccess | / | [v1](./policies/AWSManagedAccountManagementAccess.json) |
+| AWSManagedAccountManagementAccess | / | [v2](./policies/AWSManagedAccountManagementAccess.json) |
 | AWSManagedAccountUserEntitlementAccess | / | [v1](./policies/AWSManagedAccountUserEntitlementAccess.json) |
 | AWSManagedAdvancedFeaturesActivationAccess | / | [v1](./policies/AWSManagedAdvancedFeaturesActivationAccess.json) |
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v2](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
@@ -873,7 +873,7 @@
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
 | AWSSecurityIncidentResponseCaseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseCaseFullAccess.json) |
 | AWSSecurityIncidentResponseFullAccess | / | [v4](./policies/AWSSecurityIncidentResponseFullAccess.json) |
-| AWSSecurityIncidentResponseReadOnlyAccess | / | [v4](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
+| AWSSecurityIncidentResponseReadOnlyAccess | / | [v5](./policies/AWSSecurityIncidentResponseReadOnlyAccess.json) |
 | AWSServiceCatalogAdminFullAccess | / | [v9](./policies/AWSServiceCatalogAdminFullAccess.json) |
 | AWSServiceCatalogAdminReadOnlyAccess | / | [v1](./policies/AWSServiceCatalogAdminReadOnlyAccess.json) |
 | AWSServiceCatalogAppRegistryFullAccess | / | [v7](./policies/AWSServiceCatalogAppRegistryFullAccess.json) |
