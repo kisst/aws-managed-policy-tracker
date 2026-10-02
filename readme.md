@@ -1404,8 +1404,8 @@
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
 | AnthropicFullAccess | / | [v3](./policies/AnthropicFullAccess.json) |
-| AnthropicLimitedAccess | / | [v7](./policies/AnthropicLimitedAccess.json) |
-| AnthropicReadOnlyAccess | / | [v3](./policies/AnthropicReadOnlyAccess.json) |
+| AnthropicLimitedAccess | / | [v8](./policies/AnthropicLimitedAccess.json) |
+| AnthropicReadOnlyAccess | / | [v4](./policies/AnthropicReadOnlyAccess.json) |
 | AnthropicSelfHostedEnvironmentAccess | / | [v1](./policies/AnthropicSelfHostedEnvironmentAccess.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
