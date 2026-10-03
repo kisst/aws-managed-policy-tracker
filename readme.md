@@ -235,7 +235,7 @@
 | AmazonCognitoIdpEmailServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpEmailServiceRolePolicy.json) |
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v55](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v56](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonDetectiveServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDetectiveServiceLinkedRolePolicy.json) |
 | AmazonDevOpsGuruServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonDevOpsGuruServiceRolePolicy.json) |
@@ -962,7 +962,7 @@
 | AmazonAppStreamPCAAccess | /service-role/ | [v1](./policies/AmazonAppStreamPCAAccess.json) |
 | AmazonAppStreamReadOnlyAccess | / | [v5](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v12](./policies/AmazonAppStreamServiceAccess.json) |
-| AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy | / | [v4](./policies/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy.json) |
+| AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy | / | [v5](./policies/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy.json) |
 | AmazonAthenaFullAccess | / | [v15](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
@@ -1487,7 +1487,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FinOpsAgentAgentPolicy | / | [v4](./policies/FinOpsAgentAgentPolicy.json) |
+| FinOpsAgentAgentPolicy | / | [v5](./policies/FinOpsAgentAgentPolicy.json) |
 | FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
