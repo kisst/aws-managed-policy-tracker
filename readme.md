@@ -142,7 +142,7 @@
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSPCSServiceRolePolicy.json) |
@@ -867,6 +867,7 @@
 | AWSSavingsPlansFullAccess | / | [v1](./policies/AWSSavingsPlansFullAccess.json) |
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v4](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
+| AWSSecurityAgentContinuousPentestPolicy | / | [v1](./policies/AWSSecurityAgentContinuousPentestPolicy.json) |
 | AWSSecurityAgentWebAppPolicy | /service-role/ | [v8](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
