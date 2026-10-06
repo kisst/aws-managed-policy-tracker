@@ -919,7 +919,7 @@
 | AWSTransformCustomManageTransformations | / | [v4](./policies/AWSTransformCustomManageTransformations.json) |
 | AWSTransformInfrastructureExecutorAccessBatch | / | [v3](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
 | AWSTransformInfrastructureExecutorAccessEC2 | / | [v3](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
-| AWSTransformLandingZoneAgentPolicy | / | [v2](./policies/AWSTransformLandingZoneAgentPolicy.json) |
+| AWSTransformLandingZoneAgentPolicy | / | [v3](./policies/AWSTransformLandingZoneAgentPolicy.json) |
 | AWSTransformNetworkMigrationAgentPolicy | / | [v2](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
