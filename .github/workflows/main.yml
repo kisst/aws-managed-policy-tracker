@@ -2,8 +2,11 @@
 name: Scheduled update
 on:
   schedule:
-    - cron: '* 0,12 * * *'
+    - cron: '0 0,12 * * *'
   workflow_dispatch:
+concurrency:
+  group: scheduled-update
+  cancel-in-progress: false
 jobs:
   update:
     permissions:
@@ -12,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Configure AWS Credentials"
-        uses: aws-actions/configure-aws-credentials@v4
+        uses: aws-actions/configure-aws-credentials@v6
         with:
           aws-region: us-east-1
           role-to-assume: ${{ secrets.ROLE_ARN }}
@@ -20,13 +23,16 @@ jobs:
           role-duration-seconds: 1200
           output-credentials: false
       - name: "Git check out"
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
+        with:
+          ref: main
       - name: "Fetch roles"
         run: |
           python3 -m pip install boto3
           python3 fetch.py
       - name: "Git commit and push"
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@v11
         with:
           add: '*'
+          pull: '--rebase --autostash'
           author_name: 'AWS Policy Tracker Bot'
