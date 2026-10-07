@@ -172,7 +172,7 @@
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
 | AWSServiceRoleForAIDevOpsPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAIDevOpsPolicy.json) |
 | AWSServiceRoleForAWSTransform | /aws-service-role/ | [v12](./policies/AWSServiceRoleForAWSTransform.json) |
-| AWSServiceRoleForAWSTransformCustom | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAWSTransformCustom.json) |
+| AWSServiceRoleForAWSTransformCustom | /aws-service-role/ | [v3](./policies/AWSServiceRoleForAWSTransformCustom.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v11](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
 | AWSServiceRoleForAmazonQDeveloper | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAmazonQDeveloper.json) |
 | AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForCloudWatchAlarmsActionSSMServiceRolePolicy.json) |
@@ -236,7 +236,7 @@
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v56](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
-| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
+| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v6](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonDetectiveServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDetectiveServiceLinkedRolePolicy.json) |
 | AmazonDevOpsGuruServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonDevOpsGuruServiceRolePolicy.json) |
 | AmazonDocDB-ElasticServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDocDB-ElasticServiceRolePolicy.json) |
