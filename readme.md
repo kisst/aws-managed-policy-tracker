@@ -154,7 +154,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v5](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v56](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v57](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -942,7 +942,7 @@
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
 | AWS_ConfigRole | /service-role/ | [v73](./policies/AWS_ConfigRole.json) |
-| AccountManagementFromVercel | / | [v4](./policies/AccountManagementFromVercel.json) |
+| AccountManagementFromVercel | / | [v5](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
@@ -1465,8 +1465,8 @@
 | ComprehendMedicalFullAccess | / | [v1](./policies/ComprehendMedicalFullAccess.json) |
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
-| ConsoleFullAccessFromVercel | / | [v4](./policies/ConsoleFullAccessFromVercel.json) |
-| ConsoleViewOnlyAccessFromVercel | / | [v5](./policies/ConsoleViewOnlyAccessFromVercel.json) |
+| ConsoleFullAccessFromVercel | / | [v5](./policies/ConsoleFullAccessFromVercel.json) |
+| ConsoleViewOnlyAccessFromVercel | / | [v6](./policies/ConsoleViewOnlyAccessFromVercel.json) |
 | CostOptimizationHubAdminAccess | / | [v4](./policies/CostOptimizationHubAdminAccess.json) |
 | CostOptimizationHubReadOnlyAccess | / | [v4](./policies/CostOptimizationHubReadOnlyAccess.json) |
 | DBModDiscoveryAndAssessment | / | [v1](./policies/DBModDiscoveryAndAssessment.json) |
@@ -1572,8 +1572,8 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v75](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v29](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v24](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v30](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v25](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
