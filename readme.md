@@ -214,7 +214,7 @@
 | AWSVPCVerifiedAccessServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSVPCVerifiedAccessServiceRolePolicy.json) |
 | AWSVpcLatticeServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSVpcLatticeServiceRolePolicy.json) |
 | AWSWellArchitectedAgentOrganizationsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedAgentOrganizationsServiceRolePolicy.json) |
-| AWSWellArchitectedAgentResourceScanningServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSWellArchitectedAgentResourceScanningServiceRolePolicy.json) |
+| AWSWellArchitectedAgentResourceScanningServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSWellArchitectedAgentResourceScanningServiceRolePolicy.json) |
 | AWSWellArchitectedDiscoveryServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSWellArchitectedDiscoveryServiceRolePolicy.json) |
 | AWSWellArchitectedOrganizationsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSWellArchitectedOrganizationsServiceRolePolicy.json) |
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
@@ -1274,7 +1274,7 @@
 | AmazonRoute53AutoNamingRegistrantAccess | / | [v1](./policies/AmazonRoute53AutoNamingRegistrantAccess.json) |
 | AmazonRoute53DomainsFullAccess | / | [v1](./policies/AmazonRoute53DomainsFullAccess.json) |
 | AmazonRoute53DomainsReadOnlyAccess | / | [v1](./policies/AmazonRoute53DomainsReadOnlyAccess.json) |
-| AmazonRoute53FullAccess | / | [v7](./policies/AmazonRoute53FullAccess.json) |
+| AmazonRoute53FullAccess | / | [v8](./policies/AmazonRoute53FullAccess.json) |
 | AmazonRoute53GlobalResolverFullAccess | / | [v1](./policies/AmazonRoute53GlobalResolverFullAccess.json) |
 | AmazonRoute53GlobalResolverReadOnlyAccess | / | [v1](./policies/AmazonRoute53GlobalResolverReadOnlyAccess.json) |
 | AmazonRoute53ProfilesFullAccess | / | [v2](./policies/AmazonRoute53ProfilesFullAccess.json) |
@@ -1549,8 +1549,8 @@
 | S3UnlockBucketPolicy | /root-task/ | [v1](./policies/S3UnlockBucketPolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v9](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
-| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v24](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v21](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v25](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v22](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
