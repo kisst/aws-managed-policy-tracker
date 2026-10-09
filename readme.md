@@ -324,7 +324,7 @@
 | CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v6](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v10](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
-| CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v25](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
+| CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v26](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v10](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
@@ -557,10 +557,10 @@
 | AWSDataSyncFullAccess | / | [v16](./policies/AWSDataSyncFullAccess.json) |
 | AWSDataSyncReadOnlyAccess | / | [v3](./policies/AWSDataSyncReadOnlyAccess.json) |
 | AWSDeadlineCloud-FleetWorker | / | [v1](./policies/AWSDeadlineCloud-FleetWorker.json) |
-| AWSDeadlineCloud-UserAccessFarms | / | [v7](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
-| AWSDeadlineCloud-UserAccessFleets | / | [v2](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
-| AWSDeadlineCloud-UserAccessJobs | / | [v2](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
-| AWSDeadlineCloud-UserAccessQueues | / | [v2](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
+| AWSDeadlineCloud-UserAccessFarms | / | [v8](./policies/AWSDeadlineCloud-UserAccessFarms.json) |
+| AWSDeadlineCloud-UserAccessFleets | / | [v3](./policies/AWSDeadlineCloud-UserAccessFleets.json) |
+| AWSDeadlineCloud-UserAccessJobs | / | [v3](./policies/AWSDeadlineCloud-UserAccessJobs.json) |
+| AWSDeadlineCloud-UserAccessQueues | / | [v3](./policies/AWSDeadlineCloud-UserAccessQueues.json) |
 | AWSDeadlineCloud-WorkerHost | / | [v4](./policies/AWSDeadlineCloud-WorkerHost.json) |
 | AWSDeepLensLambdaFunctionAccessPolicy | / | [v4](./policies/AWSDeepLensLambdaFunctionAccessPolicy.json) |
 | AWSDeepLensServiceRolePolicy | /service-role/ | [v6](./policies/AWSDeepLensServiceRolePolicy.json) |
