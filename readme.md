@@ -1479,7 +1479,7 @@
 | EC2InstanceProfileForImageBuilder | / | [v12](./policies/EC2InstanceProfileForImageBuilder.json) |
 | EC2InstanceProfileForImageBuilderECRContainerBuilds | / | [v1](./policies/EC2InstanceProfileForImageBuilderECRContainerBuilds.json) |
 | Ec2ImageBuilderCrossAccountDistributionAccess | / | [v1](./policies/Ec2ImageBuilderCrossAccountDistributionAccess.json) |
-| ElasticLoadBalancingFullAccess | / | [v9](./policies/ElasticLoadBalancingFullAccess.json) |
+| ElasticLoadBalancingFullAccess | / | [v10](./policies/ElasticLoadBalancingFullAccess.json) |
 | ElasticLoadBalancingReadOnly | / | [v3](./policies/ElasticLoadBalancingReadOnly.json) |
 | ElementalActivationsDownloadSoftwareAccess | / | [v1](./policies/ElementalActivationsDownloadSoftwareAccess.json) |
 | ElementalActivationsFullAccess | / | [v1](./policies/ElementalActivationsFullAccess.json) |
