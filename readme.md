@@ -924,7 +924,7 @@
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v2](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
-| AWSTransformServerMigrationAgentPolicy | / | [v2](./policies/AWSTransformServerMigrationAgentPolicy.json) |
+| AWSTransformServerMigrationAgentPolicy | / | [v3](./policies/AWSTransformServerMigrationAgentPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
