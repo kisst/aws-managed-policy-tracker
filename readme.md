@@ -93,7 +93,7 @@
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
 | AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
 | AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
-| AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
+| AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
 | AWSEnhancedClassicNetworkingMangementPolicy | /aws-service-role/ | [v1](./policies/AWSEnhancedClassicNetworkingMangementPolicy.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
@@ -868,7 +868,7 @@
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v4](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
 | AWSSecurityAgentContinuousPentestPolicy | / | [v1](./policies/AWSSecurityAgentContinuousPentestPolicy.json) |
-| AWSSecurityAgentWebAppPolicy | /service-role/ | [v9](./policies/AWSSecurityAgentWebAppPolicy.json) |
+| AWSSecurityAgentWebAppPolicy | /service-role/ | [v10](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
@@ -1566,7 +1566,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v83](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v84](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v44](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v75](./policies/SageMakerStudioProjectUserRolePolicy.json) |
