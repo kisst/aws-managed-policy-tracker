@@ -1365,6 +1365,8 @@
 | AmazonSageMakerSpacesControllerPolicy | / | [v3](./policies/AmazonSageMakerSpacesControllerPolicy.json) |
 | AmazonSageMakerSpacesRouterPolicy | / | [v3](./policies/AmazonSageMakerSpacesRouterPolicy.json) |
 | AmazonSageMakerTrainingPlanCreateAccess | / | [v6](./policies/AmazonSageMakerTrainingPlanCreateAccess.json) |
+| AmazonSageMakerTrainingSessionAccess | / | [v1](./policies/AmazonSageMakerTrainingSessionAccess.json) |
+| AmazonSageMakerTrainingSessionFullAccess | / | [v1](./policies/AmazonSageMakerTrainingSessionFullAccess.json) |
 | AmazonSecurityLakeAdministrator | / | [v2](./policies/AmazonSecurityLakeAdministrator.json) |
 | AmazonSecurityLakeMetastoreManager | /service-role/ | [v2](./policies/AmazonSecurityLakeMetastoreManager.json) |
 | AmazonSecurityLakePermissionsBoundary | / | [v2](./policies/AmazonSecurityLakePermissionsBoundary.json) |
