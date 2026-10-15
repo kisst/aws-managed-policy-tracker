@@ -103,7 +103,7 @@
 | AWSHealthOmicsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthOmicsServiceLinkedRolePolicy.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
 | AWSIAMRoleManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIAMRoleManagerServiceRolePolicy.json) |
-| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSIPAMServiceRolePolicy.json) |
+| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
 | AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSIncidentManagerServiceRolePolicy.json) |
@@ -688,8 +688,6 @@
 | AWSIoTDeviceDefenderUpdateDeviceCertMitigationAction | /service-role/ | [v1](./policies/AWSIoTDeviceDefenderUpdateDeviceCertMitigationAction.json) |
 | AWSIoTDeviceTesterForFreeRTOSFullAccess | / | [v7](./policies/AWSIoTDeviceTesterForFreeRTOSFullAccess.json) |
 | AWSIoTDeviceTesterForGreengrassFullAccess | / | [v4](./policies/AWSIoTDeviceTesterForGreengrassFullAccess.json) |
-| AWSIoTEventsFullAccess | / | [v1](./policies/AWSIoTEventsFullAccess.json) |
-| AWSIoTEventsReadOnlyAccess | / | [v2](./policies/AWSIoTEventsReadOnlyAccess.json) |
 | AWSIoTFleetHubFederationAccess | /service-role/ | [v5](./policies/AWSIoTFleetHubFederationAccess.json) |
 | AWSIoTFullAccess | / | [v2](./policies/AWSIoTFullAccess.json) |
 | AWSIoTLogging | /service-role/ | [v1](./policies/AWSIoTLogging.json) |
