@@ -692,6 +692,7 @@
                 "identitystore:DescribeUser",
                 "identitystore:DescribeGroup",
                 "sso:CreateApplication",
+                "sso:DeleteApplication",
                 "sso:DescribeInstance",
                 "sso:DescribeApplication",
                 "sso:PutApplicationGrant",

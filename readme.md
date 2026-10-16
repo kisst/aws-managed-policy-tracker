@@ -71,6 +71,7 @@
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
 | AWSConfigServiceRolePolicy | /aws-service-role/ | [v96](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
+| AWSContinuumCollectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumCollectorServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -780,7 +781,7 @@
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
 | AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
 | AWSPartnerCentralFullAccess | / | [v14](./policies/AWSPartnerCentralFullAccess.json) |
-| AWSPartnerCentralMarketingManagement | / | [v4](./policies/AWSPartnerCentralMarketingManagement.json) |
+| AWSPartnerCentralMarketingManagement | / | [v5](./policies/AWSPartnerCentralMarketingManagement.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v10](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralRevenueAttributionManagement | / | [v1](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
@@ -1405,7 +1406,7 @@
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
 | AnthropicFullAccess | / | [v3](./policies/AnthropicFullAccess.json) |
-| AnthropicLimitedAccess | / | [v8](./policies/AnthropicLimitedAccess.json) |
+| AnthropicLimitedAccess | / | [v9](./policies/AnthropicLimitedAccess.json) |
 | AnthropicReadOnlyAccess | / | [v4](./policies/AnthropicReadOnlyAccess.json) |
 | AnthropicSelfHostedEnvironmentAccess | / | [v1](./policies/AnthropicSelfHostedEnvironmentAccess.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
@@ -1518,7 +1519,7 @@
 | NeptuneReadOnlyAccess | / | [v3](./policies/NeptuneReadOnlyAccess.json) |
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
-| PartnerCentralAccountManagementUserRoleAssociation | / | [v1](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
+| PartnerCentralAccountManagementUserRoleAssociation | / | [v2](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
 | PartnerCentralIncentiveBenefitManagement | / | [v4](./policies/PartnerCentralIncentiveBenefitManagement.json) |
 | PowerUserAccess | / | [v12](./policies/PowerUserAccess.json) |
 | PricingPlanManagerFullAccess | / | [v1](./policies/PricingPlanManagerFullAccess.json) |
@@ -1549,8 +1550,8 @@
 | S3UnlockBucketPolicy | /root-task/ | [v1](./policies/S3UnlockBucketPolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v9](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
-| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v26](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v23](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v27](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v24](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |

@@ -950,6 +950,7 @@
                 "identitystore:DescribeUser",
                 "identitystore:DescribeGroup",
                 "sso:CreateApplication",
+                "sso:DeleteApplication",
                 "sso:DescribeInstance",
                 "sso:DescribeApplication",
                 "sso:PutApplicationGrant",
@@ -1116,6 +1117,21 @@
                     "s3:AccessGrantsInstanceArn": [
                         "arn:aws:s3:*:*:access-grants/default"
                     ]
+                }
+            }
+        },
+        {
+            "Sid": "S3AGIdentityCenterAssociation",
+            "Effect": "Allow",
+            "Action": [
+                "s3:AssociateAccessGrantsIdentityCenter"
+            ],
+            "Resource": [
+                "arn:aws:s3:*:*:access-grants/default"
+            ],
+            "Condition": {
+                "StringEquals": {
+                    "aws:ResourceAccount": "${aws:PrincipalAccount}"
                 }
             }
         },
