@@ -1328,7 +1328,7 @@
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
 | AmazonSageMakerCanvasFullAccess | / | [v11](./policies/AmazonSageMakerCanvasFullAccess.json) |
 | AmazonSageMakerCanvasSMDataScienceAssistantAccess | / | [v6](./policies/AmazonSageMakerCanvasSMDataScienceAssistantAccess.json) |
-| AmazonSageMakerClusterInstanceRolePolicy | / | [v1](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
+| AmazonSageMakerClusterInstanceRolePolicy | / | [v2](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
 | AmazonSageMakerFeatureStoreAccess | / | [v3](./policies/AmazonSageMakerFeatureStoreAccess.json) |
 | AmazonSageMakerFullAccess | / | [v29](./policies/AmazonSageMakerFullAccess.json) |
