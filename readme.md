@@ -97,6 +97,7 @@
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
 | AWSEnhancedClassicNetworkingMangementPolicy | /aws-service-role/ | [v1](./policies/AWSEnhancedClassicNetworkingMangementPolicy.json) |
+| AWSFinOpsAgentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSFinOpsAgentServiceRolePolicy.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSGitSyncServiceRolePolicy.json) |
 | AWSGlobalAcceleratorSLRPolicy | /aws-service-role/ | [v9](./policies/AWSGlobalAcceleratorSLRPolicy.json) |
@@ -303,7 +304,7 @@
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
 | AppStudioServiceRolePolicy | /aws-service-role/ | [v2](./policies/AppStudioServiceRolePolicy.json) |
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
-| AssuranceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AssuranceServiceRolePolicy.json) |
+| AssuranceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AssuranceServiceRolePolicy.json) |
 | AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v10](./policies/AutoScalingServiceRolePolicy.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v8](./policies/BatchServiceRolePolicy.json) |
