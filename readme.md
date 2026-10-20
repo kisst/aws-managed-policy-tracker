@@ -1246,6 +1246,7 @@
 | AmazonQLDBConsoleFullAccess | / | [v5](./policies/AmazonQLDBConsoleFullAccess.json) |
 | AmazonQLDBFullAccess | / | [v5](./policies/AmazonQLDBFullAccess.json) |
 | AmazonQLDBReadOnly | / | [v3](./policies/AmazonQLDBReadOnly.json) |
+| AmazonQuickSuiteAccessPolicy | /service-role/ | [v1](./policies/AmazonQuickSuiteAccessPolicy.json) |
 | AmazonRDSCustomInstanceProfileRolePolicy | / | [v4](./policies/AmazonRDSCustomInstanceProfileRolePolicy.json) |
 | AmazonRDSDataFullAccess | / | [v3](./policies/AmazonRDSDataFullAccess.json) |
 | AmazonRDSDirectoryServiceAccess | /service-role/ | [v2](./policies/AmazonRDSDirectoryServiceAccess.json) |
