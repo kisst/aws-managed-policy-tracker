@@ -1175,7 +1175,7 @@
 | AmazonKinesisReadOnlyAccess | / | [v1](./policies/AmazonKinesisReadOnlyAccess.json) |
 | AmazonKinesisVideoStreamsFullAccess | / | [v1](./policies/AmazonKinesisVideoStreamsFullAccess.json) |
 | AmazonKinesisVideoStreamsReadOnlyAccess | / | [v1](./policies/AmazonKinesisVideoStreamsReadOnlyAccess.json) |
-| AmazonLaunchWizardFullAccessV2 | / | [v2](./policies/AmazonLaunchWizardFullAccessV2.json) |
+| AmazonLaunchWizardFullAccessV2 | / | [v3](./policies/AmazonLaunchWizardFullAccessV2.json) |
 | AmazonLexFullAccess | / | [v9](./policies/AmazonLexFullAccess.json) |
 | AmazonLexReadOnly | / | [v5](./policies/AmazonLexReadOnly.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
@@ -1444,7 +1444,7 @@
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
 | CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v17](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v18](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
