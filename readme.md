@@ -10,7 +10,7 @@
 | AmazonODBExascaleStorageVaultAdmin | /job-function/ | [v1](./policies/AmazonODBExascaleStorageVaultAdmin.json) |
 | AmazonODBExascaleVmClusterAdmin | /job-function/ | [v1](./policies/AmazonODBExascaleVmClusterAdmin.json) |
 | AmazonODBNetworkAdmin | /job-function/ | [v2](./policies/AmazonODBNetworkAdmin.json) |
-| Billing | /job-function/ | [v30](./policies/Billing.json) |
+| Billing | /job-function/ | [v31](./policies/Billing.json) |
 | DataScientist | /job-function/ | [v6](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
 | NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
@@ -477,7 +477,7 @@
 | AWSBatchServiceRole | /service-role/ | [v14](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v7](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v5](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v28](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v29](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v2](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -752,6 +752,7 @@
 | AWSMarketplaceSellerOfferManagement | / | [v2](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v16](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
+| AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy | /service-role/ | [v1](./policies/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy.json) |
 | AWSMcpServiceActionsFullAccess | / | [v3](./policies/AWSMcpServiceActionsFullAccess.json) |
 | AWSMigrationHubDMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubDMSAccess.json) |
 | AWSMigrationHubDiscoveryAccess | /service-role/ | [v3](./policies/AWSMigrationHubDiscoveryAccess.json) |
