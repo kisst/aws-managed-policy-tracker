@@ -199,7 +199,7 @@
 | AWSSocialMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSocialMessagingServiceRolePolicy.json) |
 | AWSStorageGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSStorageGatewayServiceRolePolicy.json) |
 | AWSSupportPlansServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSupportPlansServiceRolePolicy.json) |
-| AWSSupportServiceRolePolicy | /aws-service-role/ | [v59](./policies/AWSSupportServiceRolePolicy.json) |
+| AWSSupportServiceRolePolicy | /aws-service-role/ | [v60](./policies/AWSSupportServiceRolePolicy.json) |
 | AWSSystemsManagerAccountDiscoveryServicePolicy | /aws-service-role/ | [v3](./policies/AWSSystemsManagerAccountDiscoveryServicePolicy.json) |
 | AWSSystemsManagerChangeManagementServicePolicy | /aws-service-role/ | [v2](./policies/AWSSystemsManagerChangeManagementServicePolicy.json) |
 | AWSSystemsManagerJustInTimeAccessServicePolicy | /aws-service-role/ | [v9](./policies/AWSSystemsManagerJustInTimeAccessServicePolicy.json) |
@@ -394,7 +394,7 @@
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
-| AIDevOpsChannelAccessPolicy | /service-role/ | [v1](./policies/AIDevOpsChannelAccessPolicy.json) |
+| AIDevOpsChannelAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsChannelAccessPolicy.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsConstellationAccessPolicy.json) |
 | AIDevOpsOperatorAppAccessPolicy | / | [v10](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIDevOpsReleaseManagementVPCPolicy | / | [v1](./policies/AIDevOpsReleaseManagementVPCPolicy.json) |
@@ -749,7 +749,7 @@
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v2](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplaceRead-only | / | [v13](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceSellerFullAccess | / | [v34](./policies/AWSMarketplaceSellerFullAccess.json) |
-| AWSMarketplaceSellerOfferManagement | / | [v2](./policies/AWSMarketplaceSellerOfferManagement.json) |
+| AWSMarketplaceSellerOfferManagement | / | [v3](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v16](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy | /service-role/ | [v1](./policies/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy.json) |
@@ -1081,7 +1081,7 @@
 | AmazonECS_FullAccess | / | [v22](./policies/AmazonECS_FullAccess.json) |
 | AmazonEFSCSIDriverPolicy | /service-role/ | [v1](./policies/AmazonEFSCSIDriverPolicy.json) |
 | AmazonEKSBlockStoragePolicy | / | [v1](./policies/AmazonEKSBlockStoragePolicy.json) |
-| AmazonEKSBlockStoragePolicyV2 | / | [v1](./policies/AmazonEKSBlockStoragePolicyV2.json) |
+| AmazonEKSBlockStoragePolicyV2 | / | [v2](./policies/AmazonEKSBlockStoragePolicyV2.json) |
 | AmazonEKSClusterPolicy | / | [v10](./policies/AmazonEKSClusterPolicy.json) |
 | AmazonEKSComputePolicy | / | [v7](./policies/AmazonEKSComputePolicy.json) |
 | AmazonEKSDashboardConsoleReadOnly | / | [v3](./policies/AmazonEKSDashboardConsoleReadOnly.json) |
@@ -1513,7 +1513,7 @@
 | IAMUserChangePassword | / | [v5](./policies/IAMUserChangePassword.json) |
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
 | IVSFullAccess | / | [v1](./policies/IVSFullAccess.json) |
-| IVSReadOnlyAccess | / | [v7](./policies/IVSReadOnlyAccess.json) |
+| IVSReadOnlyAccess | / | [v8](./policies/IVSReadOnlyAccess.json) |
 | MediaConnectGatewayInstanceRolePolicy | / | [v1](./policies/MediaConnectGatewayInstanceRolePolicy.json) |
 | MultiPartyApprovalFullAccess | / | [v6](./policies/MultiPartyApprovalFullAccess.json) |
 | MultiPartyApprovalReadOnlyAccess | / | [v6](./policies/MultiPartyApprovalReadOnlyAccess.json) |
