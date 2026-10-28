@@ -183,7 +183,7 @@
 | AWSServiceRoleForCodeWhispererPolicy | /aws-service-role/ | [v6](./policies/AWSServiceRoleForCodeWhispererPolicy.json) |
 | AWSServiceRoleForEC2ScheduledInstances | /aws-service-role/ | [v1](./policies/AWSServiceRoleForEC2ScheduledInstances.json) |
 | AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForGroundStationDataflowEndpointGroupPolicy.json) |
-| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v28](./policies/AWSServiceRoleForImageBuilder.json) |
+| AWSServiceRoleForImageBuilder | /aws-service-role/ | [v29](./policies/AWSServiceRoleForImageBuilder.json) |
 | AWSServiceRoleForIoTSiteWise | /aws-service-role/ | [v8](./policies/AWSServiceRoleForIoTSiteWise.json) |
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForMonitronPolicy.json) |
@@ -266,7 +266,7 @@
 | AmazonInspector2AgentlessServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonInspector2AgentlessServiceRolePolicy.json) |
 | AmazonInspector2AmiScanServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2AmiScanServiceRolePolicy.json) |
 | AmazonInspector2ServiceRolePolicy | /aws-service-role/ | [v27](./policies/AmazonInspector2ServiceRolePolicy.json) |
-| AmazonInspector2ThirdPartyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonInspector2ThirdPartyServiceRolePolicy.json) |
+| AmazonInspector2ThirdPartyServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonInspector2ThirdPartyServiceRolePolicy.json) |
 | AmazonInspectorServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonInspectorServiceRolePolicy.json) |
 | AmazonLexChannelsAccess | /aws-service-role/ | [v1](./policies/AmazonLexChannelsAccess.json) |
 | AmazonLexReplicationPolicy | /aws-service-role/ | [v3](./policies/AmazonLexReplicationPolicy.json) |
@@ -390,7 +390,7 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v11](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v12](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
@@ -937,6 +937,7 @@
 | AWSWAFFullAccess | / | [v17](./policies/AWSWAFFullAccess.json) |
 | AWSWAFReadOnlyAccess | / | [v13](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
+| AWSXRayAPIKeyAccess | / | [v1](./policies/AWSXRayAPIKeyAccess.json) |
 | AWSXRayDaemonWriteAccess | / | [v2](./policies/AWSXRayDaemonWriteAccess.json) |
 | AWSXrayCrossAccountSharingConfiguration | / | [v1](./policies/AWSXrayCrossAccountSharingConfiguration.json) |
 | AWSXrayFullAccess | / | [v2](./policies/AWSXrayFullAccess.json) |
@@ -1478,7 +1479,7 @@
 | DBModProvisioningAndMigration | / | [v1](./policies/DBModProvisioningAndMigration.json) |
 | DBModVirtualSource | / | [v1](./policies/DBModVirtualSource.json) |
 | EC2FastLaunchFullAccess | / | [v5](./policies/EC2FastLaunchFullAccess.json) |
-| EC2ImageBuilderExecutionPolicy | / | [v2](./policies/EC2ImageBuilderExecutionPolicy.json) |
+| EC2ImageBuilderExecutionPolicy | / | [v3](./policies/EC2ImageBuilderExecutionPolicy.json) |
 | EC2ImageBuilderLifecycleExecutionPolicy | /service-role/ | [v1](./policies/EC2ImageBuilderLifecycleExecutionPolicy.json) |
 | EC2InstanceConnect | / | [v1](./policies/EC2InstanceConnect.json) |
 | EC2InstanceProfileForImageBuilder | / | [v12](./policies/EC2InstanceProfileForImageBuilder.json) |
