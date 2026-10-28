@@ -382,6 +382,8 @@
                 "config:ListStoredQueries",
                 "config:ListTagsForResource",
                 "config:SelectResourceConfig",
+                "config:BatchGetResourceConfig",
+                "config:ListDiscoveredResources",
                 "connect-campaigns:DescribeCampaign",
                 "connect-campaigns:ListCampaigns",
                 "connect:DescribeInstance",

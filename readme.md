@@ -105,6 +105,7 @@
 | AWSHealthOmicsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealthOmicsServiceLinkedRolePolicy.json) |
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
 | AWSIAMRoleManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIAMRoleManagerServiceRolePolicy.json) |
+| AWSIPAMOutboundServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIPAMOutboundServiceRolePolicy.json) |
 | AWSIPAMServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
@@ -304,7 +305,7 @@
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
 | AppStudioServiceRolePolicy | /aws-service-role/ | [v2](./policies/AppStudioServiceRolePolicy.json) |
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
-| AssuranceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AssuranceServiceRolePolicy.json) |
+| AssuranceServiceRolePolicy | /aws-service-role/ | [v3](./policies/AssuranceServiceRolePolicy.json) |
 | AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v10](./policies/AutoScalingServiceRolePolicy.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v8](./policies/BatchServiceRolePolicy.json) |
@@ -783,9 +784,9 @@
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
 | AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
 | AWSPartnerCentralFullAccess | / | [v15](./policies/AWSPartnerCentralFullAccess.json) |
-| AWSPartnerCentralMarketingManagement | / | [v5](./policies/AWSPartnerCentralMarketingManagement.json) |
-| AWSPartnerCentralOpportunityManagement | / | [v10](./policies/AWSPartnerCentralOpportunityManagement.json) |
-| AWSPartnerCentralRevenueAttributionManagement | / | [v1](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
+| AWSPartnerCentralMarketingManagement | / | [v6](./policies/AWSPartnerCentralMarketingManagement.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v11](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralRevenueAttributionManagement | / | [v2](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v3](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
@@ -1525,7 +1526,7 @@
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v2](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
-| PartnerCentralIncentiveBenefitManagement | / | [v4](./policies/PartnerCentralIncentiveBenefitManagement.json) |
+| PartnerCentralIncentiveBenefitManagement | / | [v5](./policies/PartnerCentralIncentiveBenefitManagement.json) |
 | PowerUserAccess | / | [v12](./policies/PowerUserAccess.json) |
 | PricingPlanManagerFullAccess | / | [v1](./policies/PricingPlanManagerFullAccess.json) |
 | PricingPlanManagerReadonlyAccess | / | [v1](./policies/PricingPlanManagerReadonlyAccess.json) |
@@ -1574,7 +1575,7 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v84](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v45](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v46](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v75](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
