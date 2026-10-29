@@ -326,7 +326,7 @@
 | CloudWatchInternetMonitorServiceRolePolicy | /aws-service-role/ | [v2](./policies/CloudWatchInternetMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorServiceRolePolicy | /aws-service-role/ | [v6](./policies/CloudWatchNetworkFlowMonitorServiceRolePolicy.json) |
 | CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy | /aws-service-role/ | [v10](./policies/CloudWatchNetworkFlowMonitorTopologyServiceRolePolicy.json) |
-| CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v3](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
+| CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v4](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v26](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
 | ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v10](./policies/ComputeOptimizerServiceRolePolicy.json) |
@@ -398,7 +398,7 @@
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsChannelAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsChannelAccessPolicy.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsConstellationAccessPolicy.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v10](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v11](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIDevOpsReleaseManagementVPCPolicy | / | [v1](./policies/AIDevOpsReleaseManagementVPCPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
@@ -415,7 +415,7 @@
 | AWSAccountActivityAccess | / | [v3](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
-| AWSAccountSettingsManagementRole | / | [v11](./policies/AWSAccountSettingsManagementRole.json) |
+| AWSAccountSettingsManagementRole | / | [v12](./policies/AWSAccountSettingsManagementRole.json) |
 | AWSAccountUsageReportAccess | / | [v1](./policies/AWSAccountUsageReportAccess.json) |
 | AWSAgentlessDiscoveryService | / | [v2](./policies/AWSAgentlessDiscoveryService.json) |
 | AWSAppFabricFullAccess | / | [v1](./policies/AWSAppFabricFullAccess.json) |
@@ -923,7 +923,7 @@
 | AWSTransformInfrastructureExecutorAccessBatch | / | [v4](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
 | AWSTransformInfrastructureExecutorAccessEC2 | / | [v4](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
 | AWSTransformLandingZoneAgentPolicy | / | [v3](./policies/AWSTransformLandingZoneAgentPolicy.json) |
-| AWSTransformNetworkMigrationAgentPolicy | / | [v2](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
+| AWSTransformNetworkMigrationAgentPolicy | / | [v3](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v3](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
@@ -1497,6 +1497,7 @@
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
 | FinOpsAgentAgentPolicy | / | [v5](./policies/FinOpsAgentAgentPolicy.json) |
+| FinOpsAgentIdentityReaderPolicy | / | [v1](./policies/FinOpsAgentIdentityReaderPolicy.json) |
 | FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
