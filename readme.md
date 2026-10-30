@@ -16,7 +16,7 @@
 | NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
 | SupportUser | /job-function/ | [v11](./policies/SupportUser.json) |
 | SystemAdministrator | /job-function/ | [v12](./policies/SystemAdministrator.json) |
-| ViewOnlyAccess | /job-function/ | [v47](./policies/ViewOnlyAccess.json) |
+| ViewOnlyAccess | /job-function/ | [v48](./policies/ViewOnlyAccess.json) |
 
 # AWS Service Role Policies
 
@@ -1551,7 +1551,7 @@
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
 | ROSAWorkerInstancePolicy | /service-role/ | [v6](./policies/ROSAWorkerInstancePolicy.json) |
 | ReInventTicketApprovalAccess | / | [v1](./policies/ReInventTicketApprovalAccess.json) |
-| ReadOnlyAccess | / | [v190](./policies/ReadOnlyAccess.json) |
+| ReadOnlyAccess | / | [v191](./policies/ReadOnlyAccess.json) |
 | ResourceGroupsTaggingAPITagUntagSupportedResources | / | [v4](./policies/ResourceGroupsTaggingAPITagUntagSupportedResources.json) |
 | ResourceGroupsandTagEditorFullAccess | / | [v6](./policies/ResourceGroupsandTagEditorFullAccess.json) |
 | ResourceGroupsandTagEditorReadOnlyAccess | / | [v3](./policies/ResourceGroupsandTagEditorReadOnlyAccess.json) |
