@@ -342,7 +342,7 @@
 | EC2ApplicationStatusChecksServiceRolePolicy | /aws-service-role/ | [v3](./policies/EC2ApplicationStatusChecksServiceRolePolicy.json) |
 | EC2FastLaunchServiceRolePolicy | /aws-service-role/ | [v7](./policies/EC2FastLaunchServiceRolePolicy.json) |
 | EC2FleetTimeShiftableServiceRolePolicy | /aws-service-role/ | [v1](./policies/EC2FleetTimeShiftableServiceRolePolicy.json) |
-| ECRReplicationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRReplicationServiceRolePolicy.json) |
+| ECRReplicationServiceRolePolicy | /aws-service-role/ | [v2](./policies/ECRReplicationServiceRolePolicy.json) |
 | ECRTemplateServiceRolePolicy | /aws-service-role/ | [v1](./policies/ECRTemplateServiceRolePolicy.json) |
 | EMRDescribeClusterPolicyForEMRWAL | /aws-service-role/ | [v1](./policies/EMRDescribeClusterPolicyForEMRWAL.json) |
 | Ec2InstanceConnectEndpoint | /aws-service-role/ | [v2](./policies/Ec2InstanceConnectEndpoint.json) |
@@ -1558,8 +1558,8 @@
 | S3UnlockBucketPolicy | /root-task/ | [v1](./policies/S3UnlockBucketPolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v9](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
-| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v27](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v24](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v28](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v25](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
@@ -1577,13 +1577,13 @@
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v84](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v46](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v47](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v75](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v76](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v31](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v26](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v32](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v27](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
@@ -1603,6 +1603,6 @@
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
 | WellArchitectedAgentResourceScanning | / | [v2](./policies/WellArchitectedAgentResourceScanning.json) |
-| WellArchitectedConsoleFullAccess | / | [v2](./policies/WellArchitectedConsoleFullAccess.json) |
-| WellArchitectedConsoleReadOnlyAccess | / | [v3](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
+| WellArchitectedConsoleFullAccess | / | [v3](./policies/WellArchitectedConsoleFullAccess.json) |
+| WellArchitectedConsoleReadOnlyAccess | / | [v4](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
