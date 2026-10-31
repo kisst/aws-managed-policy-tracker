@@ -857,7 +857,7 @@
 | AWSResourceExplorerOrganizationsAccess | / | [v1](./policies/AWSResourceExplorerOrganizationsAccess.json) |
 | AWSResourceExplorerReadOnlyAccess | / | [v2](./policies/AWSResourceExplorerReadOnlyAccess.json) |
 | AWSResourceGroupsReadOnlyAccess | / | [v2](./policies/AWSResourceGroupsReadOnlyAccess.json) |
-| AWSRevenueAttributionManagement | / | [v1](./policies/AWSRevenueAttributionManagement.json) |
+| AWSRevenueAttributionManagement | / | [v2](./policies/AWSRevenueAttributionManagement.json) |
 | AWSRoboMakerReadOnlyAccess | / | [v2](./policies/AWSRoboMakerReadOnlyAccess.json) |
 | AWSRoboMakerServiceRolePolicy | / | [v1](./policies/AWSRoboMakerServiceRolePolicy.json) |
 | AWSRoboMaker_FullAccess | / | [v2](./policies/AWSRoboMaker_FullAccess.json) |
