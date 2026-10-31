@@ -16,7 +16,18 @@
                 "organizations:ListAccounts",
                 "organizations:ListDelegatedAdministrators",
                 "organizations:ListOrganizationalUnitsForParent",
-                "organizations:ListRoots"
+                "organizations:ListRoots",
+                "autoscaling:DescribeNotificationConfigurations",
+                "neptune-graph:GetExportTask",
+                "neptune-graph:ListExportTasks",
+                "neptune-graph:ListGraphs",
+                "quicksight:DescribeAgent",
+                "quicksight:DescribeAgentPermissions",
+                "quicksight:DescribeBrand",
+                "quicksight:DescribeIngestion",
+                "quicksight:DescribeNamespace",
+                "quicksight:ListIngestions",
+                "quicksight:ListNamespaces"
             ],
             "Resource": "*"
         },

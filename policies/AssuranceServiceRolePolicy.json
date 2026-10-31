@@ -1658,6 +1658,19 @@
             }
         },
         {
+            "Sid": "DenyApiGatewayKeys",
+            "Effect": "Deny",
+            "Action": [
+                "apigateway:GET"
+            ],
+            "Resource": [
+                "arn:aws:apigateway:*::/apikeys",
+                "arn:aws:apigateway:*::/apikeys/*",
+                "arn:aws:apigateway:*::/usageplans/*/keys",
+                "arn:aws:apigateway:*::/usageplans/*/keys/*"
+            ]
+        },
+        {
             "Sid": "OrganizationsRead",
             "Effect": "Allow",
             "Action": [
