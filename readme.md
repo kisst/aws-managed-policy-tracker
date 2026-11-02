@@ -751,7 +751,7 @@
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v2](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplaceRead-only | / | [v13](./policies/AWSMarketplaceRead-only.json) |
-| AWSMarketplaceSellerFullAccess | / | [v34](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v35](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v3](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v16](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
