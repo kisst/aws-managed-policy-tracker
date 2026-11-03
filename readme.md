@@ -1435,10 +1435,10 @@
 | CloudFrontReadOnlyAccess | / | [v12](./policies/CloudFrontReadOnlyAccess.json) |
 | CloudSearchFullAccess | / | [v1](./policies/CloudSearchFullAccess.json) |
 | CloudSearchReadOnlyAccess | / | [v1](./policies/CloudSearchReadOnlyAccess.json) |
-| CloudWatchAPIKeyAccess | / | [v2](./policies/CloudWatchAPIKeyAccess.json) |
+| CloudWatchAPIKeyAccess | / | [v3](./policies/CloudWatchAPIKeyAccess.json) |
 | CloudWatchActionsEC2Access | / | [v1](./policies/CloudWatchActionsEC2Access.json) |
-| CloudWatchAgentAdminPolicy | / | [v2](./policies/CloudWatchAgentAdminPolicy.json) |
-| CloudWatchAgentServerPolicy | / | [v3](./policies/CloudWatchAgentServerPolicy.json) |
+| CloudWatchAgentAdminPolicy | / | [v3](./policies/CloudWatchAgentAdminPolicy.json) |
+| CloudWatchAgentServerPolicy | / | [v4](./policies/CloudWatchAgentServerPolicy.json) |
 | CloudWatchApplicationInsightsFullAccess | / | [v4](./policies/CloudWatchApplicationInsightsFullAccess.json) |
 | CloudWatchApplicationInsightsReadOnlyAccess | / | [v1](./policies/CloudWatchApplicationInsightsReadOnlyAccess.json) |
 | CloudWatchApplicationSignalsFullAccess | / | [v7](./policies/CloudWatchApplicationSignalsFullAccess.json) |
