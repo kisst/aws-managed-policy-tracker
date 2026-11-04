@@ -393,7 +393,7 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v12](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v13](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
@@ -475,7 +475,7 @@
 | AWSBackupServiceRolePolicyForS3Backup | / | [v5](./policies/AWSBackupServiceRolePolicyForS3Backup.json) |
 | AWSBackupServiceRolePolicyForS3Restore | / | [v2](./policies/AWSBackupServiceRolePolicyForS3Restore.json) |
 | AWSBackupServiceRolePolicyForScans | / | [v3](./policies/AWSBackupServiceRolePolicyForScans.json) |
-| AWSBatchFullAccess | / | [v7](./policies/AWSBatchFullAccess.json) |
+| AWSBatchFullAccess | / | [v8](./policies/AWSBatchFullAccess.json) |
 | AWSBatchServiceEventTargetRole | /service-role/ | [v1](./policies/AWSBatchServiceEventTargetRole.json) |
 | AWSBatchServiceRole | /service-role/ | [v14](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v7](./policies/AWSBillingConductorFullAccess.json) |
@@ -1417,7 +1417,7 @@
 | AnthropicReadOnlyAccess | / | [v4](./policies/AnthropicReadOnlyAccess.json) |
 | AnthropicSelfHostedEnvironmentAccess | / | [v1](./policies/AnthropicSelfHostedEnvironmentAccess.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
-| AssuranceOperatorPolicy | /service-role/ | [v1](./policies/AssuranceOperatorPolicy.json) |
+| AssuranceOperatorPolicy | /service-role/ | [v2](./policies/AssuranceOperatorPolicy.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
 | AutoScalingConsoleReadOnlyAccess | / | [v1](./policies/AutoScalingConsoleReadOnlyAccess.json) |
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
@@ -1546,7 +1546,7 @@
 | ROSAKarpenterControllerPolicy | /service-role/ | [v1](./policies/ROSAKarpenterControllerPolicy.json) |
 | ROSAKubeControllerPolicy | /service-role/ | [v8](./policies/ROSAKubeControllerPolicy.json) |
 | ROSAManageSubscription | / | [v2](./policies/ROSAManageSubscription.json) |
-| ROSANodePoolManagementPolicy | /service-role/ | [v9](./policies/ROSANodePoolManagementPolicy.json) |
+| ROSANodePoolManagementPolicy | /service-role/ | [v10](./policies/ROSANodePoolManagementPolicy.json) |
 | ROSASRESupportPolicy | /service-role/ | [v6](./policies/ROSASRESupportPolicy.json) |
 | ROSASharedVPCEndpointPolicy | / | [v3](./policies/ROSASharedVPCEndpointPolicy.json) |
 | ROSASharedVPCRoute53Policy | / | [v3](./policies/ROSASharedVPCRoute53Policy.json) |
