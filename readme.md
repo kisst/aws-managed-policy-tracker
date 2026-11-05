@@ -150,6 +150,7 @@
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
+| AWSPartnerCentralAccountManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPartnerCentralAccountManagementServiceRolePolicy.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
 | AWSProtonCodeBuildProvisioningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonCodeBuildProvisioningServiceRolePolicy.json) |
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
@@ -399,7 +400,7 @@
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsChannelAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsChannelAccessPolicy.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsConstellationAccessPolicy.json) |
-| AIDevOpsOperatorAppAccessPolicy | / | [v11](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOperatorAppAccessPolicy | / | [v12](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
 | AIDevOpsReleaseManagementVPCPolicy | / | [v1](./policies/AIDevOpsReleaseManagementVPCPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
@@ -1161,7 +1162,7 @@
 | AmazonHoneycodeWorkbookFullAccess | / | [v2](./policies/AmazonHoneycodeWorkbookFullAccess.json) |
 | AmazonHoneycodeWorkbookReadOnlyAccess | / | [v2](./policies/AmazonHoneycodeWorkbookReadOnlyAccess.json) |
 | AmazonInspector2FullAccess | / | [v4](./policies/AmazonInspector2FullAccess.json) |
-| AmazonInspector2FullAccess_v2 | / | [v10](./policies/AmazonInspector2FullAccess_v2.json) |
+| AmazonInspector2FullAccess_v2 | / | [v11](./policies/AmazonInspector2FullAccess_v2.json) |
 | AmazonInspector2ManagedCisPolicy | / | [v1](./policies/AmazonInspector2ManagedCisPolicy.json) |
 | AmazonInspector2ManagedTelemetryPolicy | / | [v1](./policies/AmazonInspector2ManagedTelemetryPolicy.json) |
 | AmazonInspector2ReadOnlyAccess | / | [v9](./policies/AmazonInspector2ReadOnlyAccess.json) |
@@ -1571,7 +1572,7 @@
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDataAppsAccessRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDataAppsAccessRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v23](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v24](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
