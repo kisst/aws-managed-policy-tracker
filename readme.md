@@ -14,7 +14,7 @@
 | DataScientist | /job-function/ | [v6](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
 | NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
-| SupportUser | /job-function/ | [v11](./policies/SupportUser.json) |
+| SupportUser | /job-function/ | [v12](./policies/SupportUser.json) |
 | SystemAdministrator | /job-function/ | [v12](./policies/SystemAdministrator.json) |
 | ViewOnlyAccess | /job-function/ | [v48](./policies/ViewOnlyAccess.json) |
 
@@ -462,10 +462,10 @@
 | AWSBackupAccessPointOperatorAccess | / | [v1](./policies/AWSBackupAccessPointOperatorAccess.json) |
 | AWSBackupAuditAccess | / | [v2](./policies/AWSBackupAuditAccess.json) |
 | AWSBackupDataTransferAccess | / | [v1](./policies/AWSBackupDataTransferAccess.json) |
-| AWSBackupFullAccess | / | [v30](./policies/AWSBackupFullAccess.json) |
+| AWSBackupFullAccess | / | [v31](./policies/AWSBackupFullAccess.json) |
 | AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync | /service-role/ | [v1](./policies/AWSBackupGatewayServiceRolePolicyForVirtualMachineMetadataSync.json) |
 | AWSBackupGuardDutyRolePolicyForScans | / | [v3](./policies/AWSBackupGuardDutyRolePolicyForScans.json) |
-| AWSBackupOperatorAccess | / | [v28](./policies/AWSBackupOperatorAccess.json) |
+| AWSBackupOperatorAccess | / | [v29](./policies/AWSBackupOperatorAccess.json) |
 | AWSBackupOrganizationAdminAccess | / | [v3](./policies/AWSBackupOrganizationAdminAccess.json) |
 | AWSBackupRestoreAccessForSAPHANA | / | [v1](./policies/AWSBackupRestoreAccessForSAPHANA.json) |
 | AWSBackupSearchOperatorAccess | / | [v6](./policies/AWSBackupSearchOperatorAccess.json) |
