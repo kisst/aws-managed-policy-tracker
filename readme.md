@@ -487,6 +487,7 @@
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
 | AWSBugBustFullAccess | / | [v2](./policies/AWSBugBustFullAccess.json) |
 | AWSBugBustPlayerAccess | / | [v1](./policies/AWSBugBustPlayerAccess.json) |
+| AWSCODAPermissionsBoundary | / | [v1](./policies/AWSCODAPermissionsBoundary.json) |
 | AWSCertificateManagerFullAccess | / | [v2](./policies/AWSCertificateManagerFullAccess.json) |
 | AWSCertificateManagerPrivateCAAuditor | / | [v4](./policies/AWSCertificateManagerPrivateCAAuditor.json) |
 | AWSCertificateManagerPrivateCAFullAccess | / | [v1](./policies/AWSCertificateManagerPrivateCAFullAccess.json) |
@@ -1419,7 +1420,7 @@
 | AnthropicReadOnlyAccess | / | [v4](./policies/AnthropicReadOnlyAccess.json) |
 | AnthropicSelfHostedEnvironmentAccess | / | [v1](./policies/AnthropicSelfHostedEnvironmentAccess.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
-| AssuranceOperatorPolicy | /service-role/ | [v2](./policies/AssuranceOperatorPolicy.json) |
+| AssuranceOperatorPolicy | /service-role/ | [v3](./policies/AssuranceOperatorPolicy.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
 | AutoScalingConsoleReadOnlyAccess | / | [v1](./policies/AutoScalingConsoleReadOnlyAccess.json) |
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
