@@ -239,7 +239,7 @@
 | AmazonCognitoIdpEmailServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpEmailServiceRolePolicy.json) |
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
-| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v56](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
+| AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v57](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonDetectiveServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDetectiveServiceLinkedRolePolicy.json) |
 | AmazonDevOpsGuruServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonDevOpsGuruServiceRolePolicy.json) |
@@ -368,7 +368,7 @@
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
 | NetworkSecurityDirectorServiceLinkedRolePolicy | /aws-service-role/ | [v7](./policies/NetworkSecurityDirectorServiceLinkedRolePolicy.json) |
-| NetworkSecurityManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/NetworkSecurityManagerServiceRolePolicy.json) |
+| NetworkSecurityManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/NetworkSecurityManagerServiceRolePolicy.json) |
 | NovaActServiceRolePolicy | /aws-service-role/ | [v1](./policies/NovaActServiceRolePolicy.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | QAppsServiceRolePolicy | /aws-service-role/ | [v1](./policies/QAppsServiceRolePolicy.json) |
@@ -541,6 +541,7 @@
 | AWSCompromisedKeyQuarantine | / | [v1](./policies/AWSCompromisedKeyQuarantine.json) |
 | AWSCompromisedKeyQuarantineV2 | / | [v5](./policies/AWSCompromisedKeyQuarantineV2.json) |
 | AWSCompromisedKeyQuarantineV3 | / | [v3](./policies/AWSCompromisedKeyQuarantineV3.json) |
+| AWSCompromisedKeyQuarantineV4 | / | [v1](./policies/AWSCompromisedKeyQuarantineV4.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
 | AWSConfigUserAccess | / | [v4](./policies/AWSConfigUserAccess.json) |
@@ -786,9 +787,9 @@
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
 | AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
-| AWSPartnerCentralFullAccess | / | [v15](./policies/AWSPartnerCentralFullAccess.json) |
+| AWSPartnerCentralFullAccess | / | [v16](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralMarketingManagement | / | [v6](./policies/AWSPartnerCentralMarketingManagement.json) |
-| AWSPartnerCentralOpportunityManagement | / | [v11](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v12](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralRevenueAttributionManagement | / | [v2](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
@@ -938,7 +939,7 @@
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
 | AWSWAFConsoleFullAccess | / | [v22](./policies/AWSWAFConsoleFullAccess.json) |
 | AWSWAFConsoleReadOnlyAccess | / | [v21](./policies/AWSWAFConsoleReadOnlyAccess.json) |
-| AWSWAFFullAccess | / | [v17](./policies/AWSWAFFullAccess.json) |
+| AWSWAFFullAccess | / | [v18](./policies/AWSWAFFullAccess.json) |
 | AWSWAFReadOnlyAccess | / | [v13](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
 | AWSXRayAPIKeyAccess | / | [v1](./policies/AWSXRayAPIKeyAccess.json) |
@@ -1572,7 +1573,7 @@
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDataAppsAccessRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDataAppsAccessRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v24](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v25](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
