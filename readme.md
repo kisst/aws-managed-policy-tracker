@@ -240,7 +240,7 @@
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v57](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
-| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v7](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
+| AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonDetectiveServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDetectiveServiceLinkedRolePolicy.json) |
 | AmazonDevOpsGuruServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonDevOpsGuruServiceRolePolicy.json) |
 | AmazonDocDB-ElasticServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDocDB-ElasticServiceRolePolicy.json) |
@@ -289,7 +289,7 @@
 | AmazonRDSCustomServiceRolePolicy | /aws-service-role/ | [v19](./policies/AmazonRDSCustomServiceRolePolicy.json) |
 | AmazonRDSPreviewServiceRolePolicy | /aws-service-role/ | [v9](./policies/AmazonRDSPreviewServiceRolePolicy.json) |
 | AmazonRDSServiceRolePolicy | /aws-service-role/ | [v14](./policies/AmazonRDSServiceRolePolicy.json) |
-| AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v15](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
+| AmazonRedshiftServiceLinkedRolePolicy | /aws-service-role/ | [v16](./policies/AmazonRedshiftServiceLinkedRolePolicy.json) |
 | AmazonSESServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSESServiceRolePolicy.json) |
 | AmazonSSMServiceRolePolicy | /aws-service-role/ | [v17](./policies/AmazonSSMServiceRolePolicy.json) |
 | AmazonSageMakerCapacityReservationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonSageMakerCapacityReservationServiceRolePolicy.json) |
@@ -330,7 +330,7 @@
 | CloudWatchNetworkMonitorServiceRolePolicy | /aws-service-role/ | [v4](./policies/CloudWatchNetworkMonitorServiceRolePolicy.json) |
 | CloudwatchApplicationInsightsServiceLinkedRolePolicy | /aws-service-role/ | [v26](./policies/CloudwatchApplicationInsightsServiceLinkedRolePolicy.json) |
 | ComputeOptimizerAutomationServiceRolePolicy | /aws-service-role/ | [v1](./policies/ComputeOptimizerAutomationServiceRolePolicy.json) |
-| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v10](./policies/ComputeOptimizerServiceRolePolicy.json) |
+| ComputeOptimizerServiceRolePolicy | /aws-service-role/ | [v11](./policies/ComputeOptimizerServiceRolePolicy.json) |
 | ConfigConformsServiceRolePolicy | /aws-service-role/ | [v6](./policies/ConfigConformsServiceRolePolicy.json) |
 | CostOptimizationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/CostOptimizationHubServiceRolePolicy.json) |
 | CustomerProfilesServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/CustomerProfilesServiceLinkedRolePolicy.json) |
@@ -394,13 +394,14 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v13](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v14](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsChannelAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsChannelAccessPolicy.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsConstellationAccessPolicy.json) |
 | AIDevOpsOperatorAppAccessPolicy | / | [v12](./policies/AIDevOpsOperatorAppAccessPolicy.json) |
+| AIDevOpsOrganizationsAccessPolicy | / | [v1](./policies/AIDevOpsOrganizationsAccessPolicy.json) |
 | AIDevOpsReleaseManagementVPCPolicy | / | [v1](./policies/AIDevOpsReleaseManagementVPCPolicy.json) |
 | AIOpsAssistantIncidentReportPolicy | / | [v3](./policies/AIOpsAssistantIncidentReportPolicy.json) |
 | AIOpsAssistantPolicy | / | [v15](./policies/AIOpsAssistantPolicy.json) |
@@ -992,7 +993,7 @@
 | AmazonBedrockStudioPermissionsBoundary | / | [v1](./policies/AmazonBedrockStudioPermissionsBoundary.json) |
 | AmazonBedrockWebSearchFullAccess | / | [v1](./policies/AmazonBedrockWebSearchFullAccess.json) |
 | AmazonBedrockWebSearchReadOnly | / | [v1](./policies/AmazonBedrockWebSearchReadOnly.json) |
-| AmazonBioDiscoveryFullAccess | / | [v1](./policies/AmazonBioDiscoveryFullAccess.json) |
+| AmazonBioDiscoveryFullAccess | / | [v2](./policies/AmazonBioDiscoveryFullAccess.json) |
 | AmazonBioDiscoveryInAppFullAccess | / | [v1](./policies/AmazonBioDiscoveryInAppFullAccess.json) |
 | AmazonBraketFullAccess | / | [v13](./policies/AmazonBraketFullAccess.json) |
 | AmazonBraketJobsExecutionPolicy | / | [v3](./policies/AmazonBraketJobsExecutionPolicy.json) |
@@ -1338,7 +1339,7 @@
 | AmazonSageMakerCanvasForecastAccess | /service-role/ | [v1](./policies/AmazonSageMakerCanvasForecastAccess.json) |
 | AmazonSageMakerCanvasFullAccess | / | [v11](./policies/AmazonSageMakerCanvasFullAccess.json) |
 | AmazonSageMakerCanvasSMDataScienceAssistantAccess | / | [v6](./policies/AmazonSageMakerCanvasSMDataScienceAssistantAccess.json) |
-| AmazonSageMakerClusterInstanceRolePolicy | / | [v2](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
+| AmazonSageMakerClusterInstanceRolePolicy | / | [v3](./policies/AmazonSageMakerClusterInstanceRolePolicy.json) |
 | AmazonSageMakerEdgeDeviceFleetPolicy | /service-role/ | [v1](./policies/AmazonSageMakerEdgeDeviceFleetPolicy.json) |
 | AmazonSageMakerFeatureStoreAccess | / | [v3](./policies/AmazonSageMakerFeatureStoreAccess.json) |
 | AmazonSageMakerFullAccess | / | [v29](./policies/AmazonSageMakerFullAccess.json) |
