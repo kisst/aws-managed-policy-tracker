@@ -168,13 +168,13 @@
 | AWSSSOServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSSSOServiceRolePolicy.json) |
 | AWSSecurityAgentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSSecurityAgentServiceRolePolicy.json) |
 | AWSSecurityHubServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSSecurityHubServiceRolePolicy.json) |
-| AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
+| AWSSecurityHubV2ServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSSecurityHubV2ServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseServiceRolePolicy | /aws-service-role/ | [v12](./policies/AWSSecurityIncidentResponseServiceRolePolicy.json) |
 | AWSSecurityIncidentResponseTriageServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSSecurityIncidentResponseTriageServiceRolePolicy.json) |
 | AWSServiceCatalogAppRegistryServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSServiceCatalogAppRegistryServiceRolePolicy.json) |
 | AWSServiceCatalogOrgsDataSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogOrgsDataSyncServiceRolePolicy.json) |
 | AWSServiceCatalogSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSServiceCatalogSyncServiceRolePolicy.json) |
-| AWSServiceRoleForAIDevOpsPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForAIDevOpsPolicy.json) |
+| AWSServiceRoleForAIDevOpsPolicy | /aws-service-role/ | [v3](./policies/AWSServiceRoleForAIDevOpsPolicy.json) |
 | AWSServiceRoleForAWSTransform | /aws-service-role/ | [v12](./policies/AWSServiceRoleForAWSTransform.json) |
 | AWSServiceRoleForAWSTransformCustom | /aws-service-role/ | [v3](./policies/AWSServiceRoleForAWSTransformCustom.json) |
 | AWSServiceRoleForAmazonEKSNodegroup | /aws-service-role/ | [v11](./policies/AWSServiceRoleForAmazonEKSNodegroup.json) |
@@ -306,7 +306,7 @@
 | AppRunnerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AppRunnerServiceRolePolicy.json) |
 | AppStudioServiceRolePolicy | /aws-service-role/ | [v2](./policies/AppStudioServiceRolePolicy.json) |
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
-| AssuranceServiceRolePolicy | /aws-service-role/ | [v4](./policies/AssuranceServiceRolePolicy.json) |
+| AssuranceServiceRolePolicy | /aws-service-role/ | [v5](./policies/AssuranceServiceRolePolicy.json) |
 | AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v10](./policies/AutoScalingServiceRolePolicy.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v8](./policies/BatchServiceRolePolicy.json) |
@@ -444,13 +444,13 @@
 | AWSApplicationMigrationEC2Access | / | [v10](./policies/AWSApplicationMigrationEC2Access.json) |
 | AWSApplicationMigrationFSxProxyPolicy | /service-role/ | [v3](./policies/AWSApplicationMigrationFSxProxyPolicy.json) |
 | AWSApplicationMigrationFSxProxyVPCPolicy | /service-role/ | [v1](./policies/AWSApplicationMigrationFSxProxyVPCPolicy.json) |
-| AWSApplicationMigrationFullAccess | / | [v14](./policies/AWSApplicationMigrationFullAccess.json) |
+| AWSApplicationMigrationFullAccess | / | [v15](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationNetworkMigrationCustomResource | / | [v3](./policies/AWSApplicationMigrationNetworkMigrationCustomResource.json) |
 | AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v7](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
-| AWSApplicationMigrationReadOnlyAccess | / | [v6](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
+| AWSApplicationMigrationReadOnlyAccess | / | [v7](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
 | AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v2](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
-| AWSApplicationMigrationSSMAccess | / | [v5](./policies/AWSApplicationMigrationSSMAccess.json) |
+| AWSApplicationMigrationSSMAccess | / | [v6](./policies/AWSApplicationMigrationSSMAccess.json) |
 | AWSApplicationMigrationServiceEc2InstancePolicy | / | [v2](./policies/AWSApplicationMigrationServiceEc2InstancePolicy.json) |
 | AWSApplicationMigrationVCenterClientPolicy | / | [v1](./policies/AWSApplicationMigrationVCenterClientPolicy.json) |
 | AWSArtifactAccountSync | /service-role/ | [v1](./policies/AWSArtifactAccountSync.json) |
@@ -542,7 +542,7 @@
 | AWSCodeStarServiceRole | /service-role/ | [v12](./policies/AWSCodeStarServiceRole.json) |
 | AWSCompromisedKeyQuarantine | / | [v1](./policies/AWSCompromisedKeyQuarantine.json) |
 | AWSCompromisedKeyQuarantineV2 | / | [v5](./policies/AWSCompromisedKeyQuarantineV2.json) |
-| AWSCompromisedKeyQuarantineV3 | / | [v3](./policies/AWSCompromisedKeyQuarantineV3.json) |
+| AWSCompromisedKeyQuarantineV3 | / | [v4](./policies/AWSCompromisedKeyQuarantineV3.json) |
 | AWSCompromisedKeyQuarantineV4 | / | [v1](./policies/AWSCompromisedKeyQuarantineV4.json) |
 | AWSConfigRoleForOrganizations | /service-role/ | [v2](./policies/AWSConfigRoleForOrganizations.json) |
 | AWSConfigRulesExecutionRole | /service-role/ | [v3](./policies/AWSConfigRulesExecutionRole.json) |
@@ -1077,7 +1077,7 @@
 | AmazonEC2RoleforSSM | /service-role/ | [v8](./policies/AmazonEC2RoleforSSM.json) |
 | AmazonEC2SpotFleetAutoscaleRole | /service-role/ | [v3](./policies/AmazonEC2SpotFleetAutoscaleRole.json) |
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
-| AmazonECSInfrastructureRoleForGatewayHostSharedALB | / | [v1](./policies/AmazonECSInfrastructureRoleForGatewayHostSharedALB.json) |
+| AmazonECSInfrastructureRoleForGatewayHostSharedALB | / | [v2](./policies/AmazonECSInfrastructureRoleForGatewayHostSharedALB.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v6](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
 | AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v13](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v4](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
@@ -1470,7 +1470,7 @@
 | CloudWatchOmniSpaceAccessPolicy | / | [v2](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
-| CloudWatchReadOnlyAccess | / | [v25](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v26](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v14](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
@@ -1502,7 +1502,7 @@
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
 | FinOpsAgentAgentPolicy | / | [v5](./policies/FinOpsAgentAgentPolicy.json) |
-| FinOpsAgentIdentityReaderPolicy | / | [v1](./policies/FinOpsAgentIdentityReaderPolicy.json) |
+| FinOpsAgentIdentityReaderPolicy | / | [v2](./policies/FinOpsAgentIdentityReaderPolicy.json) |
 | FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
 | GameLiftGameServerGroupPolicy | / | [v3](./policies/GameLiftGameServerGroupPolicy.json) |
