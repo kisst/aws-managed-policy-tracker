@@ -148,7 +148,7 @@
 | AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
-| AWSPCSServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSPCSServiceRolePolicy.json) |
+| AWSPCSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPartnerCentralAccountManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPartnerCentralAccountManagementServiceRolePolicy.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
@@ -446,7 +446,7 @@
 | AWSApplicationMigrationFullAccess | / | [v15](./policies/AWSApplicationMigrationFullAccess.json) |
 | AWSApplicationMigrationMGHAccess | /service-role/ | [v1](./policies/AWSApplicationMigrationMGHAccess.json) |
 | AWSApplicationMigrationNetworkMigrationCustomResource | / | [v3](./policies/AWSApplicationMigrationNetworkMigrationCustomResource.json) |
-| AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v7](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
+| AWSApplicationMigrationNetworkMigrationMultiAccount | / | [v8](./policies/AWSApplicationMigrationNetworkMigrationMultiAccount.json) |
 | AWSApplicationMigrationReadOnlyAccess | / | [v7](./policies/AWSApplicationMigrationReadOnlyAccess.json) |
 | AWSApplicationMigrationReplicationServerPolicy | /service-role/ | [v2](./policies/AWSApplicationMigrationReplicationServerPolicy.json) |
 | AWSApplicationMigrationSSMAccess | / | [v6](./policies/AWSApplicationMigrationSSMAccess.json) |
@@ -788,7 +788,7 @@
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
 | AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
-| AWSPartnerCentralFullAccess | / | [v16](./policies/AWSPartnerCentralFullAccess.json) |
+| AWSPartnerCentralFullAccess | / | [v17](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralMarketingManagement | / | [v6](./policies/AWSPartnerCentralMarketingManagement.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v13](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralRevenueAttributionManagement | / | [v2](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
@@ -927,7 +927,7 @@
 | AWSTransformInfrastructureExecutorAccessBatch | / | [v4](./policies/AWSTransformInfrastructureExecutorAccessBatch.json) |
 | AWSTransformInfrastructureExecutorAccessEC2 | / | [v4](./policies/AWSTransformInfrastructureExecutorAccessEC2.json) |
 | AWSTransformLandingZoneAgentPolicy | / | [v3](./policies/AWSTransformLandingZoneAgentPolicy.json) |
-| AWSTransformNetworkMigrationAgentPolicy | / | [v3](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
+| AWSTransformNetworkMigrationAgentPolicy | / | [v4](./policies/AWSTransformNetworkMigrationAgentPolicy.json) |
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v3](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
