@@ -59,6 +59,7 @@
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
 | AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v4](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
+| AWSCODAServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCODAServiceRolePolicy.json) |
 | AWSChatbotServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSChatbotServiceLinkedRolePolicy.json) |
 | AWSCleanRoomsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCleanRoomsServiceRolePolicy.json) |
 | AWSCloud9ServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSCloud9ServiceRolePolicy.json) |
@@ -143,6 +144,7 @@
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
 | AWSNetworkManagerCloudWANServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkManagerCloudWANServiceRolePolicy.json) |
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
+| AWSNotificationsContactAssociationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSNotificationsContactAssociationsServiceLinkedRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
 | AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
@@ -236,7 +238,7 @@
 | AmazonCloudWatchRUMServiceRolePolicy | /aws-service-role/ | [v3](./policies/AmazonCloudWatchRUMServiceRolePolicy.json) |
 | AmazonCodeGuruReviewerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonCodeGuruReviewerServiceRolePolicy.json) |
 | AmazonCognitoIdpEmailServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpEmailServiceRolePolicy.json) |
-| AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
+| AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
 | AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v57](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
@@ -393,7 +395,7 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v14](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v15](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
@@ -786,6 +788,7 @@
 | AWSPanoramaGreengrassGroupRolePolicy | /service-role/ | [v2](./policies/AWSPanoramaGreengrassGroupRolePolicy.json) |
 | AWSPanoramaSageMakerRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaSageMakerRolePolicy.json) |
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
+| AWSPartnerCentralBusinessPlanManagement | / | [v1](./policies/AWSPartnerCentralBusinessPlanManagement.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
 | AWSPartnerCentralChannelManagement | / | [v7](./policies/AWSPartnerCentralChannelManagement.json) |
 | AWSPartnerCentralFullAccess | / | [v17](./policies/AWSPartnerCentralFullAccess.json) |
@@ -1466,7 +1469,7 @@
 | CloudWatchOmniAWSIntegrationPolicy | / | [v1](./policies/CloudWatchOmniAWSIntegrationPolicy.json) |
 | CloudWatchOmniDomainAccessPolicy | / | [v1](./policies/CloudWatchOmniDomainAccessPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
-| CloudWatchOmniSpaceAccessPolicy | / | [v2](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
+| CloudWatchOmniSpaceAccessPolicy | / | [v3](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
 | CloudWatchReadOnlyAccess | / | [v26](./policies/CloudWatchReadOnlyAccess.json) |
