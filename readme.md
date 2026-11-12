@@ -141,6 +141,7 @@
 | AWSMigrationHubRefactorSpacesServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSMigrationHubRefactorSpacesServiceRolePolicy.json) |
 | AWSMigrationHubStrategyServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMigrationHubStrategyServiceRolePolicy.json) |
 | AWSNATGatewayServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNATGatewayServiceRolePolicy.json) |
+| AWSNetworkFirewallIGWServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkFirewallIGWServiceRolePolicy.json) |
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
 | AWSNetworkManagerCloudWANServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkManagerCloudWANServiceRolePolicy.json) |
 | AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
@@ -229,6 +230,7 @@
 | AccountAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AccountAccessManagerServiceRolePolicy.json) |
 | AlexaForBusinessNetworkProfileServicePolicy | /aws-service-role/ | [v2](./policies/AlexaForBusinessNetworkProfileServicePolicy.json) |
 | AmazonAthenaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonAthenaServiceRolePolicy.json) |
+| AmazonBioDiscoveryServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonBioDiscoveryServiceLinkedRolePolicy.json) |
 | AmazonBraketServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonBraketServiceRolePolicy.json) |
 | AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy.json) |
 | AmazonChimeSDKMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeSDKMessagingServiceRolePolicy.json) |
@@ -308,7 +310,7 @@
 | AppStudioServiceRolePolicy | /aws-service-role/ | [v2](./policies/AppStudioServiceRolePolicy.json) |
 | ApplicationDiscoveryServiceContinuousExportServiceRolePolicy | /aws-service-role/ | [v2](./policies/ApplicationDiscoveryServiceContinuousExportServiceRolePolicy.json) |
 | AssuranceServiceRolePolicy | /aws-service-role/ | [v5](./policies/AssuranceServiceRolePolicy.json) |
-| AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
+| AuroraDsqlServiceLinkedRolePolicy | /aws-service-role/ | [v7](./policies/AuroraDsqlServiceLinkedRolePolicy.json) |
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v10](./policies/AutoScalingServiceRolePolicy.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v8](./policies/BatchServiceRolePolicy.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
