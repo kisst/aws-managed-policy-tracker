@@ -130,6 +130,7 @@
 | AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_DetectiveControlsConfig_ServiceRolePolicy.json) |
 | AWSManagedServices_EventsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_EventsServiceRolePolicy.json) |
 | AWSManagedServices_SelfServiceReporting_ServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSManagedServices_SelfServiceReporting_ServiceRolePolicy.json) |
+| AWSMarketplaceAgenticCommerceServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceAgenticCommerceServiceRolePolicy.json) |
 | AWSMarketplaceDeploymentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceDeploymentServiceRolePolicy.json) |
 | AWSMarketplaceLicenseManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplaceLicenseManagementServiceRolePolicy.json) |
 | AWSMarketplacePurchaseOrdersServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSMarketplacePurchaseOrdersServiceRolePolicy.json) |
@@ -780,7 +781,7 @@
 | AWSNetworkFirewallReadOnlyAccess | / | [v6](./policies/AWSNetworkFirewallReadOnlyAccess.json) |
 | AWSNetworkManagerFullAccess | / | [v1](./policies/AWSNetworkManagerFullAccess.json) |
 | AWSNetworkManagerReadOnlyAccess | / | [v1](./policies/AWSNetworkManagerReadOnlyAccess.json) |
-| AWSOrganizationsFullAccess | / | [v9](./policies/AWSOrganizationsFullAccess.json) |
+| AWSOrganizationsFullAccess | / | [v10](./policies/AWSOrganizationsFullAccess.json) |
 | AWSOrganizationsReadOnlyAccess | / | [v6](./policies/AWSOrganizationsReadOnlyAccess.json) |
 | AWSOutpostsAuthorizeServerPolicy | / | [v1](./policies/AWSOutpostsAuthorizeServerPolicy.json) |
 | AWSPCSComputeNodePolicy | / | [v3](./policies/AWSPCSComputeNodePolicy.json) |
@@ -824,7 +825,7 @@
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v2](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
 | AWSQuickSetupEnableDHMCExecutionPolicy | / | [v2](./policies/AWSQuickSetupEnableDHMCExecutionPolicy.json) |
 | AWSQuickSetupJITNADeploymentRolePolicy | / | [v4](./policies/AWSQuickSetupJITNADeploymentRolePolicy.json) |
-| AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v6](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
+| AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v7](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
 | AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v9](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v2](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
@@ -936,7 +937,7 @@
 | AWSTransformRevenueAttributionPolicy | / | [v1](./policies/AWSTransformRevenueAttributionPolicy.json) |
 | AWSTransformSecretsManagerConnectorPolicy | / | [v1](./policies/AWSTransformSecretsManagerConnectorPolicy.json) |
 | AWSTransformSecurityAgentExecutorAccess | / | [v3](./policies/AWSTransformSecurityAgentExecutorAccess.json) |
-| AWSTransformServerMigrationAgentPolicy | / | [v3](./policies/AWSTransformServerMigrationAgentPolicy.json) |
+| AWSTransformServerMigrationAgentPolicy | / | [v4](./policies/AWSTransformServerMigrationAgentPolicy.json) |
 | AWSTrustedAdvisorPriorityFullAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityFullAccess.json) |
 | AWSTrustedAdvisorPriorityReadOnlyAccess | / | [v1](./policies/AWSTrustedAdvisorPriorityReadOnlyAccess.json) |
 | AWSVendorInsightsAssessorFullAccess | / | [v2](./policies/AWSVendorInsightsAssessorFullAccess.json) |
@@ -1456,7 +1457,7 @@
 | CloudWatchEventsBuiltInTargetExecutionAccess | /service-role/ | [v1](./policies/CloudWatchEventsBuiltInTargetExecutionAccess.json) |
 | CloudWatchEventsFullAccess | / | [v5](./policies/CloudWatchEventsFullAccess.json) |
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
-| CloudWatchEventsReadOnlyAccess | / | [v3](./policies/CloudWatchEventsReadOnlyAccess.json) |
+| CloudWatchEventsReadOnlyAccess | / | [v4](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
 | CloudWatchFullAccessV2 | / | [v18](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
@@ -1579,7 +1580,7 @@
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDataAppsAccessRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDataAppsAccessRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v25](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v26](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
