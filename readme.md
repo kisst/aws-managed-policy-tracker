@@ -93,7 +93,7 @@
 | AWSECRPullThroughCache_ServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSECRPullThroughCache_ServiceRolePolicy.json) |
 | AWSElasticBeanstalkMaintenance | /aws-service-role/ | [v3](./policies/AWSElasticBeanstalkMaintenance.json) |
 | AWSElasticBeanstalkManagedUpdatesServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSElasticBeanstalkManagedUpdatesServiceRolePolicy.json) |
-| AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
+| AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
 | AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
@@ -145,7 +145,7 @@
 | AWSNetworkFirewallIGWServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkFirewallIGWServiceRolePolicy.json) |
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
 | AWSNetworkManagerCloudWANServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkManagerCloudWANServiceRolePolicy.json) |
-| AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSNetworkManagerServiceRolePolicy.json) |
+| AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSNotificationsContactAssociationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSNotificationsContactAssociationsServiceLinkedRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
@@ -372,7 +372,7 @@
 | MigrationHubServiceRolePolicy | /aws-service-role/ | [v3](./policies/MigrationHubServiceRolePolicy.json) |
 | MonitronServiceRolePolicy | /aws-service-role/ | [v1](./policies/MonitronServiceRolePolicy.json) |
 | NetworkSecurityDirectorServiceLinkedRolePolicy | /aws-service-role/ | [v7](./policies/NetworkSecurityDirectorServiceLinkedRolePolicy.json) |
-| NetworkSecurityManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/NetworkSecurityManagerServiceRolePolicy.json) |
+| NetworkSecurityManagerServiceRolePolicy | /aws-service-role/ | [v3](./policies/NetworkSecurityManagerServiceRolePolicy.json) |
 | NovaActServiceRolePolicy | /aws-service-role/ | [v1](./policies/NovaActServiceRolePolicy.json) |
 | OpensearchIngestionSelfManagedVpcePolicy | /aws-service-role/ | [v1](./policies/OpensearchIngestionSelfManagedVpcePolicy.json) |
 | QAppsServiceRolePolicy | /aws-service-role/ | [v1](./policies/QAppsServiceRolePolicy.json) |
@@ -1580,7 +1580,7 @@
 | SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioBedrockKnowledgeBaseServiceRolePolicy.json) |
 | SageMakerStudioBedrockPromptUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockPromptUserRolePolicy.json) |
 | SageMakerStudioDataAppsAccessRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDataAppsAccessRolePolicy.json) |
-| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v26](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
+| SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v27](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
