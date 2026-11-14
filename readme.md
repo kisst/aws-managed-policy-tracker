@@ -149,7 +149,7 @@
 | AWSNotificationsContactAssociationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSNotificationsContactAssociationsServiceLinkedRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSPCSServiceRolePolicy.json) |
@@ -232,7 +232,7 @@
 | AlexaForBusinessNetworkProfileServicePolicy | /aws-service-role/ | [v2](./policies/AlexaForBusinessNetworkProfileServicePolicy.json) |
 | AmazonAthenaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonAthenaServiceRolePolicy.json) |
 | AmazonBioDiscoveryServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonBioDiscoveryServiceLinkedRolePolicy.json) |
-| AmazonBraketServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonBraketServiceRolePolicy.json) |
+| AmazonBraketServiceRolePolicy | /aws-service-role/ | [v5](./policies/AmazonBraketServiceRolePolicy.json) |
 | AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy | /aws-service-role/ | [v3](./policies/AmazonChimeSDKMediaPipelinesServiceLinkedRolePolicy.json) |
 | AmazonChimeSDKMessagingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeSDKMessagingServiceRolePolicy.json) |
 | AmazonChimeServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonChimeServiceRolePolicy.json) |
@@ -399,7 +399,7 @@
 
 | Policy Name | Path | Version |
 | --- | --- | --- |
-| AIDevOpsAgentAccessPolicy | / | [v15](./policies/AIDevOpsAgentAccessPolicy.json) |
+| AIDevOpsAgentAccessPolicy | / | [v16](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
 | AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
@@ -882,7 +882,7 @@
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v4](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
 | AWSSecurityAgentContinuousPentestPolicy | / | [v1](./policies/AWSSecurityAgentContinuousPentestPolicy.json) |
-| AWSSecurityAgentWebAppPolicy | /service-role/ | [v10](./policies/AWSSecurityAgentWebAppPolicy.json) |
+| AWSSecurityAgentWebAppPolicy | /service-role/ | [v11](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
@@ -1548,7 +1548,7 @@
 | RDSCloudHsmAuthorizationRole | /service-role/ | [v2](./policies/RDSCloudHsmAuthorizationRole.json) |
 | ROSAAmazonEBSCSIDriverOperatorPolicy | /service-role/ | [v7](./policies/ROSAAmazonEBSCSIDriverOperatorPolicy.json) |
 | ROSACloudNetworkConfigOperatorPolicy | /service-role/ | [v1](./policies/ROSACloudNetworkConfigOperatorPolicy.json) |
-| ROSAControlPlaneOperatorPolicy | /service-role/ | [v7](./policies/ROSAControlPlaneOperatorPolicy.json) |
+| ROSAControlPlaneOperatorPolicy | /service-role/ | [v8](./policies/ROSAControlPlaneOperatorPolicy.json) |
 | ROSAImageRegistryOperatorPolicy | /service-role/ | [v8](./policies/ROSAImageRegistryOperatorPolicy.json) |
 | ROSAIngressOperatorPolicy | /service-role/ | [v4](./policies/ROSAIngressOperatorPolicy.json) |
 | ROSAInstallerPolicy | /service-role/ | [v10](./policies/ROSAInstallerPolicy.json) |
@@ -1569,8 +1569,8 @@
 | S3UnlockBucketPolicy | /root-task/ | [v1](./policies/S3UnlockBucketPolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v9](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
-| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v28](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v25](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v29](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v26](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
@@ -1583,18 +1583,18 @@
 | SageMakerStudioDataAppsAccessRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDataAppsAccessRolePolicy.json) |
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v27](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
-| SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
-| SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v4](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
+| SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v7](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
+| SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v5](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v84](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
-| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v47](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v85](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectRoleMachineLearningPolicy | / | [v48](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
-| SageMakerStudioProjectUserRolePolicy | / | [v76](./policies/SageMakerStudioProjectUserRolePolicy.json) |
+| SageMakerStudioProjectUserRolePolicy | / | [v77](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v32](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v27](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v33](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v28](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |
@@ -1614,6 +1614,6 @@
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
 | WellArchitectedAgentResourceScanning | / | [v2](./policies/WellArchitectedAgentResourceScanning.json) |
-| WellArchitectedConsoleFullAccess | / | [v3](./policies/WellArchitectedConsoleFullAccess.json) |
+| WellArchitectedConsoleFullAccess | / | [v4](./policies/WellArchitectedConsoleFullAccess.json) |
 | WellArchitectedConsoleReadOnlyAccess | / | [v4](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
