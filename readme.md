@@ -1471,6 +1471,7 @@
 | CloudWatchLogsReadOnlyAccess | / | [v12](./policies/CloudWatchLogsReadOnlyAccess.json) |
 | CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v3](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
 | CloudWatchOmniAWSIntegrationPolicy | / | [v1](./policies/CloudWatchOmniAWSIntegrationPolicy.json) |
+| CloudWatchOmniAWSIntegrationPolicyV2 | / | [v1](./policies/CloudWatchOmniAWSIntegrationPolicyV2.json) |
 | CloudWatchOmniDomainAccessPolicy | / | [v1](./policies/CloudWatchOmniDomainAccessPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
 | CloudWatchOmniSpaceAccessPolicy | / | [v3](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
