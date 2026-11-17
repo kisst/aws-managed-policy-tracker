@@ -2510,6 +2510,7 @@
                 "timestream-influxdb:GetDbInstance",
                 "timestream-influxdb:ListDbClusters",
                 "timestream-influxdb:ListDbInstances",
+                "timestream-influxdb:ListDbInstancesForCluster",
                 "timestream-influxdb:ListTagsForResource",
                 "timestream:DescribeDatabase",
                 "timestream:DescribeEndpoints",

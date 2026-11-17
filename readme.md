@@ -70,7 +70,7 @@
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v97](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v98](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
 | AWSContinuumCollectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumCollectorServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -956,7 +956,7 @@
 | AWSXrayFullAccess | / | [v2](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
-| AWS_ConfigRole | /service-role/ | [v74](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v75](./policies/AWS_ConfigRole.json) |
 | AccountManagementFromVercel | / | [v5](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
@@ -1530,6 +1530,7 @@
 | IAMUserSSHKeys | / | [v1](./policies/IAMUserSSHKeys.json) |
 | IVSFullAccess | / | [v1](./policies/IVSFullAccess.json) |
 | IVSReadOnlyAccess | / | [v8](./policies/IVSReadOnlyAccess.json) |
+| KiroVpcConnectionPolicy | / | [v1](./policies/KiroVpcConnectionPolicy.json) |
 | MediaConnectGatewayInstanceRolePolicy | / | [v1](./policies/MediaConnectGatewayInstanceRolePolicy.json) |
 | MultiPartyApprovalFullAccess | / | [v6](./policies/MultiPartyApprovalFullAccess.json) |
 | MultiPartyApprovalReadOnlyAccess | / | [v6](./policies/MultiPartyApprovalReadOnlyAccess.json) |
