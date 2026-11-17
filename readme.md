@@ -155,6 +155,7 @@
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSPCSServiceRolePolicy.json) |
 | AWSPanoramaServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSPanoramaServiceLinkedRolePolicy.json) |
 | AWSPartnerCentralAccountManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPartnerCentralAccountManagementServiceRolePolicy.json) |
+| AWSPartnerCentralMarketingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPartnerCentralMarketingServiceRolePolicy.json) |
 | AWSPrivateNetworksServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSPrivateNetworksServiceRolePolicy.json) |
 | AWSProtonCodeBuildProvisioningServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSProtonCodeBuildProvisioningServiceRolePolicy.json) |
 | AWSProtonServiceGitSyncServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSProtonServiceGitSyncServiceRolePolicy.json) |
@@ -227,7 +228,7 @@
 | AWSZonalAutoshiftPracticeRunSLRPolicy | /aws-service-role/ | [v2](./policies/AWSZonalAutoshiftPracticeRunSLRPolicy.json) |
 | AWSZoneGroupAccessManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSZoneGroupAccessManagementServiceRolePolicy.json) |
 | AWSrePostPrivateCloudWatchAccess | /aws-service-role/ | [v1](./policies/AWSrePostPrivateCloudWatchAccess.json) |
-| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v23](./policies/AccessAnalyzerServiceRolePolicy.json) |
+| AccessAnalyzerServiceRolePolicy | /aws-service-role/ | [v24](./policies/AccessAnalyzerServiceRolePolicy.json) |
 | AccountAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AccountAccessManagerServiceRolePolicy.json) |
 | AlexaForBusinessNetworkProfileServicePolicy | /aws-service-role/ | [v2](./policies/AlexaForBusinessNetworkProfileServicePolicy.json) |
 | AmazonAthenaServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonAthenaServiceRolePolicy.json) |
@@ -820,7 +821,7 @@
 | AWSProtonReadOnlyAccess | / | [v3](./policies/AWSProtonReadOnlyAccess.json) |
 | AWSPurchaseOrdersServiceRolePolicy | / | [v8](./policies/AWSPurchaseOrdersServiceRolePolicy.json) |
 | AWSQuickSetupCFGCPacksPermissionsBoundary | / | [v1](./policies/AWSQuickSetupCFGCPacksPermissionsBoundary.json) |
-| AWSQuickSetupDeploymentRolePolicy | / | [v14](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
+| AWSQuickSetupDeploymentRolePolicy | / | [v15](./policies/AWSQuickSetupDeploymentRolePolicy.json) |
 | AWSQuickSetupDevOpsGuruPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDevOpsGuruPermissionsBoundary.json) |
 | AWSQuickSetupDistributorPermissionsBoundary | / | [v1](./policies/AWSQuickSetupDistributorPermissionsBoundary.json) |
 | AWSQuickSetupEnableAREXExecutionPolicy | / | [v2](./policies/AWSQuickSetupEnableAREXExecutionPolicy.json) |
@@ -1460,7 +1461,7 @@
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
 | CloudWatchEventsReadOnlyAccess | / | [v4](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v18](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v19](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
@@ -1474,7 +1475,7 @@
 | CloudWatchOmniAWSIntegrationPolicyV2 | / | [v1](./policies/CloudWatchOmniAWSIntegrationPolicyV2.json) |
 | CloudWatchOmniDomainAccessPolicy | / | [v1](./policies/CloudWatchOmniDomainAccessPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
-| CloudWatchOmniSpaceAccessPolicy | / | [v3](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
+| CloudWatchOmniSpaceAccessPolicy | / | [v4](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
 | CloudWatchReadOnlyAccess | / | [v27](./policies/CloudWatchReadOnlyAccess.json) |
@@ -1572,7 +1573,7 @@
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v9](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
 | SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v29](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v26](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v27](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
 | SageMakerStudioBedrockChatAgentUserRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockChatAgentUserRolePolicy.json) |
@@ -1595,7 +1596,7 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v77](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v33](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v34](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v28](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |

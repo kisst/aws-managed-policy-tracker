@@ -1466,6 +1466,15 @@
                     "aws:ViaAWSService": "true"
                 }
             }
+        },
+        {
+            "Sid": "S3TablesList",
+            "Effect": "Allow",
+            "Action": [
+                "s3tables:ListTableBuckets",
+                "s3tables:GetTableBucket"
+            ],
+            "Resource": "*"
         }
     ]
 }
