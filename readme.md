@@ -749,7 +749,7 @@
 | AWSManagedBudgetsSpendLimitManagementAccess | / | [v2](./policies/AWSManagedBudgetsSpendLimitManagementAccess.json) |
 | AWSManagedControlPolicyManagementAccess | / | [v1](./policies/AWSManagedControlPolicyManagementAccess.json) |
 | AWSManagedServiceAccessManagementAccess | /service-role/ | [v1](./policies/AWSManagedServiceAccessManagementAccess.json) |
-| AWSManagedSettingsAdminAccess | / | [v9](./policies/AWSManagedSettingsAdminAccess.json) |
+| AWSManagedSettingsAdminAccess | / | [v10](./policies/AWSManagedSettingsAdminAccess.json) |
 | AWSManagedSettingsReadOnlyAccess | / | [v3](./policies/AWSManagedSettingsReadOnlyAccess.json) |
 | AWSManagedSignUpAdminAccess | /service-role/ | [v1](./policies/AWSManagedSignUpAdminAccess.json) |
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
@@ -757,15 +757,15 @@
 | AWSMarketplaceDiscoveryFullAccess | / | [v1](./policies/AWSMarketplaceDiscoveryFullAccess.json) |
 | AWSMarketplaceFullAccess | / | [v8](./policies/AWSMarketplaceFullAccess.json) |
 | AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
-| AWSMarketplaceManageSubscriptions | / | [v9](./policies/AWSMarketplaceManageSubscriptions.json) |
+| AWSMarketplaceManageSubscriptions | / | [v10](./policies/AWSMarketplaceManageSubscriptions.json) |
 | AWSMarketplaceMeteringFullAccess | / | [v1](./policies/AWSMarketplaceMeteringFullAccess.json) |
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v2](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
-| AWSMarketplaceRead-only | / | [v13](./policies/AWSMarketplaceRead-only.json) |
+| AWSMarketplaceRead-only | / | [v14](./policies/AWSMarketplaceRead-only.json) |
 | AWSMarketplaceSellerFullAccess | / | [v36](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v3](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v16](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
-| AWSMarketplaceSellerProductsReadOnly | / | [v7](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
+| AWSMarketplaceSellerProductsReadOnly | / | [v8](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy | /service-role/ | [v1](./policies/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy.json) |
 | AWSMcpServiceActionsFullAccess | / | [v3](./policies/AWSMcpServiceActionsFullAccess.json) |
 | AWSMigrationHubDMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubDMSAccess.json) |
@@ -829,7 +829,7 @@
 | AWSQuickSetupEnableDHMCExecutionPolicy | / | [v2](./policies/AWSQuickSetupEnableDHMCExecutionPolicy.json) |
 | AWSQuickSetupJITNADeploymentRolePolicy | / | [v4](./policies/AWSQuickSetupJITNADeploymentRolePolicy.json) |
 | AWSQuickSetupManageJITNAResourcesExecutionPolicy | / | [v7](./policies/AWSQuickSetupManageJITNAResourcesExecutionPolicy.json) |
-| AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v9](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
+| AWSQuickSetupManagedInstanceProfileExecutionPolicy | / | [v10](./policies/AWSQuickSetupManagedInstanceProfileExecutionPolicy.json) |
 | AWSQuickSetupPatchPolicyBaselineAccess | / | [v1](./policies/AWSQuickSetupPatchPolicyBaselineAccess.json) |
 | AWSQuickSetupPatchPolicyDeploymentRolePolicy | / | [v2](./policies/AWSQuickSetupPatchPolicyDeploymentRolePolicy.json) |
 | AWSQuickSetupPatchPolicyLambdaExecutionPolicy | / | [v1](./policies/AWSQuickSetupPatchPolicyLambdaExecutionPolicy.json) |
@@ -961,7 +961,7 @@
 | AWS_ConfigRole | /service-role/ | [v75](./policies/AWS_ConfigRole.json) |
 | AccountManagementFromVercel | / | [v5](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
-| AdministratorAccess-AWSElasticBeanstalk | / | [v10](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
+| AdministratorAccess-AWSElasticBeanstalk | / | [v11](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
 | AgentRegistryFullAccess | / | [v2](./policies/AgentRegistryFullAccess.json) |
 | AgentRegistryReadOnlyAccess | / | [v1](./policies/AgentRegistryReadOnlyAccess.json) |
@@ -985,8 +985,8 @@
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
-| AmazonAuroraDSQLConsoleFullAccess | / | [v16](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
-| AmazonAuroraDSQLFullAccess | / | [v16](./policies/AmazonAuroraDSQLFullAccess.json) |
+| AmazonAuroraDSQLConsoleFullAccess | / | [v17](./policies/AmazonAuroraDSQLConsoleFullAccess.json) |
+| AmazonAuroraDSQLFullAccess | / | [v17](./policies/AmazonAuroraDSQLFullAccess.json) |
 | AmazonAuroraDSQLReadOnlyAccess | / | [v10](./policies/AmazonAuroraDSQLReadOnlyAccess.json) |
 | AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy | / | [v4](./policies/AmazonBedrockAgentCoreMemoryBedrockModelInferenceExecutionRolePolicy.json) |
 | AmazonBedrockExternalWebSearchFullAccess | / | [v1](./policies/AmazonBedrockExternalWebSearchFullAccess.json) |
@@ -1465,7 +1465,7 @@
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
 | CloudWatchEventsReadOnlyAccess | / | [v4](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v19](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v20](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
@@ -1600,8 +1600,8 @@
 | SageMakerStudioProjectUserRolePolicy | / | [v77](./policies/SageMakerStudioProjectUserRolePolicy.json) |
 | SageMakerStudioQueryExecutionRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioQueryExecutionRolePolicy.json) |
 | SageMakerStudioUserIAMConsolePolicy | / | [v10](./policies/SageMakerStudioUserIAMConsolePolicy.json) |
-| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v34](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
-| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v28](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
+| SageMakerStudioUserIAMDefaultExecutionPolicy | / | [v35](./policies/SageMakerStudioUserIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioUserIAMPermissiveExecutionPolicy | / | [v29](./policies/SageMakerStudioUserIAMPermissiveExecutionPolicy.json) |
 | SecretsManagerReadWrite | / | [v6](./policies/SecretsManagerReadWrite.json) |
 | SecurityAgentWebAppAPIPolicy | /service-role/ | [v12](./policies/SecurityAgentWebAppAPIPolicy.json) |
 | SecurityAgentWebAppPolicy | / | [v3](./policies/SecurityAgentWebAppPolicy.json) |

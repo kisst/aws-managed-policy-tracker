@@ -211,7 +211,10 @@
             "Resource": "arn:aws:kms:*:*:key/*",
             "Condition": {
                 "StringLike": {
-                    "kms:ViaService": "logs.*.amazonaws.com"
+                    "kms:ViaService": [
+                        "logs.*.amazonaws.com",
+                        "cloudwatch.*.amazonaws.com"
+                    ]
                 },
                 "StringEquals": {
                     "aws:ResourceAccount": "${aws:PrincipalAccount}"
