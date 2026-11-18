@@ -23,6 +23,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
+| AWSAPIPortalServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAPIPortalServiceRolePolicy.json) |
 | AWSAgentRegistryServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSAgentRegistryServiceRolePolicy.json) |
 | AWSAppConfigServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppConfigServiceRolePolicy.json) |
 | AWSAppFabricServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppFabricServiceRolePolicy.json) |
@@ -96,7 +97,7 @@
 | AWSElasticBeanstalkServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSElasticBeanstalkServiceRolePolicy.json) |
 | AWSElasticDisasterRecoveryServiceRolePolicy | /aws-service-role/ | [v8](./policies/AWSElasticDisasterRecoveryServiceRolePolicy.json) |
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
-| AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v15](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
+| AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
 | AWSEnhancedClassicNetworkingMangementPolicy | /aws-service-role/ | [v1](./policies/AWSEnhancedClassicNetworkingMangementPolicy.json) |
 | AWSFinOpsAgentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSFinOpsAgentServiceRolePolicy.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
@@ -1066,9 +1067,9 @@
 | AmazonEBSCSIDriverEKSClusterScopedPolicy | / | [v2](./policies/AmazonEBSCSIDriverEKSClusterScopedPolicy.json) |
 | AmazonEBSCSIDriverPolicy | /service-role/ | [v15](./policies/AmazonEBSCSIDriverPolicy.json) |
 | AmazonEBSCSIDriverPolicyV2 | / | [v1](./policies/AmazonEBSCSIDriverPolicyV2.json) |
-| AmazonEC2ContainerRegistryFullAccess | / | [v3](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
-| AmazonEC2ContainerRegistryPowerUser | / | [v3](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
-| AmazonEC2ContainerRegistryPullOnly | / | [v1](./policies/AmazonEC2ContainerRegistryPullOnly.json) |
+| AmazonEC2ContainerRegistryFullAccess | / | [v4](./policies/AmazonEC2ContainerRegistryFullAccess.json) |
+| AmazonEC2ContainerRegistryPowerUser | / | [v4](./policies/AmazonEC2ContainerRegistryPowerUser.json) |
+| AmazonEC2ContainerRegistryPullOnly | / | [v2](./policies/AmazonEC2ContainerRegistryPullOnly.json) |
 | AmazonEC2ContainerRegistryReadOnly | / | [v3](./policies/AmazonEC2ContainerRegistryReadOnly.json) |
 | AmazonEC2ContainerServiceAutoscaleRole | /service-role/ | [v2](./policies/AmazonEC2ContainerServiceAutoscaleRole.json) |
 | AmazonEC2ContainerServiceEventsRole | /service-role/ | [v3](./policies/AmazonEC2ContainerServiceEventsRole.json) |
@@ -1352,10 +1353,13 @@
 | AmazonSageMakerFullAccess | / | [v29](./policies/AmazonSageMakerFullAccess.json) |
 | AmazonSageMakerGeospatialExecutionRole | /service-role/ | [v2](./policies/AmazonSageMakerGeospatialExecutionRole.json) |
 | AmazonSageMakerGeospatialFullAccess | /service-role/ | [v1](./policies/AmazonSageMakerGeospatialFullAccess.json) |
+| AmazonSageMakerGlobalInferenceGatewayExecutionAccess | / | [v1](./policies/AmazonSageMakerGlobalInferenceGatewayExecutionAccess.json) |
 | AmazonSageMakerGroundTruthExecution | / | [v3](./policies/AmazonSageMakerGroundTruthExecution.json) |
 | AmazonSageMakerHyperPodGatedModelAccess | / | [v3](./policies/AmazonSageMakerHyperPodGatedModelAccess.json) |
 | AmazonSageMakerHyperPodInferenceAccess | / | [v4](./policies/AmazonSageMakerHyperPodInferenceAccess.json) |
 | AmazonSageMakerHyperPodInferenceGatewayAccess | / | [v1](./policies/AmazonSageMakerHyperPodInferenceGatewayAccess.json) |
+| AmazonSageMakerHyperPodInferenceGatewayGlobalRoutingAccess | / | [v1](./policies/AmazonSageMakerHyperPodInferenceGatewayGlobalRoutingAccess.json) |
+| AmazonSageMakerHyperPodInferenceGatewayMetricsPublisherAccess | / | [v1](./policies/AmazonSageMakerHyperPodInferenceGatewayMetricsPublisherAccess.json) |
 | AmazonSageMakerHyperPodObservabilityAdminAccess | / | [v6](./policies/AmazonSageMakerHyperPodObservabilityAdminAccess.json) |
 | AmazonSageMakerHyperPodTrainingOperatorAccess | / | [v3](./policies/AmazonSageMakerHyperPodTrainingOperatorAccess.json) |
 | AmazonSageMakerJobFullAccess | / | [v1](./policies/AmazonSageMakerJobFullAccess.json) |
@@ -1572,7 +1576,7 @@
 | S3UnlockBucketPolicy | /root-task/ | [v1](./policies/S3UnlockBucketPolicy.json) |
 | SQSUnlockQueuePolicy | /root-task/ | [v1](./policies/SQSUnlockQueuePolicy.json) |
 | SageMakerStudioAdminIAMConsolePolicy | / | [v9](./policies/SageMakerStudioAdminIAMConsolePolicy.json) |
-| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v29](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
+| SageMakerStudioAdminIAMDefaultExecutionPolicy | / | [v30](./policies/SageMakerStudioAdminIAMDefaultExecutionPolicy.json) |
 | SageMakerStudioAdminIAMPermissiveExecutionPolicy | / | [v27](./policies/SageMakerStudioAdminIAMPermissiveExecutionPolicy.json) |
 | SageMakerStudioAdminProjectUserRolePolicy | / | [v6](./policies/SageMakerStudioAdminProjectUserRolePolicy.json) |
 | SageMakerStudioBedrockAgentServiceRolePolicy | /service-role/ | [v3](./policies/SageMakerStudioBedrockAgentServiceRolePolicy.json) |
@@ -1590,7 +1594,7 @@
 | SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v5](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
-| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v85](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
+| SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v86](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
 | SageMakerStudioProjectRoleMachineLearningPolicy | / | [v48](./policies/SageMakerStudioProjectRoleMachineLearningPolicy.json) |
 | SageMakerStudioProjectUserRolePermissionsBoundary | / | [v19](./policies/SageMakerStudioProjectUserRolePermissionsBoundary.json) |
 | SageMakerStudioProjectUserRolePolicy | / | [v77](./policies/SageMakerStudioProjectUserRolePolicy.json) |
