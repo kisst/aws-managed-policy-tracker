@@ -23,7 +23,7 @@
 | Policy Name | Path | Version |
 | --- | --- | --- |
 | APIGatewayServiceRolePolicy | /aws-service-role/ | [v9](./policies/APIGatewayServiceRolePolicy.json) |
-| AWSAPIPortalServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAPIPortalServiceRolePolicy.json) |
+| AWSAPIPortalServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSAPIPortalServiceRolePolicy.json) |
 | AWSAgentRegistryServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSAgentRegistryServiceRolePolicy.json) |
 | AWSAppConfigServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppConfigServiceRolePolicy.json) |
 | AWSAppFabricServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSAppFabricServiceRolePolicy.json) |
@@ -108,7 +108,7 @@
 | AWSHealth_EventProcessorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSHealth_EventProcessorServiceRolePolicy.json) |
 | AWSIAMRoleManagerServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSIAMRoleManagerServiceRolePolicy.json) |
 | AWSIPAMOutboundServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIPAMOutboundServiceRolePolicy.json) |
-| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v13](./policies/AWSIPAMServiceRolePolicy.json) |
+| AWSIPAMServiceRolePolicy | /aws-service-role/ | [v14](./policies/AWSIPAMServiceRolePolicy.json) |
 | AWSIQContractServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQContractServiceRolePolicy.json) |
 | AWSIQPermissionServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSIQPermissionServiceRolePolicy.json) |
 | AWSIncidentManagerServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSIncidentManagerServiceRolePolicy.json) |
@@ -317,8 +317,9 @@
 | AutoScalingServiceRolePolicy | /aws-service-role/ | [v10](./policies/AutoScalingServiceRolePolicy.json) |
 | BatchServiceRolePolicy | /aws-service-role/ | [v8](./policies/BatchServiceRolePolicy.json) |
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
-| BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
+| BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v2](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
+| CertificateManagerOrganizationManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerOrganizationManagementServiceRolePolicy.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
 | ClientVPNServiceRolePolicy | /aws-service-role/ | [v5](./policies/ClientVPNServiceRolePolicy.json) |
@@ -758,7 +759,7 @@
 | AWSManagementConsoleBasicUserAccess | / | [v7](./policies/AWSManagementConsoleBasicUserAccess.json) |
 | AWSMarketplaceAmiIngestion | / | [v1](./policies/AWSMarketplaceAmiIngestion.json) |
 | AWSMarketplaceDiscoveryFullAccess | / | [v1](./policies/AWSMarketplaceDiscoveryFullAccess.json) |
-| AWSMarketplaceFullAccess | / | [v8](./policies/AWSMarketplaceFullAccess.json) |
+| AWSMarketplaceFullAccess | / | [v9](./policies/AWSMarketplaceFullAccess.json) |
 | AWSMarketplaceGetEntitlements | / | [v2](./policies/AWSMarketplaceGetEntitlements.json) |
 | AWSMarketplaceManageSubscriptions | / | [v10](./policies/AWSMarketplaceManageSubscriptions.json) |
 | AWSMarketplaceMeteringFullAccess | / | [v1](./policies/AWSMarketplaceMeteringFullAccess.json) |
@@ -950,8 +951,8 @@
 | AWSVendorInsightsAssessorReadOnly | / | [v2](./policies/AWSVendorInsightsAssessorReadOnly.json) |
 | AWSVendorInsightsVendorFullAccess | / | [v3](./policies/AWSVendorInsightsVendorFullAccess.json) |
 | AWSVendorInsightsVendorReadOnly | / | [v2](./policies/AWSVendorInsightsVendorReadOnly.json) |
-| AWSWAFConsoleFullAccess | / | [v22](./policies/AWSWAFConsoleFullAccess.json) |
-| AWSWAFConsoleReadOnlyAccess | / | [v21](./policies/AWSWAFConsoleReadOnlyAccess.json) |
+| AWSWAFConsoleFullAccess | / | [v23](./policies/AWSWAFConsoleFullAccess.json) |
+| AWSWAFConsoleReadOnlyAccess | / | [v22](./policies/AWSWAFConsoleReadOnlyAccess.json) |
 | AWSWAFFullAccess | / | [v18](./policies/AWSWAFFullAccess.json) |
 | AWSWAFReadOnlyAccess | / | [v13](./policies/AWSWAFReadOnlyAccess.json) |
 | AWSWickrFullAccess | / | [v1](./policies/AWSWickrFullAccess.json) |
@@ -966,7 +967,7 @@
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v11](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
-| AgentRegistryFullAccess | / | [v2](./policies/AgentRegistryFullAccess.json) |
+| AgentRegistryFullAccess | / | [v3](./policies/AgentRegistryFullAccess.json) |
 | AgentRegistryReadOnlyAccess | / | [v1](./policies/AgentRegistryReadOnlyAccess.json) |
 | AlexaForBusinessDeviceSetup | / | [v2](./policies/AlexaForBusinessDeviceSetup.json) |
 | AlexaForBusinessFullAccess | / | [v5](./policies/AlexaForBusinessFullAccess.json) |
@@ -1143,7 +1144,7 @@
 | AmazonElasticTranscoder_FullAccess | / | [v2](./policies/AmazonElasticTranscoder_FullAccess.json) |
 | AmazonElasticTranscoder_JobsSubmitter | / | [v2](./policies/AmazonElasticTranscoder_JobsSubmitter.json) |
 | AmazonElasticTranscoder_ReadOnlyAccess | / | [v2](./policies/AmazonElasticTranscoder_ReadOnlyAccess.json) |
-| AmazonEventBridgeFullAccess | / | [v7](./policies/AmazonEventBridgeFullAccess.json) |
+| AmazonEventBridgeFullAccess | / | [v8](./policies/AmazonEventBridgeFullAccess.json) |
 | AmazonEventBridgePipesFullAccess | / | [v1](./policies/AmazonEventBridgePipesFullAccess.json) |
 | AmazonEventBridgePipesOperatorAccess | / | [v1](./policies/AmazonEventBridgePipesOperatorAccess.json) |
 | AmazonEventBridgePipesReadOnlyAccess | / | [v1](./policies/AmazonEventBridgePipesReadOnlyAccess.json) |
