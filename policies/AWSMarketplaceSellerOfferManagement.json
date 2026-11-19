@@ -99,6 +99,34 @@
                     "aws-marketplace:PartyType": "Proposer"
                 }
             }
+        },
+        {
+            "Sid": "AWSMarketplaceAgreementContactsReadAccess",
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:GetAgreementContacts"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "ForAllValues:StringEquals": {
+                    "aws-marketplace:AgreementType": [
+                        "PurchaseAgreement"
+                    ]
+                },
+                "Null": {
+                    "aws-marketplace:AgreementType": "false"
+                }
+            }
+        },
+        {
+            "Sid": "MarketplaceEphemeralWriteS3Access",
+            "Effect": "Allow",
+            "Action": [
+                "s3:PutObject"
+            ],
+            "Resource": [
+                "arn:aws:s3:::aws-partner-central-marketplace-ephemeral-writeonly-files/${aws:PrincipalAccount}/*"
+            ]
         }
     ]
 }

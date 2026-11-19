@@ -35,13 +35,13 @@
             ],
             "Resource": "*",
             "Condition": {
-                "StringEquals": {
-                    "aws-marketplace:PartyType": "Proposer"
-                },
                 "ForAllValues:StringEquals": {
                     "aws-marketplace:AgreementType": [
                         "PurchaseAgreement"
                     ]
+                },
+                "StringEquals": {
+                    "aws-marketplace:PartyType": "Proposer"
                 }
             }
         },
@@ -92,7 +92,8 @@
                 "arn:aws:aws-marketplace:*:*:catalog/AWSMarketplace*/*",
                 "arn:aws:aws-marketplace:*:*:verification-type/*/verification-evidence/*",
                 "arn:aws:aws-marketplace:*:*:tax-compliance-profile/*",
-                "arn:aws:aws-marketplace:*:*:tax-compliance-profile-change-task/*"
+                "arn:aws:aws-marketplace:*:*:tax-compliance-profile-change-task/*",
+                "arn:aws:aws-marketplace:*:*:DeploymentConfiguration:catalogs/AWSMarketplace/*"
             ]
         },
         {
@@ -210,13 +211,13 @@
             ],
             "Resource": "*",
             "Condition": {
-                "StringEquals": {
-                    "aws-marketplace:PartyType": "Proposer"
-                },
                 "ForAllValues:StringEquals": {
                     "aws-marketplace:AgreementType": [
                         "PurchaseAgreement"
                     ]
+                },
+                "StringEquals": {
+                    "aws-marketplace:PartyType": "Proposer"
                 }
             }
         },
@@ -264,13 +265,13 @@
             ],
             "Resource": "*",
             "Condition": {
-                "StringEquals": {
-                    "aws-marketplace:PartyType": "Proposer"
-                },
                 "ForAllValues:StringEquals": {
                     "aws-marketplace:AgreementType": [
                         "PurchaseAgreement"
                     ]
+                },
+                "StringEquals": {
+                    "aws-marketplace:PartyType": "Proposer"
                 }
             }
         },
@@ -333,6 +334,43 @@
                     ]
                 }
             }
+        },
+        {
+            "Sid": "DeploymentConfigurationManagement",
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:StartDeploymentConfigurationJob",
+                "aws-marketplace:GetDeploymentConfigurationJob",
+                "aws-marketplace:ListDeploymentConfigurationJobs",
+                "aws-marketplace:GetDeploymentConfiguration"
+            ],
+            "Resource": "arn:aws:aws-marketplace:*:*:DeploymentConfiguration:catalogs/AWSMarketplace/*"
+        },
+        {
+            "Sid": "AWSMarketplaceAgreementContactsReadAccess",
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:GetAgreementContacts"
+            ],
+            "Resource": "*",
+            "Condition": {
+                "ForAllValues:StringEquals": {
+                    "aws-marketplace:AgreementType": [
+                        "PurchaseAgreement"
+                    ]
+                },
+                "Null": {
+                    "aws-marketplace:AgreementType": "false"
+                }
+            }
+        },
+        {
+            "Sid": "MarketplaceStartAssessment",
+            "Effect": "Allow",
+            "Action": [
+                "aws-marketplace:StartAssessment"
+            ],
+            "Resource": "arn:aws:aws-marketplace:*:*:AWSMarketplace*/*"
         }
     ]
 }

@@ -146,7 +146,7 @@
 | AWSNetworkFirewallIGWServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkFirewallIGWServiceRolePolicy.json) |
 | AWSNetworkFirewallServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSNetworkFirewallServiceRolePolicy.json) |
 | AWSNetworkManagerCloudWANServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSNetworkManagerCloudWANServiceRolePolicy.json) |
-| AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v9](./policies/AWSNetworkManagerServiceRolePolicy.json) |
+| AWSNetworkManagerServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSNetworkManagerServiceRolePolicy.json) |
 | AWSNotificationsContactAssociationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSNotificationsContactAssociationsServiceLinkedRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
@@ -196,7 +196,7 @@
 | AWSServiceRoleForLogDeliveryPolicy | /aws-service-role/ | [v5](./policies/AWSServiceRoleForLogDeliveryPolicy.json) |
 | AWSServiceRoleForMonitronPolicy | /aws-service-role/ | [v4](./policies/AWSServiceRoleForMonitronPolicy.json) |
 | AWSServiceRoleForNeptuneGraphPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForNeptuneGraphPolicy.json) |
-| AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
+| AWSServiceRoleForPrivateMarketplaceAdminPolicy | /aws-service-role/ | [v2](./policies/AWSServiceRoleForPrivateMarketplaceAdminPolicy.json) |
 | AWSServiceRoleForProcurementInsightsPolicy | /aws-service-role/ | [v1](./policies/AWSServiceRoleForProcurementInsightsPolicy.json) |
 | AWSServiceRoleForUserSubscriptions | /aws-service-role/ | [v8](./policies/AWSServiceRoleForUserSubscriptions.json) |
 | AWSServiceRolePolicyForBackupReports | /aws-service-role/ | [v2](./policies/AWSServiceRolePolicyForBackupReports.json) |
@@ -422,6 +422,9 @@
 | AWS-SSM-RemediationAutomation-AdministrationRolePolicy | / | [v4](./policies/AWS-SSM-RemediationAutomation-AdministrationRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-ExecutionRolePolicy | / | [v4](./policies/AWS-SSM-RemediationAutomation-ExecutionRolePolicy.json) |
 | AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy | / | [v1](./policies/AWS-SSM-RemediationAutomation-OperationalAccountAdministrationRolePolicy.json) |
+| AWSAccountAccessManagerAdministrator | / | [v1](./policies/AWSAccountAccessManagerAdministrator.json) |
+| AWSAccountAccessManagerEntitlementManager | / | [v1](./policies/AWSAccountAccessManagerEntitlementManager.json) |
+| AWSAccountAccessManagerReadOnlyAccess | / | [v1](./policies/AWSAccountAccessManagerReadOnlyAccess.json) |
 | AWSAccountActivityAccess | / | [v3](./policies/AWSAccountActivityAccess.json) |
 | AWSAccountManagementFullAccess | / | [v1](./policies/AWSAccountManagementFullAccess.json) |
 | AWSAccountManagementReadOnlyAccess | / | [v1](./policies/AWSAccountManagementReadOnlyAccess.json) |
@@ -762,9 +765,9 @@
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v2](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplaceRead-only | / | [v14](./policies/AWSMarketplaceRead-only.json) |
-| AWSMarketplaceSellerFullAccess | / | [v36](./policies/AWSMarketplaceSellerFullAccess.json) |
-| AWSMarketplaceSellerOfferManagement | / | [v3](./policies/AWSMarketplaceSellerOfferManagement.json) |
-| AWSMarketplaceSellerProductsFullAccess | / | [v16](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v37](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerOfferManagement | / | [v4](./policies/AWSMarketplaceSellerOfferManagement.json) |
+| AWSMarketplaceSellerProductsFullAccess | / | [v17](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v8](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy | /service-role/ | [v1](./policies/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy.json) |
 | AWSMcpServiceActionsFullAccess | / | [v3](./policies/AWSMcpServiceActionsFullAccess.json) |
@@ -814,7 +817,7 @@
 | AWSPrivateCAPrivilegedUser | / | [v4](./policies/AWSPrivateCAPrivilegedUser.json) |
 | AWSPrivateCAReadOnly | / | [v1](./policies/AWSPrivateCAReadOnly.json) |
 | AWSPrivateCAUser | / | [v4](./policies/AWSPrivateCAUser.json) |
-| AWSPrivateMarketplaceAdminFullAccess | / | [v9](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
+| AWSPrivateMarketplaceAdminFullAccess | / | [v10](./policies/AWSPrivateMarketplaceAdminFullAccess.json) |
 | AWSPrivateMarketplaceRequests | / | [v4](./policies/AWSPrivateMarketplaceRequests.json) |
 | AWSProtonCodeBuildProvisioningBasicAccess | / | [v1](./policies/AWSProtonCodeBuildProvisioningBasicAccess.json) |
 | AWSProtonDeveloperAccess | / | [v4](./policies/AWSProtonDeveloperAccess.json) |
@@ -1432,7 +1435,7 @@
 | AnthropicReadOnlyAccess | / | [v4](./policies/AnthropicReadOnlyAccess.json) |
 | AnthropicSelfHostedEnvironmentAccess | / | [v1](./policies/AnthropicSelfHostedEnvironmentAccess.json) |
 | ApplicationAutoScalingForAmazonAppStreamAccess | /service-role/ | [v1](./policies/ApplicationAutoScalingForAmazonAppStreamAccess.json) |
-| AssuranceOperatorPolicy | /service-role/ | [v3](./policies/AssuranceOperatorPolicy.json) |
+| AssuranceOperatorPolicy | /service-role/ | [v4](./policies/AssuranceOperatorPolicy.json) |
 | AutoScalingConsoleFullAccess | / | [v2](./policies/AutoScalingConsoleFullAccess.json) |
 | AutoScalingConsoleReadOnlyAccess | / | [v1](./policies/AutoScalingConsoleReadOnlyAccess.json) |
 | AutoScalingFullAccess | / | [v2](./policies/AutoScalingFullAccess.json) |
@@ -1477,7 +1480,9 @@
 | CloudWatchNetworkFlowMonitorAgentPublishPolicy | / | [v3](./policies/CloudWatchNetworkFlowMonitorAgentPublishPolicy.json) |
 | CloudWatchOmniAWSIntegrationPolicy | / | [v1](./policies/CloudWatchOmniAWSIntegrationPolicy.json) |
 | CloudWatchOmniAWSIntegrationPolicyV2 | / | [v1](./policies/CloudWatchOmniAWSIntegrationPolicyV2.json) |
+| CloudWatchOmniDevOpsAgentInvestigationServiceRolePolicy | /service-role/ | [v1](./policies/CloudWatchOmniDevOpsAgentInvestigationServiceRolePolicy.json) |
 | CloudWatchOmniDomainAccessPolicy | / | [v1](./policies/CloudWatchOmniDomainAccessPolicy.json) |
+| CloudWatchOmniGrantEnforcementPolicy | / | [v1](./policies/CloudWatchOmniGrantEnforcementPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
 | CloudWatchOmniSpaceAccessPolicy | / | [v4](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
