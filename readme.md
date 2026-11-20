@@ -99,7 +99,7 @@
 | AWSElasticLoadBalancingClassicServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSElasticLoadBalancingClassicServiceRolePolicy.json) |
 | AWSElasticLoadBalancingServiceRolePolicy | /aws-service-role/ | [v16](./policies/AWSElasticLoadBalancingServiceRolePolicy.json) |
 | AWSEnhancedClassicNetworkingMangementPolicy | /aws-service-role/ | [v1](./policies/AWSEnhancedClassicNetworkingMangementPolicy.json) |
-| AWSFinOpsAgentServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSFinOpsAgentServiceRolePolicy.json) |
+| AWSFinOpsAgentServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinOpsAgentServiceRolePolicy.json) |
 | AWSFinSpaceServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSFinSpaceServiceRolePolicy.json) |
 | AWSGitSyncServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSGitSyncServiceRolePolicy.json) |
 | AWSGlobalAcceleratorSLRPolicy | /aws-service-role/ | [v9](./policies/AWSGlobalAcceleratorSLRPolicy.json) |
@@ -150,7 +150,7 @@
 | AWSNotificationsContactAssociationsServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AWSNotificationsContactAssociationsServiceLinkedRolePolicy.json) |
 | AWSObservabilityAdminLogsCentralizationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSObservabilityAdminLogsCentralizationServiceRolePolicy.json) |
 | AWSObservabilityAdminServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSObservabilityAdminServiceRolePolicy.json) |
-| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v17](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
+| AWSObservabilityAdminTelemetryEnablementServiceRolePolicy | /aws-service-role/ | [v18](./policies/AWSObservabilityAdminTelemetryEnablementServiceRolePolicy.json) |
 | AWSOrganizationsServiceTrustPolicy | /aws-service-role/ | [v3](./policies/AWSOrganizationsServiceTrustPolicy.json) |
 | AWSOutpostsServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSOutpostsServiceRolePolicy.json) |
 | AWSPCSServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSPCSServiceRolePolicy.json) |
@@ -164,7 +164,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v60](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v61](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -319,6 +319,7 @@
 | BedrockAgentCoreNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/BedrockAgentCoreNetworkServiceRolePolicy.json) |
 | BedrockAgentCoreRuntimeIdentityServiceRolePolicy | /aws-service-role/ | [v2](./policies/BedrockAgentCoreRuntimeIdentityServiceRolePolicy.json) |
 | BudgetsServiceRolePolicy | /aws-service-role/ | [v1](./policies/BudgetsServiceRolePolicy.json) |
+| CertificateManagerInventoryServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerInventoryServiceRolePolicy.json) |
 | CertificateManagerOrganizationManagementServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerOrganizationManagementServiceRolePolicy.json) |
 | CertificateManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/CertificateManagerServiceRolePolicy.json) |
 | ClientVPNServiceConnectionsRolePolicy | /aws-service-role/ | [v1](./policies/ClientVPNServiceConnectionsRolePolicy.json) |
@@ -394,6 +395,7 @@
 | ServiceQuotasServiceRolePolicy | /aws-service-role/ | [v2](./policies/ServiceQuotasServiceRolePolicy.json) |
 | SplitCostAllocationDataServiceRolePolicy | /aws-service-role/ | [v1](./policies/SplitCostAllocationDataServiceRolePolicy.json) |
 | TagsHealthServiceRolePolicy | /aws-service-role/ | [v1](./policies/TagsHealthServiceRolePolicy.json) |
+| VirtualEdgeNetworkServiceRolePolicy | /aws-service-role/ | [v1](./policies/VirtualEdgeNetworkServiceRolePolicy.json) |
 | WAFLoggingServiceRolePolicy | /aws-service-role/ | [v2](./policies/WAFLoggingServiceRolePolicy.json) |
 | WAFRegionalLoggingServiceRolePolicy | /aws-service-role/ | [v2](./policies/WAFRegionalLoggingServiceRolePolicy.json) |
 | WAFV2LoggingServiceRolePolicy | /aws-service-role/ | [v4](./policies/WAFV2LoggingServiceRolePolicy.json) |
@@ -766,9 +768,9 @@
 | AWSMarketplaceMeteringRegisterUsage | / | [v1](./policies/AWSMarketplaceMeteringRegisterUsage.json) |
 | AWSMarketplaceProcurementSystemAdminFullAccess | / | [v2](./policies/AWSMarketplaceProcurementSystemAdminFullAccess.json) |
 | AWSMarketplaceRead-only | / | [v14](./policies/AWSMarketplaceRead-only.json) |
-| AWSMarketplaceSellerFullAccess | / | [v37](./policies/AWSMarketplaceSellerFullAccess.json) |
-| AWSMarketplaceSellerOfferManagement | / | [v4](./policies/AWSMarketplaceSellerOfferManagement.json) |
-| AWSMarketplaceSellerProductsFullAccess | / | [v17](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
+| AWSMarketplaceSellerFullAccess | / | [v39](./policies/AWSMarketplaceSellerFullAccess.json) |
+| AWSMarketplaceSellerOfferManagement | / | [v5](./policies/AWSMarketplaceSellerOfferManagement.json) |
+| AWSMarketplaceSellerProductsFullAccess | / | [v18](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
 | AWSMarketplaceSellerProductsReadOnly | / | [v8](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy | /service-role/ | [v1](./policies/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy.json) |
 | AWSMcpServiceActionsFullAccess | / | [v3](./policies/AWSMcpServiceActionsFullAccess.json) |
@@ -800,11 +802,11 @@
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
 | AWSPartnerCentralBusinessPlanManagement | / | [v1](./policies/AWSPartnerCentralBusinessPlanManagement.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
-| AWSPartnerCentralChannelManagement | / | [v8](./policies/AWSPartnerCentralChannelManagement.json) |
+| AWSPartnerCentralChannelManagement | / | [v9](./policies/AWSPartnerCentralChannelManagement.json) |
 | AWSPartnerCentralFullAccess | / | [v17](./policies/AWSPartnerCentralFullAccess.json) |
-| AWSPartnerCentralMarketingManagement | / | [v6](./policies/AWSPartnerCentralMarketingManagement.json) |
-| AWSPartnerCentralOpportunityManagement | / | [v13](./policies/AWSPartnerCentralOpportunityManagement.json) |
-| AWSPartnerCentralRevenueAttributionManagement | / | [v2](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
+| AWSPartnerCentralMarketingManagement | / | [v7](./policies/AWSPartnerCentralMarketingManagement.json) |
+| AWSPartnerCentralOpportunityManagement | / | [v14](./policies/AWSPartnerCentralOpportunityManagement.json) |
+| AWSPartnerCentralRevenueAttributionManagement | / | [v3](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
 | AWSPartnerCentralSandboxFullAccess | / | [v5](./policies/AWSPartnerCentralSandboxFullAccess.json) |
 | AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy | / | [v3](./policies/AWSPartnerCentralSellingResourceSnapshotJobExecutionRolePolicy.json) |
 | AWSPartnerLedSupportReadOnlyAccess | / | [v3](./policies/AWSPartnerLedSupportReadOnlyAccess.json) |
@@ -1485,7 +1487,7 @@
 | CloudWatchOmniDomainAccessPolicy | / | [v1](./policies/CloudWatchOmniDomainAccessPolicy.json) |
 | CloudWatchOmniGrantEnforcementPolicy | / | [v1](./policies/CloudWatchOmniGrantEnforcementPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
-| CloudWatchOmniSpaceAccessPolicy | / | [v4](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
+| CloudWatchOmniSpaceAccessPolicy | / | [v5](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
 | CloudWatchReadOnlyAccess | / | [v27](./policies/CloudWatchReadOnlyAccess.json) |
@@ -1496,6 +1498,7 @@
 | ComprehendMedicalFullAccess | / | [v1](./policies/ComprehendMedicalFullAccess.json) |
 | ComprehendReadOnly | / | [v11](./policies/ComprehendReadOnly.json) |
 | ComputeOptimizerReadOnlyAccess | / | [v9](./policies/ComputeOptimizerReadOnlyAccess.json) |
+| ConnectCampaignsInternalReserveRolePolicy | /service-role/ | [v1](./policies/ConnectCampaignsInternalReserveRolePolicy.json) |
 | ConsoleFullAccessFromVercel | / | [v5](./policies/ConsoleFullAccessFromVercel.json) |
 | ConsoleViewOnlyAccessFromVercel | / | [v6](./policies/ConsoleViewOnlyAccessFromVercel.json) |
 | CostOptimizationHubAdminAccess | / | [v4](./policies/CostOptimizationHubAdminAccess.json) |
@@ -1519,7 +1522,7 @@
 | ElementalAppliancesSoftwareFullAccess | / | [v4](./policies/ElementalAppliancesSoftwareFullAccess.json) |
 | ElementalAppliancesSoftwareReadOnlyAccess | / | [v1](./policies/ElementalAppliancesSoftwareReadOnlyAccess.json) |
 | ElementalSupportCenterFullAccess | / | [v2](./policies/ElementalSupportCenterFullAccess.json) |
-| FinOpsAgentAgentPolicy | / | [v5](./policies/FinOpsAgentAgentPolicy.json) |
+| FinOpsAgentAgentPolicy | / | [v6](./policies/FinOpsAgentAgentPolicy.json) |
 | FinOpsAgentIdentityReaderPolicy | / | [v2](./policies/FinOpsAgentIdentityReaderPolicy.json) |
 | FinOpsAgentOperatorPolicy | / | [v1](./policies/FinOpsAgentOperatorPolicy.json) |
 | GameLiftContainerFleetPolicy | / | [v4](./policies/GameLiftContainerFleetPolicy.json) |
@@ -1552,7 +1555,7 @@
 | OAMFullAccess | / | [v1](./policies/OAMFullAccess.json) |
 | OAMReadOnlyAccess | / | [v1](./policies/OAMReadOnlyAccess.json) |
 | PartnerCentralAccountManagementUserRoleAssociation | / | [v2](./policies/PartnerCentralAccountManagementUserRoleAssociation.json) |
-| PartnerCentralIncentiveBenefitManagement | / | [v5](./policies/PartnerCentralIncentiveBenefitManagement.json) |
+| PartnerCentralIncentiveBenefitManagement | / | [v6](./policies/PartnerCentralIncentiveBenefitManagement.json) |
 | PowerUserAccess | / | [v12](./policies/PowerUserAccess.json) |
 | PricingPlanManagerFullAccess | / | [v1](./policies/PricingPlanManagerFullAccess.json) |
 | PricingPlanManagerReadonlyAccess | / | [v1](./policies/PricingPlanManagerReadonlyAccess.json) |

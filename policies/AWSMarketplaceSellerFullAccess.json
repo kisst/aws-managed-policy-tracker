@@ -16,6 +16,10 @@
                 "aws-marketplace:DescribeEntity",
                 "aws-marketplace:GetSellerDashboard",
                 "aws-marketplace:GetSellerReportingData",
+                "aws-marketplace:CreateDataSubscription",
+                "aws-marketplace:GetDataSubscription",
+                "aws-marketplace:ListDataSubscriptions",
+                "aws-marketplace:DeleteDataSubscription",
                 "aws-marketplace:ListAssessments",
                 "aws-marketplace:DescribeAssessment",
                 "ec2:DescribeImages",
@@ -167,14 +171,6 @@
             "Resource": [
                 "arn:aws:s3:::aws-partner-central-marketplace-ephemeral-writeonly-files/${aws:PrincipalAccount}/*"
             ]
-        },
-        {
-            "Sid": "Support",
-            "Effect": "Allow",
-            "Action": [
-                "support:CreateCase"
-            ],
-            "Resource": "*"
         },
         {
             "Sid": "ResourcePolicyManagement",
@@ -371,6 +367,34 @@
                 "aws-marketplace:StartAssessment"
             ],
             "Resource": "arn:aws:aws-marketplace:*:*:AWSMarketplace*/*"
+        },
+        {
+            "Sid": "Support",
+            "Effect": "Allow",
+            "Action": [
+                "support:CreateCase",
+                "support:DescribeCases",
+                "support:DescribeCommunications",
+                "support:DescribeAttachment",
+                "support:AddCommunicationToCase",
+                "support:ResolveCase",
+                "support:AddAttachmentsToSet",
+                "support:SearchForCases",
+                "support:DescribeServices",
+                "support:DescribeCreateCaseOptions"
+            ],
+            "Resource": "*"
+        },
+        {
+            "Sid": "SupportConsole",
+            "Effect": "Allow",
+            "Action": [
+                "support-console:GetAccountState",
+                "support-console:GetAccountGovCloudEnabled",
+                "support-console:CheckSubscription",
+                "support-console:GetBanner"
+            ],
+            "Resource": "*"
         }
     ]
 }
