@@ -71,7 +71,7 @@
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
-| AWSConfigServiceRolePolicy | /aws-service-role/ | [v98](./policies/AWSConfigServiceRolePolicy.json) |
+| AWSConfigServiceRolePolicy | /aws-service-role/ | [v99](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
 | AWSContinuumCollectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumCollectorServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
@@ -803,7 +803,7 @@
 | AWSPartnerCentralBusinessPlanManagement | / | [v1](./policies/AWSPartnerCentralBusinessPlanManagement.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
 | AWSPartnerCentralChannelManagement | / | [v9](./policies/AWSPartnerCentralChannelManagement.json) |
-| AWSPartnerCentralFullAccess | / | [v17](./policies/AWSPartnerCentralFullAccess.json) |
+| AWSPartnerCentralFullAccess | / | [v18](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralMarketingManagement | / | [v7](./policies/AWSPartnerCentralMarketingManagement.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v14](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralRevenueAttributionManagement | / | [v3](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
@@ -890,7 +890,7 @@
 | AWSSavingsPlansReadOnlyAccess | / | [v1](./policies/AWSSavingsPlansReadOnlyAccess.json) |
 | AWSSecretsManagerClientReadOnlyAccess | / | [v4](./policies/AWSSecretsManagerClientReadOnlyAccess.json) |
 | AWSSecurityAgentContinuousPentestPolicy | / | [v1](./policies/AWSSecurityAgentContinuousPentestPolicy.json) |
-| AWSSecurityAgentWebAppPolicy | /service-role/ | [v11](./policies/AWSSecurityAgentWebAppPolicy.json) |
+| AWSSecurityAgentWebAppPolicy | /service-role/ | [v12](./policies/AWSSecurityAgentWebAppPolicy.json) |
 | AWSSecurityHubFullAccess | / | [v9](./policies/AWSSecurityHubFullAccess.json) |
 | AWSSecurityHubOrganizationsAccess | / | [v8](./policies/AWSSecurityHubOrganizationsAccess.json) |
 | AWSSecurityHubReadOnlyAccess | / | [v4](./policies/AWSSecurityHubReadOnlyAccess.json) |
@@ -1093,7 +1093,7 @@
 | AmazonEC2SpotFleetTaggingRole | /service-role/ | [v5](./policies/AmazonEC2SpotFleetTaggingRole.json) |
 | AmazonECSInfrastructureRoleForGatewayHostSharedALB | / | [v2](./policies/AmazonECSInfrastructureRoleForGatewayHostSharedALB.json) |
 | AmazonECSInfrastructureRolePolicyForLoadBalancers | / | [v6](./policies/AmazonECSInfrastructureRolePolicyForLoadBalancers.json) |
-| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v13](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
+| AmazonECSInfrastructureRolePolicyForManagedInstances | / | [v14](./policies/AmazonECSInfrastructureRolePolicyForManagedInstances.json) |
 | AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity | /service-role/ | [v4](./policies/AmazonECSInfrastructureRolePolicyForServiceConnectTransportLayerSecurity.json) |
 | AmazonECSInfrastructureRolePolicyForVolumes | /service-role/ | [v5](./policies/AmazonECSInfrastructureRolePolicyForVolumes.json) |
 | AmazonECSInfrastructureRolePolicyForVpcLattice | / | [v2](./policies/AmazonECSInfrastructureRolePolicyForVpcLattice.json) |
@@ -1600,7 +1600,7 @@
 | SageMakerStudioDomainExecutionRolePolicy | /service-role/ | [v27](./policies/SageMakerStudioDomainExecutionRolePolicy.json) |
 | SageMakerStudioDomainServiceRolePolicy | /service-role/ | [v1](./policies/SageMakerStudioDomainServiceRolePolicy.json) |
 | SageMakerStudioEMRContainersSystemNamespaceRolePolicy | /service-role/ | [v7](./policies/SageMakerStudioEMRContainersSystemNamespaceRolePolicy.json) |
-| SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v5](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
+| SageMakerStudioEMRInstanceRolePolicy | /service-role/ | [v6](./policies/SageMakerStudioEMRInstanceRolePolicy.json) |
 | SageMakerStudioEMRServiceRolePolicy | /service-role/ | [v9](./policies/SageMakerStudioEMRServiceRolePolicy.json) |
 | SageMakerStudioFullAccess | / | [v15](./policies/SageMakerStudioFullAccess.json) |
 | SageMakerStudioProjectProvisioningRolePolicy | /service-role/ | [v86](./policies/SageMakerStudioProjectProvisioningRolePolicy.json) |
