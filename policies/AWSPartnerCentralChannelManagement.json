@@ -19,7 +19,11 @@
                 "partnercentral:AcceptChannelHandshake",
                 "partnercentral:RejectChannelHandshake",
                 "partnercentral:CancelChannelHandshake",
-                "partnercentral:ListChannelHandshakes"
+                "partnercentral:ListChannelHandshakes",
+                "partnercentral:CreateChannelContract",
+                "partnercentral:CancelChannelContract",
+                "partnercentral:GetChannelContract",
+                "partnercentral:ListChannelContracts"
             ],
             "Resource": "*",
             "Condition": {
@@ -52,7 +56,8 @@
             ],
             "Resource": [
                 "arn:aws:partnercentral:*:*:catalog/*/program-management-account/*",
-                "arn:aws:partnercentral:*:*:catalog/*/channel-handshake/*"
+                "arn:aws:partnercentral:*:*:catalog/*/channel-handshake/*",
+                "arn:aws:partnercentral:*:*:catalog/*/channel-contract/*"
             ],
             "Condition": {
                 "StringEquals": {

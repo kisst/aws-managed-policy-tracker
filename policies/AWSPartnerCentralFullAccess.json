@@ -238,7 +238,10 @@
             "Action": [
                 "iam:GetRole"
             ],
-            "Resource": "arn:aws:iam::*:role/aws-service-role/partnercentral-account.amazonaws.com/AWSServiceRoleForPartnerCentralAccount"
+            "Resource": [
+                "arn:aws:iam::*:role/aws-service-role/partnercentral-account.amazonaws.com/AWSServiceRoleForPartnerCentralAccount",
+                "arn:aws:iam::*:role/AWSServiceRoleForPartnerCentralAccount"
+            ]
         },
         {
             "Sid": "CreateServiceLinkedRole",
@@ -282,7 +285,10 @@
             "Action": [
                 "iam:GetRole"
             ],
-            "Resource": "arn:aws:iam::*:role/aws-service-role/partnercentral-marketing.amazonaws.com/AWSServiceRoleForPartnerCentralMarketing"
+            "Resource": [
+                "arn:aws:iam::*:role/aws-service-role/partnercentral-marketing.amazonaws.com/AWSServiceRoleForPartnerCentralMarketing",
+                "arn:aws:iam::*:role/AWSServiceRoleForPartnerCentralMarketing"
+            ]
         },
         {
             "Sid": "SupportConsole",

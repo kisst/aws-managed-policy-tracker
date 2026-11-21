@@ -10,7 +10,7 @@
 | AmazonODBExascaleStorageVaultAdmin | /job-function/ | [v1](./policies/AmazonODBExascaleStorageVaultAdmin.json) |
 | AmazonODBExascaleVmClusterAdmin | /job-function/ | [v1](./policies/AmazonODBExascaleVmClusterAdmin.json) |
 | AmazonODBNetworkAdmin | /job-function/ | [v2](./policies/AmazonODBNetworkAdmin.json) |
-| Billing | /job-function/ | [v31](./policies/Billing.json) |
+| Billing | /job-function/ | [v32](./policies/Billing.json) |
 | DataScientist | /job-function/ | [v6](./policies/DataScientist.json) |
 | DatabaseAdministrator | /job-function/ | [v5](./policies/DatabaseAdministrator.json) |
 | NetworkAdministrator | /job-function/ | [v16](./policies/NetworkAdministrator.json) |
@@ -58,6 +58,7 @@
 | AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBedrockAgentCoreRuntimeInstancesServiceRolePolicy.json) |
 | AWSBillingConductorRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingConductorRolePolicy.json) |
 | AWSBillingServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBillingServiceRolePolicy.json) |
+| AWSBudgetsActionExecutionPolicy | /aws-service-role/ | [v1](./policies/AWSBudgetsActionExecutionPolicy.json) |
 | AWSBudgetsSpendLimitMemberRolePolicy | /aws-service-role/ | [v4](./policies/AWSBudgetsSpendLimitMemberRolePolicy.json) |
 | AWSBugBustServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSBugBustServiceRolePolicy.json) |
 | AWSCODAServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCODAServiceRolePolicy.json) |
@@ -406,7 +407,7 @@
 | --- | --- | --- |
 | AIDevOpsAgentAccessPolicy | / | [v16](./policies/AIDevOpsAgentAccessPolicy.json) |
 | AIDevOpsAgentActionsPolicy | / | [v2](./policies/AIDevOpsAgentActionsPolicy.json) |
-| AIDevOpsAgentFullAccess | / | [v6](./policies/AIDevOpsAgentFullAccess.json) |
+| AIDevOpsAgentFullAccess | / | [v7](./policies/AIDevOpsAgentFullAccess.json) |
 | AIDevOpsAgentReadOnlyAccess | / | [v2](./policies/AIDevOpsAgentReadOnlyAccess.json) |
 | AIDevOpsChannelAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsChannelAccessPolicy.json) |
 | AIDevOpsConstellationAccessPolicy | /service-role/ | [v2](./policies/AIDevOpsConstellationAccessPolicy.json) |
@@ -495,7 +496,7 @@
 | AWSBatchServiceRole | /service-role/ | [v14](./policies/AWSBatchServiceRole.json) |
 | AWSBillingConductorFullAccess | / | [v7](./policies/AWSBillingConductorFullAccess.json) |
 | AWSBillingConductorReadOnlyAccess | / | [v5](./policies/AWSBillingConductorReadOnlyAccess.json) |
-| AWSBillingReadOnlyAccess | / | [v29](./policies/AWSBillingReadOnlyAccess.json) |
+| AWSBillingReadOnlyAccess | / | [v30](./policies/AWSBillingReadOnlyAccess.json) |
 | AWSBudgetsActionsWithAWSResourceControlAccess | / | [v1](./policies/AWSBudgetsActionsWithAWSResourceControlAccess.json) |
 | AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM | / | [v2](./policies/AWSBudgetsActions_RolePolicyForResourceAdministrationWithSSM.json) |
 | AWSBudgetsReadOnlyAccess | / | [v2](./policies/AWSBudgetsReadOnlyAccess.json) |
@@ -771,7 +772,7 @@
 | AWSMarketplaceSellerFullAccess | / | [v39](./policies/AWSMarketplaceSellerFullAccess.json) |
 | AWSMarketplaceSellerOfferManagement | / | [v5](./policies/AWSMarketplaceSellerOfferManagement.json) |
 | AWSMarketplaceSellerProductsFullAccess | / | [v18](./policies/AWSMarketplaceSellerProductsFullAccess.json) |
-| AWSMarketplaceSellerProductsReadOnly | / | [v8](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
+| AWSMarketplaceSellerProductsReadOnly | / | [v9](./policies/AWSMarketplaceSellerProductsReadOnly.json) |
 | AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy | /service-role/ | [v1](./policies/AWSMarketplaceSubsidiaryAuthorizationServiceRolePolicy.json) |
 | AWSMcpServiceActionsFullAccess | / | [v3](./policies/AWSMcpServiceActionsFullAccess.json) |
 | AWSMigrationHubDMSAccess | /service-role/ | [v2](./policies/AWSMigrationHubDMSAccess.json) |
@@ -802,8 +803,8 @@
 | AWSPanoramaServiceRolePolicy | /service-role/ | [v1](./policies/AWSPanoramaServiceRolePolicy.json) |
 | AWSPartnerCentralBusinessPlanManagement | / | [v1](./policies/AWSPartnerCentralBusinessPlanManagement.json) |
 | AWSPartnerCentralChannelHandshakeApprovalManagement | / | [v3](./policies/AWSPartnerCentralChannelHandshakeApprovalManagement.json) |
-| AWSPartnerCentralChannelManagement | / | [v9](./policies/AWSPartnerCentralChannelManagement.json) |
-| AWSPartnerCentralFullAccess | / | [v18](./policies/AWSPartnerCentralFullAccess.json) |
+| AWSPartnerCentralChannelManagement | / | [v10](./policies/AWSPartnerCentralChannelManagement.json) |
+| AWSPartnerCentralFullAccess | / | [v19](./policies/AWSPartnerCentralFullAccess.json) |
 | AWSPartnerCentralMarketingManagement | / | [v7](./policies/AWSPartnerCentralMarketingManagement.json) |
 | AWSPartnerCentralOpportunityManagement | / | [v14](./policies/AWSPartnerCentralOpportunityManagement.json) |
 | AWSPartnerCentralRevenueAttributionManagement | / | [v3](./policies/AWSPartnerCentralRevenueAttributionManagement.json) |
@@ -964,13 +965,13 @@
 | AWSXrayFullAccess | / | [v2](./policies/AWSXrayFullAccess.json) |
 | AWSXrayReadOnlyAccess | / | [v8](./policies/AWSXrayReadOnlyAccess.json) |
 | AWSXrayWriteOnlyAccess | / | [v2](./policies/AWSXrayWriteOnlyAccess.json) |
-| AWS_ConfigRole | /service-role/ | [v75](./policies/AWS_ConfigRole.json) |
+| AWS_ConfigRole | /service-role/ | [v76](./policies/AWS_ConfigRole.json) |
 | AccountManagementFromVercel | / | [v5](./policies/AccountManagementFromVercel.json) |
 | AdministratorAccess | / | [v1](./policies/AdministratorAccess.json) |
 | AdministratorAccess-AWSElasticBeanstalk | / | [v11](./policies/AdministratorAccess-AWSElasticBeanstalk.json) |
 | AdministratorAccess-Amplify | / | [v12](./policies/AdministratorAccess-Amplify.json) |
-| AgentRegistryFullAccess | / | [v3](./policies/AgentRegistryFullAccess.json) |
-| AgentRegistryReadOnlyAccess | / | [v1](./policies/AgentRegistryReadOnlyAccess.json) |
+| AgentRegistryFullAccess | / | [v4](./policies/AgentRegistryFullAccess.json) |
+| AgentRegistryReadOnlyAccess | / | [v2](./policies/AgentRegistryReadOnlyAccess.json) |
 | AlexaForBusinessDeviceSetup | / | [v2](./policies/AlexaForBusinessDeviceSetup.json) |
 | AlexaForBusinessFullAccess | / | [v5](./policies/AlexaForBusinessFullAccess.json) |
 | AlexaForBusinessGatewayExecution | / | [v1](./policies/AlexaForBusinessGatewayExecution.json) |

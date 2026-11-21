@@ -8,6 +8,14 @@
             "Resource": "arn:aws:agent-registry:*:*:*"
         },
         {
+            "Sid": "AgentRegistryPublicDiscoveryAccess",
+            "Effect": "Allow",
+            "Action": [
+                "agent-discovery:SearchPublicRecords"
+            ],
+            "Resource": "*"
+        },
+        {
             "Sid": "AgentRegistryPassRoleAccess",
             "Effect": "Allow",
             "Action": "iam:PassRole",
