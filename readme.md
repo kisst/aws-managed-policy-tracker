@@ -1156,9 +1156,9 @@
 | AmazonEventBridgeSchedulerReadOnlyAccess | / | [v5](./policies/AmazonEventBridgeSchedulerReadOnlyAccess.json) |
 | AmazonEventBridgeSchemasFullAccess | / | [v1](./policies/AmazonEventBridgeSchemasFullAccess.json) |
 | AmazonEventBridgeSchemasReadOnlyAccess | / | [v2](./policies/AmazonEventBridgeSchemasReadOnlyAccess.json) |
-| AmazonFSxConsoleFullAccess | / | [v20](./policies/AmazonFSxConsoleFullAccess.json) |
+| AmazonFSxConsoleFullAccess | / | [v21](./policies/AmazonFSxConsoleFullAccess.json) |
 | AmazonFSxConsoleReadOnlyAccess | / | [v8](./policies/AmazonFSxConsoleReadOnlyAccess.json) |
-| AmazonFSxFullAccess | / | [v13](./policies/AmazonFSxFullAccess.json) |
+| AmazonFSxFullAccess | / | [v14](./policies/AmazonFSxFullAccess.json) |
 | AmazonFSxReadOnlyAccess | / | [v1](./policies/AmazonFSxReadOnlyAccess.json) |
 | AmazonForecastFullAccess | / | [v1](./policies/AmazonForecastFullAccess.json) |
 | AmazonFraudDetectorFullAccessPolicy | / | [v1](./policies/AmazonFraudDetectorFullAccessPolicy.json) |
