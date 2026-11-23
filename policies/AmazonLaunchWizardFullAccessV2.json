@@ -165,7 +165,9 @@
                 "arn:aws:ec2:*:*:volume/*",
                 "arn:aws:ec2:*:*:key-pair/*",
                 "arn:aws:ec2:*:*:placement-group/*",
-                "arn:aws:ec2:*:*:launch-template/*"
+                "arn:aws:ec2:*:*:launch-template/*",
+                "arn:aws:ec2:*:*:capacity-reservation/*",
+                "arn:aws:resource-groups:*:*:group/*"
             ],
             "Condition": {
                 "ForAnyValue:StringEquals": {
@@ -203,7 +205,8 @@
                 "arn:aws:ec2:*:*:vpc/*",
                 "arn:aws:ec2:*:*:subnet/*",
                 "arn:aws:ec2:*:*:elastic-ip/*",
-                "arn:aws:ec2:*:*:route-table/*"
+                "arn:aws:ec2:*:*:route-table/*",
+                "arn:aws:ec2:*:*:launch-template/*"
             ],
             "Condition": {
                 "ForAnyValue:StringEquals": {
@@ -471,6 +474,8 @@
                 "ec2:DescribeStaleSecurityGroups",
                 "ec2:DescribeInstanceTypeOfferings",
                 "ec2:DescribePlacementGroups",
+                "ec2:DescribeCapacityReservations",
+                "ec2:GetGroupsForCapacityReservation",
                 "iam:GetRole",
                 "iam:GetRolePolicy",
                 "iam:GetUser",
@@ -604,7 +609,9 @@
             "Effect": "Allow",
             "Action": [
                 "elasticfilesystem:UntagResource",
-                "elasticfilesystem:TagResource"
+                "elasticfilesystem:TagResource",
+                "elasticfilesystem:DeleteReplicationConfiguration",
+                "elasticfilesystem:DescribeReplicationConfigurations"
             ],
             "Resource": "arn:aws:elasticfilesystem:*:*:file-system/*",
             "Condition": {

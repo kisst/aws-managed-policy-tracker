@@ -18,6 +18,7 @@
                 "cloudwatch:List*",
                 "cloudwatch:CreateOneTimeDeepLinkCode",
                 "cloudwatch:DetectGroupOutliers",
+                "cloudwatch:StartMonitoringAssessment",
                 "logs:Get*",
                 "logs:List*",
                 "logs:StartQuery",

@@ -260,6 +260,14 @@
             "Effect": "Allow",
             "Action": "config:GetConnector",
             "Resource": "arn:aws:config:*:*:connector/*"
+        },
+        {
+            "Sid": "CloudWatchDevOpsAgentListPermissions",
+            "Effect": "Allow",
+            "Action": [
+                "aidevops:ListAgentSpaces"
+            ],
+            "Resource": "*"
         }
     ]
 }

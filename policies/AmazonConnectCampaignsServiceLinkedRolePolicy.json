@@ -25,7 +25,8 @@
                 "connect:StopContact",
                 "connect:DescribeContactFlow",
                 "connect:SendOutboundEmail",
-                "connect:SendOutboundWebNotification"
+                "connect:SendOutboundWebNotification",
+                "connect:StartTaskContact"
             ],
             "Resource": "arn:aws:connect:*:*:instance/*"
         },

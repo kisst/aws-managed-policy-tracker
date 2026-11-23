@@ -68,7 +68,7 @@
 | AWSCloudFrontLogger | /aws-service-role/ | [v2](./policies/AWSCloudFrontLogger.json) |
 | AWSCloudFrontVPCOriginServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudFrontVPCOriginServiceRolePolicy.json) |
 | AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSCloudWatchAlarms_ActionSSMIncidentsServiceRolePolicy.json) |
-| AWSCloudWatchOmniServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSCloudWatchOmniServiceRolePolicy.json) |
+| AWSCloudWatchOmniServiceRolePolicy | /aws-service-role/ | [v3](./policies/AWSCloudWatchOmniServiceRolePolicy.json) |
 | AWSCodeStarNotificationsServiceRolePolicy | /aws-service-role/ | [v4](./policies/AWSCodeStarNotificationsServiceRolePolicy.json) |
 | AWSConfigMultiAccountSetupPolicy | /aws-service-role/ | [v5](./policies/AWSConfigMultiAccountSetupPolicy.json) |
 | AWSConfigRemediationServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSConfigRemediationServiceRolePolicy.json) |
@@ -245,7 +245,7 @@
 | AmazonCodeGuruReviewerServiceRolePolicy | /aws-service-role/ | [v4](./policies/AmazonCodeGuruReviewerServiceRolePolicy.json) |
 | AmazonCognitoIdpEmailServiceRolePolicy | /aws-service-role/ | [v1](./policies/AmazonCognitoIdpEmailServiceRolePolicy.json) |
 | AmazonCognitoIdpServiceRolePolicy | /aws-service-role/ | [v2](./policies/AmazonCognitoIdpServiceRolePolicy.json) |
-| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v5](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
+| AmazonConnectCampaignsServiceLinkedRolePolicy | /aws-service-role/ | [v6](./policies/AmazonConnectCampaignsServiceLinkedRolePolicy.json) |
 | AmazonConnectServiceLinkedRolePolicy | /aws-service-role/ | [v57](./policies/AmazonConnectServiceLinkedRolePolicy.json) |
 | AmazonConnectSynchronizationServiceRolePolicy | /aws-service-role/ | [v8](./policies/AmazonConnectSynchronizationServiceRolePolicy.json) |
 | AmazonDetectiveServiceLinkedRolePolicy | /aws-service-role/ | [v1](./policies/AmazonDetectiveServiceLinkedRolePolicy.json) |
@@ -1199,7 +1199,7 @@
 | AmazonKinesisReadOnlyAccess | / | [v1](./policies/AmazonKinesisReadOnlyAccess.json) |
 | AmazonKinesisVideoStreamsFullAccess | / | [v1](./policies/AmazonKinesisVideoStreamsFullAccess.json) |
 | AmazonKinesisVideoStreamsReadOnlyAccess | / | [v1](./policies/AmazonKinesisVideoStreamsReadOnlyAccess.json) |
-| AmazonLaunchWizardFullAccessV2 | / | [v3](./policies/AmazonLaunchWizardFullAccessV2.json) |
+| AmazonLaunchWizardFullAccessV2 | / | [v4](./policies/AmazonLaunchWizardFullAccessV2.json) |
 | AmazonLexFullAccess | / | [v9](./policies/AmazonLexFullAccess.json) |
 | AmazonLexReadOnly | / | [v5](./policies/AmazonLexReadOnly.json) |
 | AmazonLexRunBotsOnly | / | [v3](./policies/AmazonLexRunBotsOnly.json) |
@@ -1472,7 +1472,7 @@
 | CloudWatchEventsInvocationAccess | /service-role/ | [v1](./policies/CloudWatchEventsInvocationAccess.json) |
 | CloudWatchEventsReadOnlyAccess | / | [v4](./policies/CloudWatchEventsReadOnlyAccess.json) |
 | CloudWatchFullAccess | / | [v4](./policies/CloudWatchFullAccess.json) |
-| CloudWatchFullAccessV2 | / | [v20](./policies/CloudWatchFullAccessV2.json) |
+| CloudWatchFullAccessV2 | / | [v21](./policies/CloudWatchFullAccessV2.json) |
 | CloudWatchInternetMonitorFullAccess | / | [v1](./policies/CloudWatchInternetMonitorFullAccess.json) |
 | CloudWatchInternetMonitorReadOnlyAccess | / | [v1](./policies/CloudWatchInternetMonitorReadOnlyAccess.json) |
 | CloudWatchLambdaApplicationSignalsExecutionRolePolicy | / | [v1](./policies/CloudWatchLambdaApplicationSignalsExecutionRolePolicy.json) |
@@ -1488,10 +1488,11 @@
 | CloudWatchOmniDomainAccessPolicy | / | [v1](./policies/CloudWatchOmniDomainAccessPolicy.json) |
 | CloudWatchOmniGrantEnforcementPolicy | / | [v1](./policies/CloudWatchOmniGrantEnforcementPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
+| CloudWatchOmniProvisioningPolicy | / | [v1](./policies/CloudWatchOmniProvisioningPolicy.json) |
 | CloudWatchOmniSpaceAccessPolicy | / | [v5](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
-| CloudWatchReadOnlyAccess | / | [v27](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v28](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v14](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
