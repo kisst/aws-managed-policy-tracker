@@ -1435,6 +1435,7 @@
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
+| AmplifyGen3ServiceRolePolicy | /service-role/ | [v1](./policies/AmplifyGen3ServiceRolePolicy.json) |
 | AnthropicFullAccess | / | [v3](./policies/AnthropicFullAccess.json) |
 | AnthropicLimitedAccess | / | [v9](./policies/AnthropicLimitedAccess.json) |
 | AnthropicReadOnlyAccess | / | [v4](./policies/AnthropicReadOnlyAccess.json) |
@@ -1490,7 +1491,7 @@
 | CloudWatchOmniGrantEnforcementPolicy | / | [v1](./policies/CloudWatchOmniGrantEnforcementPolicy.json) |
 | CloudWatchOmniModelInferencePolicy | / | [v1](./policies/CloudWatchOmniModelInferencePolicy.json) |
 | CloudWatchOmniProvisioningPolicy | / | [v1](./policies/CloudWatchOmniProvisioningPolicy.json) |
-| CloudWatchOmniSpaceAccessPolicy | / | [v5](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
+| CloudWatchOmniSpaceAccessPolicy | / | [v6](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
 | CloudWatchReadOnlyAccess | / | [v29](./policies/CloudWatchReadOnlyAccess.json) |
