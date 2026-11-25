@@ -75,6 +75,7 @@
 | AWSConfigServiceRolePolicy | /aws-service-role/ | [v99](./policies/AWSConfigServiceRolePolicy.json) |
 | AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
 | AWSContinuumCollectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumCollectorServiceRolePolicy.json) |
+| AWSContinuumConfigurationsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumConfigurationsServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -1492,7 +1493,7 @@
 | CloudWatchOmniSpaceAccessPolicy | / | [v5](./policies/CloudWatchOmniSpaceAccessPolicy.json) |
 | CloudWatchOpenSearchDashboardAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardAccess.json) |
 | CloudWatchOpenSearchDashboardsFullAccess | / | [v3](./policies/CloudWatchOpenSearchDashboardsFullAccess.json) |
-| CloudWatchReadOnlyAccess | / | [v28](./policies/CloudWatchReadOnlyAccess.json) |
+| CloudWatchReadOnlyAccess | / | [v29](./policies/CloudWatchReadOnlyAccess.json) |
 | CloudWatchSyntheticsFullAccess | / | [v14](./policies/CloudWatchSyntheticsFullAccess.json) |
 | CloudWatchSyntheticsReadOnlyAccess | / | [v2](./policies/CloudWatchSyntheticsReadOnlyAccess.json) |
 | ComprehendDataAccessRolePolicy | /service-role/ | [v1](./policies/ComprehendDataAccessRolePolicy.json) |
