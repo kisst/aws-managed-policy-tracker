@@ -76,6 +76,7 @@
 | AWSConfigThirdPartyServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSConfigThirdPartyServiceRolePolicy.json) |
 | AWSContinuumCollectorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumCollectorServiceRolePolicy.json) |
 | AWSContinuumConfigurationsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumConfigurationsServiceRolePolicy.json) |
+| AWSContinuumForAgentsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSContinuumForAgentsServiceRolePolicy.json) |
 | AWSControlTowerAccountServiceRolePolicy | /aws-service-role/ | [v11](./policies/AWSControlTowerAccountServiceRolePolicy.json) |
 | AWSDMSFleetAdvisorServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSDMSFleetAdvisorServiceRolePolicy.json) |
 | AWSDMSServerlessServiceRolePolicy | /aws-service-role/ | [v10](./policies/AWSDMSServerlessServiceRolePolicy.json) |
@@ -166,7 +167,7 @@
 | AWSReachabilityAnalyzerServiceRolePolicy | /aws-service-role/ | [v6](./policies/AWSReachabilityAnalyzerServiceRolePolicy.json) |
 | AWSResilienceHubServiceRolePolicy | /aws-service-role/ | [v2](./policies/AWSResilienceHubServiceRolePolicy.json) |
 | AWSResourceAccessManagerServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSResourceAccessManagerServiceRolePolicy.json) |
-| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v61](./policies/AWSResourceExplorerServiceRolePolicy.json) |
+| AWSResourceExplorerServiceRolePolicy | /aws-service-role/ | [v62](./policies/AWSResourceExplorerServiceRolePolicy.json) |
 | AWSRoboMakerServicePolicy | /aws-service-role/ | [v6](./policies/AWSRoboMakerServicePolicy.json) |
 | AWSRolesAnywhereServicePolicy | /aws-service-role/ | [v1](./policies/AWSRolesAnywhereServicePolicy.json) |
 | AWSS3OnOutpostsServiceRolePolicy | /aws-service-role/ | [v1](./policies/AWSS3OnOutpostsServiceRolePolicy.json) |
@@ -989,7 +990,7 @@
 | AmazonAppStreamReadOnlyAccess | / | [v5](./policies/AmazonAppStreamReadOnlyAccess.json) |
 | AmazonAppStreamServiceAccess | /service-role/ | [v12](./policies/AmazonAppStreamServiceAccess.json) |
 | AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy | / | [v5](./policies/AmazonApplicationRecoveryControllerRegionSwitchPlanExecutionPolicy.json) |
-| AmazonAthenaFullAccess | / | [v15](./policies/AmazonAthenaFullAccess.json) |
+| AmazonAthenaFullAccess | / | [v16](./policies/AmazonAthenaFullAccess.json) |
 | AmazonAugmentedAIFullAccess | / | [v1](./policies/AmazonAugmentedAIFullAccess.json) |
 | AmazonAugmentedAIHumanLoopFullAccess | / | [v1](./policies/AmazonAugmentedAIHumanLoopFullAccess.json) |
 | AmazonAugmentedAIIntegratedAPIAccess | / | [v1](./policies/AmazonAugmentedAIIntegratedAPIAccess.json) |
@@ -1346,6 +1347,11 @@
 | AmazonSSMManagedInstanceCore | / | [v2](./policies/AmazonSSMManagedInstanceCore.json) |
 | AmazonSSMPatchAssociation | / | [v1](./policies/AmazonSSMPatchAssociation.json) |
 | AmazonSSMReadOnlyAccess | / | [v1](./policies/AmazonSSMReadOnlyAccess.json) |
+| AmazonSageMakerAIDataPreparationAccess | / | [v1](./policies/AmazonSageMakerAIDataPreparationAccess.json) |
+| AmazonSageMakerAIKnowledgeBaseEvaluationAccess | / | [v1](./policies/AmazonSageMakerAIKnowledgeBaseEvaluationAccess.json) |
+| AmazonSageMakerAIModelDeploymentAndCustomizationAccess | / | [v1](./policies/AmazonSageMakerAIModelDeploymentAndCustomizationAccess.json) |
+| AmazonSageMakerAIPromptOptimizationAccess | / | [v1](./policies/AmazonSageMakerAIPromptOptimizationAccess.json) |
+| AmazonSageMakerAIUnifiedEvaluationAccess | / | [v1](./policies/AmazonSageMakerAIUnifiedEvaluationAccess.json) |
 | AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy | / | [v12](./policies/AmazonSageMakerAdmin-ServiceCatalogProductsServiceRolePolicy.json) |
 | AmazonSageMakerCanvasAIServicesAccess | / | [v3](./policies/AmazonSageMakerCanvasAIServicesAccess.json) |
 | AmazonSageMakerCanvasBedrockAccess | / | [v1](./policies/AmazonSageMakerCanvasBedrockAccess.json) |

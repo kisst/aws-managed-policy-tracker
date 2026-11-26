@@ -3427,6 +3427,7 @@
                 "rds:DescribeEngineDefaultClusterParameters",
                 "rds:DescribeEngineDefaultParameters",
                 "rds:DescribeIntegrations",
+                "rds:DescribeSchemas",
                 "rds:DescribeTenantDatabases",
                 "rds:ListTagsForResource",
                 "redshift-serverless:GetNamespace",
