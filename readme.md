@@ -1640,6 +1640,6 @@
 | VPCLatticeReadOnlyAccess | / | [v4](./policies/VPCLatticeReadOnlyAccess.json) |
 | VPCLatticeServicesInvokeAccess | / | [v1](./policies/VPCLatticeServicesInvokeAccess.json) |
 | WellArchitectedAgentResourceScanning | / | [v2](./policies/WellArchitectedAgentResourceScanning.json) |
-| WellArchitectedConsoleFullAccess | / | [v4](./policies/WellArchitectedConsoleFullAccess.json) |
+| WellArchitectedConsoleFullAccess | / | [v5](./policies/WellArchitectedConsoleFullAccess.json) |
 | WellArchitectedConsoleReadOnlyAccess | / | [v4](./policies/WellArchitectedConsoleReadOnlyAccess.json) |
 | WorkLinkServiceRolePolicy | / | [v1](./policies/WorkLinkServiceRolePolicy.json) |
