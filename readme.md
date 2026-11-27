@@ -1441,7 +1441,7 @@
 | AmazonZocaloFullAccess | / | [v1](./policies/AmazonZocaloFullAccess.json) |
 | AmazonZocaloReadOnlyAccess | / | [v1](./policies/AmazonZocaloReadOnlyAccess.json) |
 | AmplifyBackendDeployFullAccess | /service-role/ | [v9](./policies/AmplifyBackendDeployFullAccess.json) |
-| AmplifyGen3ServiceRolePolicy | /service-role/ | [v1](./policies/AmplifyGen3ServiceRolePolicy.json) |
+| AmplifyGen3ServiceRolePolicy | /service-role/ | [v2](./policies/AmplifyGen3ServiceRolePolicy.json) |
 | AnthropicFullAccess | / | [v3](./policies/AnthropicFullAccess.json) |
 | AnthropicLimitedAccess | / | [v9](./policies/AnthropicLimitedAccess.json) |
 | AnthropicReadOnlyAccess | / | [v4](./policies/AnthropicReadOnlyAccess.json) |
